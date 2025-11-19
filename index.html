@@ -4,13 +4,13 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Stellar Lift – Smart Tracking for Real Life</title>
-  <meta name="description" content="Stellar Lift – ecosystem of smart trackers for water, sleep, habits and more. Simple, clean, designed to actually be used every day." />
+  <meta name="description" content="Stellar Lift – ecosystem of smart trackers for water, training, calories, sleep, habits and mood. Simple, clean, designed to actually be used every day." />
 
   <style>
     :root {
-      --bg-main: #101114;        /* grafit / prawie czarny */
+      --bg-main: #101114;
       --bg-card: #181a1f;
-      --accent: #ffb400;         /* żółto-pomarańczowy */
+      --accent: #ffb400;
       --accent-soft: #ffcc4d;
       --text-main: #f5f5f5;
       --text-muted: #b0b3c0;
@@ -169,7 +169,7 @@
       flex-wrap: wrap;
       gap: 10px;
       align-items: center;
-      margin-bottom: 16px;
+      margin-bottom: 6px;
     }
 
     .btn-primary {
@@ -210,6 +210,17 @@
     .btn-ghost:hover {
       background: rgba(30,32,38,0.9);
       border-color: rgba(255,255,255,0.12);
+    }
+
+    .store-link {
+      font-size: 11px;
+      color: var(--text-muted);
+      margin-bottom: 10px;
+    }
+
+    .store-link a {
+      color: var(--accent-soft);
+      text-decoration: underline;
     }
 
     .hero-meta {
@@ -478,18 +489,18 @@
             Smart tracking that <span class="hero-highlight">actually fits</span> your day.
           </h1>
           <p class="hero-subtitle">
-            Stellar Lift is a small ecosystem of focused trackers — starting with Water Tracker — built for real life, not screenshots.
+            Stellar Lift is a small ecosystem of focused trackers – water, training, calories, sleep, habits and mood – built for real life, not screenshots.
           </p>
 
           <div class="hero-badges">
             <div class="badge"><span class="badge-dot"></span>Independent developer</div>
-            <div class="badge">Android · iOS (soon)</div>
+            <div class="badge">Android · iOS (later)</div>
             <div class="badge">No fake streak pressure</div>
           </div>
 
           <div class="hero-actions">
-            <a class="btn-primary" href="#" target="_blank" rel="noopener">
-              Get Water Tracker
+            <a class="btn-primary" href="https://play.google.com/store/apps/details?id=com.stellarlift.watertracker" target="_blank" rel="noopener">
+              Get Water Tracker on Google Play
               <span>→</span>
             </a>
             <button class="btn-ghost" type="button">
@@ -497,15 +508,22 @@
             </button>
           </div>
 
+          <div class="store-link">
+            Or open directly in store:
+            <a href="https://play.google.com/store/apps/details?id=com.stellarlift.watertracker" target="_blank" rel="noopener">
+              Water Tracker on Google Play
+            </a>
+          </div>
+
           <div class="hero-meta">
-            Water Tracker first. Sleep, Habits and a shared Calories Tracker are next in line.
+            Water Tracker is live. Stellar Lift (training) comes next, followed by Calories Duo, Sleep, Habit and Mood trackers through 2026.
           </div>
         </div>
 
         <aside class="hero-card">
           <div class="hero-card-header">
-            <div class="hero-card-title">Stellar Lift dashboard</div>
-            <div class="hero-card-pill">Preview</div>
+            <div class="hero-card-title">Stellar Lift ecosystem</div>
+            <div class="hero-card-pill">Roadmap</div>
           </div>
 
           <div class="apps-grid">
@@ -514,13 +532,29 @@
                 <div class="app-name">Water Tracker</div>
                 <span class="app-tag">Live</span>
               </div>
-              <div class="app-metric">Daily target: 2.0 L · Smart reminders</div>
+              <div class="app-metric">Daily target: 2.0 L · Smart reminders.</div>
+            </div>
+
+            <div class="app-card">
+              <div class="app-card-header">
+                <div class="app-name">Stellar Lift</div>
+                <span class="app-tag">Next</span>
+              </div>
+              <div class="app-metric">Training sessions, load & progress overview.</div>
+            </div>
+
+            <div class="app-card">
+              <div class="app-card-header">
+                <div class="app-name">Calories Duo</div>
+                <span class="app-tag">2026</span>
+              </div>
+              <div class="app-metric">Shared meals for two people (60/40 etc.).</div>
             </div>
 
             <div class="app-card">
               <div class="app-card-header">
                 <div class="app-name">Sleep Tracker</div>
-                <span class="app-tag">Next</span>
+                <span class="app-tag">2026</span>
               </div>
               <div class="app-metric">Simple sleep logging without noise.</div>
             </div>
@@ -535,19 +569,19 @@
 
             <div class="app-card">
               <div class="app-card-header">
-                <div class="app-name">Calories Duo</div>
-                <span class="app-tag">Idea</span>
+                <div class="app-name">Mood Tracker</div>
+                <span class="app-tag">2026</span>
               </div>
-              <div class="app-metric">Shared meals for two people (60/40, etc.).</div>
+              <div class="app-metric">Daily mood, stress and notes in one view.</div>
             </div>
           </div>
 
           <div class="status-row">
             <div>
               <span class="status-dot"></span>
-              Water Tracker · Ads verified & active
+              Water Tracker · Live on Google Play
             </div>
-            <span class="beta-pill">Closed testing → production</span>
+            <span class="beta-pill">Next: Stellar Lift core app</span>
           </div>
         </aside>
       </section>
@@ -571,7 +605,7 @@
             <div class="feature-dot">√</div>
             <div class="feature-title">One job per app</div>
             <p class="feature-text">
-              Each Stellar app does exactly one thing well — water, sleep, habits — instead of becoming a bloated toolbox.
+              Each Stellar app does exactly one thing well – water, training, calories, sleep, habits or mood – instead of becoming a bloated toolbox.
             </p>
           </div>
 
@@ -588,23 +622,46 @@
       <section id="apps" class="section">
         <div class="section-header">
           <h2 class="section-title">Stellar Lift apps</h2>
-          <p class="section-sub">Current line-up and what’s coming next.</p>
+          <p class="section-sub">Current line-up and roadmap.</p>
         </div>
 
         <div class="apps-list">
           <div class="apps-list-card">
             <div class="apps-list-name">Water Tracker – Drink Reminder</div>
-            <div class="apps-list-meta">Android · push reminders · simple stats</div>
+            <div class="apps-list-meta">Android · live on Google Play</div>
             <p class="feature-text">
               Set your daily target, pick reminder hours and log with one tap. No account required.
             </p>
+            <span class="soon-pill">
+              <a href="https://play.google.com/store/apps/details?id=com.stellarlift.watertracker" target="_blank" rel="noopener">
+                Open in Google Play
+              </a>
+            </span>
+          </div>
+
+          <div class="apps-list-card">
+            <div class="apps-list-name">Stellar Lift – Training & Performance</div>
+            <div class="apps-list-meta">In development · coming next</div>
+            <p class="feature-text">
+              Plan and log strength or combat sessions, see weekly volume and keep an eye on recovery.
+            </p>
+            <span class="soon-pill">Next in line</span>
+          </div>
+
+          <div class="apps-list-card">
+            <div class="apps-list-name">Calories Duo – Shared Tracker</div>
+            <div class="apps-list-meta">Planned · 2026</div>
+            <p class="feature-text">
+              Track calories for two people in one app, split shared meals (60/40 etc.) and keep portions simple.
+            </p>
+            <span class="soon-pill">Concept locked</span>
           </div>
 
           <div class="apps-list-card">
             <div class="apps-list-name">Sleep Tracker (Stellar Sleep)</div>
             <div class="apps-list-meta">Planned · 2026</div>
             <p class="feature-text">
-              Quick sleep and wake logging, weekly overview and link to training intensity.
+              Quick sleep and wake logging, weekly overview and connection to training intensity.
             </p>
             <span class="soon-pill">In design</span>
           </div>
@@ -617,6 +674,15 @@
             </p>
             <span class="soon-pill">Coming later</span>
           </div>
+
+          <div class="apps-list-card">
+            <div class="apps-list-name">Mood Tracker</div>
+            <div class="apps-list-meta">Planned · 2026</div>
+            <p class="feature-text">
+              Daily mood, stress and short notes so you can see how life, training and sleep connect.
+            </p>
+            <span class="soon-pill">On the roadmap</span>
+          </div>
         </div>
       </section>
 
@@ -628,7 +694,7 @@
         <p class="feature-text">
           For now, the easiest way to reach the developer is by email:
           <br />
-          <strong>office@antczak.co.uk </strong> 
+          <strong>office@antczak.co.uk</strong>
         </p>
       </section>
     </main>
