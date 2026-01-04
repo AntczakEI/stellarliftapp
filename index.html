@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Stellar Lift — Trackers</title>
+  <title>Stellar Lift — Simple Trackers</title>
   <meta name="description" content="Stellar Lift apps: Training Tracker and Water Tracker. Simple, fast trackers for everyday progress." />
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -13,13 +13,13 @@
   <style>
     :root{
       --bg:#0b0f14;
-      --panel:#0f1620;
       --text:#e7eef7;
       --muted:#9ab0c7;
       --line:rgba(255,255,255,.08);
       --accent:#ffb000;
       --shadow: 0 20px 60px rgba(0,0,0,.45);
       --radius: 18px;
+      --link:#7db4ff;
     }
 
     *{box-sizing:border-box}
@@ -33,18 +33,24 @@
         radial-gradient(700px 500px at 80% 10%, rgba(120,190,255,.12), transparent 60%),
         radial-gradient(900px 700px at 50% 100%, rgba(255,209,102,.08), transparent 55%),
         var(--bg);
+      line-height:1.55;
     }
 
     a{color:inherit; text-decoration:none}
+    a:hover{text-decoration:underline}
     img{max-width:100%; height:auto; display:block}
-    .wrap{max-width:1100px; margin:0 auto; padding:28px 18px 52px}
+
+    .wrap{max-width:1120px; margin:0 auto; padding:24px 18px 54px}
 
     header{
       display:flex; align-items:center; justify-content:space-between;
-      gap:16px; margin-bottom:22px;
+      gap:16px;
+      margin-bottom:16px;
     }
-
-    .brand{display:flex; align-items:center; gap:12px;}
+    .brand{
+      display:flex; align-items:center; gap:12px;
+      min-width: 240px;
+    }
     .brandLogo{
       width:44px; height:44px;
       border-radius:14px;
@@ -55,10 +61,17 @@
       flex:0 0 auto;
     }
     .brandLogo img{width:100%; height:100%; object-fit:cover}
-    .brand h1{font-size:18px; margin:0; letter-spacing:.2px;}
-    .brand p{margin:2px 0 0; font-size:13px; color:var(--muted);}
+    .brand h1{
+      font-size:18px; margin:0; letter-spacing:.2px;
+    }
+    .brand p{
+      margin:2px 0 0; font-size:13px; color:var(--muted);
+    }
 
-    .cta{display:flex; gap:10px; flex-wrap:wrap; justify-content:flex-end;}
+    nav{
+      display:flex; gap:10px; flex-wrap:wrap; justify-content:flex-end;
+      align-items:center;
+    }
     .btn{
       display:inline-flex; align-items:center; gap:10px;
       padding:10px 14px;
@@ -67,10 +80,15 @@
       background: rgba(255,255,255,.04);
       backdrop-filter: blur(8px);
       transition: transform .12s ease, border-color .12s ease, background .12s ease;
-      font-weight:600;
+      font-weight:800;
       font-size:13px;
+      white-space:nowrap;
     }
-    .btn:hover{transform: translateY(-1px); border-color: rgba(255,255,255,.16); background: rgba(255,255,255,.06)}
+    .btn:hover{
+      transform: translateY(-1px);
+      border-color: rgba(255,255,255,.16);
+      background: rgba(255,255,255,.06)
+    }
     .btn.primary{
       border-color: rgba(255,176,0,.35);
       background: rgba(255,176,0,.12);
@@ -80,16 +98,66 @@
       border:1px solid var(--line);
       border-radius: var(--radius);
       background:
-        linear-gradient(180deg, rgba(0,0,0,.35), rgba(0,0,0,.55)),
+        linear-gradient(180deg, rgba(0,0,0,.38), rgba(0,0,0,.62)),
         url("assets/images/Main%20banner.jpg") center/cover no-repeat;
       box-shadow: var(--shadow);
       padding:26px 22px;
-      margin-bottom:16px;
+      margin-bottom:14px;
       overflow:hidden;
       position:relative;
     }
-    .hero h2{margin:0 0 8px; font-size:26px; letter-spacing:.2px;}
-    .hero p{margin:0; color:rgba(231,238,247,.85); line-height:1.5; max-width:75ch; font-size:14px;}
+    .hero h2{
+      margin:0 0 8px;
+      font-size:26px;
+      letter-spacing:.2px;
+    }
+    .hero p{
+      margin:0;
+      color:rgba(231,238,247,.88);
+      max-width: 86ch;
+      font-size:14px;
+    }
+    .heroCtas{
+      margin-top:14px;
+      display:flex;
+      gap:10px;
+      flex-wrap:wrap;
+    }
+    .pill{
+      display:inline-flex; align-items:center; justify-content:center;
+      padding:10px 14px;
+      border-radius:12px;
+      border:1px solid rgba(255,255,255,.14);
+      background: rgba(255,255,255,.06);
+      font-weight:900;
+      font-size:13px;
+      transition: transform .12s ease, background .12s ease, border-color .12s ease;
+    }
+    .pill:hover{transform: translateY(-1px); background: rgba(255,255,255,.08); border-color: rgba(255,255,255,.18)}
+    .pill.primary{border-color: rgba(255,176,0,.38); background: rgba(255,176,0,.14)}
+
+    .section{
+      margin-top:14px;
+      border:1px solid var(--line);
+      border-radius: var(--radius);
+      background: linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.015));
+      box-shadow: 0 18px 50px rgba(0,0,0,.30);
+      overflow:hidden;
+    }
+    .sectionHead{
+      padding:14px 16px 0;
+    }
+    .sectionHead h3{
+      margin:0 0 6px;
+      font-size:16px;
+    }
+    .sectionHead p{
+      margin:0 0 12px;
+      color:var(--muted);
+      font-size:13px;
+      max-width:90ch;
+    }
+    .sectionBody{padding:0 16px 16px}
 
     .grid{
       display:grid;
@@ -116,13 +184,11 @@
       filter: blur(2px);
       pointer-events:none;
     }
-
     .cardInner{
       padding:18px 18px 14px;
       display:flex; gap:14px;
       align-items:flex-start;
     }
-
     .appIcon{
       width:64px; height:64px;
       border-radius:18px;
@@ -133,10 +199,8 @@
       box-shadow: 0 10px 24px rgba(0,0,0,.25);
     }
     .appIcon img{width:100%; height:100%; object-fit:cover}
-
-    .meta h3{margin:0 0 6px; font-size:16px;}
+    .meta h4{margin:0 0 6px; font-size:16px;}
     .meta p{margin:0; color:var(--muted); font-size:13px; line-height:1.5;}
-
     .badges{
       margin-top:10px;
       display:flex; gap:8px; flex-wrap:wrap;
@@ -149,9 +213,8 @@
       background: rgba(0,0,0,.18);
       color: var(--muted);
       font-size:12px;
-      font-weight:600;
+      font-weight:800;
     }
-
     .actions{
       padding:0 18px 18px;
       display:flex; gap:10px; flex-wrap:wrap;
@@ -162,48 +225,36 @@
       border-radius:12px;
       border:1px solid rgba(255,255,255,.14);
       background: rgba(255,255,255,.05);
-      font-weight:700;
+      font-weight:900;
       font-size:13px;
       transition: transform .12s ease, background .12s ease, border-color .12s ease;
     }
     .gp:hover{transform: translateY(-1px); background: rgba(255,255,255,.07); border-color: rgba(255,255,255,.18)}
-    .gp.primary{
-      border-color: rgba(255,176,0,.38);
-      background: rgba(255,176,0,.12);
-    }
+    .gp.primary{border-color: rgba(255,176,0,.38); background: rgba(255,176,0,.12)}
 
-    .chart{
-      margin-top:14px;
-      border:1px solid var(--line);
-      border-radius: var(--radius);
-      background: linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.015));
-      box-shadow: 0 18px 50px rgba(0,0,0,.30);
-      overflow:hidden;
-    }
-    .chartHead{
-      padding:14px 16px 0;
-    }
-    .chartHead h3{
-      margin:0 0 6px;
-      font-size:16px;
-    }
-    .chartHead p{
-      margin:0 0 12px;
-      color:var(--muted);
-      font-size:13px;
-      line-height:1.5;
-    }
     .chartImg{
       border-top:1px solid rgba(255,255,255,.06);
       background: rgba(0,0,0,.2);
     }
-    .chartImg img{
-      width:100%;
-      height:auto;
+
+    .twoCols{
+      display:grid;
+      grid-template-columns: 1fr 1fr;
+      gap:12px;
     }
+    .miniCard{
+      border:1px solid rgba(255,255,255,.10);
+      border-radius:16px;
+      background: rgba(0,0,0,.16);
+      padding:14px;
+    }
+    .miniCard h4{margin:0 0 6px; font-size:14px;}
+    .miniCard p{margin:0; color:var(--muted); font-size:13px; line-height:1.5;}
+    .link{color: var(--link); font-weight:900}
+    .link:hover{text-decoration:underline}
 
     footer{
-      margin-top:26px;
+      margin-top:22px;
       color:var(--muted);
       font-size:12px;
       display:flex;
@@ -212,11 +263,12 @@
       flex-wrap:wrap;
       opacity:.95;
     }
-    .tiny{opacity:.8}
+    .tiny{opacity:.85}
 
     @media (max-width: 900px){
       .card{grid-column: span 12}
       .hero h2{font-size:22px}
+      .twoCols{grid-template-columns:1fr}
     }
   </style>
 </head>
@@ -224,7 +276,7 @@
 <body>
   <div class="wrap">
     <header>
-      <div class="brand">
+      <a class="brand" href="#top" aria-label="Stellar Lift home">
         <div class="brandLogo" aria-hidden="true">
           <img src="assets/images/Main%20black%20logo.jpg" alt="Stellar Lift logo">
         </div>
@@ -232,82 +284,137 @@
           <h1>Stellar Lift</h1>
           <p>Simple trackers. Real progress.</p>
         </div>
-      </div>
+      </a>
 
-      <div class="cta">
+      <nav aria-label="Navigation">
         <a class="btn primary" href="#apps">Apps</a>
-      </div>
+        <a class="btn" href="#roadmap">Roadmap</a>
+        <a class="btn" href="#contact">Contact</a>
+        <a class="btn" href="#company">Parent company</a>
+      </nav>
     </header>
 
-    <section class="hero">
+    <section id="top" class="hero">
       <h2>Track what matters.</h2>
-      <p>Two apps, zero noise: <strong>Training Tracker</strong> for your workouts and <strong>Water Tracker</strong> for hydration.</p>
+      <p>
+        Two apps, zero noise: <strong>Training Tracker</strong> for your workouts and <strong>Water Tracker</strong> for hydration.
+        Built to be fast, clean, and actually used every day.
+      </p>
+
+      <div class="heroCtas">
+        <a class="pill primary" href="#apps">See apps</a>
+        <a class="pill" href="/privacy/">Privacy Policy</a>
+        <a class="pill" href="/account-deletion/">Account deletion</a>
+      </div>
     </section>
 
-    <section id="apps" class="grid" aria-label="Apps">
-      <!-- 1) Training Tracker (FIRST) -->
-      <article class="card">
-        <div class="cardInner">
-          <div class="appIcon" aria-hidden="true">
-            <img src="assets/images/LogoTT.png" alt="Training Tracker icon">
-          </div>
-          <div class="meta">
-            <h3>Training Tracker</h3>
-            <p>Log your workouts, keep it consistent, and see progress without overcomplicated features.</p>
-            <div class="badges">
-              <span class="badge">Workout logging</span>
-              <span class="badge">Simple & fast</span>
+    <!-- APPS -->
+    <section id="apps" aria-label="Apps">
+      <div class="grid">
+        <!-- Training Tracker (FIRST) -->
+        <article class="card">
+          <div class="cardInner">
+            <div class="appIcon" aria-hidden="true">
+              <img src="assets/images/LogoTT.png" alt="Training Tracker icon">
+            </div>
+            <div class="meta">
+              <h4>Training Tracker</h4>
+              <p>Log workouts, keep consistency, and see progress without overcomplicated features.</p>
+              <div class="badges">
+                <span class="badge">Workout logging</span>
+                <span class="badge">Simple & fast</span>
+              </div>
             </div>
           </div>
-        </div>
-
-        <div class="actions">
-          <a class="gp primary" href="https://play.google.com/store/apps/details?id=com.stellarlift.trainingtracker" target="_blank" rel="noopener">
-            Open in Google Play
-          </a>
-        </div>
-      </article>
-
-      <!-- 2) Water Tracker -->
-      <article class="card">
-        <div class="cardInner">
-          <div class="appIcon" aria-hidden="true">
-            <img src="assets/images/LogoWT.png" alt="Water Tracker icon">
+          <div class="actions">
+            <a class="gp primary" href="https://play.google.com/store/apps/details?id=com.stellarlift.trainingtracker" target="_blank" rel="noopener">
+              Open in Google Play
+            </a>
           </div>
-          <div class="meta">
-            <h3>Water Tracker — Drink Reminder</h3>
-            <p>Hydration reminders and quick tracking. Stay consistent with your daily water goals.</p>
-            <div class="badges">
-              <span class="badge">Reminders</span>
-              <span class="badge">Daily goals</span>
+        </article>
+
+        <!-- Water Tracker -->
+        <article class="card">
+          <div class="cardInner">
+            <div class="appIcon" aria-hidden="true">
+              <img src="assets/images/LogoWT.png" alt="Water Tracker icon">
+            </div>
+            <div class="meta">
+              <h4>Water Tracker — Drink Reminder</h4>
+              <p>Hydration reminders and quick tracking. Stay consistent with your daily water goals.</p>
+              <div class="badges">
+                <span class="badge">Reminders</span>
+                <span class="badge">Daily goals</span>
+              </div>
             </div>
           </div>
-        </div>
-
-        <div class="actions">
-          <a class="gp" href="https://play.google.com/store/apps/details?id=com.stellarlift.watertracker" target="_blank" rel="noopener">
-            Open in Google Play
-          </a>
-        </div>
-      </article>
+          <div class="actions">
+            <a class="gp" href="https://play.google.com/store/apps/details?id=com.stellarlift.watertracker" target="_blank" rel="noopener">
+              Open in Google Play
+            </a>
+          </div>
+        </article>
+      </div>
     </section>
 
-    <!-- CHART section (CHART2 instead of CHART) -->
-    <section class="chart" aria-label="Live apps chart">
-      <div class="chartHead">
-        <h3>Live apps</h3>
-        <p>Updated chart with both apps live.</p>
+    <!-- ROADMAP / CHART -->
+    <section id="roadmap" class="section" aria-label="Roadmap">
+      <div class="sectionHead">
+        <h3>Roadmap</h3>
+        <p>Stellar Lift ecosystem chart (updated with Training Tracker live).</p>
       </div>
       <div class="chartImg">
         <img
           src="assets/images/CHART2%20%28Canva%20konto%20AE%29.png"
-          alt="Stellar Lift chart (2 apps live)">
+          alt="Stellar Lift ecosystem roadmap chart">
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact" class="section" aria-label="Contact">
+      <div class="sectionHead">
+        <h3>Contact</h3>
+        <p>Support, privacy, or data requests.</p>
+      </div>
+      <div class="sectionBody">
+        <div class="twoCols">
+          <div class="miniCard">
+            <h4>Email</h4>
+            <p><a class="link" href="mailto:office@antczak.co.uk">office@antczak.co.uk</a></p>
+            <p style="margin-top:8px; color: var(--muted); font-size:13px;">
+              For account deletion requests, use <a class="link" href="/account-deletion/">this page</a>.
+            </p>
+          </div>
+          <div class="miniCard">
+            <h4>Legal</h4>
+            <p>
+              <a class="link" href="/privacy/">Privacy Policy</a><br>
+              <a class="link" href="/account-deletion/">Account deletion</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- PARENT COMPANY -->
+    <section id="company" class="section" aria-label="Parent company">
+      <div class="sectionHead">
+        <h3>Parent company</h3>
+        <p>Stellar Lift is a product brand under the parent company Antczak Enterprise International.</p>
+      </div>
+      <div class="sectionBody">
+        <div class="miniCard">
+          <h4>Antczak Enterprise International (AEI)</h4>
+          <p>
+            Website: <a class="link" href="https://www.antczak.co.uk" target="_blank" rel="noopener">www.antczak.co.uk</a>
+          </p>
+        </div>
       </div>
     </section>
 
     <footer>
-      <div>© <span id="y"></span> Stellar Lift</div>
-      <div class="tiny">Made to be used — not to be configured for 30 minutes.</div>
+      <div>© <span id="y"></span> Stellar Lift — stellarliftapp.com</div>
+      <div class="tiny">Parent company: <a class="link" href="https://www.antczak.co.uk" target="_blank" rel="noopener">antczak.co.uk</a></div>
     </footer>
   </div>
 
