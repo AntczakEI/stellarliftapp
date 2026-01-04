@@ -61,12 +61,8 @@
       flex:0 0 auto;
     }
     .brandLogo img{width:100%; height:100%; object-fit:cover}
-    .brand h1{
-      font-size:18px; margin:0; letter-spacing:.2px;
-    }
-    .brand p{
-      margin:2px 0 0; font-size:13px; color:var(--muted);
-    }
+    .brand h1{font-size:18px; margin:0; letter-spacing:.2px;}
+    .brand p{margin:2px 0 0; font-size:13px; color:var(--muted);}
 
     nav{
       display:flex; gap:10px; flex-wrap:wrap; justify-content:flex-end;
@@ -94,85 +90,66 @@
       background: rgba(255,176,0,.12);
     }
 
-    /* HERO (fixed: motto is HTML, wallpaper is just mood) */
-    .hero{
+    /* HERO: clean wallpaper only */
+    .heroImage{
       border:1px solid var(--line);
       border-radius: var(--radius);
       box-shadow: var(--shadow);
-      padding:26px 22px 22px;
-      margin-bottom:14px;
       overflow:hidden;
       position:relative;
-      min-height: 210px;
-      background: rgba(255,255,255,.02);
-    }
-
-    /* wallpaper layer */
-    .hero::before{
-      content:"";
-      position:absolute;
-      inset:0;
+      height: 240px;
       background:
-        linear-gradient(180deg, rgba(0,0,0,.35), rgba(0,0,0,.70)),
         url("assets/images/Main%20banner.jpg") center 35%/cover no-repeat;
-      transform: scale(1.02);
-      filter: saturate(1.05);
-      z-index:0;
     }
-
-    /* subtle vignette */
-    .hero::after{
+    .heroImage::after{
       content:"";
       position:absolute;
       inset:0;
       background:
-        radial-gradient(900px 260px at 15% 10%, rgba(255,176,0,.16), transparent 60%),
-        radial-gradient(900px 260px at 85% 20%, rgba(125,180,255,.12), transparent 60%),
-        radial-gradient(1200px 500px at 50% 110%, rgba(0,0,0,.55), transparent 55%);
-      z-index:0;
+        radial-gradient(900px 260px at 15% 10%, rgba(255,176,0,.14), transparent 60%),
+        radial-gradient(900px 260px at 85% 20%, rgba(125,180,255,.10), transparent 60%),
+        linear-gradient(180deg, rgba(0,0,0,.15), rgba(0,0,0,.55));
       pointer-events:none;
     }
 
-    .heroContent{
-      position:relative;
-      z-index:1;
-      max-width: 980px;
+    /* Text block UNDER wallpaper */
+    .heroText{
+      margin-top:12px;
+      border:1px solid var(--line);
+      border-radius: var(--radius);
+      background: linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.015));
+      box-shadow: 0 18px 50px rgba(0,0,0,.30);
+      padding:18px 18px 16px;
     }
-
-    .heroEyebrow{
+    .eyebrow{
       display:inline-flex;
       align-items:center;
       gap:10px;
       font-weight:800;
       font-size:12px;
       letter-spacing:.35px;
-      color: rgba(231,238,247,.88);
-      opacity:.92;
-      margin-bottom:10px;
+      color: rgba(231,238,247,.86);
+      opacity:.9;
+      margin-bottom:8px;
     }
     .dot{
       width:7px;height:7px;border-radius:999px;
       background: rgba(255,176,0,.85);
       box-shadow: 0 0 18px rgba(255,176,0,.35);
     }
-
     .motto{
       margin:0;
       font-weight:900;
       letter-spacing:.3px;
       line-height:1.05;
-      /* responsive without cropping */
-      font-size: clamp(30px, 4.2vw, 64px);
-      text-shadow: 0 16px 50px rgba(0,0,0,.55);
+      font-size: clamp(28px, 3.6vw, 52px);
     }
-
     .heroSub{
       margin:10px 0 0;
-      color:rgba(231,238,247,.90);
+      color:var(--muted);
       max-width: 92ch;
       font-size:14px;
     }
-
     .heroCtas{
       margin-top:14px;
       display:flex;
@@ -203,16 +180,8 @@
     .sectionHead{
       padding:14px 16px 0;
     }
-    .sectionHead h3{
-      margin:0 0 6px;
-      font-size:16px;
-    }
-    .sectionHead p{
-      margin:0 0 12px;
-      color:var(--muted);
-      font-size:13px;
-      max-width:90ch;
-    }
+    .sectionHead h3{margin:0 0 6px; font-size:16px;}
+    .sectionHead p{margin:0 0 12px; color:var(--muted); font-size:13px; max-width:90ch;}
     .sectionBody{padding:0 16px 16px}
 
     .grid{
@@ -309,7 +278,6 @@
     .link{color: var(--link); font-weight:900}
     .link:hover{text-decoration:underline}
 
-    /* About section extras */
     .aboutGrid{
       display:grid;
       grid-template-columns: 1.2fr .8fr;
@@ -357,6 +325,10 @@
       .card{grid-column: span 12}
       .twoCols{grid-template-columns:1fr}
       .aboutGrid{grid-template-columns:1fr}
+      .heroImage{height: 220px}
+    }
+    @media (max-width: 520px){
+      .heroImage{height: 200px}
     }
   </style>
 </head>
@@ -383,23 +355,22 @@
       </nav>
     </header>
 
-    <section id="top" class="hero">
-      <div class="heroContent">
-        <div class="heroEyebrow"><span class="dot" aria-hidden="true"></span> The Stellar Lift health ecosystem</div>
+    <!-- CLEAN WALLPAPER -->
+    <section id="top" class="heroImage" aria-label="Stellar Lift banner"></section>
 
-        <!-- Motto is now real text (never gets “cut off” by wallpaper cropping) -->
-        <h2 class="motto">Track. Improve. Repeat.</h2>
+    <!-- TEXT UNDER WALLPAPER -->
+    <section class="heroText" aria-label="Intro">
+      <div class="eyebrow"><span class="dot" aria-hidden="true"></span> The Stellar Lift health ecosystem</div>
+      <h2 class="motto">Track. Improve. Repeat.</h2>
+      <p class="heroSub">
+        Stellar Lift is a clean set of trackers built for consistency — not configuration.
+        Training Tracker and Water Tracker are live, with more modules coming next.
+      </p>
 
-        <p class="heroSub">
-          Stellar Lift is a clean set of trackers built for consistency — not configuration.
-          Training Tracker and Water Tracker are live, with more modules coming next.
-        </p>
-
-        <div class="heroCtas">
-          <a class="pill primary" href="#apps">See apps</a>
-          <a class="pill" href="/privacy/">Privacy Policy</a>
-          <a class="pill" href="/account-deletion/">Account deletion</a>
-        </div>
+      <div class="heroCtas">
+        <a class="pill primary" href="#apps">See apps</a>
+        <a class="pill" href="/privacy/">Privacy Policy</a>
+        <a class="pill" href="/account-deletion/">Account deletion</a>
       </div>
     </section>
 
@@ -456,7 +427,7 @@
     <section id="roadmap" class="section" aria-label="Roadmap">
       <div class="sectionHead">
         <h3>Roadmap</h3>
-        <p>Stellar Lift ecosystem chart (updated with Training Tracker live).</p>
+        <p>The Stellar Lift ecosystem chart.</p>
       </div>
       <div class="chartImg">
         <img
@@ -465,7 +436,7 @@
       </div>
     </section>
 
-    <!-- ABOUT (added back between Roadmap and Contact) -->
+    <!-- ABOUT -->
     <section id="about" class="section" aria-label="About Stellar Lift">
       <div class="sectionHead">
         <h3>What is Stellar Lift?</h3>
