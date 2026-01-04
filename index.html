@@ -90,29 +90,21 @@
       background: rgba(255,176,0,.12);
     }
 
-    /* HERO: clean wallpaper only */
+    /* HERO: full image (no cropping) */
     .heroImage{
       border:1px solid var(--line);
       border-radius: var(--radius);
       box-shadow: var(--shadow);
       overflow:hidden;
-      position:relative;
-      height: 240px;
-      background:
-        url("assets/images/Main%20banner.jpg") center 35%/cover no-repeat;
+      background: rgba(255,255,255,.02);
     }
-    .heroImage::after{
-      content:"";
-      position:absolute;
-      inset:0;
-      background:
-        radial-gradient(900px 260px at 15% 10%, rgba(255,176,0,.14), transparent 60%),
-        radial-gradient(900px 260px at 85% 20%, rgba(125,180,255,.10), transparent 60%),
-        linear-gradient(180deg, rgba(0,0,0,.15), rgba(0,0,0,.55));
-      pointer-events:none;
+    .heroImage img{
+      width:100%;
+      height:auto;      /* <- THIS is what prevents cropping */
+      display:block;
     }
 
-    /* Text block UNDER wallpaper */
+    /* Text block UNDER the image */
     .heroText{
       margin-top:12px;
       border:1px solid var(--line);
@@ -325,10 +317,6 @@
       .card{grid-column: span 12}
       .twoCols{grid-template-columns:1fr}
       .aboutGrid{grid-template-columns:1fr}
-      .heroImage{height: 220px}
-    }
-    @media (max-width: 520px){
-      .heroImage{height: 200px}
     }
   </style>
 </head>
@@ -355,10 +343,12 @@
       </nav>
     </header>
 
-    <!-- CLEAN WALLPAPER -->
-    <section id="top" class="heroImage" aria-label="Stellar Lift banner"></section>
+    <!-- FULL IMAGE (no cropping) -->
+    <section id="top" class="heroImage" aria-label="Stellar Lift banner">
+      <img src="assets/images/Main%20banner.jpg" alt="Stellar Lift banner" />
+    </section>
 
-    <!-- TEXT UNDER WALLPAPER -->
+    <!-- TEXT UNDER THE IMAGE -->
     <section class="heroText" aria-label="Intro">
       <div class="eyebrow"><span class="dot" aria-hidden="true"></span> The Stellar Lift health ecosystem</div>
       <h2 class="motto">Track. Improve. Repeat.</h2>
