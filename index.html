@@ -94,29 +94,85 @@
       background: rgba(255,176,0,.12);
     }
 
+    /* HERO (fixed: motto is HTML, wallpaper is just mood) */
     .hero{
       border:1px solid var(--line);
       border-radius: var(--radius);
-      background:
-        linear-gradient(180deg, rgba(0,0,0,.38), rgba(0,0,0,.62)),
-        url("assets/images/Main%20banner.jpg") center/cover no-repeat;
       box-shadow: var(--shadow);
-      padding:26px 22px;
+      padding:26px 22px 22px;
       margin-bottom:14px;
       overflow:hidden;
       position:relative;
+      min-height: 210px;
+      background: rgba(255,255,255,.02);
     }
-    .hero h2{
-      margin:0 0 8px;
-      font-size:26px;
-      letter-spacing:.2px;
+
+    /* wallpaper layer */
+    .hero::before{
+      content:"";
+      position:absolute;
+      inset:0;
+      background:
+        linear-gradient(180deg, rgba(0,0,0,.35), rgba(0,0,0,.70)),
+        url("assets/images/Main%20banner.jpg") center 35%/cover no-repeat;
+      transform: scale(1.02);
+      filter: saturate(1.05);
+      z-index:0;
     }
-    .hero p{
+
+    /* subtle vignette */
+    .hero::after{
+      content:"";
+      position:absolute;
+      inset:0;
+      background:
+        radial-gradient(900px 260px at 15% 10%, rgba(255,176,0,.16), transparent 60%),
+        radial-gradient(900px 260px at 85% 20%, rgba(125,180,255,.12), transparent 60%),
+        radial-gradient(1200px 500px at 50% 110%, rgba(0,0,0,.55), transparent 55%);
+      z-index:0;
+      pointer-events:none;
+    }
+
+    .heroContent{
+      position:relative;
+      z-index:1;
+      max-width: 980px;
+    }
+
+    .heroEyebrow{
+      display:inline-flex;
+      align-items:center;
+      gap:10px;
+      font-weight:800;
+      font-size:12px;
+      letter-spacing:.35px;
+      color: rgba(231,238,247,.88);
+      opacity:.92;
+      margin-bottom:10px;
+    }
+    .dot{
+      width:7px;height:7px;border-radius:999px;
+      background: rgba(255,176,0,.85);
+      box-shadow: 0 0 18px rgba(255,176,0,.35);
+    }
+
+    .motto{
       margin:0;
-      color:rgba(231,238,247,.88);
-      max-width: 86ch;
+      font-weight:900;
+      letter-spacing:.3px;
+      line-height:1.05;
+      /* responsive without cropping */
+      font-size: clamp(30px, 4.2vw, 64px);
+      text-shadow: 0 16px 50px rgba(0,0,0,.55);
+    }
+
+    .heroSub{
+      margin:10px 0 0;
+      color:rgba(231,238,247,.90);
+      max-width: 92ch;
       font-size:14px;
     }
+
     .heroCtas{
       margin-top:14px;
       display:flex;
@@ -253,6 +309,38 @@
     .link{color: var(--link); font-weight:900}
     .link:hover{text-decoration:underline}
 
+    /* About section extras */
+    .aboutGrid{
+      display:grid;
+      grid-template-columns: 1.2fr .8fr;
+      gap:12px;
+    }
+    .list{
+      margin:8px 0 0 18px;
+      color: var(--muted);
+      font-size:13px;
+      line-height:1.55;
+    }
+    .list li{margin:6px 0}
+    .callout{
+      border:1px solid rgba(255,255,255,.10);
+      border-radius:16px;
+      background: rgba(0,0,0,.18);
+      padding:14px;
+    }
+    .calloutTitle{
+      margin:0 0 6px;
+      font-weight:900;
+      font-size:13px;
+      color: rgba(231,238,247,.92);
+    }
+    .calloutText{
+      margin:0;
+      color: var(--muted);
+      font-size:13px;
+      line-height:1.55;
+    }
+
     footer{
       margin-top:22px;
       color:var(--muted);
@@ -267,8 +355,8 @@
 
     @media (max-width: 900px){
       .card{grid-column: span 12}
-      .hero h2{font-size:22px}
       .twoCols{grid-template-columns:1fr}
+      .aboutGrid{grid-template-columns:1fr}
     }
   </style>
 </head>
@@ -289,22 +377,29 @@
       <nav aria-label="Navigation">
         <a class="btn primary" href="#apps">Apps</a>
         <a class="btn" href="#roadmap">Roadmap</a>
+        <a class="btn" href="#about">About</a>
         <a class="btn" href="#contact">Contact</a>
         <a class="btn" href="#company">Parent company</a>
       </nav>
     </header>
 
     <section id="top" class="hero">
-      <h2>Track what matters.</h2>
-      <p>
-        Two apps, zero noise: <strong>Training Tracker</strong> for your workouts and <strong>Water Tracker</strong> for hydration.
-        Built to be fast, clean, and actually used every day.
-      </p>
+      <div class="heroContent">
+        <div class="heroEyebrow"><span class="dot" aria-hidden="true"></span> The Stellar Lift health ecosystem</div>
 
-      <div class="heroCtas">
-        <a class="pill primary" href="#apps">See apps</a>
-        <a class="pill" href="/privacy/">Privacy Policy</a>
-        <a class="pill" href="/account-deletion/">Account deletion</a>
+        <!-- Motto is now real text (never gets “cut off” by wallpaper cropping) -->
+        <h2 class="motto">Track. Improve. Repeat.</h2>
+
+        <p class="heroSub">
+          Stellar Lift is a clean set of trackers built for consistency — not configuration.
+          Training Tracker and Water Tracker are live, with more modules coming next.
+        </p>
+
+        <div class="heroCtas">
+          <a class="pill primary" href="#apps">See apps</a>
+          <a class="pill" href="/privacy/">Privacy Policy</a>
+          <a class="pill" href="/account-deletion/">Account deletion</a>
+        </div>
       </div>
     </section>
 
@@ -367,6 +462,52 @@
         <img
           src="assets/images/CHART2%20%28Canva%20konto%20AE%29.png"
           alt="Stellar Lift ecosystem roadmap chart">
+      </div>
+    </section>
+
+    <!-- ABOUT (added back between Roadmap and Contact) -->
+    <section id="about" class="section" aria-label="About Stellar Lift">
+      <div class="sectionHead">
+        <h3>What is Stellar Lift?</h3>
+        <p>A focused ecosystem of trackers designed to remove friction and make consistency effortless.</p>
+      </div>
+
+      <div class="sectionBody">
+        <div class="aboutGrid">
+          <div class="miniCard">
+            <h4>The idea</h4>
+            <p>
+              Stellar Lift is built around a simple belief: if tracking is fast and clean, you’ll actually do it every day.
+              Each app focuses on one job — no clutter, no distractions, no “settings maze”.
+            </p>
+
+            <ul class="list">
+              <li><strong>Single purpose apps</strong> — training, hydration, and more modules coming next.</li>
+              <li><strong>Speed first</strong> — open → log → done. Minimal taps.</li>
+              <li><strong>Consistency over complexity</strong> — features that help habits, not overwhelm you.</li>
+              <li><strong>Privacy-aware</strong> — collect as little as possible; ads only where applicable (see Privacy Policy).</li>
+            </ul>
+          </div>
+
+          <div class="callout">
+            <div class="calloutTitle">Why an ecosystem?</div>
+            <p class="calloutText">
+              Most “all-in-one” apps become heavy and noisy. Stellar Lift stays light by splitting modules into separate apps
+              — you install only what you want, and each app stays fast.
+            </p>
+
+            <div style="height:10px"></div>
+
+            <div class="calloutTitle">Live now</div>
+            <p class="calloutText">
+              Training Tracker and Water Tracker are live. Step Tracker is coming next (as shown in the roadmap).
+            </p>
+
+            <div style="height:12px"></div>
+
+            <a class="pill primary" href="#apps" style="width:100%; text-align:center;">Explore the apps</a>
+          </div>
+        </div>
       </div>
     </section>
 
