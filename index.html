@@ -24,16 +24,28 @@
 
     *{box-sizing:border-box}
     html,body{height:100%}
+
+    /* Base background is flat */
+    html{ background: var(--bg); }
+
     body{
       margin:0;
       font-family:"Exo 2", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
       color:var(--text);
-      background:
-        radial-gradient(900px 500px at 20% 0%, rgba(255,176,0,.14), transparent 60%),
-        radial-gradient(700px 500px at 80% 10%, rgba(120,190,255,.12), transparent 60%),
-        radial-gradient(900px 700px at 50% 100%, rgba(255,209,102,.08), transparent 55%),
-        var(--bg);
       line-height:1.55;
+      background: transparent; /* IMPORTANT: no repeating gradients here */
+      position:relative;
+    }
+
+    /* Single, slightly stronger gradient, fixed (never “starts again” mid page) */
+    body::before{
+      content:"";
+      position:fixed;
+      inset:0;
+      pointer-events:none;
+      z-index:-1;
+      background:
+        radial-gradient(1100px 700px at 18% -10%, rgba(255,176,0,.22), transparent 62%);
     }
 
     a{color:inherit; text-decoration:none}
@@ -100,7 +112,7 @@
     }
     .heroImage img{
       width:100%;
-      height:auto;      /* <- THIS is what prevents cropping */
+      height:auto;
       display:block;
     }
 
@@ -343,12 +355,10 @@
       </nav>
     </header>
 
-    <!-- FULL IMAGE (no cropping) -->
     <section id="top" class="heroImage" aria-label="Stellar Lift banner">
       <img src="assets/images/Main%20banner.jpg" alt="Stellar Lift banner" />
     </section>
 
-    <!-- TEXT UNDER THE IMAGE -->
     <section class="heroText" aria-label="Intro">
       <div class="eyebrow"><span class="dot" aria-hidden="true"></span> The Stellar Lift health ecosystem</div>
       <h2 class="motto">Track. Improve. Repeat.</h2>
@@ -364,10 +374,8 @@
       </div>
     </section>
 
-    <!-- APPS -->
     <section id="apps" aria-label="Apps">
       <div class="grid">
-        <!-- Training Tracker (FIRST) -->
         <article class="card">
           <div class="cardInner">
             <div class="appIcon" aria-hidden="true">
@@ -389,7 +397,6 @@
           </div>
         </article>
 
-        <!-- Water Tracker -->
         <article class="card">
           <div class="cardInner">
             <div class="appIcon" aria-hidden="true">
@@ -413,7 +420,6 @@
       </div>
     </section>
 
-    <!-- ROADMAP / CHART -->
     <section id="roadmap" class="section" aria-label="Roadmap">
       <div class="sectionHead">
         <h3>Roadmap</h3>
@@ -426,7 +432,6 @@
       </div>
     </section>
 
-    <!-- ABOUT -->
     <section id="about" class="section" aria-label="About Stellar Lift">
       <div class="sectionHead">
         <h3>What is Stellar Lift?</h3>
@@ -472,7 +477,6 @@
       </div>
     </section>
 
-    <!-- CONTACT -->
     <section id="contact" class="section" aria-label="Contact">
       <div class="sectionHead">
         <h3>Contact</h3>
@@ -498,7 +502,6 @@
       </div>
     </section>
 
-    <!-- PARENT COMPANY -->
     <section id="company" class="section" aria-label="Parent company">
       <div class="sectionHead">
         <h3>Parent company</h3>
