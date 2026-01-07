@@ -313,22 +313,147 @@
       line-height:1.55;
     }
 
-    footer{
-      margin-top:22px;
-      color:var(--muted);
-      font-size:12px;
+    /* NEW: Apps explained */
+    .appsExplainedGrid{
+      display:grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap:12px;
+      margin-top: 12px;
+    }
+    details.appDetail{
+      grid-column: span 6;
+      border:1px solid rgba(255,255,255,.10);
+      border-radius: var(--radius);
+      background: rgba(0,0,0,.16);
+      overflow:hidden;
+      box-shadow: 0 18px 50px rgba(0,0,0,.28);
+      position:relative;
+    }
+    details.appDetail::before{
+      content:"";
+      position:absolute;
+      inset:-70px -70px auto auto;
+      width:240px;
+      height:240px;
+      background: radial-gradient(circle, rgba(255,176,0,.18), transparent 62%);
+      pointer-events:none;
+      filter: blur(2px);
+    }
+    details.appDetail summary{
+      list-style:none;
+      cursor:pointer;
+      padding:14px 14px 12px;
+      user-select:none;
+      outline:none;
+    }
+    details.appDetail summary::-webkit-details-marker{display:none}
+    .appTopRow{
       display:flex;
+      align-items:center;
       justify-content:space-between;
       gap:12px;
+      margin-bottom:8px;
+    }
+    .appTitle{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      min-width:0;
+    }
+    .appTitle h4{
+      margin:0;
+      font-size:15px;
+      letter-spacing:.2px;
+      white-space:nowrap;
+      overflow:hidden;
+      text-overflow:ellipsis;
+    }
+    .statusPill{
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      padding:6px 10px;
+      border-radius:999px;
+      border:1px solid rgba(255,255,255,.12);
+      background: rgba(255,255,255,.04);
+      color: rgba(231,238,247,.78);
+      font-weight:900;
+      font-size:12px;
+      white-space:nowrap;
+      flex:0 0 auto;
+    }
+    .statusPill.live{
+      border-color: rgba(255,176,0,.38);
+      background: rgba(255,176,0,.12);
+      color: rgba(231,238,247,.92);
+    }
+    .leadLine{
+      margin:0;
+      color: var(--muted);
+      font-size:13px;
+      line-height:1.5;
+      padding-right: 18px;
+    }
+    .chev{
+      width:28px; height:28px;
+      border-radius:10px;
+      border:1px solid rgba(255,255,255,.12);
+      background: rgba(255,255,255,.04);
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      flex:0 0 auto;
+      transition: transform .16s ease, background .16s ease, border-color .16s ease;
+    }
+    details[open] .chev{transform: rotate(180deg)}
+    details.appDetail:hover .chev{
+      background: rgba(255,255,255,.06);
+      border-color: rgba(255,255,255,.16);
+    }
+    .detailBody{
+      padding: 0 14px 14px;
+      position:relative;
+    }
+    .featureList{
+      margin: 10px 0 0 18px;
+      color: var(--muted);
+      font-size:13px;
+      line-height:1.55;
+    }
+    .detailActions{
+      margin-top:12px;
+      display:flex;
+      gap:10px;
       flex-wrap:wrap;
+    }
+    .note{
+      margin:10px 0 0;
+      color: rgba(231,238,247,.72);
+      font-size:12px;
       opacity:.95;
     }
-    .tiny{opacity:.85}
+    .smallBtn{
+      display:inline-flex; align-items:center; justify-content:center;
+      padding:10px 14px;
+      border-radius:12px;
+      border:1px solid rgba(255,255,255,.14);
+      background: rgba(255,255,255,.05);
+      font-weight:900;
+      font-size:13px;
+      transition: transform .12s ease, background .12s ease, border-color .12s ease;
+      white-space:nowrap;
+    }
+    .smallBtn:hover{transform: translateY(-1px); background: rgba(255,255,255,.07); border-color: rgba(255,255,255,.18)}
+    .smallBtn.primary{border-color: rgba(255,176,0,.38); background: rgba(255,176,0,.12)}
+    .smallBtn.ghost{background: rgba(0,0,0,.18)}
+    .smallBtn.ghost:hover{background: rgba(0,0,0,.26)}
 
     @media (max-width: 900px){
       .card{grid-column: span 12}
       .twoCols{grid-template-columns:1fr}
       .aboutGrid{grid-template-columns:1fr}
+
+      details.appDetail{grid-column: span 12}
     }
   </style>
 </head>
@@ -473,6 +598,292 @@
 
             <a class="pill primary" href="#apps" style="width:100%; text-align:center;">Explore the apps</a>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- NEW SECTION: Apps explained (between About and Contact) -->
+    <section id="apps-explained" class="section" aria-label="Apps explained">
+      <div class="sectionHead">
+        <h3>Apps, explained</h3>
+        <p>Short descriptions of every module — so the names actually make sense.</p>
+      </div>
+
+      <div class="sectionBody">
+        <div class="appsExplainedGrid">
+          <!-- Live -->
+          <details class="appDetail" open>
+            <summary>
+              <div class="appTopRow">
+                <div class="appTitle">
+                  <h4>Training Tracker</h4>
+                </div>
+                <div style="display:flex; align-items:center; gap:10px;">
+                  <span class="statusPill live">LIVE</span>
+                  <span class="chev" aria-hidden="true">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+                      <path d="M6 9l6 6 6-6" stroke="rgba(231,238,247,.85)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </span>
+                </div>
+              </div>
+              <p class="leadLine">Log workouts fast — sets, reps, notes, done.</p>
+            </summary>
+            <div class="detailBody">
+              <ul class="featureList">
+                <li>No over-configuration — just training.</li>
+                <li>Clear history and progression.</li>
+                <li>Built for consistency, not perfection.</li>
+              </ul>
+              <div class="detailActions">
+                <a class="smallBtn primary" href="https://play.google.com/store/apps/details?id=com.stellarlift.trainingtracker" target="_blank" rel="noopener">Open in Google Play</a>
+                <a class="smallBtn ghost" href="#apps">See the live cards</a>
+              </div>
+            </div>
+          </details>
+
+          <details class="appDetail">
+            <summary>
+              <div class="appTopRow">
+                <div class="appTitle">
+                  <h4>Water Tracker — Drink Reminder</h4>
+                </div>
+                <div style="display:flex; align-items:center; gap:10px;">
+                  <span class="statusPill live">LIVE</span>
+                  <span class="chev" aria-hidden="true">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+                      <path d="M6 9l6 6 6-6" stroke="rgba(231,238,247,.85)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </span>
+                </div>
+              </div>
+              <p class="leadLine">One tap to log water — reminders that don’t annoy you.</p>
+            </summary>
+            <div class="detailBody">
+              <ul class="featureList">
+                <li>Quick-add sizes, streaks, and daily goals.</li>
+                <li>Smart reminders (gentle, not spammy).</li>
+                <li>Clean history & simple trends.</li>
+              </ul>
+              <div class="detailActions">
+                <a class="smallBtn" href="https://play.google.com/store/apps/details?id=com.stellarlift.watertracker" target="_blank" rel="noopener">Open in Google Play</a>
+                <a class="smallBtn ghost" href="#apps">See the live cards</a>
+              </div>
+            </div>
+          </details>
+
+          <!-- Coming next -->
+          <details class="appDetail">
+            <summary>
+              <div class="appTopRow">
+                <div class="appTitle">
+                  <h4>Step Tracker</h4>
+                </div>
+                <div style="display:flex; align-items:center; gap:10px;">
+                  <span class="statusPill">COMING NEXT</span>
+                  <span class="chev" aria-hidden="true">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+                      <path d="M6 9l6 6 6-6" stroke="rgba(231,238,247,.85)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </span>
+                </div>
+              </div>
+              <p class="leadLine">Steps without clutter — daily totals, streaks, simple targets.</p>
+            </summary>
+            <div class="detailBody">
+              <ul class="featureList">
+                <li>Clean daily/weekly view.</li>
+                <li>Goal + streak that actually motivates.</li>
+                <li>Lightweight and quick to check.</li>
+              </ul>
+              <p class="note">Planned as the next module after the live apps.</p>
+            </div>
+          </details>
+
+          <!-- 2026 -->
+          <details class="appDetail">
+            <summary>
+              <div class="appTopRow">
+                <div class="appTitle">
+                  <h4>Calories Duo</h4>
+                </div>
+                <div style="display:flex; align-items:center; gap:10px;">
+                  <span class="statusPill">IN 2026</span>
+                  <span class="chev" aria-hidden="true">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+                      <path d="M6 9l6 6 6-6" stroke="rgba(231,238,247,.85)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </span>
+                </div>
+              </div>
+              <p class="leadLine">Track calories for two (or more) people in one app — without duplicate work.</p>
+            </summary>
+            <div class="detailBody">
+              <ul class="featureList">
+                <li>Add one meal once and assign it to 2 people (same dinner, no retyping).</li>
+                <li>Multi-user tracking (couples, roommates, family) in a single place.</li>
+                <li>Shared meals + individual totals, so everyone stays accountable.</li>
+              </ul>
+              <p class="note">This is the “couples/family” niche: one app, multiple people, shared meals.</p>
+            </div>
+          </details>
+
+          <details class="appDetail">
+            <summary>
+              <div class="appTopRow">
+                <div class="appTitle">
+                  <h4>Sleep Tracker</h4>
+                </div>
+                <div style="display:flex; align-items:center; gap:10px;">
+                  <span class="statusPill">IN 2026</span>
+                  <span class="chev" aria-hidden="true">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+                      <path d="M6 9l6 6 6-6" stroke="rgba(231,238,247,.85)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </span>
+                </div>
+              </div>
+              <p class="leadLine">Sleep logging that’s simple — patterns you can actually use.</p>
+            </summary>
+            <div class="detailBody">
+              <ul class="featureList">
+                <li>Quick sleep/wake logging.</li>
+                <li>Weekly patterns and consistency scoring.</li>
+                <li>Minimal insights, zero noise.</li>
+              </ul>
+            </div>
+          </details>
+
+          <details class="appDetail">
+            <summary>
+              <div class="appTopRow">
+                <div class="appTitle">
+                  <h4>Habit Tracker</h4>
+                </div>
+                <div style="display:flex; align-items:center; gap:10px;">
+                  <span class="statusPill">IN 2026</span>
+                  <span class="chev" aria-hidden="true">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+                      <path d="M6 9l6 6 6-6" stroke="rgba(231,238,247,.85)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </span>
+                </div>
+              </div>
+              <p class="leadLine">Build habits with a clean loop: do it → tick it → keep the streak.</p>
+            </summary>
+            <div class="detailBody">
+              <ul class="featureList">
+                <li>Fast daily check-ins.</li>
+                <li>Streaks + simple goal cycles.</li>
+                <li>No “habit journal” clutter.</li>
+              </ul>
+            </div>
+          </details>
+
+          <!-- 2027 -->
+          <details class="appDetail">
+            <summary>
+              <div class="appTopRow">
+                <div class="appTitle">
+                  <h4>Body Measurements</h4>
+                </div>
+                <div style="display:flex; align-items:center; gap:10px;">
+                  <span class="statusPill">IN 2027</span>
+                  <span class="chev" aria-hidden="true">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+                      <path d="M6 9l6 6 6-6" stroke="rgba(231,238,247,.85)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </span>
+                </div>
+              </div>
+              <p class="leadLine">Track body stats over time — clean charts, no obsession.</p>
+            </summary>
+            <div class="detailBody">
+              <ul class="featureList">
+                <li>Weight/waist/hips etc. in one place.</li>
+                <li>Trends and progress snapshots.</li>
+                <li>Private, minimal, focused.</li>
+              </ul>
+            </div>
+          </details>
+
+          <details class="appDetail">
+            <summary>
+              <div class="appTopRow">
+                <div class="appTitle">
+                  <h4>Supplements Tracker</h4>
+                </div>
+                <div style="display:flex; align-items:center; gap:10px;">
+                  <span class="statusPill">IN 2027</span>
+                  <span class="chev" aria-hidden="true">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+                      <path d="M6 9l6 6 6-6" stroke="rgba(231,238,247,.85)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </span>
+                </div>
+              </div>
+              <p class="leadLine">Remember what you take — and stay consistent.</p>
+            </summary>
+            <div class="detailBody">
+              <ul class="featureList">
+                <li>Simple schedule + check-in.</li>
+                <li>Missed-day awareness without guilt.</li>
+                <li>Clean history for routines.</li>
+              </ul>
+            </div>
+          </details>
+
+          <details class="appDetail">
+            <summary>
+              <div class="appTopRow">
+                <div class="appTitle">
+                  <h4>Mood Tracker</h4>
+                </div>
+                <div style="display:flex; align-items:center; gap:10px;">
+                  <span class="statusPill">IN 2027</span>
+                  <span class="chev" aria-hidden="true">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+                      <path d="M6 9l6 6 6-6" stroke="rgba(231,238,247,.85)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </span>
+                </div>
+              </div>
+              <p class="leadLine">Track mood in seconds — see patterns, not paragraphs.</p>
+            </summary>
+            <div class="detailBody">
+              <ul class="featureList">
+                <li>One-tap mood logging.</li>
+                <li>Optional tags for triggers.</li>
+                <li>Weekly/monthly pattern view.</li>
+              </ul>
+            </div>
+          </details>
+
+          <details class="appDetail">
+            <summary>
+              <div class="appTopRow">
+                <div class="appTitle">
+                  <h4>Stellar Planner</h4>
+                </div>
+                <div style="display:flex; align-items:center; gap:10px;">
+                  <span class="statusPill">IN 2027</span>
+                  <span class="chev" aria-hidden="true">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none">
+                      <path d="M6 9l6 6 6-6" stroke="rgba(231,238,247,.85)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                  </span>
+                </div>
+              </div>
+              <p class="leadLine">A simple planner that matches the ecosystem — clean daily structure.</p>
+            </summary>
+            <div class="detailBody">
+              <ul class="featureList">
+                <li>Minimal daily plan + focus list.</li>
+                <li>Consistent UI with the trackers.</li>
+                <li>Built to reduce friction.</li>
+              </ul>
+            </div>
+          </details>
         </div>
       </div>
     </section>
