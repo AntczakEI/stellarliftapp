@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Can You Drink Too Much Water During Exercise? Hyponatremia Explained"
-date: 2026-03-02
+date: 2026-03-21
 last_modified_at: 2026-09-23
 author: "Tomasz Antczak"
 categories: [hydration]
