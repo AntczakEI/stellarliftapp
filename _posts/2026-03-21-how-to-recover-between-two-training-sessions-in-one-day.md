@@ -3,6 +3,7 @@ layout: post
 title: "Two Workouts a Day: Simple Hydration and Recovery Plan"
 date: 2026-03-21
 last_modified_at: 2026-09-23
+author: "Tomasz Antczak"
 featured_recovery: true
 categories: [recovery]
 tags: [recovery, two workouts a day, two-a-days, hydration, training recovery, fatigue, electrolytes, nutrition, performance, muay thai, gym]
@@ -10,8 +11,6 @@ permalink: /recovery/recover-between-two-training-sessions-in-one-day/
 excerpt: "Training twice in one day? This simple hydration and recovery plan explains what to do between workouts so the second session does not feel flat, heavy, or underfuelled."
 description: "A simple hydration and recovery plan for two workouts a day, covering water, electrolytes, food timing, rest, mobility, fatigue, and how to prepare for the second session."
 ---
-
-<p class="post-updated"><strong>Updated:</strong> September 23, 2026</p>
 
 Training twice in one day can work well, but only if the time between sessions is used properly.
 
@@ -454,42 +453,40 @@ Simple adjustments include:
 * shorten the session
 * focus on quality instead of fatigue
 
-If your second session is conditioning-based, the [Conditioning Guide](https://shop.aei-digital.com/b/MVRuY) can help you structure the work without turning every day into a max-effort grind.
-
 ## Sample recovery plan for two workouts in one day
 
 Here is a simple example.
 
-## Example: first session at 10:00, second session at 18:00
+### Example: first session at 10:00, second session at 18:00
 
-### Right after session one
+#### Right after session one
 
 * walk for a few minutes
 * start drinking water
 * cool down and settle breathing
 * shower and change clothes
 
-### Within 30 to 60 minutes
+#### Within 30 to 60 minutes
 
 * eat a meal or snack with carbs and protein
 * include sodium if the session was sweaty
 * continue sipping fluids
 
-### Midday
+#### Midday
 
 * eat a proper meal
 * keep moving lightly instead of sitting completely still for hours
 * take a short nap if it helps you
 * avoid random extra activity that adds fatigue
 
-### 90 to 120 minutes before session two
+#### 90 to 120 minutes before session two
 
 * have a light top-up snack if needed
 * keep hydration going
 * avoid huge portions
 * avoid trying new foods
 
-### Before session two
+#### Before session two
 
 * check whether you feel dry, heavy, flat, or underfuelled
 * do a normal warm-up
@@ -587,11 +584,9 @@ That does not automatically mean one single problem caused it.
 
 But hydration, food timing, sodium, sleep, and overall workload are the first places to check.
 
-If two-a-day training leaves you constantly sore or flat, the [Recovery Guide](https://shop.aei-digital.com/b/qZrYQ) gives you a simple structure for managing fatigue, soreness, and consistency.
-
 ## Common mistakes
 
-## Mistake 1: Treating both sessions like all-out tests
+### Mistake 1: Treating both sessions like all-out tests
 
 Two hard sessions can sometimes be appropriate, but trying to make both workouts long, high-volume, and max effort every time usually destroys quality.
 
@@ -599,19 +594,19 @@ The first workout affects the second whether you like it or not.
 
 Know which session matters more and control the other one accordingly.
 
-## Mistake 2: Doing nothing between sessions
+### Mistake 2: Doing nothing between sessions
 
 Recovery is not automatic just because time passes.
 
 If you finish workout one, forget to drink, barely eat, and sit still for hours, the second session will probably feel worse.
 
-## Mistake 3: Drinking too little
+### Mistake 3: Drinking too little
 
 Hydration is one of the easiest things to mess up.
 
 This is especially true after sweaty sessions.
 
-## Mistake 4: Drinking too much too fast
+### Mistake 4: Drinking too much too fast
 
 The answer is not always to chug a huge bottle.
 
@@ -619,13 +614,13 @@ Too much water too quickly can make you feel bloated and uncomfortable.
 
 Drink steadily.
 
-## Mistake 5: Forgetting sodium
+### Mistake 5: Forgetting sodium
 
 If you are a heavy sweater, sodium matters.
 
 Water alone is not always enough after hard, salty sessions.
 
-## Mistake 6: Eating too light or too heavy
+### Mistake 6: Eating too light or too heavy
 
 Too little food leaves you flat.
 
@@ -633,7 +628,7 @@ Too much food leaves you slow.
 
 The middle ground is usually best.
 
-## Mistake 7: Turning recovery into more training
+### Mistake 7: Turning recovery into more training
 
 A short walk is recovery.
 
@@ -641,7 +636,7 @@ A hard circuit is not.
 
 Do not disguise extra work as recovery if you are already tired.
 
-## Mistake 8: Choosing gym work that ruins the second session
+### Mistake 8: Choosing gym work that ruins the second session
 
 Exercise selection matters more on a double day.
 
@@ -653,11 +648,11 @@ It needs to be controlled enough that the rest of the training day still makes s
 
 ## FAQ
 
-## How can I recover faster between two workouts in one day?
+### How can I recover faster between two workouts in one day?
 
 Start with the basics: drink early, replace sodium if the first workout was very sweaty, eat digestible food with carbs and protein, keep moving lightly, and rest without becoming stiff.
 
-## What should I eat between two workouts?
+### What should I eat between two workouts?
 
 It depends on how much time you have.
 
@@ -667,7 +662,7 @@ With 1 to 3 hours, choose something lighter.
 
 With less than 1 hour, use simple carbs and fluids that are easy to tolerate.
 
-## How much water should I drink between two workouts?
+### How much water should I drink between two workouts?
 
 Enough to avoid starting the second workout dehydrated.
 
@@ -675,13 +670,13 @@ For light sessions, normal drinking may be enough.
 
 For hard, hot, or sweaty sessions, drink steadily over the next few hours and consider sodium or electrolytes.
 
-## Are electrolytes necessary for two workouts a day?
+### Are electrolytes necessary for two workouts a day?
 
 Not always.
 
 They are more useful when the first workout was long, hot, or very sweaty, especially if you are training again later.
 
-## Should I nap between two workouts?
+### Should I nap between two workouts?
 
 A short nap can help if you have enough time and naps work well for you.
 
@@ -689,7 +684,7 @@ For many people, 20 to 30 minutes is enough.
 
 Long naps can make some people feel groggy.
 
-## Should I stretch between workouts?
+### Should I stretch between workouts?
 
 Light mobility can help.
 
@@ -697,11 +692,21 @@ Aggressive stretching or turning mobility into another workout usually does not 
 
 The goal is to feel loose and ready, not tired.
 
-## Why does my second workout always feel worse?
+### Why does my second workout always feel worse?
 
 Usually because the first workout created fatigue, fluid loss, and energy loss that were not properly addressed.
 
 Hydration, food timing, sodium, sleep, and total workload are the first things to review.
+
+## Sources and further reading
+
+The practical recommendations in this guide are based on established sports hydration and nutrition guidance, including:
+
+* [National Athletic Trainers’ Association: Fluid Replacement for the Physically Active](https://www.nata.org/press-release/nata-publishes-new-fluid-replacement-physically-active-position-statement-journal-athletic-training)
+* [Academy of Nutrition and Dietetics, Dietitians of Canada and ACSM: Nutrition and Athletic Performance](https://pubmed.ncbi.nlm.nih.gov/26920240/)
+* [International Society of Sports Nutrition: Nutrient Timing](https://pmc.ncbi.nlm.nih.gov/articles/PMC5596471/)
+
+These sources provide general guidance. Individual fluid, sodium and nutrition needs vary with body size, environment, sweat rate, session duration, intensity and medical factors.
 
 ## Final takeaway
 
@@ -738,4 +743,3 @@ Just better timing and fewer stupid mistakes.
     <a class="btn" href="https://shop.aei-digital.com/b/qZrYQ" target="_blank" rel="noopener noreferrer">Get the Recovery Guide</a>
   </p>
 </section>
-```
