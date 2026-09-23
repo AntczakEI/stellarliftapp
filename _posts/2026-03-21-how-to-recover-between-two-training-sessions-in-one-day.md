@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: post
 title: "Two Workouts a Day: Simple Hydration and Recovery Plan"
