@@ -625,11 +625,11 @@ Then judge the pattern.
 
 ## Train hard enough — not maximally every time
 
-The original version of this article recommended leaving:
+Leaving approximately:
 
-**1–2 reps in reserve.**
+**1–2 reps in reserve**
 
-That is still a useful practical approach for many compound sets.
+can be a useful practical approach for many compound sets.
 
 But it is not a law.
 
@@ -1472,7 +1472,7 @@ Look for patterns.
 
 No.
 
-The old version of this article suggested reducing volume every:
+Some programmes use a lighter week every:
 
 **4–6 weeks.**
 
@@ -1842,7 +1842,7 @@ For the actual workout rather than the programming question, read [Muay Thai Leg
 
 ## Sources and further reading
 
-The updated evidence in this guide was checked against systematic reviews on strength training in combat-sport athletes, concurrent training and resistance training to failure.
+The recommendations in this guide are informed by systematic reviews on strength training in combat-sport athletes, concurrent training and resistance training to failure.
 
 * Cid-Calfucura I et al. **Effects of Strength Training on Physical Fitness of Olympic Combat Sports Athletes: A Systematic Review.** International Journal of Environmental Research and Public Health. 2023;20(4):3516. PMID: 36834211. DOI: 10.3390/ijerph20043516.
 
