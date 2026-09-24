@@ -84,7 +84,7 @@ instead of doing everything at once.
 
 For the wider weekly structure, read [Muay Thai Workout Plan: How to Build a Weekly Gym Program Without Ruining Your Fight Training](/training/muay-thai-workout-plan-weekly-gym-program/).
 
-## What conditioning for Muay Thai actually needs to support
+### What conditioning for Muay Thai actually needs to support
 
 Muay Thai is an intermittent combat sport.
 
@@ -105,7 +105,7 @@ That means conditioning is not one quality.
 
 Your body needs to repeatedly produce energy while recovering enough to continue working.
 
-## Muay Thai uses both aerobic and anaerobic metabolism
+### Muay Thai uses both aerobic and anaerobic metabolism
 
 An older but directly Muay Thai-specific study examined physiological responses in 10 male athletes during a simulated match.
 
@@ -132,7 +132,7 @@ The practical lesson is important:
 
 Aerobic fitness matters too.
 
-## The aerobic system is not just for slow endurance sports
+### The aerobic system is not just for slow endurance sports
 
 People sometimes hear:
 
@@ -158,7 +158,7 @@ That does not mean every fighter needs:
 
 It means you should not ignore aerobic development simply because Muay Thai contains explosive actions.
 
-## Anaerobic capacity still matters
+### Anaerobic capacity still matters
 
 Muay Thai also includes brief periods of very high demand.
 
@@ -180,7 +180,7 @@ So a complete conditioning plan may include:
 
 rather than only one method.
 
-## Do not try to isolate energy systems perfectly
+### Do not try to isolate energy systems perfectly
 
 You will often see programs described as:
 
@@ -207,19 +207,19 @@ Do not pretend that:
 
 They do not.
 
-## Three useful conditioning targets
+### Three useful conditioning targets
 
 For practical Muay Thai training, think about three broad areas.
 
-### 1. Aerobic base
+#### 1. Aerobic base
 
 Longer, easier work that you can sustain without becoming heavily fatigued.
 
-### 2. Repeated high-intensity ability
+#### 2. Repeated high-intensity ability
 
 Producing hard efforts repeatedly with incomplete recovery.
 
-### 3. General work capacity
+#### 3. General work capacity
 
 Being able to perform useful training volume without falling apart.
 
@@ -229,7 +229,7 @@ Extra conditioning should target the area that actually needs more work.
 
 ---
 
-## 1. Aerobic conditioning
+### 1. Aerobic conditioning
 
 Aerobic work is usually:
 
@@ -256,7 +256,7 @@ A practical intensity is one where:
 
 You do not need to turn every aerobic session into a threshold test.
 
-## Aerobic work does not need to look like Muay Thai
+### Aerobic work does not need to look like Muay Thai
 
 This is important.
 
@@ -276,7 +276,7 @@ Specificity matters.
 
 But so does managing wear and fatigue.
 
-## How long?
+### How long?
 
 A practical starting point might be:
 
@@ -293,7 +293,7 @@ Start lower if:
 
 Increase only if you recover well.
 
-## This usually is not a "finisher"
+### This usually is not a "finisher"
 
 Aerobic base work deserves its own category.
 
@@ -313,7 +313,7 @@ Sometimes the best conditioning session is:
 
 ---
 
-## 2. High-intensity interval training
+### 2. High-intensity interval training
 
 HIIT alternates harder work periods with recovery periods.
 
@@ -342,7 +342,7 @@ Still:
 
 it supports high-intensity interval work as a useful conditioning tool for combat-sport athletes.
 
-## Muay Thai-specific evidence is emerging
+### Muay Thai-specific evidence is emerging
 
 A 2026 randomized study involved:
 
@@ -371,7 +371,7 @@ So this should not be interpreted as:
 
 It is one useful piece of emerging sport-specific evidence.
 
-## You do not need sport-specific HIIT for every conditioning session
+### You do not need sport-specific HIIT for every conditioning session
 
 You can use:
 
@@ -395,7 +395,7 @@ There is no evidence-based requirement for every interval to involve:
 
 ---
 
-## 3. Repeated hard efforts
+### 3. Repeated hard efforts
 
 Another practical conditioning goal is the ability to repeatedly produce hard efforts without output collapsing immediately.
 
@@ -418,7 +418,7 @@ Again:
 
 there is no single magic work-to-rest ratio for Muay Thai.
 
-## More specific is not always better
+### More specific is not always better
 
 You could attempt to copy a fight using:
 
@@ -440,7 +440,7 @@ That lets you train the physiological quality without adding more technical repe
 
 ---
 
-# The biggest conditioning mistake: confusing fatigue with fitness
+## The biggest conditioning mistake: confusing fatigue with fitness
 
 The original article was built around this point because it remains the most important one.
 
@@ -461,7 +461,7 @@ everyone becomes exhausted.
 
 That does not prove the session was well designed.
 
-## Conditioning should have a target
+### Conditioning should have a target
 
 Before starting, know what you are trying to improve.
 
@@ -480,7 +480,7 @@ If you cannot answer:
 
 you may simply be accumulating fatigue.
 
-## The goal is not to reproduce maximum fatigue every session
+### The goal is not to reproduce maximum fatigue every session
 
 A fighter does not need to simulate:
 
@@ -498,7 +498,7 @@ That variation is how you build capacity without permanently burying yourself.
 
 ---
 
-# When conditioning finishers actually make sense
+## When conditioning finishers actually make sense
 
 A finisher is simply:
 
@@ -510,7 +510,7 @@ But there is nothing physiologically special about doing conditioning:
 
 **after strength training.**
 
-## Finishers make sense when
+### Finishers make sense when
 
 You want:
 
@@ -524,7 +524,7 @@ They can work particularly well after:
 * moderate-volume strength training
 * shorter gym sessions
 
-## Finishers may be a poor choice when
+### Finishers may be a poor choice when
 
 You already completed:
 
@@ -546,7 +546,7 @@ Your body does not know what Instagram calls a complete workout.
 
 ---
 
-# What makes a good conditioning exercise?
+## What makes a good conditioning exercise?
 
 The original article used a useful filter.
 
@@ -569,7 +569,7 @@ You do not need:
 
 ---
 
-# 10 Muay Thai conditioning exercises
+## 10 Muay Thai conditioning exercises
 
 These are tools.
 
@@ -584,7 +584,7 @@ Choose according to:
 * weekly workload
 * individual tolerance
 
-## 1. Air bike intervals
+### 1. Air bike intervals
 
 The air bike is one of the simplest conditioning tools.
 
@@ -602,7 +602,7 @@ and output can be tracked through:
 
 depending on the machine.
 
-## Best use
+### Best use
 
 Air bikes work particularly well for:
 
@@ -611,7 +611,7 @@ Air bikes work particularly well for:
 
 because you can increase or decrease intensity immediately.
 
-## Example: short hard intervals
+### Example: short hard intervals
 
 **8 rounds**
 
@@ -630,7 +630,7 @@ If round one is so hard that rounds five to eight collapse:
 
 you probably started too aggressively.
 
-## Example: longer intervals
+### Example: longer intervals
 
 **5–6 rounds**
 
@@ -639,7 +639,7 @@ you probably started too aggressively.
 
 This produces a substantial conditioning demand without requiring complex movement.
 
-## Why it works well around Muay Thai
+### Why it works well around Muay Thai
 
 Your legs and arms contribute.
 
@@ -653,7 +653,7 @@ So it can add conditioning without turning into another poor imitation of Muay T
 
 ---
 
-## 2. Rowing machine intervals
+### 2. Rowing machine intervals
 
 A rower gives you another measurable full-body conditioning option.
 
@@ -664,7 +664,7 @@ Useful metrics include:
 * pace
 * watts
 
-## Example
+### Example
 
 **6 rounds**
 
@@ -678,7 +678,7 @@ or:
 * 30 seconds hard
 * 60–90 seconds easy
 
-## Technique still matters
+### Technique still matters
 
 The rower is simple compared with:
 
@@ -693,7 +693,7 @@ If every rep turns into:
 
 reduce the pace.
 
-## Why use a rower instead of more striking?
+### Why use a rower instead of more striking?
 
 Because additional conditioning does not always need additional:
 
@@ -705,7 +705,7 @@ Sometimes a general conditioning tool is exactly what you need.
 
 ---
 
-## 3. Sled pushes
+### 3. Sled pushes
 
 Sled pushes are extremely simple.
 
@@ -719,7 +719,7 @@ Repeat.
 
 That simplicity makes them useful for conditioning.
 
-## Example
+### Example
 
 **5–8 rounds**
 
@@ -735,7 +735,7 @@ rather than turning every push into:
 
 **a one-rep-max sled grind.**
 
-## Heavy versus lighter sled work
+### Heavy versus lighter sled work
 
 A heavier sled gives you:
 
@@ -751,7 +751,7 @@ Those are different stimuli.
 
 Choose according to the session.
 
-## Do not call sleds magically "fight specific"
+### Do not call sleds magically "fight specific"
 
 They are not Muay Thai.
 
@@ -761,7 +761,7 @@ That is enough.
 
 ---
 
-## 4. Sled drags
+### 4. Sled drags
 
 You can also drag a sled:
 
@@ -770,7 +770,7 @@ You can also drag a sled:
 
 Backward drags are often used as a simple quad-dominant loaded conditioning exercise.
 
-## Example
+### Example
 
 **6 rounds**
 
@@ -780,7 +780,7 @@ Backward drags are often used as a simple quad-dominant loaded conditioning exer
 
 Or alternate:
 
-### Round
+#### Round
 
 20 m push  
 +  
@@ -788,7 +788,7 @@ Or alternate:
 
 Then recover.
 
-## Keep the purpose clear
+### Keep the purpose clear
 
 Do not load the sled so heavily that:
 
@@ -802,7 +802,7 @@ do not make it so light that there is barely any challenge.
 
 ---
 
-## 5. Kettlebell swings
+### 5. Kettlebell swings
 
 Kettlebell swings can work for conditioning if you already have:
 
@@ -810,7 +810,7 @@ Kettlebell swings can work for conditioning if you already have:
 
 They involve repeated hip extension and can rapidly increase cardiovascular demand.
 
-## Example
+### Example
 
 **8 rounds**
 
@@ -824,7 +824,7 @@ or:
 * 15 seconds swings
 * 45 seconds recovery
 
-## Stop when technique changes
+### Stop when technique changes
 
 A swing should remain:
 
@@ -839,7 +839,7 @@ If fatigue turns it into:
 
 stop.
 
-## Beginners do not need kettlebell intervals
+### Beginners do not need kettlebell intervals
 
 If you are still learning the swing:
 
@@ -857,7 +857,7 @@ Practise kettlebell technique separately.
 
 ---
 
-## 6. Farmer carries
+### 6. Farmer carries
 
 Farmer carries combine:
 
@@ -868,7 +868,7 @@ Farmer carries combine:
 
 and can be used as short conditioning work.
 
-## Example
+### Example
 
 **5–8 rounds**
 
@@ -887,7 +887,7 @@ Rest.
 
 Repeat.
 
-## Do not make every carry maximal
+### Do not make every carry maximal
 
 Very heavy carries can become primarily:
 
@@ -906,7 +906,7 @@ That is normal.
 
 ---
 
-## 7. Step-up intervals
+### 7. Step-up intervals
 
 Step-ups are simple and require little equipment.
 
@@ -917,14 +917,14 @@ Use:
 
 and maintain a controlled rhythm.
 
-## Example
+### Example
 
 **6 rounds**
 
 * 30 seconds alternating step-ups
 * 60 seconds recovery
 
-## Bodyweight is often enough
+### Bodyweight is often enough
 
 You do not need:
 
@@ -940,7 +940,7 @@ Adding excessive height or load may simply:
 
 without improving the purpose of the session.
 
-## Step-ups can create leg fatigue
+### Step-ups can create leg fatigue
 
 Remember:
 
@@ -959,7 +959,7 @@ another high-volume lower-body interval may be unnecessary.
 
 ---
 
-## 8. Medicine-ball slams and throws
+### 8. Medicine-ball slams and throws
 
 This one needs an important correction from the original article.
 
@@ -983,7 +983,7 @@ and perform the work while fresh.
 
 Read [Core Training for Fighters: What Actually Builds Power, Stability, and Transfer](/training/core-training-for-fighters/) for that approach.
 
-## If you use medicine balls for conditioning
+### If you use medicine balls for conditioning
 
 Keep the movement simple.
 
@@ -1010,7 +1010,7 @@ Those are different things.
 
 ---
 
-## 9. Battle rope intervals
+### 9. Battle rope intervals
 
 Battle ropes are not magical.
 
@@ -1020,7 +1020,7 @@ They can produce high cardiovascular demand with relatively little lower-body mo
 
 That can be useful when your legs already have plenty of work.
 
-## Example
+### Example
 
 **8 rounds**
 
@@ -1035,7 +1035,7 @@ You can use:
 
 Choose something easy to repeat.
 
-## When battle ropes make sense
+### When battle ropes make sense
 
 For example:
 
@@ -1059,7 +1059,7 @@ It is simply workload distribution.
 
 ---
 
-## 10. Simple bodyweight circuits
+### 10. Simple bodyweight circuits
 
 Bodyweight circuits can work.
 
@@ -1073,7 +1073,7 @@ The problem is:
 
 **random exercise selection plus unlimited fatigue.**
 
-## Better exercise options
+### Better exercise options
 
 Use movements that stay simple when tired.
 
@@ -1086,7 +1086,7 @@ Examples:
 * bear crawls
 * controlled sprawls
 
-## Example
+### Example
 
 Perform:
 
@@ -1099,7 +1099,7 @@ Perform:
 
 That is enough.
 
-## Do not build panic circuits
+### Do not build panic circuits
 
 Avoid programming like:
 
@@ -1117,7 +1117,7 @@ The existence of fatigue does not prove that:
 
 ---
 
-# Which conditioning tool should you choose?
+## Which conditioning tool should you choose?
 
 Use the goal.
 
@@ -1140,13 +1140,13 @@ Not a classification law.
 
 ---
 
-# Four practical conditioning templates
+## Four practical conditioning templates
 
 The original article contained three finishers.
 
 Keep those ideas, but add an aerobic option because not all useful conditioning needs to be hard.
 
-## Option 1 — Aerobic support session
+### Option 1 — Aerobic support session
 
 This is **not** a finisher.
 
@@ -1171,7 +1171,7 @@ Use this when you want to develop aerobic capacity without another high-intensit
 
 ---
 
-## Option 2 — Air-bike intervals
+### Option 2 — Air-bike intervals
 
 Perform:
 
@@ -1190,7 +1190,7 @@ followed by:
 
 * complete collapse.
 
-### Progression
+#### Progression
 
 Do not immediately add more rounds.
 
@@ -1208,17 +1208,17 @@ if needed.
 
 ---
 
-## Option 3 — Sled + carry finisher
+### Option 3 — Sled + carry finisher
 
 Perform:
 
-### Sled Push
+#### Sled Push
 
 **20 m**
 
 then:
 
-### Farmer Carry
+#### Farmer Carry
 
 **30 m**
 
@@ -1238,17 +1238,17 @@ No exercise roulette.
 
 ---
 
-## Option 4 — Rower intervals
+### Option 4 — Rower intervals
 
 Perform:
 
 **6 rounds**
 
-### Work
+#### Work
 
 **250 m**
 
-### Recovery
+#### Recovery
 
 **60–120 seconds**
 
@@ -1265,7 +1265,7 @@ The goal is repeated output.
 
 ---
 
-# What about "fight-round" conditioning?
+## What about "fight-round" conditioning?
 
 A common approach is:
 
@@ -1279,9 +1279,9 @@ But do not assume:
 
 **same clock = same physiological demand as fighting.**
 
-## Example
+### Example
 
-### 3 rounds
+#### 3 rounds
 
 3 minutes continuous alternating work:
 
@@ -1307,7 +1307,7 @@ Use general conditioning to support it.
 
 ---
 
-# Should conditioning intervals match fight rounds?
+## Should conditioning intervals match fight rounds?
 
 Not always.
 
@@ -1329,7 +1329,7 @@ There is no one interval structure that develops everything simultaneously.
 
 ---
 
-# How often should you do extra conditioning?
+## How often should you do extra conditioning?
 
 The original article said:
 
@@ -1341,7 +1341,7 @@ Keep that as a practical starting point.
 
 But not as a universal prescription.
 
-## You may need zero extra conditioning sessions
+### You may need zero extra conditioning sessions
 
 If your week already contains:
 
@@ -1359,7 +1359,7 @@ Adding HIIT because:
 
 can make the program worse.
 
-## You may benefit from one or two
+### You may benefit from one or two
 
 This is especially plausible when:
 
@@ -1372,13 +1372,13 @@ The amount depends on the entire week.
 
 ---
 
-# Extra conditioning should solve a problem
+## Extra conditioning should solve a problem
 
 Before adding it, ask:
 
 **What problem am I trying to solve?**
 
-### I fade late in long sessions
+#### I fade late in long sessions
 
 You may need:
 
@@ -1386,11 +1386,11 @@ You may need:
 * better pacing
 * more sport-specific exposure
 
-### I cannot repeat hard bursts
+#### I cannot repeat hard bursts
 
 Intervals may help.
 
-### I am exhausted after one hard round
+#### I am exhausted after one hard round
 
 Possible contributors include:
 
@@ -1405,7 +1405,7 @@ Do not automatically assume:
 
 is the only answer.
 
-### My Muay Thai classes are already brutal
+#### My Muay Thai classes are already brutal
 
 You may need:
 
@@ -1415,37 +1415,37 @@ more than another finisher.
 
 ---
 
-# Where conditioning fits in the week
+## Where conditioning fits in the week
 
 This matters as much as exercise selection.
 
 Suppose your week is:
 
-### Monday
+#### Monday
 
 Muay Thai
 
-### Tuesday
+#### Tuesday
 
 Strength
 
-### Wednesday
+#### Wednesday
 
 Muay Thai
 
-### Thursday
+#### Thursday
 
 Rest
 
-### Friday
+#### Friday
 
 Strength
 
-### Saturday
+#### Saturday
 
 Hard sparring
 
-### Sunday
+#### Sunday
 
 Rest
 
@@ -1473,7 +1473,7 @@ may be a poor trade.
 
 ---
 
-# Protect your important sessions
+## Protect your important sessions
 
 Decide which sessions deserve freshness.
 
@@ -1492,7 +1492,7 @@ The sport comes first.
 
 ---
 
-# Can you do conditioning after strength training?
+## Can you do conditioning after strength training?
 
 Yes.
 
@@ -1520,7 +1520,7 @@ For the complete gym structure, read [Best 2-Day Full Body Gym Workout for Muay 
 
 ---
 
-# Conditioning before strength training?
+## Conditioning before strength training?
 
 Usually:
 
@@ -1544,7 +1544,7 @@ Five minutes of easy cycling is not:
 
 ---
 
-# Conditioning and Muay Thai on the same day
+## Conditioning and Muay Thai on the same day
 
 This can work.
 
@@ -1552,17 +1552,17 @@ In some schedules, clustering hard work on the same day gives you clearer recove
 
 For example:
 
-### Morning
+#### Morning
 
 Conditioning
 
-### Evening
+#### Evening
 
 Muay Thai
 
 or:
 
-### Strength + short intervals
+#### Strength + short intervals
 
 followed later by:
 
@@ -1578,19 +1578,19 @@ For practical same-day recovery, read [Two Workouts a Day: How to Recover Betwee
 
 ---
 
-# If Muay Thai is the priority
+## If Muay Thai is the priority
 
 Keep this hierarchy in mind.
 
-### First
+#### First
 
 Technical quality.
 
-### Then
+#### Then
 
 Important sparring and sport-specific work.
 
-### Then
+#### Then
 
 Supportive strength and conditioning.
 
@@ -1606,7 +1606,7 @@ Not the other way around.
 
 ---
 
-# How hard should intervals feel?
+## How hard should intervals feel?
 
 Different sessions have different targets.
 
@@ -1614,7 +1614,7 @@ But there is one useful principle:
 
 **do not make the first interval so hard that the rest become garbage.**
 
-## Repeated hard intervals
+### Repeated hard intervals
 
 If you want repeatability:
 
@@ -1622,14 +1622,14 @@ output should remain reasonably stable.
 
 For example:
 
-### Bad pattern
+#### Bad pattern
 
 Round 1: enormous output  
 Round 2: large drop  
 Round 3: worse  
 Round 4: survival
 
-### Better pattern
+#### Better pattern
 
 Round 1: hard  
 Round 2: similar  
@@ -1642,7 +1642,7 @@ It is often easier to progress.
 
 ---
 
-# Do you need heart-rate zones?
+## Do you need heart-rate zones?
 
 No.
 
@@ -1659,7 +1659,7 @@ But conditioning can be programmed successfully using:
 
 depending on the session.
 
-## For easy aerobic work
+### For easy aerobic work
 
 The talk test is useful.
 
@@ -1670,7 +1670,7 @@ You should be able to:
 
 without feeling like you are performing an interval.
 
-## For hard intervals
+### For hard intervals
 
 Heart rate is slower to respond than:
 
@@ -1687,7 +1687,7 @@ can sometimes be more useful.
 
 ---
 
-# How to progress conditioning
+## How to progress conditioning
 
 Do not progress everything simultaneously.
 
@@ -1701,17 +1701,17 @@ You can improve conditioning through:
 
 But choose one.
 
-## Example: bike progression
+### Example: bike progression
 
-### Week 1
+#### Week 1
 
 6 × 20 sec hard / 70 sec easy
 
-### Week 2
+#### Week 2
 
 7 × 20 / 70
 
-### Week 3
+#### Week 3
 
 8 × 20 / 70
 
@@ -1729,7 +1729,7 @@ all at once.
 
 ---
 
-# Progress does not always mean less rest
+## Progress does not always mean less rest
 
 This is an important correction.
 
@@ -1752,37 +1752,37 @@ Not an enemy.
 
 ---
 
-# Measure something
+## Measure something
 
 Conditioning becomes easier to manage when you record at least one metric.
 
 For example:
 
-### Bike
+#### Bike
 
 * watts
 * calories
 * distance
 
-### Rower
+#### Rower
 
 * pace
 * distance
 * time
 
-### Sled
+#### Sled
 
 * load
 * distance
 * rounds
 
-### Carry
+#### Carry
 
 * load
 * distance
 * rounds
 
-### Bodyweight circuit
+#### Bodyweight circuit
 
 * rounds
 * total time
@@ -1795,7 +1795,7 @@ You need enough information to see whether the session is actually improving.
 
 ---
 
-# Aerobic work should progress too
+## Aerobic work should progress too
 
 Suppose you begin with:
 
@@ -1805,15 +1805,15 @@ of easy cycling.
 
 Progress might be:
 
-### Week 1
+#### Week 1
 
 20 minutes
 
-### Week 2
+#### Week 2
 
 25 minutes
 
-### Week 3
+#### Week 3
 
 30 minutes
 
@@ -1831,7 +1831,7 @@ Build enough aerobic work to serve your needs.
 
 ---
 
-# Conditioning should not replace strength training
+## Conditioning should not replace strength training
 
 Being conditioned is not the same as being strong.
 
@@ -1856,7 +1856,7 @@ For the distinction, read [Strength and Conditioning for Muay Thai: What to Buil
 
 ---
 
-# Strength training should not become conditioning by accident
+## Strength training should not become conditioning by accident
 
 The opposite problem also happens.
 
@@ -1891,7 +1891,7 @@ Use conditioning separately.
 
 ---
 
-# What about running?
+## What about running?
 
 Running can absolutely be used for conditioning.
 
@@ -1909,7 +1909,7 @@ The question is:
 
 **does running fit your body and training week?**
 
-## Running adds impact
+### Running adds impact
 
 Muay Thai already involves:
 
@@ -1928,7 +1928,7 @@ use another aerobic tool.
 
 Bike and rower are alternatives.
 
-## You also do not need to avoid running
+### You also do not need to avoid running
 
 The opposite extreme is equally unnecessary.
 
@@ -1942,7 +1942,7 @@ it can be perfectly useful.
 
 ---
 
-# What about skipping rope?
+## What about skipping rope?
 
 Skipping is already common in Muay Thai.
 
@@ -1963,7 +1963,7 @@ It counts.
 
 ---
 
-# What about bag intervals?
+## What about bag intervals?
 
 Bag work can be an excellent conditioning tool.
 
@@ -1977,7 +1977,7 @@ If you perform it while completely exhausted:
 
 technique may deteriorate.
 
-## One useful structure
+### One useful structure
 
 For example:
 
@@ -1995,7 +1995,7 @@ But do not simply throw:
 
 Pace the round.
 
-## If bag work is already in your Muay Thai sessions
+### If bag work is already in your Muay Thai sessions
 
 You may not need:
 
@@ -2007,7 +2007,7 @@ Use a general tool instead.
 
 ---
 
-# What about shadowboxing intervals?
+## What about shadowboxing intervals?
 
 Shadowboxing can be used for:
 
@@ -2033,7 +2033,7 @@ Do not combine those concepts carelessly.
 
 ---
 
-# Weighted gloves?
+## Weighted gloves?
 
 The 2026 Muay Thai HIIT study used:
 
@@ -2061,7 +2061,7 @@ General HIIT methods have a much broader evidence base.
 
 ---
 
-# What about burpees?
+## What about burpees?
 
 Burpees are not evil.
 
@@ -2092,7 +2092,7 @@ you can use that instead.
 
 ---
 
-# What about jump squats?
+## What about jump squats?
 
 Jump squats can be used as:
 
@@ -2128,7 +2128,7 @@ So jump squats are usually not my first choice for:
 
 ---
 
-# What about battle ropes versus bag work?
+## What about battle ropes versus bag work?
 
 They are not substitutes.
 
@@ -2148,7 +2148,7 @@ Choose according to the day's goal.
 
 ---
 
-# Conditioning for beginners
+## Conditioning for beginners
 
 If you recently started Muay Thai:
 
@@ -2167,7 +2167,7 @@ focus on:
 
 Then reassess.
 
-## Beginners often make the mistake of adding everything
+### Beginners often make the mistake of adding everything
 
 They begin:
 
@@ -2191,35 +2191,35 @@ Build from there.
 
 ---
 
-# Conditioning for recreational fighters
+## Conditioning for recreational fighters
 
 A recreational schedule might include:
 
-### Monday
+#### Monday
 
 Muay Thai
 
-### Tuesday
+#### Tuesday
 
 Strength + short intervals
 
-### Wednesday
+#### Wednesday
 
 Rest
 
-### Thursday
+#### Thursday
 
 Muay Thai
 
-### Friday
+#### Friday
 
 Strength
 
-### Saturday
+#### Saturday
 
 Muay Thai or sparring
 
-### Sunday
+#### Sunday
 
 Rest
 
@@ -2231,7 +2231,7 @@ You may not need another:
 
 ---
 
-# Conditioning for higher Muay Thai volume
+## Conditioning for higher Muay Thai volume
 
 If you train:
 
@@ -2252,7 +2252,7 @@ the more selective your supplementary work should become.
 
 ---
 
-# Hard conditioning during fight camp
+## Hard conditioning during fight camp
 
 Fight camp is not the time to assume:
 
@@ -2282,7 +2282,7 @@ all at once.
 
 ---
 
-# Recovery matters
+## Recovery matters
 
 Conditioning only works if you can adapt to it.
 
@@ -2303,7 +2303,7 @@ For the broader recovery picture, read [How Many Rest Days Do You Really Need? G
 
 ---
 
-# Hydration during conditioning
+## Hydration during conditioning
 
 Short gym finishers do not necessarily require:
 
@@ -2323,7 +2323,7 @@ For general guidance, read [How Much Water to Drink Before, During and After a W
 
 ---
 
-# Common conditioning mistake #1: everything is HIIT
+## Common conditioning mistake #1: everything is HIIT
 
 HIIT is effective.
 
@@ -2337,7 +2337,7 @@ And Muay Thai itself already contains high-intensity intervals.
 
 ---
 
-# Common mistake #2: every gym session gets a finisher
+## Common mistake #2: every gym session gets a finisher
 
 A finisher is optional.
 
@@ -2355,7 +2355,7 @@ at the end.
 
 ---
 
-# Common mistake #3: chasing exhaustion
+## Common mistake #3: chasing exhaustion
 
 Do not judge the workout by:
 
@@ -2371,7 +2371,7 @@ Judge it by whether:
 
 ---
 
-# Common mistake #4: using technical lifts for conditioning
+## Common mistake #4: using technical lifts for conditioning
 
 High fatigue is not the ideal environment for learning:
 
@@ -2382,7 +2382,7 @@ Use simple movements.
 
 ---
 
-# Common mistake #5: turning power work into conditioning
+## Common mistake #5: turning power work into conditioning
 
 If medicine-ball throws become:
 
@@ -2396,7 +2396,7 @@ Stop or change the goal.
 
 ---
 
-# Common mistake #6: too much lower-body conditioning
+## Common mistake #6: too much lower-body conditioning
 
 Muay Thai already gives your legs substantial workload.
 
@@ -2414,7 +2414,7 @@ For lower-body strength specifically, read [Should You Train Legs If You Do Muay
 
 ---
 
-# Common mistake #7: copying fight duration blindly
+## Common mistake #7: copying fight duration blindly
 
 Three-minute intervals are not automatically:
 
@@ -2426,7 +2426,7 @@ The intensity and type of work matter too.
 
 ---
 
-# Common mistake #8: shortening rest every week
+## Common mistake #8: shortening rest every week
 
 Less rest does not always mean:
 
@@ -2440,7 +2440,7 @@ Sometimes maintaining output with adequate rest is more useful.
 
 ---
 
-# Common mistake #9: adding conditioning when the real problem is pacing
+## Common mistake #9: adding conditioning when the real problem is pacing
 
 If you explode through the first minute of every sparring round:
 
@@ -2456,7 +2456,7 @@ Conditioning cannot completely compensate for poor pacing.
 
 ---
 
-# Common mistake #10: ignoring total workload
+## Common mistake #10: ignoring total workload
 
 Your body experiences:
 
@@ -2474,7 +2474,7 @@ fatigue accumulates regardless of category.
 
 ---
 
-# Signs you may be doing too much conditioning
+## Signs you may be doing too much conditioning
 
 One difficult week does not diagnose anything.
 
@@ -2501,7 +2501,7 @@ rather than simply adding another recovery method.
 
 ---
 
-# Which session should you remove first?
+## Which session should you remove first?
 
 If your week becomes overloaded:
 
@@ -2509,15 +2509,15 @@ start with the lowest-priority work.
 
 Often that means:
 
-### First
+#### First
 
 Optional finishers.
 
-### Then
+#### Then
 
 Extra conditioning that duplicates Muay Thai.
 
-### Then
+#### Then
 
 Accessory volume.
 
@@ -2531,7 +2531,7 @@ work where possible.
 
 ---
 
-# Conditioning versus active recovery
+## Conditioning versus active recovery
 
 Do not call hard conditioning:
 
@@ -2551,11 +2551,11 @@ For the distinction, read [What Counts as Active Recovery? 15 Low-Stress Options
 
 ---
 
-# A simple decision checklist
+## A simple decision checklist
 
 Before adding extra conditioning, ask:
 
-### How many hard Muay Thai sessions do I already have?
+#### How many hard Muay Thai sessions do I already have?
 
 If the answer is:
 
@@ -2563,7 +2563,7 @@ If the answer is:
 
 extra HIIT may be unnecessary.
 
-### What quality am I trying to improve?
+#### What quality am I trying to improve?
 
 Aerobic base?
 
@@ -2571,11 +2571,11 @@ Repeated high-intensity work?
 
 General capacity?
 
-### Where does it fit in the week?
+#### Where does it fit in the week?
 
 Avoid compromising important sparring or technical work.
 
-### What is the lowest-fatigue tool that can do the job?
+#### What is the lowest-fatigue tool that can do the job?
 
 Maybe:
 
@@ -2585,13 +2585,13 @@ instead of:
 
 * high-impact jump circuit.
 
-### Can I measure progress?
+#### Can I measure progress?
 
 If possible:
 
 track something.
 
-### Am I recovering?
+#### Am I recovering?
 
 If not:
 
@@ -2599,9 +2599,9 @@ reduce before adding.
 
 ---
 
-# FAQ
+## FAQ
 
-## What are the best conditioning exercises for Muay Thai?
+### What are the best conditioning exercises for Muay Thai?
 
 There is no single best exercise.
 
@@ -2619,7 +2619,7 @@ Practical options include:
 
 The best option depends on the conditioning quality you want to train.
 
-## Is Muay Thai aerobic or anaerobic?
+### Is Muay Thai aerobic or anaerobic?
 
 Both contribute.
 
@@ -2627,19 +2627,19 @@ A Muay Thai simulation study found substantial involvement of aerobic metabolism
 
 Muay Thai should not be treated as exclusively anaerobic.
 
-## Do fighters need aerobic training?
+### Do fighters need aerobic training?
 
 Aerobic conditioning can be useful because the aerobic system contributes to sustained work and recovery between repeated efforts.
 
 That does not mean every fighter needs long-distance running.
 
-## Is HIIT good for Muay Thai?
+### Is HIIT good for Muay Thai?
 
 It can be.
 
 Systematic reviews in combat-sport athletes show improvements in aerobic and anaerobic performance after HIIT interventions.
 
-## Is HIIT better than steady cardio?
+### Is HIIT better than steady cardio?
 
 Not universally.
 
@@ -2647,7 +2647,7 @@ They train overlapping but different qualities and carry different fatigue costs
 
 A program can use both.
 
-## How many conditioning sessions should I do?
+### How many conditioning sessions should I do?
 
 There is no universal number.
 
@@ -2661,13 +2661,13 @@ Some athletes need more.
 
 Some need none.
 
-## Should I do conditioning every day?
+### Should I do conditioning every day?
 
 Usually not.
 
 Muay Thai sessions themselves provide substantial conditioning.
 
-## Should I do cardio after every gym session?
+### Should I do cardio after every gym session?
 
 No.
 
@@ -2675,11 +2675,11 @@ Add conditioning because it serves a purpose.
 
 Not because every gym session requires a finisher.
 
-## Should I do conditioning before Muay Thai?
+### Should I do conditioning before Muay Thai?
 
 Avoid hard conditioning before an important technical or sparring session if it reduces training quality.
 
-## Can I do conditioning after Muay Thai?
+### Can I do conditioning after Muay Thai?
 
 You can.
 
@@ -2687,13 +2687,13 @@ But if the Muay Thai session was already hard:
 
 extra conditioning may offer little benefit relative to its recovery cost.
 
-## Can I condition after lifting?
+### Can I condition after lifting?
 
 Yes.
 
 Short, simple intervals often fit well after strength work.
 
-## What is the best machine for fighters?
+### What is the best machine for fighters?
 
 There is no best machine.
 
@@ -2703,31 +2703,31 @@ Air bikes and rowers are useful because they are:
 * scalable
 * technically simple.
 
-## Is running good for Muay Thai?
+### Is running good for Muay Thai?
 
 It can be.
 
 If you tolerate it and it fits your training week.
 
-## Do fighters need long runs?
+### Do fighters need long runs?
 
 Not necessarily.
 
 Aerobic conditioning can be built through multiple methods.
 
-## Is Zone 2 useful for Muay Thai?
+### Is Zone 2 useful for Muay Thai?
 
 Low-to-moderate aerobic work can be useful.
 
 You do not need to obsess over an exact heart-rate zone for it to be productive.
 
-## Are sprints necessary?
+### Are sprints necessary?
 
 No.
 
 They are one conditioning tool.
 
-## Are hill sprints good?
+### Are hill sprints good?
 
 They can provide hard interval work.
 
@@ -2735,55 +2735,55 @@ They also add running and lower-body stress.
 
 Use them only if that fits the week.
 
-## Are sled pushes good for conditioning?
+### Are sled pushes good for conditioning?
 
 Yes.
 
 They are simple and easy to scale.
 
-## Are kettlebell swings good?
+### Are kettlebell swings good?
 
 Yes, if you already have good technique.
 
 Do not learn high-repetition swings while exhausted.
 
-## Are battle ropes useful?
+### Are battle ropes useful?
 
 They can be.
 
 They are simply a practical interval tool, not a special fighter exercise.
 
-## Are burpees good for Muay Thai?
+### Are burpees good for Muay Thai?
 
 They can be used.
 
 They are not required.
 
-## Are bodyweight circuits enough?
+### Are bodyweight circuits enough?
 
 They can provide conditioning.
 
 But exercise selection and progression still matter.
 
-## Should conditioning feel horrible?
+### Should conditioning feel horrible?
 
 Not always.
 
 Some effective sessions should feel controlled.
 
-## Should I copy fight rounds exactly?
+### Should I copy fight rounds exactly?
 
 Not necessarily.
 
 Matching round duration does not automatically reproduce the physiological or technical demands of fighting.
 
-## Do 3-minute intervals make sense?
+### Do 3-minute intervals make sense?
 
 They can.
 
 But shorter and longer intervals also have useful roles.
 
-## How long should an aerobic session be?
+### How long should an aerobic session be?
 
 A practical starting point may be around:
 
@@ -2791,7 +2791,7 @@ A practical starting point may be around:
 
 depending on current fitness and total training volume.
 
-## How long should a conditioning finisher be?
+### How long should a conditioning finisher be?
 
 Often:
 
@@ -2801,7 +2801,7 @@ can be plenty.
 
 Longer does not automatically mean better.
 
-## How do I progress conditioning?
+### How do I progress conditioning?
 
 Progress one variable at a time:
 
@@ -2813,21 +2813,21 @@ Progress one variable at a time:
 
 while keeping total fatigue manageable.
 
-## Should rest periods get shorter?
+### Should rest periods get shorter?
 
 Only if that serves your conditioning goal and output remains appropriate.
 
-## What if my output falls every round?
+### What if my output falls every round?
 
 You may have started too hard or used too little recovery.
 
-## Do I need a heart-rate monitor?
+### Do I need a heart-rate monitor?
 
 No.
 
 It can be useful but is not required.
 
-## Does conditioning replace Muay Thai?
+### Does conditioning replace Muay Thai?
 
 No.
 
@@ -2840,13 +2840,13 @@ It does not replace:
 * clinch
 * technical practice.
 
-## Does Muay Thai itself count as conditioning?
+### Does Muay Thai itself count as conditioning?
 
 Absolutely.
 
 That is why additional conditioning must be programmed around it.
 
-## What if my legs always feel heavy?
+### What if my legs always feel heavy?
 
 Look at the total lower-body workload from:
 
@@ -2857,7 +2857,7 @@ Look at the total lower-body workload from:
 
 before adding more work.
 
-## What if I am already exhausted every week?
+### What if I am already exhausted every week?
 
 You probably do not need:
 
@@ -2867,7 +2867,7 @@ Review recovery and total workload first.
 
 ---
 
-## Sources and further reading
+### Sources and further reading
 
 The original practical exercise list and finisher structure were retained, while the physiological claims and conditioning framework were updated using Muay Thai-specific and broader combat-sport research.
 
@@ -2892,7 +2892,7 @@ for every athlete.
 
 The finishers and aerobic templates in this article are practical programming options based on the demands described in the research and the need to manage fatigue around actual Muay Thai training.
 
-## Final takeaway
+### Final takeaway
 
 Muay Thai conditioning should not be:
 
