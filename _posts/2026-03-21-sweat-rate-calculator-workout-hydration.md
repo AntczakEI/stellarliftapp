@@ -2,7 +2,7 @@
 layout: post
 title: "Sweat Rate Calculator: Your Workout Hydration Plan"
 date: 2026-03-21
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-24
 author: "Tomasz Antczak"
 categories: [hydration]
 tags: [hydration, sweat rate, sweat loss, electrolytes, sodium, muay thai, workout hydration, water intake]
@@ -127,7 +127,7 @@ so the shorter version is usually enough.
 
 Over a relatively short exercise session, most rapid body-mass loss comes from fluid loss.
 
-Research and sports-hydration guidelines therefore commonly use pre- and post-exercise body mass to estimate whole-body sweat loss. :chatgpt-content-reference{index="1"}
+Research and sports-hydration guidelines therefore commonly use pre- and post-exercise body mass to estimate whole-body sweat loss.
 
 It is not a perfect laboratory measurement.
 
@@ -147,7 +147,7 @@ Small measurement errors can make the result much less useful.
 
 Use the same method every time.
 
-## Step 1: weigh yourself before training
+### Step 1: weigh yourself before training
 
 Do it as close to the start of exercise as practical.
 
@@ -162,7 +162,7 @@ Example:
 
 **82.4 kg**
 
-## Step 2: record everything you drink
+### Step 2: record everything you drink
 
 Measure the amount in your bottle before and after training, or use a bottle with volume markings.
 
@@ -182,7 +182,7 @@ Fluid consumed:
 
 Do not estimate from memory if you want a useful result.
 
-## Step 3: note any urine produced
+### Step 3: note any urine produced
 
 If you use the toilet during the test, ideally measure or estimate the urine volume.
 
@@ -190,7 +190,7 @@ If you do not urinate:
 
 **urine = 0**
 
-## Step 4: weigh yourself immediately after training
+### Step 4: weigh yourself immediately after training
 
 Before weighing:
 
@@ -204,7 +204,7 @@ If you weigh yourself wearing soaked clothing, part of the sweat that left your 
 
 That makes your apparent body-weight loss smaller and can underestimate sweat loss.
 
-## Step 5: calculate total sweat loss
+### Step 5: calculate total sweat loss
 
 Example:
 
@@ -232,7 +232,7 @@ Estimated sweat loss:
 
 **0.8 + 0.55 = 1.35 L**
 
-## Step 6: convert session time to hours
+### Step 6: convert session time to hours
 
 Examples:
 
@@ -249,7 +249,7 @@ If the example session lasted 75 minutes:
 
 **1.25 hours**
 
-## Step 7: calculate sweat rate
+### Step 7: calculate sweat rate
 
 Estimated sweat loss:
 
@@ -343,7 +343,7 @@ Your result can change with:
 * fitness
 * individual physiology
 
-Research in athletes shows large differences both **between people and within the same person under different conditions**. :chatgpt-content-reference{index="2"}
+Research in athletes shows large differences both **between people and within the same person under different conditions**.
 
 That means the best approach is not:
 
@@ -406,7 +406,7 @@ Your drinking plan also depends on:
 * temperature
 * whether you need rapid recovery afterwards
 
-Sports-hydration guidance generally recommends individualising fluid intake so that dehydration does not become excessive while also avoiding overdrinking. :chatgpt-content-reference{index="3"}
+Sports-hydration guidance generally recommends individualising fluid intake so that dehydration does not become excessive while also avoiding overdrinking.
 
 ## You do not always need to replace 100% during exercise
 
@@ -680,7 +680,7 @@ It does **not** tell you:
 
 These are separate measurements.
 
-Research shows substantial individual variation in both sweat rate and sweat sodium concentration. :chatgpt-content-reference{index="4"}
+Research shows substantial individual variation in both sweat rate and sweat sodium concentration.
 
 Two athletes can each sweat:
 
@@ -818,7 +818,7 @@ but routinely drink:
 
 during prolonged exercise, you may be accumulating fluid rather than simply replacing it.
 
-Exercise-associated hyponatremia is strongly associated with excessive fluid intake relative to losses during prolonged exercise. :chatgpt-content-reference{index="5"}
+Exercise-associated hyponatremia is strongly associated with excessive fluid intake relative to losses during prolonged exercise.
 
 A useful check is:
 
@@ -848,7 +848,7 @@ Read [Can You Drink Too Much Water During Exercise?](/hydration/can-you-drink-to
 
 ## What if you lose more than 2% of your body weight?
 
-Traditional sports-hydration guidance often uses around **2% body-mass loss** as a point at which exercise-related dehydration may become large enough to affect performance under some conditions. :chatgpt-content-reference{index="6"}
+Traditional sports-hydration guidance often uses around **2% body-mass loss** as a point at which exercise-related dehydration may become large enough to affect performance under some conditions.
 
 You can calculate the percentage as:
 
@@ -1108,7 +1108,7 @@ Use it to understand your own losses.
 
 It represents a meaningful fluid loss, particularly during prolonged exercise.
 
-But sweat rates around and above this level are seen in athletic populations, especially in hot conditions and demanding sports. :chatgpt-content-reference{index="7"}
+But sweat rates around and above this level are seen in athletic populations, especially in hot conditions and demanding sports.
 
 ### Can sweat rate be more than 2 litres per hour?
 
@@ -1188,7 +1188,7 @@ People with medical conditions affecting fluid or electrolyte balance should fol
 
 ## Sources and further reading
 
-The calculation and interpretation in this guide were checked against sports-hydration guidelines and research on whole-body sweat measurement.
+The calculation and interpretation in this guide are informed by sports-hydration guidelines and research on whole-body sweat measurement.
 
 * Baker LB. **Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability.** Sports Medicine. 2017;47(Suppl 1):111–128. PMID: 28332116.  
   https://pubmed.ncbi.nlm.nih.gov/28332116/
