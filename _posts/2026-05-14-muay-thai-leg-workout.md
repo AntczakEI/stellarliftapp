@@ -197,7 +197,7 @@ Then perform:
 
 Then start specific warm-up sets for your first loaded exercise.
 
-## Specific warm-up matters more than random activation
+### Specific warm-up matters more than random activation
 
 Suppose your first working exercise is:
 
@@ -222,7 +222,7 @@ The goal is:
 
 ---
 
-# Exercise 1 — Optional jump
+## Exercise 1 — Optional jump
 
 If you already have experience with jumping and want a small power component, perform it:
 
@@ -243,7 +243,7 @@ Rest approximately:
 
 or long enough that each set remains fast.
 
-## This section is optional
+### This section is optional
 
 If you are:
 
@@ -256,7 +256,7 @@ skip it.
 
 You do not need plyometrics to make the workout legitimate.
 
-## Power work should remain powerful
+### Power work should remain powerful
 
 Do not turn:
 
@@ -278,7 +278,7 @@ Not fatigue.
 
 ---
 
-# Exercise 2 — Squat pattern
+## Exercise 2 — Squat pattern
 
 Choose one:
 
@@ -302,7 +302,7 @@ Rest:
 
 between demanding sets.
 
-## You do not need one special "fighter squat"
+### You do not need one special "fighter squat"
 
 There is no squat variation that becomes uniquely functional because you practise Muay Thai.
 
@@ -313,7 +313,7 @@ Choose a version that:
 * fits your equipment
 * does not create excessive recovery cost
 
-## Option A — Front squat
+### Option A — Front squat
 
 Useful if you:
 
@@ -325,7 +325,7 @@ Example:
 
 **3 × 5–8**
 
-## Option B — Goblet squat
+### Option B — Goblet squat
 
 Useful for:
 
@@ -349,7 +349,7 @@ At that point:
 
 choose another variation.
 
-## Option C — Leg press or hack squat
+### Option C — Leg press or hack squat
 
 Perfectly valid.
 
@@ -363,7 +363,7 @@ They allow you to train the legs against resistance with a stable setup.
 
 That can be useful when you want lower-body strength work without another technically demanding exercise.
 
-## How deep should you squat?
+### How deep should you squat?
 
 Use a:
 
@@ -386,7 +386,7 @@ Use the range you can:
 
 ---
 
-# Exercise 3 — Romanian deadlift
+## Exercise 3 — Romanian deadlift
 
 Perform:
 
@@ -407,7 +407,7 @@ The Romanian deadlift provides hip-dominant loading for areas including:
 
 and trains the hinge pattern.
 
-## How to perform it
+### How to perform it
 
 Start with the weight under control.
 
@@ -422,7 +422,7 @@ Descend until you reach a range you can control without needing to:
 
 Then return through hip extension.
 
-## You do not need maximum hamstring stretch
+### You do not need maximum hamstring stretch
 
 More range is not automatically better if:
 
@@ -433,7 +433,7 @@ Use a reproducible range.
 
 Progress it over time if appropriate.
 
-## RDL soreness can be substantial
+### RDL soreness can be substantial
 
 Especially when:
 
@@ -459,7 +459,7 @@ Do not immediately assume:
 
 ---
 
-# Exercise 4 — Split squat
+## Exercise 4 — Split squat
 
 Choose:
 
@@ -476,7 +476,7 @@ at approximately:
 
 **2–3 RIR.**
 
-## Why use unilateral work?
+### Why use unilateral work?
 
 Muay Thai contains many situations where one leg supports much of your bodyweight.
 
@@ -501,7 +501,7 @@ Research comparing the two generally suggests:
 
 So use both where appropriate.
 
-## Why only two sets?
+### Why only two sets?
 
 Because unilateral work can become a large amount of training very quickly.
 
@@ -523,7 +523,7 @@ Start smaller.
 
 Add only if you recover well.
 
-## Rear-foot-elevated split squats
+### Rear-foot-elevated split squats
 
 These can be useful.
 
@@ -541,7 +541,7 @@ rather than assuming more soreness means more benefit.
 
 ---
 
-# Exercise 5 — Lateral movement
+## Exercise 5 — Lateral movement
 
 Choose one:
 
@@ -561,7 +561,7 @@ or:
 
 for the machine.
 
-## Why include lateral work?
+### Why include lateral work?
 
 A typical gym program contains a lot of:
 
@@ -575,7 +575,7 @@ Muay Thai includes stance adjustments and movement outside a purely straight-lin
 
 A small amount of lateral or adductor work can therefore broaden the strength stimulus.
 
-## Do not oversell adductor training
+### Do not oversell adductor training
 
 Direct adductor work does not guarantee:
 
@@ -587,7 +587,7 @@ It simply strengthens tissue involved in hip adduction and related movements.
 
 That can be a useful part of general preparation.
 
-## Start conservatively
+### Start conservatively
 
 New lateral lunges or adductor work can create substantial soreness.
 
@@ -599,7 +599,7 @@ two days before sparring.
 
 ---
 
-# Exercise 6 — Calf raise
+## Exercise 6 — Calf raise
 
 Choose one:
 
@@ -616,7 +616,7 @@ Use:
 
 **1–3 RIR.**
 
-## Why train calves?
+### Why train calves?
 
 Muay Thai involves repeated:
 
@@ -628,7 +628,7 @@ Muay Thai involves repeated:
 
 so direct calf strength work is a reasonable accessory.
 
-## Calf raises do not "condition your shins"
+### Calf raises do not "condition your shins"
 
 This is important.
 
@@ -651,7 +651,7 @@ That is useful enough.
 
 ---
 
-# Optional tibialis work
+## Optional tibialis work
 
 If you want additional lower-leg training:
 
@@ -674,7 +674,7 @@ Keep accessories proportional to their importance.
 
 ---
 
-# Optional trunk work
+## Optional trunk work
 
 Choose one:
 
@@ -700,7 +700,7 @@ For dedicated trunk programming, read [Core Training for Fighters: What Actually
 
 ---
 
-# The complete standard workout
+## The complete standard workout
 
 Here it is again without the explanations:
 
@@ -747,7 +747,7 @@ is enough.
 
 ---
 
-# Short version — when Muay Thai volume is high
+## Short version — when Muay Thai volume is high
 
 Sometimes the full session is unnecessary.
 
@@ -782,7 +782,7 @@ This may take:
 
 **30–40 minutes.**
 
-## A shorter workout is not a failed workout
+### A shorter workout is not a failed workout
 
 If you maintain or gradually improve:
 
@@ -796,7 +796,7 @@ the shorter session may be exactly what you need.
 
 ---
 
-# Minimal version — hard sparring week
+## Minimal version — hard sparring week
 
 When sport workload is temporarily very high:
 
@@ -822,7 +822,7 @@ You do not have to chase strength PRs during every phase of Muay Thai training.
 
 ---
 
-# Beginner version
+## Beginner version
 
 If you are new to the gym:
 
@@ -846,7 +846,7 @@ use fewer exercises.
 
 That is enough to start.
 
-## Do not introduce everything at once
+### Do not introduce everything at once
 
 A beginner does not need on day one:
 
@@ -869,7 +869,7 @@ Build gradually.
 
 ---
 
-# How hard should the workout be?
+## How hard should the workout be?
 
 For most strength sets:
 
@@ -885,7 +885,7 @@ For the bigger lower-body exercises in this workout:
 
 is often a good starting point.
 
-## Why stop short of failure?
+### Why stop short of failure?
 
 Training to failure is not required for strength development.
 
@@ -911,7 +911,7 @@ Often:
 
 no.
 
-## Failure is not forbidden
+### Failure is not forbidden
 
 Occasionally training a:
 
@@ -924,7 +924,7 @@ But failure does not need to be your default progression method.
 
 ---
 
-# Rest periods
+## Rest periods
 
 For:
 
@@ -964,7 +964,7 @@ This session is primarily for strength.
 
 ---
 
-# How to progress the workout
+## How to progress the workout
 
 Use a simple:
 
@@ -1006,7 +1006,7 @@ For the full progression system, read [Progressive Overload Explained: How to Ke
 
 ---
 
-# Progress does not require weekly weight increases
+## Progress does not require weekly weight increases
 
 Muay Thai training changes.
 
@@ -1035,7 +1035,7 @@ Look at the trend.
 
 ---
 
-# Do not add sets until you need them
+## Do not add sets until you need them
 
 The standard session already contains substantial lower-body work.
 
@@ -1063,7 +1063,7 @@ that trade-off matters.
 
 ---
 
-# One leg workout or two?
+## One leg workout or two?
 
 There is no universal answer.
 
@@ -1077,7 +1077,7 @@ Another option is to distribute leg work across:
 
 **two full-body sessions.**
 
-## Option 1 — One leg-focused session
+### Option 1 — One leg-focused session
 
 Use the standard workout from this article.
 
@@ -1086,15 +1086,15 @@ Then your other gym day can be more:
 * upper-body
 * full-body with minimal leg volume
 
-## Option 2 — Split the lower-body work
+### Option 2 — Split the lower-body work
 
-### Gym A
+#### Gym A
 
 * Squat — 3 × 5–8
 * Split Squat — 2 × 6–8
 * upper-body training
 
-### Gym B
+#### Gym B
 
 * RDL — 3 × 6–8
 * Lateral Lunge — 2 × 8
@@ -1107,7 +1107,7 @@ For the full two-day structure, read [Best 2-Day Full Body Gym Workout for Muay 
 
 ---
 
-# Unilateral versus bilateral work
+## Unilateral versus bilateral work
 
 You do not need to choose a side.
 
@@ -1133,7 +1133,7 @@ use a sensible combination.
 
 ---
 
-# Should you use barbell back squats?
+## Should you use barbell back squats?
 
 You can.
 
@@ -1150,7 +1150,7 @@ Do not use them simply because:
 
 **serious athletes squat.**
 
-## Alternatives include
+### Alternatives include
 
 * Front Squat
 * Goblet Squat
@@ -1162,7 +1162,7 @@ The sport does not award points for exercise selection in the gym.
 
 ---
 
-# Should you deadlift?
+## Should you deadlift?
 
 Again:
 
@@ -1190,7 +1190,7 @@ Choose based on:
 
 ---
 
-# What about hip thrusts?
+## What about hip thrusts?
 
 You can substitute them for the main hinge.
 
@@ -1210,7 +1210,7 @@ Use them if they suit you.
 
 ---
 
-# What about hamstring curls?
+## What about hamstring curls?
 
 Useful optional accessory.
 
@@ -1232,7 +1232,7 @@ remove lateral work that day and use leg curls instead.
 
 ---
 
-# What about Nordic hamstring curls?
+## What about Nordic hamstring curls?
 
 They can provide a demanding eccentric hamstring stimulus.
 
@@ -1252,7 +1252,7 @@ start with very low volume.
 
 ---
 
-# What about leg extensions?
+## What about leg extensions?
 
 They are fine.
 
@@ -1274,7 +1274,7 @@ instead of adding another compound exercise.
 
 ---
 
-# What about the adductor machine?
+## What about the adductor machine?
 
 Also fine.
 
@@ -1290,7 +1290,7 @@ do not assume it guarantees groin-injury prevention.
 
 ---
 
-# What about tibialis raises?
+## What about tibialis raises?
 
 They are optional lower-leg work.
 
@@ -1306,7 +1306,7 @@ Not because of exaggerated injury-prevention claims.
 
 ---
 
-# Do you need explosive leg exercises?
+## Do you need explosive leg exercises?
 
 Not necessarily.
 
@@ -1338,7 +1338,7 @@ Do not turn them into a conditioning finisher.
 
 ---
 
-# Leg strength and kicking power are not the same thing
+## Leg strength and kicking power are not the same thing
 
 This deserves repeating.
 
@@ -1368,7 +1368,7 @@ You need both if performance is the goal.
 
 ---
 
-# When should you train legs?
+## When should you train legs?
 
 There is no universal:
 
@@ -1388,7 +1388,7 @@ The better principle is:
 
 **protect the sessions that matter most.**
 
-## If Saturday is hard sparring
+### If Saturday is hard sparring
 
 Avoid placing your largest lower-body workload:
 
@@ -1396,7 +1396,7 @@ Avoid placing your largest lower-body workload:
 
 if experience shows your legs remain heavy the next day.
 
-## If Tuesday is technical work
+### If Tuesday is technical work
 
 A Monday leg session may be completely manageable.
 
@@ -1408,7 +1408,7 @@ rather than an internet rule.
 
 ---
 
-# Example weekly schedule — Muay Thai 3× per week
+## Example weekly schedule — Muay Thai 3× per week
 
 ### Monday
 
@@ -1446,7 +1446,7 @@ move the leg workout.
 
 ---
 
-# Example — Saturday sparring is the priority
+## Example — Saturday sparring is the priority
 
 ### Monday
 
@@ -1480,7 +1480,7 @@ This creates more space before the important session.
 
 ---
 
-# What if you train Muay Thai four or five times per week?
+## What if you train Muay Thai four or five times per week?
 
 Reduce the gym dose.
 
@@ -1510,7 +1510,7 @@ Your strength program should not ignore the fact that:
 
 ---
 
-# Same-day leg training and Muay Thai
+## Same-day leg training and Muay Thai
 
 It can work.
 
@@ -1530,7 +1530,7 @@ Rest
 
 But the session order should reflect your priority.
 
-## If Muay Thai quality matters most
+### If Muay Thai quality matters most
 
 Doing Muay Thai:
 
@@ -1538,7 +1538,7 @@ Doing Muay Thai:
 
 usually makes sense.
 
-## If strength is temporarily the higher priority
+### If strength is temporarily the higher priority
 
 Strength may come first.
 
@@ -1550,7 +1550,7 @@ For practical guidance, read [Two Workouts a Day: How to Recover Between Trainin
 
 ---
 
-# How sore should your legs be?
+## How sore should your legs be?
 
 Some soreness can happen.
 
@@ -1562,7 +1562,7 @@ Especially after:
 
 But soreness is not the objective.
 
-## Mild soreness
+### Mild soreness
 
 May not matter much.
 
@@ -1574,7 +1574,7 @@ If you can still:
 
 you may simply adjust training.
 
-## Severe soreness
+### Severe soreness
 
 If it:
 
@@ -1591,7 +1591,7 @@ For help separating normal soreness from something more concerning, read [DOMS v
 
 ---
 
-# What should you reduce first?
+## What should you reduce first?
 
 If the workout interferes with Muay Thai:
 
@@ -1619,7 +1619,7 @@ Keep the core structure while reducing total volume.
 
 ---
 
-# What if split squats cause most of the soreness?
+## What if split squats cause most of the soreness?
 
 Try:
 
@@ -1636,7 +1636,7 @@ They are simply one exercise.
 
 ---
 
-# What if RDLs make hamstrings too sore?
+## What if RDLs make hamstrings too sore?
 
 Try:
 
@@ -1649,7 +1649,7 @@ Allow adaptation before deciding the movement does not suit you.
 
 ---
 
-# What if squats make your legs heavy?
+## What if squats make your legs heavy?
 
 Ask whether the problem is:
 
@@ -1667,7 +1667,7 @@ You may simply need:
 
 ---
 
-# Common mistake #1 — Bodybuilding leg-day volume
+## Common mistake #1 — Bodybuilding leg-day volume
 
 A traditional hypertrophy session may contain:
 
@@ -1686,7 +1686,7 @@ the recovery cost may be unnecessary.
 
 ---
 
-# Common mistake #2 — Training every set to failure
+## Common mistake #2 — Training every set to failure
 
 Failure creates greater acute fatigue.
 
@@ -1700,7 +1700,7 @@ keep most work around:
 
 ---
 
-# Common mistake #3 — Chasing soreness
+## Common mistake #3 — Chasing soreness
 
 If you judge the workout by:
 
@@ -1717,7 +1717,7 @@ Judge it by:
 
 ---
 
-# Common mistake #4 — Too many new exercises
+## Common mistake #4 — Too many new exercises
 
 New:
 
@@ -1733,7 +1733,7 @@ Then keep them stable long enough to adapt.
 
 ---
 
-# Common mistake #5 — Treating unilateral as automatically superior
+## Common mistake #5 — Treating unilateral as automatically superior
 
 Muay Thai contains unilateral positions.
 
@@ -1745,7 +1745,7 @@ Use both.
 
 ---
 
-# Common mistake #6 — Going heavy immediately before sparring
+## Common mistake #6 — Going heavy immediately before sparring
 
 A great leg workout followed by terrible sparring is not necessarily a successful training plan.
 
@@ -1753,7 +1753,7 @@ Protect the higher-priority session.
 
 ---
 
-# Common mistake #7 — Turning the leg workout into conditioning
+## Common mistake #7 — Turning the leg workout into conditioning
 
 Squats with:
 
@@ -1775,7 +1775,7 @@ For conditioning itself, use [Muay Thai Conditioning Exercises: 10 Gym Finishers
 
 ---
 
-# Common mistake #8 — Adding plyometrics when already fatigued
+## Common mistake #8 — Adding plyometrics when already fatigued
 
 Jumps performed after:
 
@@ -1791,7 +1791,7 @@ put them near the start.
 
 ---
 
-# Common mistake #9 — Ignoring total weekly lower-body stress
+## Common mistake #9 — Ignoring total weekly lower-body stress
 
 Your legs experience stress from:
 
@@ -1809,7 +1809,7 @@ Look at everything.
 
 ---
 
-# Common mistake #10 — Never adjusting the program
+## Common mistake #10 — Never adjusting the program
 
 Your normal week and hard sparring week do not need identical gym volume.
 
@@ -1823,7 +1823,7 @@ Not weakness.
 
 ---
 
-# Recovery after the workout
+## Recovery after the workout
 
 You do not need a complicated recovery protocol.
 
@@ -1841,7 +1841,7 @@ For the broader weekly recovery picture, read [How Many Rest Days Do You Really 
 
 ---
 
-# Do you need a deload?
+## Do you need a deload?
 
 Not after an arbitrary number of weeks.
 
@@ -1865,9 +1865,9 @@ Read [Deload Week for Muay Thai + Gym: When to Do It and How to Do It](/recovery
 
 ---
 
-# FAQ
+## FAQ
 
-## What is the best leg workout for Muay Thai?
+### What is the best leg workout for Muay Thai?
 
 There is no single best workout.
 
@@ -1881,7 +1881,7 @@ A practical session can include:
 
 with controlled volume.
 
-## How many leg exercises do I need?
+### How many leg exercises do I need?
 
 Usually:
 
@@ -1891,7 +1891,7 @@ is plenty.
 
 You do not need ten.
 
-## How many sets should I do?
+### How many sets should I do?
 
 This template uses mostly:
 
@@ -1899,7 +1899,7 @@ This template uses mostly:
 
 Your ideal amount depends on the rest of your training week.
 
-## How many reps?
+### How many reps?
 
 A practical structure is:
 
@@ -1912,7 +1912,7 @@ These are programming ranges.
 
 Not magic numbers.
 
-## How many reps in reserve?
+### How many reps in reserve?
 
 For this workout:
 
@@ -1928,29 +1928,29 @@ For the biggest exercises:
 
 is a useful starting point.
 
-## Should Muay Thai fighters squat?
+### Should Muay Thai fighters squat?
 
 They can.
 
 Squats are useful but not mandatory.
 
-## Should fighters deadlift?
+### Should fighters deadlift?
 
 They can.
 
 Choose a hinge variation that fits the athlete and recovery demands.
 
-## Are split squats good for Muay Thai?
+### Are split squats good for Muay Thai?
 
 Yes, they can be useful unilateral strength exercises.
 
 They are not uniquely superior to every bilateral exercise.
 
-## Are Bulgarian split squats necessary?
+### Are Bulgarian split squats necessary?
 
 No.
 
-## Are lunges better than squats for fighters?
+### Are lunges better than squats for fighters?
 
 Not universally.
 
@@ -1958,11 +1958,11 @@ They train somewhat different tasks.
 
 You can use both.
 
-## Are leg presses okay?
+### Are leg presses okay?
 
 Yes.
 
-## Are machines bad for fighters?
+### Are machines bad for fighters?
 
 No.
 
@@ -1970,29 +1970,29 @@ Resistance is resistance.
 
 Exercise selection should fit the goal.
 
-## Should I train calves?
+### Should I train calves?
 
 Calf work can be a reasonable addition because the lower leg receives repeated loading during Muay Thai.
 
 It is not mandatory.
 
-## Should I train tibialis?
+### Should I train tibialis?
 
 Optional.
 
-## Do calf and tibialis raises condition shins?
+### Do calf and tibialis raises condition shins?
 
 They strengthen muscles.
 
 They do not reproduce the impact of checking or being kicked.
 
-## Should I train adductors?
+### Should I train adductors?
 
 You can.
 
 Lateral lunges or machine work are simple options.
 
-## Will stronger legs make me kick harder?
+### Will stronger legs make me kick harder?
 
 They may improve physical qualities relevant to force production.
 
@@ -2000,25 +2000,25 @@ But kicking power depends heavily on technique and coordination.
 
 There is no guarantee that increasing squat strength directly increases kick power.
 
-## Will leg training make me slow?
+### Will leg training make me slow?
 
 Strength training itself does not automatically make you slow.
 
 Residual fatigue from poorly timed or excessive training can temporarily make you feel slow.
 
-## Should I train to failure?
+### Should I train to failure?
 
 Not routinely.
 
 Failure is not required and creates more acute fatigue.
 
-## Should I use heavy weights?
+### Should I use heavy weights?
 
 Use enough resistance to make the target rep range challenging.
 
 You do not need maximal loads.
 
-## Do I need 1RM testing?
+### Do I need 1RM testing?
 
 No.
 
@@ -2028,7 +2028,7 @@ You can progress perfectly well using:
 * RIR
 * gradual load increases.
 
-## Should I do plyometrics?
+### Should I do plyometrics?
 
 Optional.
 
@@ -2036,13 +2036,13 @@ If used for power:
 
 keep them low volume and high quality.
 
-## Should I do jump squats as a finisher?
+### Should I do jump squats as a finisher?
 
 Not if your goal is high-quality power.
 
 Fatigue reduces explosive output.
 
-## How often should I train legs?
+### How often should I train legs?
 
 For many Muay Thai athletes:
 
@@ -2052,31 +2052,31 @@ is a practical starting point.
 
 It is not a universal optimum.
 
-## Is one leg day enough?
+### Is one leg day enough?
 
 It can be.
 
 Especially when Muay Thai frequency is high.
 
-## Is two leg days too much?
+### Is two leg days too much?
 
 Not necessarily.
 
 Two smaller exposures may be easier to recover from than one large session.
 
-## Should I train legs the day before Muay Thai?
+### Should I train legs the day before Muay Thai?
 
 It depends on how hard both sessions are.
 
 Avoid repeatedly putting your hardest leg session immediately before your most important Muay Thai session.
 
-## Should I train legs before sparring?
+### Should I train legs before sparring?
 
 If the leg workout leaves residual fatigue that reduces sparring quality:
 
 move or reduce it.
 
-## Do I need exactly 48 hours between legs and sparring?
+### Do I need exactly 48 hours between legs and sparring?
 
 No.
 
@@ -2084,13 +2084,13 @@ Recovery varies between athletes and sessions.
 
 Use your actual response.
 
-## Can I train legs and Muay Thai on the same day?
+### Can I train legs and Muay Thai on the same day?
 
 Yes.
 
 Manage volume and decide which session has priority.
 
-## What if I am still sore after three days?
+### What if I am still sore after three days?
 
 Review:
 
@@ -2104,13 +2104,13 @@ If pain is sharp, local, worsening, or affects normal movement:
 
 do not simply treat it as ordinary DOMS.
 
-## What if I have knee pain?
+### What if I have knee pain?
 
 This article is a general strength-training guide.
 
 Persistent or significant knee pain requires individual assessment rather than choosing exercises from an online template.
 
-## How long should the workout take?
+### How long should the workout take?
 
 Usually around:
 
@@ -2120,7 +2120,7 @@ for the full version.
 
 The reduced version can be substantially shorter.
 
-## Can I do this workout every week?
+### Can I do this workout every week?
 
 Yes, if:
 
