@@ -173,7 +173,7 @@ That is much more useful to understand than assigning one muscle to one techniqu
 
 ---
 
-# Lower-body muscles used in Muay Thai
+## Lower-body muscles used in Muay Thai
 
 The lower body does a huge amount of work.
 
@@ -195,7 +195,7 @@ Even punching involves lower-body action.
 
 Biomechanical research in boxing demonstrates measurable ground-reaction forces during punching, reinforcing the point that effective striking is not only an upper-body task.
 
-## Quadriceps
+### Quadriceps
 
 The quadriceps are the large muscles on the front of the thigh.
 
@@ -221,7 +221,7 @@ They also work on the:
 
 while the other leg strikes.
 
-## Quads during a round kick
+#### Quads during a round kick
 
 A round kick is not simply:
 
@@ -239,7 +239,7 @@ So the quadriceps contribute.
 
 But they are one part of a much larger movement.
 
-## Do strong quads mean stronger kicks?
+#### Do strong quads mean stronger kicks?
 
 Not automatically.
 
@@ -261,7 +261,7 @@ Do not reduce a complex strike to:
 
 ---
 
-# Hamstrings
+### Hamstrings
 
 The hamstrings cross the back of the thigh.
 
@@ -282,7 +282,7 @@ They work during many Muay Thai actions, including:
 
 They also work with the glutes during hip-dominant actions.
 
-## Hamstrings are not just the opposite of the quads
+#### Hamstrings are not just the opposite of the quads
 
 You will sometimes hear that fighters need:
 
@@ -302,7 +302,7 @@ But structured hamstring training can still be useful because Muay Thai itself d
 * leg curls
 * hip hinges
 
-## Do you need direct hamstring training?
+#### Do you need direct hamstring training?
 
 Not necessarily in large amounts.
 
@@ -321,7 +321,7 @@ It is useful strength that you can recover from.
 
 ---
 
-# Glutes
+### Glutes
 
 The gluteal muscles contribute to several hip actions.
 
@@ -344,7 +344,7 @@ Examples include:
 * knees
 * returning the striking leg
 
-## Do the glutes create kicking power?
+#### Do the glutes create kicking power?
 
 They contribute to the movement.
 
@@ -369,7 +369,7 @@ But do not expect:
 
 **hip thrust PR = automatic round-kick PR.**
 
-## Useful strength exercises
+#### Useful strength exercises
 
 Options include:
 
@@ -386,7 +386,7 @@ For a complete lower-body session, read [Muay Thai Leg Workout: Build Stronger K
 
 ---
 
-# Hip flexors
+### Hip flexors
 
 The hip flexors are particularly obvious in Muay Thai because the thigh repeatedly needs to move toward the torso.
 
@@ -408,7 +408,7 @@ The main muscles involved in hip flexion include structures such as:
 
 depending on the movement and joint position.
 
-## More hip-flexor work is not automatically better
+#### More hip-flexor work is not automatically better
 
 Muay Thai already gives your hip flexors:
 
@@ -427,7 +427,7 @@ Supplement it only when it serves a clear purpose.
 
 ---
 
-# Adductors
+### Adductors
 
 The adductors run along the inner thigh.
 
@@ -452,7 +452,7 @@ Muay Thai practitioners often notice the adductors after:
 * new mobility work
 * unfamiliar lateral strength exercises
 
-## Should fighters train adductors directly?
+#### Should fighters train adductors directly?
 
 They can.
 
@@ -473,7 +473,7 @@ Use it as one possible part of general strength preparation.
 
 ---
 
-# Hip abductors
+### Hip abductors
 
 Muscles involved in hip abduction include parts of the:
 
@@ -510,7 +510,7 @@ Normal strength work and Muay Thai itself already challenge these muscles.
 
 ---
 
-# Calves
+### Calves
 
 The calf complex includes:
 
@@ -531,7 +531,7 @@ Your calves work during:
 
 That is why beginners frequently notice calf fatigue during their first Muay Thai classes.
 
-## Supporting-leg work matters
+#### Supporting-leg work matters
 
 When you kick with one leg:
 
@@ -546,7 +546,7 @@ It must help:
 
 So the lower leg is not simply passive while the other leg kicks.
 
-## Should fighters do calf raises?
+#### Should fighters do calf raises?
 
 They can.
 
@@ -560,7 +560,7 @@ inside a strength program can be enough.
 
 ---
 
-# Tibialis anterior and the muscles around the ankle
+### Tibialis anterior and the muscles around the ankle
 
 The tibialis anterior contributes to:
 
@@ -582,7 +582,7 @@ These areas work constantly during:
 * pivots
 * footwork
 
-## Do tibialis raises condition your shins?
+#### Do tibialis raises condition your shins?
 
 Not in the way people sometimes claim.
 
@@ -601,7 +601,7 @@ Treat muscular strengthening and impact exposure as different things.
 
 ---
 
-# The hips as a movement system
+## The hips as a movement system
 
 People often say:
 
@@ -628,7 +628,7 @@ That is why both:
 
 matter.
 
-## Mobility alone is not enough
+### Mobility alone is not enough
 
 Being able to move your leg into a position passively does not mean you can:
 
@@ -636,7 +636,7 @@ Being able to move your leg into a position passively does not mean you can:
 * generate force there
 * recover from it quickly
 
-## Strength alone is not enough either
+### Strength alone is not enough either
 
 You can have very strong legs while lacking the:
 
@@ -652,7 +652,7 @@ For general mobility work, read [10-Minute Mobility Routine: Daily Reset for Hip
 
 ---
 
-# Trunk and core muscles
+## Trunk and core muscles
 
 The word:
 
@@ -674,7 +674,7 @@ These include:
 * spinal extensors
 * other trunk stabilizers
 
-## What does the core do in Muay Thai?
+### What does the core do in Muay Thai?
 
 It contributes during:
 
@@ -703,7 +703,7 @@ Sometimes it:
 
 depending on the action.
 
-## Does the core "transfer power"?
+### Does the core "transfer power"?
 
 That phrase is useful as a simple coaching idea.
 
@@ -724,7 +724,7 @@ A better description is:
 
 **strikes involve coordinated whole-body movement, and the trunk is one part of that coordination.**
 
-## What does the research say?
+### What does the research say?
 
 A 2025 systematic review of core-strength training in striking combat sports included studies from:
 
@@ -763,9 +763,7 @@ Transfer to a specific strike still depends on:
 
 For the dedicated guide, read [Core Training for Fighters: What Actually Builds Power, Stability, and Transfer](/training/core-training-for-fighters/).
 
----
-
-# Rectus abdominis
+### Rectus abdominis
 
 The rectus abdominis is the muscle commonly associated with:
 
@@ -788,7 +786,7 @@ does not create a complete fighter core program.
 
 ---
 
-# Obliques
+### Obliques
 
 The internal and external obliques contribute to:
 
@@ -815,7 +813,7 @@ Gym training can develop physical capacity around it.
 
 ---
 
-# Spinal extensors
+### Spinal extensors
 
 Muscles running along the back of the trunk contribute to:
 
@@ -842,7 +840,7 @@ You do not necessarily need:
 
 ---
 
-# Shoulders
+## Shoulders
 
 The shoulders work constantly in Muay Thai.
 
@@ -871,7 +869,7 @@ That is why the shoulder should not be thought of as:
 
 **one muscle.**
 
-## Why do beginners' shoulders burn?
+### Why do beginners' shoulders burn?
 
 Often because they suddenly combine:
 
@@ -888,7 +886,7 @@ That does not necessarily mean:
 
 It may simply be a new endurance demand.
 
-## Should fighters train shoulders in the gym?
+### Should fighters train shoulders in the gym?
 
 They can.
 
@@ -908,7 +906,7 @@ For the full upper-body breakdown, read [Best Upper Body Exercises for Muay Thai
 
 ---
 
-# Chest
+## Chest
 
 The pectoral muscles contribute to movements of the upper arm, including:
 
@@ -938,7 +936,7 @@ It does not automatically create:
 * timing
 * punching technique
 
-## Is bench press useful for Muay Thai?
+### Is bench press useful for Muay Thai?
 
 It can be.
 
@@ -954,7 +952,7 @@ The exercise should fit the wider program.
 
 ---
 
-# Triceps
+## Triceps
 
 The triceps extend the elbow.
 
@@ -965,7 +963,7 @@ That makes them relevant during:
 
 They also contribute to many gym pressing movements.
 
-## Do fighters need direct triceps work?
+### Do fighters need direct triceps work?
 
 Not necessarily.
 
@@ -984,7 +982,7 @@ But they are:
 
 ---
 
-# Biceps
+## Biceps
 
 The biceps contribute to:
 
@@ -1003,7 +1001,7 @@ They work during:
 
 They also contribute during gym pulling exercises.
 
-## Do fighters need curls?
+### Do fighters need curls?
 
 They can do them.
 
@@ -1025,7 +1023,7 @@ a small amount is fine.
 
 ---
 
-# Upper back
+## Upper back
 
 Several muscles of the upper back contribute to movement and control of the:
 
@@ -1048,7 +1046,7 @@ They work during:
 * pulling
 * posture
 
-## Fighters do not necessarily need a magical push-to-pull ratio
+### Fighters do not necessarily need a magical push-to-pull ratio
 
 The old article suggested fighters often need:
 
@@ -1070,7 +1068,7 @@ to build useful upper-body strength alongside pressing work.
 
 ---
 
-# Lats
+## Lats
 
 The latissimus dorsi contributes to several shoulder actions, including:
 
@@ -1092,7 +1090,7 @@ Gym exercises that train the lats include:
 * lat pulldowns
 * rows
 
-## Are pull-ups good for Muay Thai?
+### Are pull-ups good for Muay Thai?
 
 They can be.
 
@@ -1108,7 +1106,7 @@ We have a dedicated article on that relationship at [Muay Thai Pull-Ups: Do They
 
 ---
 
-# Forearms and grip
+## Forearms and grip
 
 The forearms contribute to:
 
@@ -1131,7 +1129,7 @@ Grip is more obvious in:
 
 but it still matters during Muay Thai clinch work.
 
-## Does Muay Thai build grip strength?
+### Does Muay Thai build grip strength?
 
 Clinch work certainly challenges the:
 
@@ -1148,7 +1146,7 @@ But if grip strength is a clear limitation, general strength exercises such as:
 
 can provide additional loading.
 
-## Do not destroy your forearms before clinch
+### Do not destroy your forearms before clinch
 
 Too much separate grip training may leave your:
 
@@ -1162,7 +1160,7 @@ Prioritize the sport.
 
 ---
 
-# Neck
+## Neck
 
 The neck musculature contributes to:
 
@@ -1184,7 +1182,7 @@ when another fighter is actively trying to:
 
 your head and upper body.
 
-## Does Muay Thai train the neck?
+### Does Muay Thai train the neck?
 
 Yes, particularly through:
 
@@ -1202,7 +1200,7 @@ creates a very different neck demand from:
 
 **technical bag work.**
 
-## Direct neck training
+### Direct neck training
 
 Some combat athletes also perform controlled neck strengthening.
 
@@ -1220,7 +1218,7 @@ And because the current Stellar Lift site does not have a retained dedicated nec
 
 ---
 
-# What muscles work during a Muay Thai round kick?
+## What muscles work during a Muay Thai round kick?
 
 A round kick is one of the clearest examples of why:
 
@@ -1287,7 +1285,7 @@ rather than one isolated action.
 
 ---
 
-# What muscles work during a teep?
+## What muscles work during a teep?
 
 A teep involves contributions from:
 
@@ -1324,7 +1322,7 @@ Not a:
 
 ---
 
-# What muscles work during knees?
+## What muscles work during knees?
 
 Knee strikes involve substantial movement around the:
 
@@ -1350,7 +1348,7 @@ against an opponent.
 
 ---
 
-# What muscles work during punches?
+## What muscles work during punches?
 
 Punches involve the entire kinetic system.
 
@@ -1388,7 +1386,7 @@ That is one reason it is inaccurate to say:
 
 **punching power comes from the arms.**
 
-## Straight punches
+### Straight punches
 
 Typically involve significant:
 
@@ -1397,7 +1395,7 @@ Typically involve significant:
 * shoulder movement
 * elbow extension
 
-## Hooks
+### Hooks
 
 Place greater obvious emphasis on:
 
@@ -1412,7 +1410,7 @@ But the exact mechanics depend on:
 
 ---
 
-# What muscles work during the clinch?
+## What muscles work during the clinch?
 
 Clinch may be the part of Muay Thai where muscular involvement feels most obviously:
 
@@ -1477,7 +1475,7 @@ That is why clinch can feel much more physically demanding than its movement spe
 
 ---
 
-# What muscles work during checks?
+## What muscles work during checks?
 
 When you lift a leg to check a kick, the body must:
 
@@ -1501,7 +1499,7 @@ Repeated checks can become surprisingly tiring because each repetition contains 
 
 ---
 
-# What muscles work during footwork?
+## What muscles work during footwork?
 
 Footwork repeatedly uses:
 
@@ -1527,7 +1525,7 @@ That is why stance and footwork alone can fatigue a new athlete.
 
 ---
 
-# A movement-by-movement summary
+## A movement-by-movement summary
 
 | Muay Thai action | Major areas involved |
 |---|---|
@@ -1548,7 +1546,7 @@ No technique is produced by one isolated muscle group.
 
 ---
 
-# Does Muay Thai build muscle?
+## Does Muay Thai build muscle?
 
 It can provide a stimulus for some muscular adaptation, particularly if:
 
@@ -1571,7 +1569,7 @@ It contains:
 
 rather than carefully controlled progressive resistance for each muscle group.
 
-## So can you get more muscular from Muay Thai?
+### So can you get more muscular from Muay Thai?
 
 Possibly.
 
@@ -1590,7 +1588,7 @@ Do not expect Muay Thai classes alone to function like a bodybuilding program.
 
 ---
 
-# Does Muay Thai make you strong?
+## Does Muay Thai make you strong?
 
 It develops:
 
@@ -1623,7 +1621,7 @@ Likewise:
 
 a very strong lifter may initially be poor at Muay Thai.
 
-## Strength training can complement the sport
+### Strength training can complement the sport
 
 A systematic review of strength-training interventions in combat-sport athletes found improvements in areas including:
 
@@ -1646,7 +1644,7 @@ Not:
 
 ---
 
-# What areas may benefit from extra strength training?
+## What areas may benefit from extra strength training?
 
 It is better to ask this than:
 
@@ -1680,9 +1678,7 @@ The correct emphasis depends on:
 * injury history
 * goals
 
----
-
-# Lower-body strength
+### Lower-body strength
 
 Useful gym patterns include:
 
@@ -1696,9 +1692,7 @@ You do not need:
 
 For the complete session, use [Muay Thai Leg Workout: Build Stronger Kicks Without Wrecking Your Training Week](/training/muay-thai-leg-workout/).
 
----
-
-# Upper-body strength
+### Upper-body strength
 
 Useful movement categories include:
 
@@ -1717,9 +1711,7 @@ That may mean exercises such as:
 
 For exercise selection, read [Best Upper Body Exercises for Muay Thai: What Helps and What Wastes Time](/training/best-upper-body-exercises-for-muay-thai/).
 
----
-
-# Trunk strength
+### Trunk strength
 
 A simple trunk program might include:
 
@@ -1736,7 +1728,7 @@ Read [Core Training for Fighters: What Actually Builds Power, Stability, and Tra
 
 ---
 
-# A simple two-day fighter gym structure
+## A simple two-day fighter gym structure
 
 If Muay Thai is your priority, you do not necessarily need:
 
@@ -1747,47 +1739,47 @@ If Muay Thai is your priority, you do not necessarily need:
 
 A two-day full-body setup can cover most supportive strength needs.
 
-## Day A
+### Day A
 
-### Squat
-
-**3 × 5–8**
-
-### Horizontal press
+#### Squat
 
 **3 × 5–8**
 
-### Row
+#### Horizontal press
+
+**3 × 5–8**
+
+#### Row
 
 **3 × 6–10**
 
-### Single-leg exercise
+#### Single-leg exercise
 
 **2 × 6–10 per side**
 
-### Core
+#### Core
 
 **2–3 sets**
 
-## Day B
+### Day B
 
-### Hinge
+#### Hinge
 
 **3 × 5–8**
 
-### Pull-up or pulldown
+#### Pull-up or pulldown
 
 **3 × 5–10**
 
-### Angled or vertical press
+#### Angled or vertical press
 
 **2–3 × 6–10**
 
-### Lower-body accessory
+#### Lower-body accessory
 
 **2 sets**
 
-### Carry or trunk work
+#### Carry or trunk work
 
 **2–3 sets**
 
@@ -1797,7 +1789,7 @@ For the full program, read [Best 2-Day Full Body Gym Workout for Muay Thai Fight
 
 ---
 
-# Do gym exercises need to look like Muay Thai?
+## Do gym exercises need to look like Muay Thai?
 
 No.
 
@@ -1844,7 +1836,7 @@ Specific skill comes from:
 
 ---
 
-# Muscle strength is only one part of performance
+## Muscle strength is only one part of performance
 
 A stronger fighter is not automatically a better fighter.
 
@@ -1876,7 +1868,7 @@ For weekly programming, read [Muay Thai Workout Plan: How to Build a Weekly Gym 
 
 ---
 
-# Common mistake #1: thinking Muay Thai only works the legs
+## Common mistake #1: thinking Muay Thai only works the legs
 
 Kicks are visually dominant.
 
@@ -1898,7 +1890,7 @@ especially during:
 
 ---
 
-# Common mistake #2: thinking punching is mainly an arm exercise
+## Common mistake #2: thinking punching is mainly an arm exercise
 
 The arm is the final visible segment.
 
@@ -1919,7 +1911,7 @@ do not create good punching.
 
 ---
 
-# Common mistake #3: thinking one muscle creates a kick
+## Common mistake #3: thinking one muscle creates a kick
 
 You may hear:
 
@@ -1939,7 +1931,7 @@ with isolated-muscle explanations.
 
 ---
 
-# Common mistake #4: assuming every used muscle needs isolation work
+## Common mistake #4: assuming every used muscle needs isolation work
 
 Muay Thai uses the:
 
@@ -1956,7 +1948,7 @@ Compound resistance training can cover many areas efficiently.
 
 ---
 
-# Common mistake #5: training the gym instead of the sport
+## Common mistake #5: training the gym instead of the sport
 
 It is easy to become obsessed with:
 
@@ -1974,7 +1966,7 @@ gym progress should support:
 
 ---
 
-# Common mistake #6: judging muscle use by soreness
+## Common mistake #6: judging muscle use by soreness
 
 A muscle being sore does not prove it was:
 
@@ -1993,7 +1985,7 @@ a muscle can work substantially without becoming sore.
 
 ---
 
-# Common mistake #7: believing more muscle always improves performance
+## Common mistake #7: believing more muscle always improves performance
 
 Muscle can contribute to:
 
@@ -2011,7 +2003,7 @@ Maximum muscle mass is not automatically the optimal goal for every fighter.
 
 ---
 
-# Common mistake #8: ignoring supporting muscles
+## Common mistake #8: ignoring supporting muscles
 
 People naturally focus on:
 
@@ -2032,7 +2024,7 @@ The strike is not produced by one limb working alone.
 
 ---
 
-# Common mistake #9: confusing flexibility with control
+## Common mistake #9: confusing flexibility with control
 
 Being able to lift the leg high does not automatically mean you can:
 
@@ -2047,7 +2039,7 @@ Muay Thai needs usable mobility combined with:
 
 ---
 
-# Common mistake #10: trying to make strength training sport-specific at all costs
+## Common mistake #10: trying to make strength training sport-specific at all costs
 
 An exercise does not become better because it:
 
@@ -2069,9 +2061,9 @@ Then let the overall program create the transfer.
 
 ---
 
-# FAQ
+## FAQ
 
-## Does Muay Thai work the whole body?
+### Does Muay Thai work the whole body?
 
 Yes.
 
@@ -2079,7 +2071,7 @@ It involves substantial lower-body, trunk, and upper-body activity.
 
 Different muscle groups contribute differently depending on the technique.
 
-## What muscles does Muay Thai work the most?
+### What muscles does Muay Thai work the most?
 
 There is no useful single ranking.
 
@@ -2094,7 +2086,7 @@ Major areas include:
 
 with the neck, grip, ankles, and feet also contributing.
 
-## Does Muay Thai work the legs?
+### Does Muay Thai work the legs?
 
 Yes.
 
@@ -2107,13 +2099,13 @@ The lower body is heavily involved in:
 * stance
 * supporting the body during strikes.
 
-## Does Muay Thai work the glutes?
+### Does Muay Thai work the glutes?
 
 Yes.
 
 The gluteal muscles contribute to several hip actions used throughout Muay Thai.
 
-## Does Muay Thai work the hamstrings?
+### Does Muay Thai work the hamstrings?
 
 Yes.
 
@@ -2123,7 +2115,7 @@ They contribute to:
 * knee flexion
 * control of lower-body movement.
 
-## Does Muay Thai work the calves?
+### Does Muay Thai work the calves?
 
 Yes.
 
@@ -2136,7 +2128,7 @@ Repeated:
 
 place substantial demand on the lower legs.
 
-## Does Muay Thai work the hip flexors?
+### Does Muay Thai work the hip flexors?
 
 Yes.
 
@@ -2147,13 +2139,13 @@ They are heavily involved when lifting the leg for:
 * checks
 * kicks.
 
-## Does Muay Thai work the adductors?
+### Does Muay Thai work the adductors?
 
 Yes.
 
 The inner-thigh musculature contributes to hip movement and control during many kicking, stance, and clinch actions.
 
-## Does Muay Thai train the core?
+### Does Muay Thai train the core?
 
 Yes.
 
@@ -2165,7 +2157,7 @@ The trunk works throughout:
 * clinch
 * stance control.
 
-## Will Muay Thai give me abs?
+### Will Muay Thai give me abs?
 
 Visible abdominal definition depends heavily on:
 
@@ -2177,19 +2169,19 @@ as well as muscular development.
 
 Muay Thai can train the abdominal musculature, but it does not guarantee visible abs.
 
-## Does Muay Thai work shoulders?
+### Does Muay Thai work shoulders?
 
 Yes.
 
 Punching, guard, blocking, framing, and clinch create substantial shoulder demand.
 
-## Does Muay Thai work the chest?
+### Does Muay Thai work the chest?
 
 Yes.
 
 The pectoral muscles contribute during punching and pushing actions.
 
-## Does Muay Thai work the back?
+### Does Muay Thai work the back?
 
 Yes.
 
@@ -2200,7 +2192,7 @@ Upper-back and lat musculature contribute to:
 * clinch
 * arm and shoulder control.
 
-## Does Muay Thai work biceps?
+### Does Muay Thai work biceps?
 
 Yes.
 
@@ -2212,7 +2204,7 @@ The elbow flexors contribute during:
 
 But Muay Thai is not a biceps-hypertrophy program.
 
-## Does Muay Thai work triceps?
+### Does Muay Thai work triceps?
 
 Yes.
 
@@ -2221,7 +2213,7 @@ The triceps contribute to elbow extension during:
 * straight punches
 * pushing movements.
 
-## Does Muay Thai work forearms?
+### Does Muay Thai work forearms?
 
 Yes.
 
@@ -2232,19 +2224,19 @@ They contribute during:
 * pad holding
 * clinch.
 
-## Does Muay Thai work the neck?
+### Does Muay Thai work the neck?
 
 Yes, particularly during clinch and contact.
 
 The amount depends heavily on how much clinching your training includes.
 
-## Does Muay Thai build muscle?
+### Does Muay Thai build muscle?
 
 It can produce some muscular development, particularly in newer trainees.
 
 But maximizing muscle growth is not the primary training goal of Muay Thai.
 
-## Can Muay Thai replace strength training?
+### Can Muay Thai replace strength training?
 
 It depends on your goal.
 
@@ -2263,7 +2255,7 @@ If you want structured development of:
 
 resistance training can complement the sport.
 
-## Do I need bodybuilding if I train Muay Thai?
+### Do I need bodybuilding if I train Muay Thai?
 
 No.
 
@@ -2271,13 +2263,13 @@ Strength training does not need to resemble bodybuilding.
 
 A compact full-body program can cover most supportive strength needs.
 
-## Should fighters train every muscle separately?
+### Should fighters train every muscle separately?
 
 No.
 
 A few well-selected compound exercises can train many muscle groups simultaneously.
 
-## What is the most important muscle for kicking?
+### What is the most important muscle for kicking?
 
 There is no single most important muscle.
 
@@ -2290,7 +2282,7 @@ Kicking is a coordinated movement involving:
 * trunk
 * upper body.
 
-## What is the most important muscle for punching?
+### What is the most important muscle for punching?
 
 Again:
 
@@ -2298,7 +2290,7 @@ there is no single one.
 
 Punching is a coordinated whole-body action.
 
-## Are strong legs important for punching?
+### Are strong legs important for punching?
 
 Lower-body force and ground interaction contribute to punching mechanics.
 
@@ -2308,13 +2300,13 @@ That does not mean:
 
 in a simple one-to-one relationship.
 
-## Does a strong core improve striking?
+### Does a strong core improve striking?
 
 Core-strength interventions have improved some striking-performance measures in research.
 
 But current evidence is limited and does not show that one specific core exercise guarantees better punches or kicks.
 
-## Should I lift if Muay Thai already makes me sore?
+### Should I lift if Muay Thai already makes me sore?
 
 Do not automatically add more training.
 
@@ -2326,7 +2318,7 @@ First consider:
 
 Then introduce resistance training gradually.
 
-## How many gym days do I need?
+### How many gym days do I need?
 
 There is no universal number.
 
