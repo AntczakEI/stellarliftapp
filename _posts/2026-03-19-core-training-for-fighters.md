@@ -243,7 +243,7 @@ Across the week:
 
 cover several of them.
 
-## 1. Anti-extension
+### 1. Anti-extension
 
 Anti-extension exercises challenge you to resist excessive arching of the lower back while force acts on the trunk.
 
@@ -261,7 +261,7 @@ This is useful because many athletic movements require the athlete to create tru
 
 are moving.
 
-## Dead bug
+#### Dead bug
 
 The dead bug is simple and easy to scale.
 
@@ -272,7 +272,7 @@ It can help teach:
 * abdominal bracing
 * coordination between trunk and limbs
 
-### Basic version
+##### Basic version
 
 Lie on your back.
 
@@ -291,7 +291,7 @@ Return.
 
 Repeat on the other side.
 
-### Starting prescription
+##### Starting prescription
 
 **2–3 sets × 6–10 reps per side**
 
@@ -302,7 +302,7 @@ Keep the movement:
 
 Do not chase fatigue.
 
-## Ab wheel rollout
+#### Ab wheel rollout
 
 The ab wheel is a much harder anti-extension exercise.
 
@@ -312,7 +312,7 @@ Start from:
 
 and roll forward only as far as you can maintain trunk control.
 
-### Starting prescription
+##### Starting prescription
 
 **2–3 sets × 5–10 reps**
 
@@ -325,7 +325,7 @@ reduce the range.
 
 A shorter controlled rollout is more useful than a long uncontrolled one.
 
-## Do not turn anti-extension into a posture religion
+#### Do not turn anti-extension into a posture religion
 
 There is no need to believe that your spine must remain:
 
@@ -341,7 +341,7 @@ Anti-extension exercises are simply one way to train the ability to:
 
 They are not proof that spinal extension is inherently dangerous.
 
-## 2. Anti-rotation
+### 2. Anti-rotation
 
 Anti-rotation exercises challenge the trunk to resist an external rotational force.
 
@@ -365,7 +365,7 @@ than rotational training.
 
 You can use both.
 
-## Pallof press
+#### Pallof press
 
 Attach a cable or band beside you.
 
@@ -373,7 +373,7 @@ Hold it near the chest.
 
 Press your hands away from the body without allowing the resistance to rotate you substantially.
 
-### Starting prescription
+##### Starting prescription
 
 **2–3 sets × 8–12 reps per side**
 
@@ -389,7 +389,7 @@ But not so much that:
 * your shoulders rotate dramatically
 * you turn it into a full-body wrestling match with the cable
 
-## Half-kneeling Pallof press
+#### Half-kneeling Pallof press
 
 A half-kneeling version can reduce how much you rely on:
 
@@ -402,7 +402,7 @@ That may be useful for variety.
 
 It is not automatically superior.
 
-## Do fighters need anti-rotation?
+#### Do fighters need anti-rotation?
 
 You do not need to build an entire core program around it.
 
@@ -410,7 +410,7 @@ But it is a useful category because most traditional ab routines contain almost 
 
 One or two anti-rotation exercises across the week can be enough.
 
-## 3. Lateral stability
+### 3. Lateral stability
 
 The trunk also has to control movement in the frontal plane.
 
@@ -425,11 +425,11 @@ These challenge the body to resist:
 * lateral bending
 * asymmetrical loading
 
-## Side plank
+#### Side plank
 
 A basic side plank is easy to learn and scale.
 
-### Starting prescription
+##### Starting prescription
 
 **2–3 sets × 20–45 seconds per side**
 
@@ -447,13 +447,13 @@ At some point:
 
 adding difficulty is more practical than adding endless time.
 
-## Suitcase carry
+#### Suitcase carry
 
 Hold one heavy implement on one side.
 
 Walk normally while maintaining control.
 
-### Starting prescription
+##### Starting prescription
 
 **2–3 rounds × 20–40 metres per side**
 
@@ -465,7 +465,7 @@ Suitcase carries train:
 
 They are simple and easy to include at the end of a strength session.
 
-## Carries do not need to become conditioning
+#### Carries do not need to become conditioning
 
 If you are:
 
@@ -479,7 +479,7 @@ That may be useful conditioning.
 
 But it is no longer simply trunk-strength work.
 
-## 4. Controlled rotation
+### 4. Controlled rotation
 
 Fighters obviously rotate.
 
@@ -494,7 +494,7 @@ Examples include:
 
 But there are two very different categories here:
 
-### Strength-oriented rotation
+#### Strength-oriented rotation
 
 Usually:
 
@@ -502,7 +502,7 @@ Usually:
 * controlled
 * loaded
 
-### Power-oriented rotation
+#### Power-oriented rotation
 
 Usually:
 
@@ -512,11 +512,11 @@ Usually:
 
 Do not mix them accidentally.
 
-## Cable chop
+#### Cable chop
 
 Cable chops can train controlled rotational movement under resistance.
 
-### Example
+##### Example
 
 **2–3 sets × 6–12 reps per side**
 
@@ -529,7 +529,7 @@ Do not simply:
 
 **swing the cable as hard as possible.**
 
-## Cable lift
+#### Cable lift
 
 A cable lift changes the direction of the rotational pattern.
 
@@ -542,7 +542,7 @@ the purpose is not to perfectly imitate a:
 
 It is simply another way to progressively train rotation under resistance.
 
-## Do rotational exercises make punches harder?
+#### Do rotational exercises make punches harder?
 
 Possibly as part of a broader training program.
 
@@ -563,7 +563,7 @@ That supports using trunk training.
 
 It does not prove that one specific gym drill directly transfers to one specific strike.
 
-## 5. Loaded bracing
+### 5. Loaded bracing
 
 Sometimes the simplest core training does not look like:
 
@@ -584,7 +584,7 @@ So if you already strength train:
 
 your core is already working.
 
-## Do compound lifts train the core?
+#### Do compound lifts train the core?
 
 Yes.
 
@@ -605,7 +605,7 @@ Direct exercises let you deliberately target functions such as:
 
 with relatively little overall fatigue.
 
-## Direct core training should supplement strength training
+#### Direct core training should supplement strength training
 
 Think of direct core work as:
 
@@ -648,7 +648,7 @@ The problem is when a fighter's entire trunk program consists of:
 
 That leaves other functions undertrained.
 
-## Can fighters do crunches?
+### Can fighters do crunches?
 
 Yes.
 
@@ -664,7 +664,7 @@ They are simply one option.
 
 They should not be confused with a complete core program.
 
-## Hanging knee raises
+### Hanging knee raises
 
 Hanging knee raises can train:
 
@@ -682,13 +682,13 @@ They become less useful if every repetition is:
 * swinging
 * uncontrolled
 
-### Starting prescription
+#### Starting prescription
 
 **2–3 sets × 6–12 reps**
 
 Use a range you can control.
 
-## Hanging leg raises
+### Hanging leg raises
 
 These are harder.
 
@@ -717,7 +717,7 @@ Use:
 * high intent
 * enough rest
 
-## Sample medicine-ball prescription
+### Sample medicine-ball prescription
 
 **3–4 sets × 3–5 reps per side**
 
@@ -734,7 +734,7 @@ This is power training.
 
 Not abdominal conditioning.
 
-## Why throwing may be more appropriate for power
+### Why throwing may be more appropriate for power
 
 Explosive sport actions occur quickly.
 
@@ -805,7 +805,7 @@ Not because it looks:
 
 **more athletic.**
 
-## Avoid turning strength exercises into balance tricks
+### Avoid turning strength exercises into balance tricks
 
 For example:
 
@@ -843,7 +843,7 @@ During lighter trunk exercises:
 
 you can usually breathe while maintaining tension.
 
-## Do not make breathing unnecessarily complicated
+### Do not make breathing unnecessarily complicated
 
 You do not need to learn a mysterious:
 
@@ -863,11 +863,9 @@ That is enough.
 
 There is no proven universal optimum.
 
-The original article suggested:
+A practical starting range is:
 
 **2–4 exposures per week.**
-
-That remains a reasonable practical range.
 
 But it is not a scientific requirement.
 
@@ -916,7 +914,7 @@ there is little reason to make core work into:
 
 **a 45-minute punishment session.**
 
-## Quality matters more than exhaustion
+### Quality matters more than exhaustion
 
 You should finish most trunk work feeling:
 
@@ -1034,7 +1032,7 @@ That is progressive overload.
 
 Read [Progressive Overload Explained: How to Keep Getting Stronger Without Guessing](/training/progressive-overload-explained-how-to-keep-getting-stronger/) for the full principle.
 
-## Do not progress by adding chaos
+### Do not progress by adding chaos
 
 A common mistake is:
 
@@ -1072,7 +1070,7 @@ Repeated sets of:
 
 also expose the trunk to repeated work.
 
-## Plank duration
+### Plank duration
 
 If you can hold a basic plank comfortably for:
 
@@ -1090,13 +1088,13 @@ Instead:
 
 Make the exercise more demanding without making the session endless.
 
-## Core strength versus core endurance
+### Core strength versus core endurance
 
 These overlap.
 
 But broadly:
 
-### Strength-focused work
+#### Strength-focused work
 
 uses:
 
@@ -1104,7 +1102,7 @@ uses:
 * more difficult variations
 * lower repetitions or shorter hard sets
 
-### Endurance-focused work
+#### Endurance-focused work
 
 uses:
 
@@ -1629,8 +1627,6 @@ that is plenty.
 
 ## A no-equipment version
 
-If you have no cable or medicine ball:
-
 ### Dead Bug
 
 **3 × 8/side**
@@ -1677,7 +1673,7 @@ while still maintaining:
 
 You do not need every set to reach failure.
 
-## RIR for core exercises
+### RIR for core exercises
 
 For exercises with clear repetitions:
 
@@ -1932,7 +1928,7 @@ Dead bugs, rollouts, Pallof presses, carries, and other options can train the tr
 
 ## Sources and further reading
 
-The original article structure was retained, while claims about sport transfer were updated against current reviews and combat-sport research.
+The recommendations in this guide are informed by research on trunk training, athletic performance, boxing biomechanics, and striking combat sports.
 
 * Zhang S, Huang W, Soh KG, Luo S, Li L, Wang X. **Effects of Core Strength Training on the Technical Skill Performance of Striking Combat Sport Players: A Systematic Review.** PeerJ. 2025;13:e19615. PMID: 40755806. DOI: 10.7717/peerj.19615.
 
