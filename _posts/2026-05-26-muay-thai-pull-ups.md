@@ -273,7 +273,7 @@ Train horizontal pulling.
 
 That creates a broader upper-body pulling stimulus.
 
-## Are rows more important for shoulder health?
+### Are rows more important for shoulder health?
 
 Be cautious with that claim.
 
@@ -299,7 +299,7 @@ For a complete exercise breakdown, read [Best Upper Body Exercises for Muay Thai
 
 ---
 
-# Pull-up grip variations
+## Pull-up grip variations
 
 You do not need to obsess over grip selection.
 
@@ -322,7 +322,7 @@ Choose a variation you can:
 * progressively overload
 * recover from
 
-## 1. Pronated pull-up
+### 1. Pronated pull-up
 
 Palms face away from you.
 
@@ -337,7 +337,7 @@ according to comfort.
 
 You do not need an extreme wide grip.
 
-## 2. Neutral-grip pull-up
+### 2. Neutral-grip pull-up
 
 Palms face each other.
 
@@ -359,7 +359,7 @@ for every athlete.
 
 Individual tolerance varies.
 
-## 3. Chin-up
+### 3. Chin-up
 
 Palms face toward you.
 
@@ -374,7 +374,7 @@ That does not make chin-ups:
 
 They are simply another vertical pulling variation.
 
-## Which grip should a fighter use?
+### Which grip should a fighter use?
 
 Use the one you can train consistently.
 
@@ -389,7 +389,7 @@ There is no need to change grips every workout.
 
 ---
 
-# Assisted pull-ups
+## Assisted pull-ups
 
 If you cannot yet perform clean bodyweight pull-ups:
 
@@ -410,7 +410,7 @@ There is no reason to perform:
 
 pull-ups simply to avoid assistance.
 
-## Assisted pull-up prescription
+### Assisted pull-up prescription
 
 Start with:
 
@@ -430,7 +430,7 @@ reduce the assistance slightly.
 
 Then rebuild.
 
-## Machine assistance
+### Machine assistance
 
 An assisted pull-up machine is particularly easy to progress because you can:
 
@@ -440,7 +440,7 @@ An assisted pull-up machine is particularly easy to progress because you can:
 
 Use it if your gym has one.
 
-## Resistance bands
+### Resistance bands
 
 Bands also work.
 
@@ -459,7 +459,7 @@ when tracking progress.
 
 ---
 
-# Negative pull-ups
+## Negative pull-ups
 
 Eccentric or negative pull-ups can help someone build toward the full movement.
 
@@ -477,7 +477,7 @@ with roughly:
 
 of controlled lowering.
 
-## Do not overdo negatives
+### Do not overdo negatives
 
 Eccentric training can create substantial soreness when it is:
 
@@ -501,7 +501,7 @@ if needed.
 
 ---
 
-# Bodyweight pull-ups
+## Bodyweight pull-ups
 
 Once you can perform normal pull-ups:
 
@@ -515,25 +515,25 @@ with approximately:
 
 **1–3 RIR.**
 
-## Example
+### Example
 
-### Week 1
+#### Week 1
 
 6 / 5 / 4
 
-### Week 2
+#### Week 2
 
 6 / 6 / 5
 
-### Week 3
+#### Week 3
 
 7 / 6 / 6
 
-### Week 4
+#### Week 4
 
 8 / 7 / 6
 
-### Week 5
+#### Week 5
 
 8 / 8 / 8
 
@@ -546,7 +546,7 @@ depending on your goals.
 
 ---
 
-# Weighted pull-ups
+## Weighted pull-ups
 
 Weighted pull-ups are useful when bodyweight repetitions have become relatively easy and you want to continue developing:
 
@@ -558,7 +558,7 @@ You do not need them simply because:
 
 They are one progression option.
 
-## When to add weight
+### When to add weight
 
 A reasonable point is when you can perform something like:
 
@@ -572,7 +572,7 @@ It is just a practical point where adding resistance often becomes easier than c
 
 **15, 20 or 25 reps.**
 
-## Weighted pull-up prescription
+### Weighted pull-up prescription
 
 A simple strength-focused range is:
 
@@ -588,7 +588,7 @@ Rest:
 
 when the sets are demanding.
 
-## Start small
+### Start small
 
 Add:
 
@@ -611,7 +611,7 @@ A small external load can be a meaningful percentage increase.
 
 ---
 
-# You do not need maximum weighted pull-ups
+## You do not need maximum weighted pull-ups
 
 If Muay Thai is the priority:
 
@@ -636,13 +636,13 @@ the trade-off may no longer make sense.
 
 ---
 
-# How many pull-ups should fighters do?
+## How many pull-ups should fighters do?
 
 There is no fighter-specific research establishing an exact volume.
 
 So use a practical amount.
 
-## Beginner
+### Beginner
 
 Assisted pull-up:
 
@@ -650,7 +650,7 @@ Assisted pull-up:
 
 once or twice per week.
 
-## Intermediate
+### Intermediate
 
 Bodyweight pull-up:
 
@@ -658,7 +658,7 @@ Bodyweight pull-up:
 
 once or twice per week.
 
-## Stronger athlete
+### Stronger athlete
 
 Weighted pull-up:
 
@@ -670,7 +670,7 @@ These are starting templates.
 
 Not physiological rules.
 
-## You probably do not need high-volume pull-up challenges
+### You probably do not need high-volume pull-up challenges
 
 Examples:
 
@@ -686,7 +686,7 @@ But that does not mean they are the best use of recovery capacity for Muay Thai.
 
 ---
 
-# How hard should pull-up sets be?
+## How hard should pull-up sets be?
 
 Most of the time:
 
@@ -702,7 +702,7 @@ That lets you:
 * accumulate useful work
 * manage fatigue
 
-## Why not failure every set?
+### Why not failure every set?
 
 Resistance training performed to failure creates greater acute fatigue than non-failure training.
 
@@ -731,7 +731,7 @@ For a Muay Thai athlete who also needs to:
 
 that cost matters.
 
-## Can you occasionally go to failure?
+### Can you occasionally go to failure?
 
 Yes.
 
@@ -743,7 +743,7 @@ But it does not need to be:
 
 ---
 
-# How to progress pull-ups
+## How to progress pull-ups
 
 Use the same progression principles as any other resistance exercise.
 
@@ -754,35 +754,35 @@ You can progress through:
 * additional load
 * cleaner full-range repetitions
 
-## Assisted progression
+### Assisted progression
 
 Example:
 
-### Week 1
+#### Week 1
 
 35 kg assistance  
 8 / 7 / 6
 
-### Week 2
+#### Week 2
 
 35 kg  
 8 / 8 / 7
 
-### Week 3
+#### Week 3
 
 35 kg  
 8 / 8 / 8
 
 Then reduce assistance:
 
-### Week 4
+#### Week 4
 
 30 kg  
 7 / 6 / 5
 
 Build again.
 
-## Bodyweight progression
+### Bodyweight progression
 
 Target:
 
@@ -798,7 +798,7 @@ toward:
 
 Then consider adding load.
 
-## Weighted progression
+### Weighted progression
 
 Target:
 
@@ -806,13 +806,13 @@ Target:
 
 Example:
 
-### 5 kg
+#### 5 kg
 
 6 / 6 / 6
 
 Then:
 
-### 7.5 kg
+#### 7.5 kg
 
 5 / 5 / 4
 
@@ -824,7 +824,7 @@ For the complete system, read [Progressive Overload Explained: How to Keep Getti
 
 ---
 
-# What counts as a clean pull-up?
+## What counts as a clean pull-up?
 
 You do not need to turn pull-ups into a gymnastics competition.
 
@@ -847,7 +847,7 @@ The main point is:
 
 **do not progressively shorten the rep just to record more repetitions.**
 
-## Dead hang every repetition?
+### Dead hang every repetition?
 
 You do not necessarily need an exaggerated passive:
 
@@ -868,7 +868,7 @@ simply to create momentum.
 
 ---
 
-# What about kipping pull-ups?
+## What about kipping pull-ups?
 
 Kipping pull-ups are a different skill.
 
@@ -890,7 +890,7 @@ There is usually no need to learn kipping purely for fight preparation.
 
 ---
 
-# Common mistake #1 — swinging every rep
+## Common mistake #1 — swinging every rep
 
 If your goal is vertical pulling strength:
 
@@ -905,7 +905,7 @@ so your training log actually means something.
 
 ---
 
-# Common mistake #2 — using an unnecessarily wide grip
+## Common mistake #2 — using an unnecessarily wide grip
 
 Very wide pull-ups are not automatically:
 
@@ -919,7 +919,7 @@ A moderate comfortable grip is enough.
 
 ---
 
-# Common mistake #3 — forcing one grip that irritates you
+## Common mistake #3 — forcing one grip that irritates you
 
 If pronated pull-ups repeatedly bother:
 
@@ -942,7 +942,7 @@ Exercise selection should serve the goal.
 
 ---
 
-# Common mistake #4 — chasing maximum reps
+## Common mistake #4 — chasing maximum reps
 
 Going from:
 
@@ -964,7 +964,7 @@ adding resistance may provide a clearer strength stimulus.
 
 ---
 
-# Common mistake #5 — testing your maximum every session
+## Common mistake #5 — testing your maximum every session
 
 A maximum pull-up test tells you:
 
@@ -980,7 +980,7 @@ and test occasionally if you care about the number.
 
 ---
 
-# Common mistake #6 — neglecting rows
+## Common mistake #6 — neglecting rows
 
 Pull-ups cover:
 
@@ -1000,7 +1000,7 @@ One is enough.
 
 ---
 
-# Common mistake #7 — adding too much upper-body work
+## Common mistake #7 — adding too much upper-body work
 
 Imagine a week containing:
 
@@ -1024,7 +1024,7 @@ rather than competing with it.
 
 ---
 
-# Common mistake #8 — destroying grip before clinch
+## Common mistake #8 — destroying grip before clinch
 
 Pull-ups:
 
@@ -1051,7 +1051,7 @@ So schedule accordingly.
 
 ---
 
-# Common mistake #9 — believing pull-ups prevent shoulder injuries
+## Common mistake #9 — believing pull-ups prevent shoulder injuries
 
 Pull-ups can strengthen several muscles around the:
 
@@ -1073,7 +1073,7 @@ Use them as strength training.
 
 ---
 
-# Common mistake #10 — expecting direct fight transfer
+## Common mistake #10 — expecting direct fight transfer
 
 A stronger pull-up means:
 
@@ -1091,7 +1091,7 @@ without specific Muay Thai practice.
 
 ---
 
-# Pull-ups and the clinch: realistic expectations
+## Pull-ups and the clinch: realistic expectations
 
 It is reasonable to think that improved:
 
@@ -1126,7 +1126,7 @@ Train both:
 
 ---
 
-# Pull-ups and punching power
+## Pull-ups and punching power
 
 Do pull-ups make your punches harder?
 
@@ -1155,7 +1155,7 @@ Use strength training as support.
 
 ---
 
-# Pull-ups and shoulder control
+## Pull-ups and shoulder control
 
 Pull-ups require coordinated movement around the:
 
@@ -1179,7 +1179,7 @@ That is already useful.
 
 ---
 
-# Pull-ups and core strength
+## Pull-ups and core strength
 
 Pull-ups also require the trunk to control:
 
@@ -1207,7 +1207,7 @@ Read [Core Training for Fighters: What Actually Builds Power, Stability, and Tra
 
 ---
 
-# Simple beginner pull-up plan
+## Simple beginner pull-up plan
 
 Use this if you cannot yet perform:
 
@@ -1231,7 +1231,7 @@ Optional:
 
 if hanging feels comfortable.
 
-## Progression
+### Progression
 
 When you reach:
 
@@ -1245,7 +1245,7 @@ Repeat.
 
 ---
 
-# Intermediate pull-up plan
+## Intermediate pull-up plan
 
 Use this when you can perform several clean bodyweight pull-ups.
 
@@ -1270,7 +1270,7 @@ unless there is a specific reason.
 
 ---
 
-# Stronger athlete plan
+## Stronger athlete plan
 
 If you already have good pull-up strength:
 
@@ -1294,7 +1294,7 @@ That provides plenty of vertical and horizontal pulling work.
 
 ---
 
-# You do not need weighted plus bodyweight plus assisted pull-ups
+## You do not need weighted plus bodyweight plus assisted pull-ups
 
 The old article's advanced version included:
 
@@ -1319,11 +1319,11 @@ Muay Thai still has to fit into the week.
 
 ---
 
-# Where pull-ups fit in a two-day fighter program
+## Where pull-ups fit in a two-day fighter program
 
 Example:
 
-## Gym Day A
+### Gym Day A
 
 * Squat
 * Dumbbell Press
@@ -1331,7 +1331,7 @@ Example:
 * Split Squat
 * Trunk
 
-## Gym Day B
+### Gym Day B
 
 * Hinge
 * Row
@@ -1350,11 +1350,11 @@ For the complete structure, read [Best 2-Day Full Body Gym Workout for Muay Thai
 
 ---
 
-# Should you perform pull-ups before or after other gym exercises?
+## Should you perform pull-ups before or after other gym exercises?
 
 It depends on priority.
 
-## If pull-up strength is important
+### If pull-up strength is important
 
 Put them earlier.
 
@@ -1362,7 +1362,7 @@ For example:
 
 after your first main lower-body exercise.
 
-## If pull-ups are accessory work
+### If pull-ups are accessory work
 
 Put them later.
 
@@ -1374,7 +1374,7 @@ Use exercise order to reflect your goal.
 
 ---
 
-# Should you do pull-ups before Muay Thai?
+## Should you do pull-ups before Muay Thai?
 
 You can.
 
@@ -1406,7 +1406,7 @@ or move them elsewhere.
 
 ---
 
-# Are pull-ups a good warm-up?
+## Are pull-ups a good warm-up?
 
 Hard pull-up sets are:
 
@@ -1432,7 +1432,7 @@ You already trained.
 
 ---
 
-# Should pull-ups be done after Muay Thai?
+## Should pull-ups be done after Muay Thai?
 
 They can be.
 
@@ -1458,7 +1458,7 @@ The broader principle is:
 
 ---
 
-# Same-day gym and Muay Thai
+## Same-day gym and Muay Thai
 
 Pull-ups can be part of a gym session performed on the same day as Muay Thai.
 
@@ -1486,7 +1486,7 @@ For practical same-day recovery, read [Two Workouts a Day: How to Recover Betwee
 
 ---
 
-# Avoid heavy pull-ups immediately before clinch if quality drops
+## Avoid heavy pull-ups immediately before clinch if quality drops
 
 There is no universal rule saying:
 
@@ -1509,7 +1509,7 @@ Your actual response is more useful than an arbitrary rule.
 
 ---
 
-# Pull-ups during high-volume Muay Thai weeks
+## Pull-ups during high-volume Muay Thai weeks
 
 If Muay Thai workload rises:
 
@@ -1517,19 +1517,19 @@ pull-up volume can fall.
 
 For example:
 
-## Normal week
+### Normal week
 
 **3 × 6–8 pull-ups**
 
 twice.
 
-## Heavy clinch week
+### Heavy clinch week
 
 **2 × 5–6**
 
 once or twice.
 
-## Very hard fight-specific week
+### Very hard fight-specific week
 
 One maintenance exposure:
 
@@ -1541,7 +1541,7 @@ You do not need to keep gym volume identical all year.
 
 ---
 
-# Pull-ups during a deload
+## Pull-ups during a deload
 
 A lighter week might use:
 
@@ -1566,7 +1566,7 @@ For broader fatigue management, read [Deload Week for Muay Thai + Gym: When to D
 
 ---
 
-# What if pull-ups make your elbows sore?
+## What if pull-ups make your elbows sore?
 
 Do not keep forcing the same variation.
 
@@ -1592,7 +1592,7 @@ This article is not a diagnosis.
 
 ---
 
-# What if pull-ups irritate your shoulders?
+## What if pull-ups irritate your shoulders?
 
 Again:
 
@@ -1608,7 +1608,7 @@ You do not need to earn fighter credibility by using one particular exercise.
 
 ---
 
-# What if you cannot feel your lats?
+## What if you cannot feel your lats?
 
 You do not need to:
 
@@ -1628,7 +1628,7 @@ rather than chasing a sensation.
 
 ---
 
-# What if your grip fails before your back?
+## What if your grip fails before your back?
 
 That can happen.
 
@@ -1646,7 +1646,7 @@ most fighters can simply let grip be part of the exercise unless it prevents the
 
 ---
 
-# Should fighters use lifting straps for pull-ups?
+## Should fighters use lifting straps for pull-ups?
 
 Usually unnecessary.
 
@@ -1672,7 +1672,7 @@ Not morality.
 
 ---
 
-# Do pull-ups improve grip endurance?
+## Do pull-ups improve grip endurance?
 
 They challenge grip.
 
@@ -1693,7 +1693,7 @@ Use the method that matches the goal.
 
 ---
 
-# Are dead hangs useful?
+## Are dead hangs useful?
 
 They can be used for:
 
@@ -1716,7 +1716,7 @@ Use them if:
 
 ---
 
-# What about scapular pull-ups?
+## What about scapular pull-ups?
 
 They can be useful as:
 
@@ -1733,7 +1733,7 @@ A few controlled reps may be enough if they help you prepare.
 
 ---
 
-# What about towel pull-ups?
+## What about towel pull-ups?
 
 Towel pull-ups increase the grip challenge.
 
@@ -1760,7 +1760,7 @@ Do not mistake superficial similarity for direct sport transfer.
 
 ---
 
-# What about rope pull-ups?
+## What about rope pull-ups?
 
 Same principle.
 
@@ -1782,7 +1782,7 @@ not because fighters:
 
 ---
 
-# Pull-ups versus lat pulldowns
+## Pull-ups versus lat pulldowns
 
 A pulldown is not a:
 
@@ -1790,14 +1790,14 @@ A pulldown is not a:
 
 It is a valid resistance exercise.
 
-## Pull-ups
+### Pull-ups
 
 Resistance is largely based on:
 
 * your body mass
 * any added load
 
-## Pulldowns
+### Pulldowns
 
 Load is externally adjustable.
 
@@ -1805,7 +1805,7 @@ That can make progression easier.
 
 Both train vertical pulling.
 
-## When pulldowns may be useful
+### When pulldowns may be useful
 
 If:
 
@@ -1820,7 +1820,7 @@ There is no need to prove anything by forcing pull-ups.
 
 ---
 
-# Pull-ups versus chin-ups
+## Pull-ups versus chin-ups
 
 Neither is universally better.
 
@@ -1843,7 +1843,7 @@ rather than internet mythology.
 
 ---
 
-# Do pull-ups make you wider?
+## Do pull-ups make you wider?
 
 They can contribute to muscular development of areas including:
 
@@ -1863,7 +1863,7 @@ Some muscle development is a normal adaptation to resistance training.
 
 ---
 
-# Can too much pulling make you stiff?
+## Can too much pulling make you stiff?
 
 Resistance training does not automatically make you:
 
@@ -1887,7 +1887,7 @@ For mobility-specific work, read [Shoulder Mobility for Fighters: A Practical Ro
 
 ---
 
-# How pull-ups fit with pressing
+## How pull-ups fit with pressing
 
 A simple upper-body structure might include:
 
@@ -1917,7 +1917,7 @@ Track total volume and recovery.
 
 ---
 
-# Do fighters need bigger backs?
+## Do fighters need bigger backs?
 
 Not necessarily.
 
@@ -1939,7 +1939,7 @@ Strength training should support those constraints.
 
 ---
 
-# How much upper-body volume is enough?
+## How much upper-body volume is enough?
 
 There is no Muay Thai-specific number.
 
@@ -1968,7 +1968,7 @@ unless those are personal goals.
 
 ---
 
-# Recovery between pull-up sessions
+## Recovery between pull-up sessions
 
 For most people:
 
@@ -2003,7 +2003,7 @@ your schedule is probably manageable.
 
 ---
 
-# Sleep and recovery still matter
+## Sleep and recovery still matter
 
 If upper-body training starts feeling unusually difficult:
 
@@ -2023,9 +2023,9 @@ For the overall week, read [How Many Rest Days Do You Really Need? Gym + Muay Th
 
 ---
 
-# A simple decision tree
+## A simple decision tree
 
-## Can you perform fewer than 3 clean pull-ups?
+### Can you perform fewer than 3 clean pull-ups?
 
 Use:
 
@@ -2034,7 +2034,7 @@ Use:
 
 and build strength.
 
-## Can you perform 3–8?
+### Can you perform 3–8?
 
 Use:
 
@@ -2044,7 +2044,7 @@ inside that range.
 
 Build repetitions.
 
-## Can you perform 8–10+ comfortably?
+### Can you perform 8–10+ comfortably?
 
 Either:
 
@@ -2054,7 +2054,7 @@ or:
 
 * begin modest weighted pull-ups.
 
-## Do weighted pull-ups interfere with Muay Thai?
+### Do weighted pull-ups interfere with Muay Thai?
 
 Reduce:
 
@@ -2065,11 +2065,11 @@ or return to:
 
 * bodyweight pulling.
 
-## Does one grip hurt?
+### Does one grip hurt?
 
 Use another.
 
-## Does grip fatigue damage clinch practice?
+### Does grip fatigue damage clinch practice?
 
 Move or reduce the pull-up session.
 
@@ -2077,15 +2077,15 @@ That is already enough programming for most fighters.
 
 ---
 
-# FAQ
+## FAQ
 
-## Are pull-ups good for Muay Thai?
+### Are pull-ups good for Muay Thai?
 
 Yes.
 
 They are a useful vertical-pulling strength exercise.
 
-## Do pull-ups help clinch?
+### Do pull-ups help clinch?
 
 They may build general pulling and grip qualities that can support clinch work.
 
@@ -2093,13 +2093,13 @@ But there is no direct evidence that improving pull-up performance automatically
 
 Clinch skill must be trained through clinching.
 
-## Do pull-ups improve punching power?
+### Do pull-ups improve punching power?
 
 There is no good evidence showing a direct effect.
 
 Punching is a coordinated whole-body skill.
 
-## What muscles do pull-ups work?
+### What muscles do pull-ups work?
 
 Major contributors include:
 
@@ -2112,7 +2112,7 @@ Major contributors include:
 
 with the trunk also helping control body position.
 
-## Are pull-ups good for grip?
+### Are pull-ups good for grip?
 
 They challenge grip.
 
@@ -2120,7 +2120,7 @@ Yes.
 
 But bar grip is not the same as clinch grip.
 
-## How many pull-ups should a fighter do?
+### How many pull-ups should a fighter do?
 
 A practical starting point is:
 
@@ -2134,7 +2134,7 @@ The exact amount depends on:
 * Muay Thai volume
 * other gym work.
 
-## What rep range should fighters use?
+### What rep range should fighters use?
 
 For bodyweight pull-ups:
 
@@ -2150,19 +2150,19 @@ Weighted pull-ups often fit well around:
 
 These are practical ranges, not biological rules.
 
-## How many RIR?
+### How many RIR?
 
 Most working sets can finish around:
 
 **1–3 RIR.**
 
-## Should fighters train pull-ups to failure?
+### Should fighters train pull-ups to failure?
 
 Not routinely.
 
 Failure is not required for strength development and creates greater acute fatigue.
 
-## Are weighted pull-ups good for fighters?
+### Are weighted pull-ups good for fighters?
 
 They can be.
 
@@ -2172,7 +2172,7 @@ Use them when:
 * recovery is good
 * you want more pulling strength.
 
-## How much weight should I add?
+### How much weight should I add?
 
 Start small.
 
@@ -2182,7 +2182,7 @@ Often:
 
 is enough for the first progression.
 
-## Do fighters need 20 pull-ups?
+### Do fighters need 20 pull-ups?
 
 No.
 
@@ -2190,7 +2190,7 @@ That can be a personal fitness goal.
 
 It is not a Muay Thai requirement.
 
-## What if I cannot do one pull-up?
+### What if I cannot do one pull-up?
 
 Use:
 
@@ -2200,19 +2200,19 @@ Use:
 
 and progressively reduce assistance.
 
-## Are negative pull-ups useful?
+### Are negative pull-ups useful?
 
 Yes, particularly as one progression tool toward a full pull-up.
 
 Keep eccentric volume modest.
 
-## Are chin-ups better?
+### Are chin-ups better?
 
 No universal advantage.
 
 They are simply another vertical pulling variation.
 
-## Is neutral grip better?
+### Is neutral grip better?
 
 Not universally.
 
@@ -2221,23 +2221,23 @@ Use it if:
 * comfortable
 * easy to progress.
 
-## Are wide-grip pull-ups better for lats?
+### Are wide-grip pull-ups better for lats?
 
 There is no need for an extreme wide grip.
 
 A comfortable moderate grip works well.
 
-## Should I do pull-ups and rows?
+### Should I do pull-ups and rows?
 
 You can.
 
 They train different pulling directions.
 
-## Should I do pull-ups every day?
+### Should I do pull-ups every day?
 
 Usually unnecessary.
 
-## Should I do pull-ups before Muay Thai?
+### Should I do pull-ups before Muay Thai?
 
 Hard sets can fatigue the upper body.
 
@@ -2245,14 +2245,14 @@ If Muay Thai is the priority:
 
 keep them easy or schedule them elsewhere.
 
-## Can I do pull-ups after Muay Thai?
+### Can I do pull-ups after Muay Thai?
 
 Yes, if:
 
 * you still have enough quality
 * the session was not already extremely demanding.
 
-## Should I do pull-ups before clinch?
+### Should I do pull-ups before clinch?
 
 Avoid hard pull-up work immediately beforehand if it consistently reduces:
 
@@ -2260,13 +2260,13 @@ Avoid hard pull-up work immediately beforehand if it consistently reduces:
 * pulling capacity
 * clinch quality.
 
-## Do pull-ups protect shoulders?
+### Do pull-ups protect shoulders?
 
 Do not treat them as guaranteed injury prevention.
 
 They are simply a resistance-training exercise for vertical pulling.
 
-## Do pull-ups fix posture?
+### Do pull-ups fix posture?
 
 No.
 
@@ -2274,13 +2274,13 @@ They strengthen muscles involved in pulling.
 
 Posture is more complicated than one exercise.
 
-## Do pull-ups train core?
+### Do pull-ups train core?
 
 The trunk helps control body position.
 
 But pull-ups are not a complete trunk-training program.
 
-## Are towel pull-ups good for Muay Thai?
+### Are towel pull-ups good for Muay Thai?
 
 They create more grip demand.
 
@@ -2288,7 +2288,7 @@ They are optional.
 
 They are not proven to improve clinch performance more than standard pulling work.
 
-## Are rope pull-ups useful?
+### Are rope pull-ups useful?
 
 They can be.
 
@@ -2296,7 +2296,7 @@ Again:
 
 optional.
 
-## Are lat pulldowns a good substitute?
+### Are lat pulldowns a good substitute?
 
 Yes.
 
@@ -2306,13 +2306,13 @@ Especially if you need:
 * lower relative difficulty
 * more controlled progression.
 
-## Should fighters use straps?
+### Should fighters use straps?
 
 Usually unnecessary for pull-ups.
 
 But they can be used if grip is limiting the specific pulling stimulus you want.
 
-## How long does it take to get your first pull-up?
+### How long does it take to get your first pull-up?
 
 There is no reliable universal timeline.
 
