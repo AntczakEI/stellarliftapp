@@ -2,7 +2,7 @@
 layout: post
 title: "Can You Drink Too Much Water During Exercise? Hyponatremia Explained"
 date: 2026-03-21
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-24
 author: "Tomasz Antczak"
 categories: [hydration]
 tags: [hydration, hyponatremia, overhydration, water intake, electrolytes, sodium, running, endurance, workout hydration]
@@ -848,7 +848,9 @@ Not:
 
 **start as full of water as physically possible.**
 
-Read [How Much Water to Drink Before, During and After a Workout](/hydration/how-much-water-before-during-after-workout/).
+If you are wondering whether drinking extra water simply makes you sweat more, read [Can Drinking Too Much Water Make You Sweat More?](/hydration/can-drinking-too-much-water-make-you-sweat-more/).
+
+Read [How Much Water to Drink Before, During and After a Workout](/hydration/how-much-water-before-during-after-workout/) for the broader timing guide.
 
 ## What about after exercise?
 
@@ -1243,7 +1245,7 @@ It requires urgent medical treatment.
 
 ## Sources and further reading
 
-The recommendations and explanations in this guide were checked against international consensus guidance and sports-medicine reviews on exercise-associated hyponatremia and fluid replacement.
+The recommendations and explanations in this guide are informed by international consensus guidance and sports-medicine reviews on exercise-associated hyponatremia and fluid replacement.
 
 * Hew-Butler T et al. **Statement of the Third International Exercise-Associated Hyponatremia Consensus Development Conference.** Clinical Journal of Sport Medicine. 2015;25(4):303–320. PMID: 26102445.  
   https://pubmed.ncbi.nlm.nih.gov/26102445/
