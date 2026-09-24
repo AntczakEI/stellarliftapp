@@ -2,7 +2,7 @@
 layout: post
 title: "How Much Water Should You Drink After Exercise? Simple Hydration Guide"
 date: 2026-03-27
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-24
 author: "Tomasz Antczak"
 featured_hydration: true
 categories: [hydration]
@@ -181,7 +181,7 @@ A rough practical relationship is:
 
 That is only a starting estimate because drinking and urination during the session also affect the calculation.
 
-## Example: simple body-weight change
+### Example: simple body-weight change
 
 Before training:
 
@@ -201,7 +201,7 @@ That suggests a net fluid deficit of roughly:
 
 If you drank nothing and did not urinate during the session, that gives you a reasonable estimate of the fluid you lost.
 
-## If you drank during exercise
+### If you drank during exercise
 
 Suppose:
 
@@ -393,13 +393,17 @@ For the full explanation, read [Electrolytes for Workouts: When You Need Them](/
 
 ## Running deserves a little extra attention
 
-The old version of this site had a separate article specifically about drinking after running.
+Longer outdoor runs can produce substantial sweat loss, particularly when heat and humidity increase.
 
-The basic principles are the same as after any exercise, so they are better kept together here.
+The same basic post-exercise hydration principles still apply:
 
-Running can still deserve extra attention because longer outdoor runs can produce substantial sweat loss, particularly when heat and humidity increase.
+* consider how much fluid you lost
+* account for environmental conditions
+* replace larger deficits gradually
+* include sodium when sweat losses are substantial
+* pay more attention when another training session is coming soon
 
-## After a short easy run
+### After a short easy run
 
 Imagine:
 
@@ -419,7 +423,7 @@ A reasonable plan is:
 
 You do not automatically need electrolytes.
 
-## After a moderate run
+### After a moderate run
 
 Imagine:
 
@@ -437,7 +441,7 @@ A practical approach is:
 
 If you want a more accurate estimate, use pre- and post-run weight.
 
-## After a long or hot run
+### After a long or hot run
 
 Now imagine:
 
@@ -461,7 +465,7 @@ If another session is coming soon, measuring your loss becomes particularly help
 
 For heat-specific advice, read [Hydration in Hot Weather: How to Train in Heat Without Crashing](/hydration/hydration-in-hot-weather-training/).
 
-## Example: 30-minute run
+### Example: 30-minute run
 
 You run for 30 minutes in cool weather.
 
@@ -477,7 +481,7 @@ Eat normally.
 
 Continue with your normal day.
 
-## Example: 60-minute run in warm weather
+### Example: 60-minute run in warm weather
 
 You run for an hour.
 
@@ -494,7 +498,7 @@ A simple approach:
 
 If this kind of run regularly leaves you feeling dehydrated, measure body-weight change on a future session.
 
-## Example: 90-minute hot-weather run
+### Example: 90-minute hot-weather run
 
 You run for 90 minutes in hot conditions.
 
@@ -803,7 +807,7 @@ That distinction prevents two common mistakes:
 
 ## Sources and further reading
 
-The recommendations in this guide were checked against sports-medicine and rehydration research.
+The recommendations in this guide are informed by sports-medicine and post-exercise rehydration research.
 
 * Sawka MN, Burke LM, Eichner ER, Maughan RJ, Montain SJ, Stachenfeld NS. **American College of Sports Medicine position stand: Exercise and Fluid Replacement.** Medicine & Science in Sports & Exercise. 2007;39(2):377–390. PMID: 17277604.  
   https://pubmed.ncbi.nlm.nih.gov/17277604/
