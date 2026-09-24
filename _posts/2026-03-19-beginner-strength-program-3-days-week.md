@@ -215,7 +215,7 @@ Rest:
 
 when the sets are challenging.
 
-## Which squat should a beginner choose?
+#### Which squat should a beginner choose?
 
 You do not need to start with:
 
@@ -238,7 +238,7 @@ make them appropriate.
 
 There is no prize for choosing the most complicated variation.
 
-## 2. Horizontal push — 3 × 6–10
+### 2. Horizontal push — 3 × 6–10
 
 Choose one:
 
@@ -259,7 +259,7 @@ Rest:
 
 if needed.
 
-## Dumbbells or barbell?
+#### Dumbbells or barbell?
 
 Either works.
 
@@ -277,7 +277,7 @@ Choose the version you can:
 * repeat consistently
 * progressively load
 
-## 3. Horizontal pull — 3 × 8–12
+### 3. Horizontal pull — 3 × 8–12
 
 Choose one:
 
@@ -298,7 +298,7 @@ to make a row effective.
 
 Train the movement through a comfortable range and progressively load it.
 
-## 4. Hip hinge accessory — 2 × 8–12
+### 4. Hip hinge accessory — 2 × 8–12
 
 Choose one:
 
@@ -316,23 +316,23 @@ The goal is to learn:
 
 not to see how much hamstring soreness you can create.
 
-## 5. Trunk or carry — 2–3 sets
+### 5. Trunk or carry — 2–3 sets
 
 Choose one:
 
-### Farmer Carry
+#### Farmer Carry
 
 **20–40 metres**
 
-### Dead Bug
+#### Dead Bug
 
 **6–10 reps per side**
 
-### Pallof Press
+#### Pallof Press
 
 **8–12 reps per side**
 
-### Plank
+#### Plank
 
 **20–45 seconds**
 
@@ -367,7 +367,7 @@ Use the exercise that fits:
 * equipment
 * comfort
 
-## Avoid duplicating Day A unnecessarily
+#### Avoid duplicating Day A unnecessarily
 
 If Day A already contains:
 
@@ -377,25 +377,25 @@ you probably do not need another heavy RDL on Day B.
 
 You might use:
 
-### Day A
+##### Day A
 
 Back Extension
 
 and:
 
-### Day B
+##### Day B
 
 Romanian Deadlift
 
 or:
 
-### Day A
+##### Day A
 
 Light RDL
 
 and:
 
-### Day B
+##### Day B
 
 Hip Thrust
 
@@ -403,7 +403,7 @@ The program is a movement template.
 
 Not a requirement to repeat the same stress several times.
 
-## 2. Vertical push — 3 × 6–10
+### 2. Vertical push — 3 × 6–10
 
 Choose one:
 
@@ -416,7 +416,7 @@ Use a pain-free range.
 
 You do not need one specific pressing variation for the program to work.
 
-## 3. Vertical pull — 3 × 6–10
+### 3. Vertical pull — 3 × 6–10
 
 Choose one:
 
@@ -436,7 +436,7 @@ That is better than:
 
 simply to say you did pull-ups.
 
-## 4. Single-leg movement — 2 × 8–12 per side
+### 4. Single-leg movement — 2 × 8–12 per side
 
 Choose one:
 
@@ -453,7 +453,7 @@ You do not need:
 
 **four sets per leg on your first week.**
 
-## 5. Calf raise — 2 × 10–15
+### 5. Calf raise — 2 × 10–15
 
 Choose:
 
@@ -463,17 +463,17 @@ Choose:
 
 Use controlled repetitions.
 
-## 6. Side trunk — 2 sets
+### 6. Side trunk — 2 sets
 
 Choose:
 
-### Side Plank
+#### Side Plank
 
 **20–45 seconds per side**
 
 or:
 
-### Suitcase Carry
+#### Suitcase Carry
 
 **20–30 metres per side**
 
@@ -501,7 +501,7 @@ Day C does not need to be another maximal squat day.
 
 Use a variation you can control.
 
-## 2. Push variation — 3 × 8–12
+### 2. Push variation — 3 × 8–12
 
 Choose one:
 
@@ -514,7 +514,7 @@ Assisted dips can also work if you already tolerate them comfortably.
 
 They are not mandatory.
 
-## 3. Pull variation — 3 × 8–12
+### 3. Pull variation — 3 × 8–12
 
 Choose one:
 
@@ -531,7 +531,7 @@ But you do not need constant variety.
 
 Repeating the same row is also fine.
 
-## 4. Hamstring exercise — 2 × 10–15
+### 4. Hamstring exercise — 2 × 10–15
 
 Choose one:
 
@@ -544,13 +544,13 @@ If your week already contains substantial hinge work:
 
 a leg curl is often a simple way to add knee-flexion hamstring work without another heavy hinge.
 
-## 5. Optional arms — 2 × 10–15 each
+### 5. Optional arms — 2 × 10–15 each
 
-### Curl
+#### Curl
 
 Choose any comfortable curl.
 
-### Triceps
+#### Triceps
 
 Choose:
 
@@ -707,7 +707,7 @@ You have plenty of time to increase difficulty.
 
 ## Progression: double progression
 
-This remains the simplest progression method for this program.
+This is a simple progression method for the program.
 
 Suppose an exercise uses:
 
@@ -905,9 +905,11 @@ Consistency lets you measure improvement.
 
 Not automatically.
 
-The original program suggested adding sets during weeks 5–12 if recovery was good.
+You can add sets later if:
 
-That can work.
+* recovery remains good
+* progress has slowed
+* you want more training volume
 
 But you do not need to increase volume simply because:
 
@@ -962,14 +964,12 @@ A program does not improve simply because it becomes longer.
 
 ## Rest periods
 
-The original version used:
+A practical starting point is:
 
-* 90–180 seconds for major lifts
-* 60–120 seconds for accessories
+* roughly 2–4 minutes for demanding compound lifts
+* roughly 1–2 minutes for smaller accessory exercises
 
-That is a reasonable starting point.
-
-But do not turn those numbers into rigid limits.
+Do not turn those numbers into rigid limits.
 
 For demanding compound exercises:
 
@@ -1091,15 +1091,13 @@ But you do not need a mandatory 20-minute mobility ritual before every gym sessi
 
 ## Exercise substitutions
 
-The original plan was deliberately flexible.
+The plan is deliberately flexible.
 
-Keep that.
-
-You are allowed to replace an exercise without destroying the program.
+You can replace an exercise without destroying the program.
 
 Try to keep the same general movement role.
 
-## Squat replacements
+### Squat replacements
 
 You can move between:
 
@@ -1115,7 +1113,7 @@ depending on:
 * comfort
 * experience
 
-## Hinge replacements
+### Hinge replacements
 
 Options include:
 
@@ -1126,7 +1124,7 @@ Options include:
 
 Conventional deadlifts are optional.
 
-## Push replacements
+### Push replacements
 
 Use:
 
@@ -1145,7 +1143,7 @@ Use:
 
 for more vertical or angled pressing.
 
-## Pull replacements
+### Pull replacements
 
 Use:
 
@@ -1263,11 +1261,9 @@ If you are unsure whether discomfort resembles normal soreness or something more
 
 ## How long should you run the program?
 
-The original version said:
+A useful first block is:
 
 **8–12 weeks.**
-
-That remains a useful first block.
 
 But nothing magical happens at:
 
@@ -1875,7 +1871,7 @@ You do not need to replace it after an arbitrary number of weeks.
 
 ## Sources and further reading
 
-The original program structure was retained, while its training claims were updated against current resistance-training evidence.
+The recommendations in this program are informed by current resistance-training evidence on frequency, training structure, proximity to failure, progression, and rest intervals.
 
 * Currier BS, D'Souza AC, Fiatarone Singh MA, et al. **American College of Sports Medicine Position Stand. Resistance Training Prescription for Muscle Function, Hypertrophy, and Physical Performance in Healthy Adults: An Overview of Reviews.** Medicine & Science in Sports & Exercise. 2026;58(4):851–872. PMID: 41843416. DOI: 10.1249/MSS.0000000000003897.
 
@@ -1894,7 +1890,7 @@ Research does not establish one uniquely optimal beginner routine with:
 * exactly these rep ranges
 * exactly this number of sets.
 
-The program above is therefore a practical beginner template built from the original article structure and broader resistance-training evidence.
+The program above is therefore a practical beginner template based on broader resistance-training evidence and simple progression principles.
 
 ## Final takeaway
 
