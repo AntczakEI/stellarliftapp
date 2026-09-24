@@ -2132,7 +2132,7 @@ Progress gradually rather than replacing the entire workout constantly.
 
 ## Sources and further reading
 
-The original workout structure was retained, while claims about combat-sport strength training, unilateral versus bilateral training, resistance-training prescription, and failure-related fatigue were updated using current evidence.
+The recommendations in this workout are informed by current evidence on combat-sport strength training, unilateral versus bilateral training, resistance-training prescription, and failure-related fatigue.
 
 * Currier BS, D'Souza AC, Fiatarone Singh MA, et al. **American College of Sports Medicine Position Stand. Resistance Training Prescription for Muscle Function, Hypertrophy, and Physical Performance in Healthy Adults: An Overview of Reviews.** Medicine & Science in Sports & Exercise. 2026;58(4):851–872. PMID: 41843416. DOI: 10.1249/MSS.0000000000003897.
 
@@ -2152,7 +2152,7 @@ The evidence does not establish one uniquely optimal:
 
 for every fighter.
 
-The workout above is therefore a practical template built around the original article, current resistance-training evidence, and the need to control fatigue around actual Muay Thai practice.
+The workout above is therefore a practical template built around current resistance-training evidence and the need to control fatigue around actual Muay Thai practice.
 
 ## Final takeaway
 
