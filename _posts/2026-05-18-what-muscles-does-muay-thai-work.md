@@ -1048,7 +1048,7 @@ They work during:
 
 ### Fighters do not necessarily need a magical push-to-pull ratio
 
-The old article suggested fighters often need:
+Fighters are sometimes advised to perform:
 
 **more pulling than pressing.**
 
@@ -1213,8 +1213,6 @@ If you use it:
 There is no need to add aggressive neck exercises simply because:
 
 **fighters need strong necks.**
-
-And because the current Stellar Lift site does not have a retained dedicated neck-training article, we are not linking to a nonexistent page here.
 
 ---
 
@@ -2330,7 +2328,7 @@ are a practical starting point.
 
 ## Sources and further reading
 
-The original muscle-group structure of this article was retained, while claims about striking mechanics and training transfer were updated using biomechanical and combat-sport research.
+The muscle-group descriptions and claims about striking mechanics and training transfer in this guide are informed by biomechanical and combat-sport research.
 
 * Gavagan CJ, Sayers MGL. **A Biomechanical Analysis of the Roundhouse Kicking Technique of Expert Practitioners: A Comparison Between the Martial Arts Disciplines of Muay Thai, Karate, and Taekwondo.** PLOS ONE. 2017;12(8):e0182645. PMID: 28841670. DOI: 10.1371/journal.pone.0182645.
 
