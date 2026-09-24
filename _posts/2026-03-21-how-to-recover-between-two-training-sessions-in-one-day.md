@@ -2,7 +2,7 @@
 layout: post
 title: "Two Workouts a Day: Simple Hydration and Recovery Plan"
 date: 2026-03-21
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-24
 author: "Tomasz Antczak"
 featured_recovery: true
 categories: [recovery]
@@ -733,13 +733,3 @@ That is the simple way to handle two workouts a day.
 Not magic.
 
 Just better timing and fewer stupid mistakes.
-
-<section class="cta-card">
-  <h2>Recover better between hard sessions</h2>
-  <p>
-    If two-a-day training leaves you sore, flat, or inconsistent, the Recovery Guide gives you a simple structure for managing fatigue, soreness, and training readiness.
-  </p>
-  <p>
-    <a class="btn" href="https://shop.aei-digital.com/b/qZrYQ" target="_blank" rel="noopener noreferrer">Get the Recovery Guide</a>
-  </p>
-</section>
