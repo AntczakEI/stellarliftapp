@@ -412,11 +412,9 @@ More training also creates more:
 
 ## Do not add sets automatically
 
-The old version of this article suggested adding a set and then watching recovery for:
+If you add a set, watch your recovery and performance over the next:
 
 **2–3 weeks.**
-
-That remains a sensible practical approach.
 
 But there should be a reason to add volume.
 
@@ -788,11 +786,11 @@ For most general strength and hypertrophy training:
 
 this system works extremely well.
 
-## Step 1 — Choose a rep range
+### Step 1 — Choose a rep range
 
 Examples:
 
-### Main lifts
+#### Main lifts
 
 **5–8**
 
@@ -800,7 +798,7 @@ or:
 
 **6–10**
 
-### Secondary exercises
+#### Secondary exercises
 
 **6–10**
 
@@ -808,7 +806,7 @@ or:
 
 **8–12**
 
-### Smaller accessories
+#### Smaller accessories
 
 **10–15**
 
@@ -818,7 +816,7 @@ These are practical ranges.
 
 They are not magical boundaries.
 
-## Step 2 — Pick a suitable load
+### Step 2 — Pick a suitable load
 
 Choose a resistance that allows you to enter the bottom or middle of the range while maintaining:
 
@@ -833,7 +831,7 @@ roughly:
 
 is a useful starting point.
 
-## Step 3 — Build repetitions
+### Step 3 — Build repetitions
 
 Keep the load stable.
 
@@ -845,27 +843,27 @@ For:
 
 you might progress:
 
-### Session 1
+#### Session 1
 
 8 / 7 / 7
 
-### Session 2
+#### Session 2
 
 8 / 8 / 7
 
-### Session 3
+#### Session 3
 
 9 / 8 / 8
 
-### Session 4
+#### Session 4
 
 10 / 9 / 9
 
-### Session 5
+#### Session 5
 
 10 / 10 / 10
 
-## Step 4 — Increase load
+### Step 4 — Increase load
 
 Now add a small amount of resistance.
 
@@ -873,13 +871,13 @@ Your repetitions will probably fall.
 
 For example:
 
-### Old load
+#### Old load
 
 40 kg:
 
 **10 / 10 / 10**
 
-### New load
+#### New load
 
 42.5 kg:
 
@@ -1267,7 +1265,7 @@ A single stalled session means very little.
 
 Use a simple troubleshooting order.
 
-## Step 1 — Repeat the load
+### Step 1 — Repeat the load
 
 If last time you got:
 
@@ -1283,7 +1281,7 @@ repeat it next time.
 
 Nothing is broken.
 
-## Step 2 — Check whether effort has changed
+### Step 2 — Check whether effort has changed
 
 Maybe:
 
@@ -1303,7 +1301,7 @@ But the exercise became easier.
 
 That can still indicate adaptation.
 
-## Step 3 — Look at several weeks
+### Step 3 — Look at several weeks
 
 A plateau is more meaningful when:
 
@@ -1313,9 +1311,7 @@ A plateau is more meaningful when:
 
 Then investigate further.
 
----
-
-## Plateau cause #1: the weight jump is too large
+### Plateau cause #1: the weight jump is too large
 
 This is particularly common with dumbbells.
 
@@ -1340,9 +1336,7 @@ Solutions include:
 * choose equipment with smaller jumps
 * temporarily use a wider rep range
 
----
-
-## Plateau cause #2: too much training volume
+### Plateau cause #2: too much training volume
 
 You may have progressively overloaded by adding:
 
@@ -1365,9 +1359,7 @@ more volume may not be the answer.
 
 Reduce it.
 
----
-
-## Plateau cause #3: every set is too hard
+### Plateau cause #3: every set is too hard
 
 If every set is:
 
@@ -1387,9 +1379,7 @@ The goal is:
 
 Not winning every individual set.
 
----
-
-## Plateau cause #4: inconsistent technique
+### Plateau cause #4: inconsistent technique
 
 If your:
 
@@ -1403,9 +1393,7 @@ you may not know whether you actually progressed.
 
 Standardize the exercise enough that comparisons mean something.
 
----
-
-## Plateau cause #5: poor recovery
+### Plateau cause #5: poor recovery
 
 Progressive overload creates increasing demand.
 
@@ -1423,9 +1411,7 @@ For sleep, read [Sleep After Training: How to Recover Better Without Fancy Gadge
 
 For overall training recovery, read [How Many Rest Days Do You Really Need? Gym + Muay Thai Recovery](/recovery/how-many-rest-days-per-week-gym-muay-thai/).
 
----
-
-## Plateau cause #6: you simply became stronger
+### Plateau cause #6: you simply became stronger
 
 This sounds strange.
 
@@ -2664,7 +2650,7 @@ That is enough.
 
 ## Sources and further reading
 
-The original article structure and double-progression model were retained, while claims about loading, volume, range of motion, proximity to failure, and fatigue were updated against current resistance-training evidence.
+The recommendations in this guide are informed by current resistance-training evidence on loading, volume, range of motion, proximity to failure, progression, and fatigue.
 
 * Currier BS, D'Souza AC, Fiatarone Singh MA, et al. **American College of Sports Medicine Position Stand. Resistance Training Prescription for Muscle Function, Hypertrophy, and Physical Performance in Healthy Adults: An Overview of Reviews.** Medicine & Science in Sports & Exercise. 2026;58(4):851–872. PMID: 41843416. DOI: 10.1249/MSS.0000000000003897.
 
