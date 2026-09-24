@@ -2355,7 +2355,7 @@ Technique and consistency matter more than maximum volume.
 
 ## Sources and further reading
 
-The evidence used to update this program was checked against current research on resistance training, combat-sport athletes, concurrent training, proximity to failure, and fatigue.
+The recommendations in this program are informed by research on resistance training, combat-sport athletes, concurrent training, proximity to failure, and fatigue.
 
 * Currier BS, D'Souza AC, Fiatarone Singh MA et al. **American College of Sports Medicine Position Stand. Resistance Training Prescription for Muscle Function, Hypertrophy, and Physical Performance in Healthy Adults: An Overview of Reviews.** Medicine & Science in Sports & Exercise. 2026;58(4):851–872. PMID: 41843416. DOI: 10.1249/MSS.0000000000003897.
 
