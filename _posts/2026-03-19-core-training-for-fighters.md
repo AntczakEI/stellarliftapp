@@ -2,507 +2,2012 @@
 layout: post
 title: "Core Training for Fighters: What Actually Builds Power, Stability, and Transfer"
 date: 2026-03-19
+last_modified_at: 2026-09-24
+author: "Tomasz Antczak"
 categories: [training]
-tags: [training, core training, fighters, muay thai, power, stability, anti-rotation]
+tags: [training, core training, fighters, muay thai, boxing, power, stability, anti-rotation]
 permalink: /training/core-training-for-fighters/
-excerpt: "A practical guide to core training for fighters: what the core actually does, which exercises matter, what to avoid, and how to build trunk strength that really transfers."
-description: "A practical guide to core training for fighters: what the core really does, which exercises matter, what to avoid, and how to build strength that transfers to combat sports."
+excerpt: "A practical guide to core training for fighters: how to train bracing, anti-extension, anti-rotation, lateral stability, and rotation without turning core work into random ab punishment."
+description: "Learn how fighters can train the core for strength, stability, rotation, and trunk control, with practical exercises, progression, sample workouts, and evidence-based limits on sport transfer."
 ---
-
-# Core Training for Fighters: What Actually Builds Power, Stability, and Transfer
 
 Core training is one of the most misunderstood parts of fight preparation.
 
-A lot of people still treat it like an ab finisher at the end of a workout. A few sets of crunches, leg raises, or random sit-ups, then done. That can create fatigue, but fatigue is not the same thing as useful training.
+For some people it means:
 
-For fighters, the core is not just about visible abs. It is about **transferring force, resisting force, staying stable under pressure, and connecting the upper and lower body under speed, impact, and fatigue**.
+* crunches
+* sit-ups
+* leg raises
+* a painful ab circuit at the end of training
 
-That matters in everything:
+For others it becomes the opposite extreme:
 
-- punching
-- kicking
-- clinching
-- defending
-- changing direction
-- absorbing force
-- maintaining posture when tired
+* balance balls
+* unstable surfaces
+* complicated cable combinations
+* exercises that look more like circus tricks than strength training
 
-A strong core does not just make you look athletic. It helps you move better, hit harder, stay tighter, and waste less energy.
+Neither approach is necessary.
 
-If you want the short version, here it is: **fighters need a core that can resist movement just as well as it can create it.**
+For a fighter, useful trunk training can help develop qualities such as:
 
-If you want the full category hub later, start here: [Training guides](/training/).
+* trunk strength
+* bracing
+* control of extension
+* control of rotation
+* lateral stability
+* rotational strength
+* balance
 
-## What the core actually does for fighters
+Those qualities can support movement in:
 
-Most people think the core is just the abs.
+* boxing
+* Muay Thai
+* kickboxing
+* MMA
+* grappling
 
-It is not.
+But core training should be described accurately.
 
-The core includes:
+A stronger trunk does not automatically mean:
 
-- the rectus abdominis
-- the obliques
-- the transverse abdominis
-- the muscles around the spine
-- parts of the lower back
-- the muscles that help stabilize the pelvis and trunk
+**a harder punch.**
 
-In practice, the core acts like the body’s central transmission system.
+And doing more rotational exercises does not automatically mean:
 
-For fighters, that means it helps you:
+**more rotational power in a fight.**
 
-- transfer force from the ground into strikes
-- stay balanced while attacking or defending
-- control rotation
-- resist being pulled out of position
-- stay stable in the clinch
-- brace during impact
-- keep posture when tired
+Sport performance still depends heavily on:
 
-If that system is weak, energy leaks everywhere.
+* technique
+* timing
+* coordination
+* lower-body force production
+* speed
+* skill practice
 
-You might still be strong in the gym. You might still look fit. But your movement becomes less efficient, less stable, and less powerful when speed and fatigue show up.
+The gym supports those qualities.
 
-## Why most core training for fighters is badly done
+It does not replace them.
 
-A lot of bad core training comes from confusing **muscle burn** with **sport transfer**.
+## What do we mean by "core"?
 
-You can absolutely destroy your abs with endless reps and still not improve the qualities that matter most in combat sports.
+There is no single muscle called:
 
-Common problems:
+**the core.**
 
-- too much flexion-only work
-- too many crunches and sit-ups
-- random circuits with no progression
-- treating core work like punishment
-- no focus on bracing, anti-rotation, or force transfer
-- flashy exercises with poor control
+In practical training language, the term usually refers to muscles around the:
 
-This is the issue: fighters do not just need to bend the spine over and over.
+* abdomen
+* trunk
+* spine
+* pelvis
 
-They also need to:
+that help produce and control trunk movement.
 
-- resist extension
-- resist rotation
-- resist lateral collapse
-- create controlled rotation
-- brace under force
-- stay stable while the arms and legs move hard
+That includes muscles involved in:
 
-That is why good core training looks different from basic ab-day training.
+* spinal flexion
+* extension
+* rotation
+* lateral flexion
+* resisting those movements
 
-## The four qualities fighters actually need
+So core training is much broader than:
 
-A useful core program for fighters should cover these four things.
+**training the abs.**
 
-## 1. Bracing strength
+## What does the trunk do during fighting?
 
-Bracing means creating stiffness through the trunk so force can transfer efficiently.
+Combat sports involve coordinated movement across the whole body.
 
-This matters when:
+A punch, for example, does not happen because:
 
-- punching hard
-- absorbing shots
-- lifting
-- changing levels
-- clinching
-- staying stable during explosive movement
+**the arm moves by itself.**
 
-If you cannot brace well, you lose force and control.
+Biomechanical studies of boxing describe coordinated actions involving:
 
-## 2. Anti-rotation strength
+* the lower body
+* trunk
+* shoulder
+* arm
 
-Fighters rotate a lot, but just as important is the ability to **resist unwanted rotation**.
+with different body segments contributing during different phases of the punch.
 
-This matters when:
+That is why it makes sense to train the trunk as part of the athlete's overall physical preparation.
 
-- someone pulls you in the clinch
-- you throw strikes and need to stay controlled
-- you absorb off-balance contact
-- you plant and redirect force
+But be careful with the common phrase:
 
-Anti-rotation work is one of the most useful and overlooked parts of core training.
+**"the core transfers power from the legs to the fist."**
 
-## 3. Anti-extension strength
+It is a useful coaching simplification.
 
-Anti-extension means resisting the lower back from collapsing into an overextended position.
+Human movement is more complicated than one body part acting as a passive transmission shaft.
 
-This matters when:
+The trunk:
 
-- you punch with power
-- you lift overhead
-- you sprint
-- you hold posture under fatigue
-- you do explosive movement where rib and pelvis position matter
+* produces motion
+* controls motion
+* contributes to positioning
+* interacts with the hips and upper body
 
-A lot of people think their core is strong because they can do sit-ups. Then they lose position the second speed or fatigue show up.
+during striking.
+
+## Does core training actually improve athletic performance?
+
+Sometimes.
+
+But the evidence is not as simple as:
+
+**stronger core = better athlete.**
+
+A 2022 systematic review and meta-analysis of trunk muscle training in competitive athletes found improvements in several physical qualities, including:
+
+* trunk-related strength
+* local muscular endurance
+* some measures of lower-body power
+* sprint performance
+* change-of-direction performance
+* some sport-specific performance measures
+
+However, studies varied substantially in:
+
+* athletes
+* sports
+* exercises
+* training duration
+* outcome measures
+
+So there is no single core-training formula that guarantees better performance.
+
+## What about fighters specifically?
+
+A 2025 systematic review looked specifically at:
+
+**striking combat sports.**
+
+It included athletes from:
+
+* boxing
+* Muay Thai
+* taekwondo
+* karate
+* Chinese martial arts
+
+and reported improvements in some measures of:
+
+* striking force
+* impact speed
+* kicking performance
+* repeated striking performance
+
+after core-strength interventions.
+
+That is encouraging.
+
+But only:
+
+**8 studies**
+
+met the inclusion criteria.
+
+That is a relatively small evidence base.
+
+So the reasonable conclusion is:
+
+**core training may support striking performance, but we should not treat any individual core exercise as a proven shortcut to harder punches or kicks.**
+
+## Broader evidence is more cautious
+
+A 2023 meta-analysis of randomized trials found that core training produced clearer improvements in:
+
+* core endurance
+* balance
+
+than in:
+
+* sport-specific power
+* sport-specific speed
+
+The authors found little overall effect on some sport-specific performance outcomes.
+
+That is useful context.
+
+Core training is worth doing.
+
+But its most reliable benefit may be:
+
+**making the trunk itself stronger and better able to control movement**
+
+rather than instantly transforming sports performance.
+
+## The five useful categories of core training
+
+Instead of chasing:
+
+**the best core exercise for fighters,**
+
+it is more useful to cover several trunk functions.
+
+A simple program can include:
+
+1. anti-extension
+2. anti-rotation
+3. lateral stability
+4. controlled rotation
+5. loaded bracing
+
+You do not need all five in every session.
+
+Across the week:
+
+cover several of them.
+
+## 1. Anti-extension
+
+Anti-extension exercises challenge you to resist excessive arching of the lower back while force acts on the trunk.
+
+Examples include:
+
+* Dead Bug
+* Ab Wheel Rollout
+* Body Saw
+* Long-Lever Plank
+
+This is useful because many athletic movements require the athlete to create trunk stiffness while:
+
+* arms
+* legs
+
+are moving.
+
+## Dead bug
+
+The dead bug is simple and easy to scale.
+
+It can help teach:
+
+* ribcage control
+* pelvic control
+* abdominal bracing
+* coordination between trunk and limbs
+
+### Basic version
+
+Lie on your back.
+
+Bring hips and knees into a comfortable bent position.
+
+Brace gently.
+
+Slowly lower:
+
+* one arm
+* opposite leg
+
+without allowing the lower back to arch excessively.
+
+Return.
+
+Repeat on the other side.
+
+### Starting prescription
+
+**2–3 sets × 6–10 reps per side**
+
+Keep the movement:
+
+* slow
+* controlled
+
+Do not chase fatigue.
+
+## Ab wheel rollout
+
+The ab wheel is a much harder anti-extension exercise.
+
+Start from:
+
+* kneeling
+
+and roll forward only as far as you can maintain trunk control.
+
+### Starting prescription
+
+**2–3 sets × 5–10 reps**
+
+If your lower back:
+
+* drops into a large arch
+* becomes painful
+
+reduce the range.
+
+A shorter controlled rollout is more useful than a long uncontrolled one.
+
+## Do not turn anti-extension into a posture religion
+
+There is no need to believe that your spine must remain:
+
+**perfectly neutral at all times.**
+
+The spine moves.
+
+That is normal.
+
+Anti-extension exercises are simply one way to train the ability to:
+
+**control trunk position under load.**
+
+They are not proof that spinal extension is inherently dangerous.
+
+## 2. Anti-rotation
+
+Anti-rotation exercises challenge the trunk to resist an external rotational force.
+
+The classic example is:
+
+**Pallof Press.**
+
+This category makes practical sense for fighters because combat sports involve situations where external forces attempt to:
+
+* rotate
+* pull
+* move
+
+your torso.
+
+That does not mean anti-rotation is automatically:
+
+**more functional**
+
+than rotational training.
+
+You can use both.
+
+## Pallof press
+
+Attach a cable or band beside you.
+
+Hold it near the chest.
+
+Press your hands away from the body without allowing the resistance to rotate you substantially.
+
+### Starting prescription
+
+**2–3 sets × 8–12 reps per side**
+
+or:
+
+**15–30 second holds**
+
+Use enough resistance that you have to work.
+
+But not so much that:
+
+* your hips twist
+* your shoulders rotate dramatically
+* you turn it into a full-body wrestling match with the cable
+
+## Half-kneeling Pallof press
+
+A half-kneeling version can reduce how much you rely on:
+
+* wide stance
+* leg movement
+
+to resist the load.
+
+That may be useful for variety.
+
+It is not automatically superior.
+
+## Do fighters need anti-rotation?
+
+You do not need to build an entire core program around it.
+
+But it is a useful category because most traditional ab routines contain almost none.
+
+One or two anti-rotation exercises across the week can be enough.
+
+## 3. Lateral stability
+
+The trunk also has to control movement in the frontal plane.
+
+Useful exercises include:
+
+* Side Plank
+* Suitcase Carry
+* Offset Carry
+
+These challenge the body to resist:
+
+* lateral bending
+* asymmetrical loading
+
+## Side plank
+
+A basic side plank is easy to learn and scale.
+
+### Starting prescription
+
+**2–3 sets × 20–45 seconds per side**
+
+Progress by:
+
+* increasing time modestly
+* using a longer lever
+* adding load
+
+Do not chase:
+
+**five-minute planks.**
+
+At some point:
+
+adding difficulty is more practical than adding endless time.
+
+## Suitcase carry
+
+Hold one heavy implement on one side.
+
+Walk normally while maintaining control.
+
+### Starting prescription
+
+**2–3 rounds × 20–40 metres per side**
+
+Suitcase carries train:
+
+* grip
+* trunk
+* walking under asymmetrical load
+
+They are simple and easy to include at the end of a strength session.
+
+## Carries do not need to become conditioning
+
+If you are:
+
+* sprinting with dumbbells
+* gasping for air
+* racing the clock
+
+you have changed the exercise.
+
+That may be useful conditioning.
+
+But it is no longer simply trunk-strength work.
 
 ## 4. Controlled rotation
 
-Yes, fighters need rotation too.
+Fighters obviously rotate.
 
-But not sloppy rotation.
+So some direct rotational training can make sense.
 
-They need the ability to create and control rotational force through the hips and trunk without losing structure. That is different from just twisting fast for the sake of twisting.
+Examples include:
 
-Good rotational training teaches the body to create force without falling apart.
+* Cable Chop
+* Cable Lift
+* Landmine Rotation
+* Rotational Medicine-Ball Throw
 
-## What good core training for fighters looks like
+But there are two very different categories here:
 
-Good core training is usually:
+### Strength-oriented rotation
 
-- simple
-- controlled
-- progressive
-- repeatable
-- relevant
+Usually:
 
-It should improve one or more of these:
+* slower
+* controlled
+* loaded
 
-- trunk stiffness
-- posture
-- force transfer
-- balance
-- control under speed
-- control under fatigue
+### Power-oriented rotation
 
-It also has to fit around your actual training.
+Usually:
 
-That means core work should support:
+* fast
+* explosive
+* lower repetition
 
-- Muay Thai
-- boxing
-- MMA
-- kickboxing
-- grappling
-- strength training
+Do not mix them accidentally.
 
-Not interfere with them.
+## Cable chop
 
-If your core work leaves your hips tight, your lower back fried, or your breathing wrecked before technical work, it is badly chosen or badly placed.
+Cable chops can train controlled rotational movement under resistance.
 
-## Best core exercises for fighters
+### Example
 
-These are the types of exercises that usually give fighters the most return.
+**2–3 sets × 6–12 reps per side**
 
-## 1. Dead bug variations
+Use enough load to challenge the movement while preserving:
 
-Dead bugs are simple, but very effective when done properly.
+* control
+* balance
 
-Why they work:
+Do not simply:
 
-- teach rib and pelvis control
-- improve anti-extension strength
-- reinforce breathing and bracing
-- build control without beating you up
+**swing the cable as hard as possible.**
 
-They are especially useful for fighters who tend to arch the lower back or lose trunk position under effort.
+## Cable lift
 
-## 2. Pallof press variations
+A cable lift changes the direction of the rotational pattern.
 
-Pallof presses are one of the best anti-rotation exercises you can use.
+Again:
 
-Why they work:
+the purpose is not to perfectly imitate a:
 
-- train the body to resist twisting
-- improve trunk control
-- build useful tension without extra spinal wear
-- easy to progress
+* hook
+* kick
 
-They are boring to some people, but they work.
+It is simply another way to progressively train rotation under resistance.
 
-## 3. Side plank variations
+## Do rotational exercises make punches harder?
 
-Side planks build lateral trunk strength and help clean up weak links around the obliques and hips.
+Possibly as part of a broader training program.
 
-Why they work:
+But do not claim:
 
-- improve side-to-side stability
-- build anti-lateral-flexion strength
-- support posture and balance
-- easy to load or progress
+**cable chops increase punch force by themselves.**
 
-A fighter who collapses side to side usually needs more work here.
+Punching performance depends on coordinated:
 
-## 4. Ab wheel rollouts
+* lower-body action
+* trunk movement
+* upper-body movement
+* technique
 
-When done well, these are brutal in a good way.
+Core-strength interventions have improved striking outcomes in some studies.
 
-Why they work:
+That supports using trunk training.
 
-- high anti-extension demand
-- strong bracing requirement
-- excellent for trunk stiffness
-- easy to overload
+It does not prove that one specific gym drill directly transfers to one specific strike.
 
-The key is control. If the lower back dumps into extension, the exercise stops being useful.
+## 5. Loaded bracing
 
-## 5. Hanging knee raises or leg raises
+Sometimes the simplest core training does not look like:
 
-These can be useful, but only when done with control.
+**core training.**
 
-Why they work:
+Exercises such as:
 
-- challenge trunk control
-- train pelvic position
-- build strength through a longer range
-- useful grip and shoulder involvement too
+* Farmer Carry
+* Suitcase Carry
+* heavy squat variations
+* deadlift variations
+* loaded presses
+* rows
 
-They become much less useful when they turn into swinging momentum reps.
+require the trunk to stabilize under load.
 
-## 6. Cable chop and lift patterns
+So if you already strength train:
 
-These help fighters train controlled rotation through the trunk.
+your core is already working.
 
-Why they work:
+## Do compound lifts train the core?
 
-- teach force transfer across the body
-- train coordination between hips and trunk
-- useful when performed with control and intent
+Yes.
 
-The goal is not to fling weight around. The goal is to create clean, controlled rotation.
+They require trunk musculature to contribute to:
 
-## 7. Loaded carries
+* positioning
+* stability
+* force production
 
-Carries are underrated.
+But that does not mean direct trunk training is useless.
 
-Why they work:
+Direct exercises let you deliberately target functions such as:
 
-- build full-body bracing
-- improve posture under load
-- train the core while walking and stabilizing
-- develop trunk strength that actually carries over
+* anti-extension
+* anti-rotation
+* lateral stability
+* rotation
 
-Good options:
+with relatively little overall fatigue.
 
-- suitcase carries
-- farmer carries
-- front rack carries
+## Direct core training should supplement strength training
 
-These are especially useful for people who want less fluff and more function.
+Think of direct core work as:
 
-## Exercises that are often overrated
+**accessory training.**
 
-This does not mean these exercises are always useless. It means they are often overused, poorly programmed, or treated like the whole answer.
+Not:
 
-## Crunches
+**the foundation of the entire strength program.**
 
-Crunches train spinal flexion, but on their own they do not build the kind of trunk function most fighters need.
+A fighter usually needs:
 
-They are not evil. They are just limited.
+* lower-body strength
+* upper-body strength
+* pulling
+* pushing
+* sport practice
 
-## Endless sit-ups
+as well.
 
-High-volume sit-ups often become more about surviving discomfort than building useful strength.
+For the broader gym picture, read [Strength Training for Muay Thai: Best Exercises and What to Skip](/training/strength-training-for-muay-thai-best-exercises/).
 
-Too much of this can also annoy the hips or lower back in some people.
+## What about spinal flexion?
 
-## Random ab circuits
+Crunches and sit-ups are often criticised as if spinal flexion were automatically bad.
 
-If there is no progression, no control, and no clear purpose, it is usually just fatigue work.
+That is too simplistic.
 
-That has a place sometimes, but it should not be the foundation.
+The spine is capable of flexion.
 
-## Fancy social-media core drills
+A crunch is an exercise.
 
-If an exercise looks impressive but you cannot explain what it is training, it probably is not worth prioritizing.
+It is not inherently:
 
-## How often fighters should train the core
+* dangerous
+* useless
 
-Most fighters do not need a separate core day.
+The problem is when a fighter's entire trunk program consists of:
 
-Usually, **2 to 4 exposures per week** is enough.
+**hundreds of flexion repetitions.**
 
-That can mean:
+That leaves other functions undertrained.
 
-- 10 to 15 minutes after strength work
-- short core blocks at the end of technical sessions
-- warm-up integration for specific patterns
-- one or two harder exercises plus one simpler stability drill
+## Can fighters do crunches?
 
-The point is consistency, not novelty.
+Yes.
 
-A small amount of smart core work done regularly beats random high-volume ab punishment.
+If:
 
-## A simple core structure that works
+* you like them
+* they are comfortable
+* they fit your program
 
-Here is a practical setup for most fighters.
+you can use them.
 
-## Option 1: after strength sessions
+They are simply one option.
 
-Pick:
+They should not be confused with a complete core program.
 
-- 1 anti-extension exercise
-- 1 anti-rotation exercise
-- 1 carry or side-plank variation
+## Hanging knee raises
 
-Example:
+Hanging knee raises can train:
 
-- ab wheel rollout — 3 sets
-- Pallof press — 3 sets
-- suitcase carry — 3 rounds
+* abdominal musculature
+* hip flexors
+* pelvic control
 
-## Option 2: short finish after combat training
+and also require:
 
-Pick:
+* grip
+* shoulder support
 
-- 1 controlled trunk drill
-- 1 stability drill
+They become less useful if every repetition is:
 
-Example:
+* swinging
+* uncontrolled
 
-- dead bug — 2 to 3 sets
-- side plank — 2 to 3 sets
+### Starting prescription
 
-This is a good option when you want useful work without wrecking recovery.
+**2–3 sets × 6–12 reps**
 
-## Option 3: integrate into warm-up
+Use a range you can control.
 
-Pick lower-fatigue options like:
+## Hanging leg raises
 
-- dead bug
-- bird dog
-- light Pallof press holds
-- breathing and bracing drills
+These are harder.
 
-This works well if your main issue is control rather than raw strength.
+You do not need them if knee raises already provide enough challenge.
 
-## Sample core workout for fighters
+Progression is not:
 
-Here is a simple training session that works well for most people.
+**use the hardest exercise on social media.**
 
-## Core workout A
+Progression is:
 
-- dead bug — 3 × 6 to 10 reps per side
-- Pallof press — 3 × 8 to 12 reps per side
-- side plank — 3 × 20 to 40 seconds per side
-- suitcase carry — 3 rounds
+**increase the challenge when the current exercise becomes too easy.**
 
-## Core workout B
+## What about rotation with medicine balls?
 
-- ab wheel rollout — 3 × 6 to 10 reps
-- hanging knee raise — 3 × 8 to 12 reps
-- cable chop — 3 × 8 to 12 reps per side
-- farmer carry — 3 rounds
+Medicine-ball throws can be useful for explosive rotational training.
 
-You do not need both in one day. Rotate them through the week.
+Examples:
 
-## How to progress core training properly
+* Rotational Wall Throw
+* Scoop Toss
 
-Progression still matters.
+Use:
 
-A lot of people keep doing the same easy core drills forever and wonder why nothing changes.
+* low repetitions
+* high intent
+* enough rest
 
-You can progress by:
+## Sample medicine-ball prescription
 
-- adding reps
-- adding load
-- increasing lever length
-- slowing the tempo
-- improving control
-- increasing time under tension
-- using harder variations
+**3–4 sets × 3–5 reps per side**
 
-Do not progress by making everything more chaotic.
+Every repetition should look:
 
-Harder is not always better. Better control under more demand is better.
+* fast
+* explosive
 
-If you want the broader principle behind this, read [Progressive Overload Explained: How to Keep Getting Stronger Without Guessing](/training/progressive-overload-explained-how-to-keep-getting-stronger/).
+If speed drops substantially:
 
-## Common mistakes fighters make
+stop the set.
 
-## Training the abs but not the core
+This is power training.
 
-If all your work is flexion-based, you are missing a lot.
+Not abdominal conditioning.
 
-Fighters need a trunk that can stabilize, resist, and transfer force.
+## Why throwing may be more appropriate for power
 
-## Going too hard too often
+Explosive sport actions occur quickly.
 
-Sore abs are not the goal.
+A medicine-ball throw allows you to:
 
-If your core work wrecks your breathing, posture, or striking mechanics the next day, it is too much.
+* accelerate
+* release the implement
 
-## Letting technique fall apart
+rather than being forced to slow the movement at the end.
 
-The lower the exercise quality, the lower the transfer.
+That makes throwing a useful tool when the goal is:
 
-Once you start swinging, twisting badly, or losing position, the value drops.
+**explosive intent.**
 
-## Ignoring breathing and bracing
+It still does not perfectly reproduce:
 
-Good core training is not just movement. It is tension control.
+* punching
+* kicking
 
-A lot of people need to learn how to brace properly before piling on harder drills.
+and it does not need to.
 
-## Chasing “functional” nonsense
+## Core training does not need to imitate fighting
 
-An unstable circus trick is not automatically better than a solid, boring exercise done well.
+This is one of the biggest mistakes in combat-sport strength training.
 
-## Does direct core work replace heavy lifting?
+Someone wants punching power.
+
+So they:
+
+* hold dumbbells while punching
+* attach resistance to every strike
+* recreate hooks on cable machines
+
+Specific skill should usually come from:
+
+**practising the skill.**
+
+Strength training can remain:
+
+**strength training.**
+
+## What about unstable-surface training?
+
+Unstable tools can increase the challenge of maintaining position.
+
+Examples include:
+
+* Swiss balls
+* suspension trainers
+* unstable pads
+
+They can be used.
+
+But they are not mandatory.
+
+A 2025 meta-analysis comparing instability and traditional core training reported benefits for some trunk-strength and sprint outcomes.
+
+That does not mean every fighter should move all strength work onto:
+
+* wobble boards
+* BOSU balls
+
+Stable exercises remain effective and much easier to progressively load.
+
+Use instability when it has a clear purpose.
+
+Not because it looks:
+
+**more athletic.**
+
+## Avoid turning strength exercises into balance tricks
+
+For example:
+
+**heavy squat on a wobble board**
+
+creates a very different training problem from:
+
+**heavy squat on stable ground.**
+
+If the goal is:
+
+* leg strength
+
+a stable surface usually lets you produce and progressively load more force.
+
+You can train balance separately.
+
+Not every quality needs to be trained in one exercise.
+
+## Bracing and breathing
+
+Bracing does not mean:
+
+**hold your breath for every exercise forever.**
+
+Breathing strategy depends on:
+
+* load
+* exercise
+* duration
+
+During heavy lifting, athletes may intentionally create substantial trunk pressure and stiffness.
+
+During lighter trunk exercises:
+
+you can usually breathe while maintaining tension.
+
+## Do not make breathing unnecessarily complicated
+
+You do not need to learn a mysterious:
+
+**fighter breathing method**
+
+before training the core.
+
+For most accessory exercises:
+
+* maintain control
+* breathe normally
+* avoid completely losing trunk tension
+
+That is enough.
+
+## How often should fighters train the core?
+
+There is no proven universal optimum.
+
+The original article suggested:
+
+**2–4 exposures per week.**
+
+That remains a reasonable practical range.
+
+But it is not a scientific requirement.
+
+A fighter might do:
+
+### Twice per week
+
+After two gym sessions.
+
+Or:
+
+### Three shorter exposures
+
+Across strength and technical days.
+
+You do not need:
+
+**a dedicated core day.**
+
+## How much core work do you need?
+
+Usually:
+
+not much.
+
+A practical session can contain:
+
+**2–3 exercises**
+
+for:
+
+**2–3 sets each.**
+
+That may take:
+
+**10–15 minutes.**
+
+Because fighters already accumulate fatigue from:
+
+* Muay Thai
+* sparring
+* conditioning
+* strength training
+
+there is little reason to make core work into:
+
+**a 45-minute punishment session.**
+
+## Quality matters more than exhaustion
+
+You should finish most trunk work feeling:
+
+* challenged
+* controlled
+
+not:
+
+* completely destroyed
+
+Soreness is not the objective.
+
+The goal is progressive strength and control.
+
+## Sample Core Workout A — Stability emphasis
+
+### 1. Ab Wheel Rollout
+
+**3 × 5–10**
+
+### 2. Pallof Press
+
+**3 × 8–12 per side**
+
+### 3. Suitcase Carry
+
+**3 × 20–40 m per side**
+
+This gives you:
+
+* anti-extension
+* anti-rotation
+* lateral stability under load
+
+Simple.
+
+Done.
+
+## Sample Core Workout B — Rotation emphasis
+
+### 1. Rotational Medicine-Ball Throw
+
+**3 × 3–5 per side**
+
+### 2. Cable Chop
+
+**3 × 6–10 per side**
+
+### 3. Side Plank
+
+**2–3 × 20–40 seconds per side**
+
+This gives you:
+
+* explosive rotation
+* loaded controlled rotation
+* lateral stability
+
+## Sample Core Workout C — Beginner version
+
+### 1. Dead Bug
+
+**2 × 6–8 per side**
+
+### 2. Pallof Press
+
+**2 × 8–10 per side**
+
+### 3. Side Plank
+
+**2 × 20–30 seconds per side**
+
+You do not need:
+
+* advanced variations
+* maximal load
+
+when basic control is still developing.
+
+## How to progress core training
+
+Core exercises should progress like other strength exercises.
+
+Possible progression methods include:
+
+* more repetitions
+* more load
+* longer lever
+* harder variation
+* slightly longer carry
+* better control
+
+For example:
+
+### Pallof Press
+
+10 kg × 10  
+→ 10 kg × 12  
+→ 12.5 kg × 8
+
+### Ab Wheel
+
+5 controlled reps  
+→ 8 controlled reps  
+→ 10 controlled reps  
+→ slightly greater range
+
+### Suitcase Carry
+
+24 kg × 20 m  
+→ 24 kg × 30 m  
+→ 28 kg × 20 m
+
+That is progressive overload.
+
+Read [Progressive Overload Explained: How to Keep Getting Stronger Without Guessing](/training/progressive-overload-explained-how-to-keep-getting-stronger/) for the full principle.
+
+## Do not progress by adding chaos
+
+A common mistake is:
+
+**plank too easy → put feet on ball → add band → close eyes → lift one arm → balance on something unstable.**
+
+That may make the task harder.
+
+But it also changes:
+
+* what limits the exercise
+
+Sometimes the simpler progression is:
+
+**add load.**
+
+## Do fighters need core endurance?
+
+Yes, trunk endurance can be useful.
+
+Combat sports require athletes to maintain:
+
+* posture
+* control
+* force production
+
+across repeated rounds.
+
+But endless planks are not the only way to train endurance.
+
+Repeated sets of:
+
+* carries
+* trunk exercises
+* normal strength training
+
+also expose the trunk to repeated work.
+
+## Plank duration
+
+If you can hold a basic plank comfortably for:
+
+**a long time,**
+
+you probably do not need to make the goal:
+
+**five minutes.**
+
+Instead:
+
+* add a modest load
+* use a longer lever
+* choose a harder anti-extension exercise
+
+Make the exercise more demanding without making the session endless.
+
+## Core strength versus core endurance
+
+These overlap.
+
+But broadly:
+
+### Strength-focused work
+
+uses:
+
+* higher resistance
+* more difficult variations
+* lower repetitions or shorter hard sets
+
+### Endurance-focused work
+
+uses:
+
+* longer durations
+* more repeated work
+
+Fighters may benefit from both.
+
+You do not need to train them in separate blocks unless your program requires it.
+
+## Does a stronger core prevent injuries?
+
+Be cautious with this claim.
+
+Core training can improve:
+
+* trunk strength
+* balance
+* control
+
+But you should not promise that:
+
+* Pallof Presses prevent back injuries
+* planks prevent hip injuries
+* stronger abs prevent all sports injuries
+
+Injury risk depends on many factors.
+
+No individual core exercise provides guaranteed protection.
+
+## Does core training fix lower-back pain?
+
+This article is about:
+
+**performance training.**
+
+Not rehabilitation.
+
+Exercise can be part of managing many cases of low-back pain, but there is no single universal:
+
+**core weakness diagnosis**
+
+that explains all back pain.
+
+If you have persistent or significant pain:
+
+use appropriate medical or physiotherapy guidance.
+
+## Does a weak core cause poor posture?
+
+Not automatically.
+
+Posture is influenced by many things.
+
+You do not need to:
+
+* constantly brace
+* hold your shoulders back
+* suck your stomach in
+
+throughout the day.
+
+Train strength and control.
+
+Do not turn core training into fear of normal movement.
+
+## Fighters need movement, not permanent stiffness
+
+This is important.
+
+The goal is not:
+
+**make the trunk rigid all the time.**
+
+A fighter has to:
+
+* rotate
+* bend
+* extend
+* shift
+* move quickly
+
+The useful quality is the ability to:
+
+**create stiffness when needed and allow movement when needed.**
+
+## Punching involves rotation — but not only rotation
+
+Straight punches and hooks involve different:
+
+* movement patterns
+* timings
+* contributions from body segments
+
+Boxing biomechanics research supports viewing punches as coordinated whole-body actions.
+
+So telling an athlete:
+
+**“just rotate your core harder”**
+
+is poor technical advice.
+
+Punching technique should be coached as:
+
+**punching technique.**
+
+## Kicking involves the whole body too
+
+Muay Thai kicks require coordinated movement involving:
+
+* support leg
+* hips
+* trunk
+* striking leg
+* upper body
+
+Core strength can support the physical system.
+
+But the gym cannot teach:
+
+* kicking timing
+* target selection
+* balance under actual combat conditions
+
+That still comes from Muay Thai.
+
+## Clinch is another reason trunk strength matters
+
+Clinch involves:
+
+* pushing
+* pulling
+* posture
+* rotation
+* resisting movement
+
+So trunk-strength work may contribute to the general physical qualities used there.
+
+But again:
+
+**Pallof Press is not clinch practice.**
+
+Strength supports skill.
+
+It does not replace it.
+
+## Core training before or after Muay Thai?
+
+Usually:
+
+avoid fatiguing trunk work before the technical session if it noticeably reduces your ability to:
+
+* brace
+* rotate
+* strike
+* breathe
+* maintain posture
+
+A simple option is:
+
+**core work after strength training.**
+
+Or:
+
+**after Muay Thai**
+
+if it is short and low enough in fatigue.
+
+## Where core work fits best
+
+For someone doing:
+
+* 2 gym sessions
+* several Muay Thai sessions
+
+you might use:
+
+### Gym Day A
+
+Anti-extension + anti-rotation
+
+### Gym Day B
+
+Rotation + carry
+
+That is enough.
+
+You do not need additional daily ab workouts.
+
+For a complete two-day strength template, use [Best 2-Day Full Body Gym Workout for Muay Thai Fighters](/training/muay-thai-strength-training-program-2-days-week/).
+
+## Example weekly structure
+
+### Monday
+
+Muay Thai
+
+### Tuesday
+
+Strength + Core A
+
+### Wednesday
+
+Muay Thai
+
+### Thursday
+
+Rest or easy recovery
+
+### Friday
+
+Strength + Core B
+
+### Saturday
+
+Sparring
+
+### Sunday
+
+Rest
+
+The core sessions may only add:
+
+**10 minutes**
+
+to each gym session.
+
+That is sufficient for a useful starting point.
+
+## Do not put hard core work before important sparring
+
+If Friday's core session gives you:
+
+* severe abdominal soreness
+* tired hip flexors
+* lower-back fatigue
+
+and Saturday's sparring suffers:
+
+reduce it.
+
+The point is not to win the Friday core workout.
+
+The point is to improve the athlete.
+
+## What if you only train Muay Thai?
+
+You can still perform short trunk sessions at home.
+
+For example:
+
+### Twice per week
+
+* Dead Bug
+* Side Plank
+* Band Pallof Press
+
+That requires:
+
+* very little equipment
+* little recovery cost
+
+But remember:
+
+Muay Thai itself already trains your body.
+
+Do not assume you need extra work simply because you saw another routine online.
+
+## What if you already lift heavy?
+
+Then your direct core volume can be modest.
+
+If your program already includes:
+
+* squats
+* hinges
+* presses
+* rows
+* loaded carries
+
+you may only need:
+
+**1–2 targeted trunk exercises**
+
+after each gym session.
+
+## Common mistake #1: only doing crunches
+
+Crunches can be useful.
+
+But if they are your entire program:
+
+you are missing other trunk functions.
+
+Include some:
+
+* anti-extension
+* anti-rotation
+* lateral stability
+
+across the week.
+
+## Common mistake #2: only doing anti-rotation
+
+The correction can also go too far.
+
+Some fitness programs act as if:
+
+**rotation is dangerous**
+
+and fighters should only resist movement.
+
+That does not make sense for athletes who:
+
+* punch
+* kick
+* rotate
+
+Train both:
+
+* resisting rotation
+* producing rotation
+
+appropriately.
+
+## Common mistake #3: doing hundreds of repetitions
+
+Core muscles respond to progressive resistance too.
+
+If you can perform:
+
+**100 repetitions**
+
+easily,
+
+the answer may be:
+
+* more load
+* harder variation
+
+not:
+
+**150 repetitions.**
+
+## Common mistake #4: turning everything into conditioning
+
+Core circuits can become:
+
+* mountain climbers
+* burpees
+* sit-ups
+* medicine-ball slams
+
+performed nonstop.
+
+That can be conditioning.
+
+But if the goal is:
+
+**trunk strength,**
+
+allow enough recovery to perform quality repetitions.
+
+## Common mistake #5: chasing soreness
+
+Severe abdominal soreness is not proof of:
+
+* better bracing
+* better punching
+* better performance
+
+It mainly proves you created enough unfamiliar stress to become sore.
+
+## Common mistake #6: believing more rotation equals harder punches
+
+A fighter can become very strong at:
+
+* cable rotation
+
+without automatically becoming better at:
+
+* boxing
+
+Sport skill still requires sport practice.
+
+Use rotational strength as support work.
+
+## Common mistake #7: using heavy weights while punching
+
+Punching with dumbbells can change:
+
+* mechanics
+* speed
+* joint loading
+
+It is not required to develop punching power.
+
+Use:
+
+* skill practice
+
+for punching.
+
+Use:
+
+* resistance training
+
+for strength.
+
+## Common mistake #8: copying flashy social-media drills
+
+An exercise does not become useful because:
+
+* it looks athletic
+* it involves five pieces of equipment
+* someone performs it on one leg
+
+Ask:
+
+**What quality am I training?**
+
+If the answer is unclear:
+
+you probably do not need it.
+
+## Common mistake #9: never progressing
+
+Doing:
+
+**the same 30-second plank**
+
+for two years is not much of a progression strategy.
+
+Record the exercise.
+
+Progress it over time.
+
+## Common mistake #10: adding too much on top of fight training
+
+Core work still creates:
+
+* fatigue
+
+especially when it includes:
+
+* heavy carries
+* hard rollouts
+* high-volume flexion
+* explosive throws
+
+If total training load is already high:
+
+keep direct trunk training small.
+
+For weekly workload decisions, read [How Many Rest Days Do You Really Need? Gym + Muay Thai Recovery](/recovery/how-many-rest-days-per-week-gym-muay-thai/).
+
+## How to choose exercises
+
+You do not need one exercise from every category.
+
+Use a simple decision.
+
+### Want anti-extension?
+
+Choose:
+
+* Dead Bug
+* Ab Wheel
+
+### Want anti-rotation?
+
+Choose:
+
+* Pallof Press
+
+### Want lateral stability?
+
+Choose:
+
+* Side Plank
+* Suitcase Carry
+
+### Want controlled rotation?
+
+Choose:
+
+* Cable Chop
+
+### Want rotational power?
+
+Choose:
+
+* Medicine-Ball Throw
+
+That gives you a clear purpose for each exercise.
+
+## A simple two-day fighter setup
+
+### Day A
+
+**Ab Wheel Rollout**  
+3 × 6–10
+
+**Pallof Press**  
+3 × 8–12/side
+
+### Day B
+
+**Rotational Medicine-Ball Throw**  
+3 × 3–5/side
+
+**Suitcase Carry**  
+3 × 20–40 m/side
+
+That is:
+
+**four exercises across the entire week.**
+
+For many fighters:
+
+that is plenty.
+
+## A no-equipment version
+
+If you have no cable or medicine ball:
+
+### Dead Bug
+
+**3 × 8/side**
+
+### Side Plank
+
+**3 × 30 seconds/side**
+
+### Long-Lever Plank
+
+**2–3 sets**
+
+You can build a useful trunk-training habit without specialised equipment.
+
+## A home band version
+
+With a resistance band:
+
+### Pallof Press
+
+**3 × 10/side**
+
+### Band Chop
+
+**3 × 10/side**
+
+### Dead Bug
+
+**2 × 8/side**
+
+Simple and cheap.
+
+## How hard should core sets be?
+
+Strength-oriented core work should be challenging enough that:
+
+* the set requires concentration
+* the last few reps are difficult
+
+while still maintaining:
+
+* control
+* technique
+
+You do not need every set to reach failure.
+
+## RIR for core exercises
+
+For exercises with clear repetitions:
+
+a practical starting point is:
+
+**1–3 reps in reserve.**
+
+For isometric holds:
+
+stop before technique deteriorates severely.
+
+For power exercises:
+
+stop much earlier.
+
+Power work is about:
+
+**speed.**
+
+Not failure.
+
+## How long should core sessions be?
+
+For most fighters:
+
+**10–20 minutes**
+
+is plenty.
+
+They can even be shorter.
+
+A useful direct core program does not need to feel like:
+
+**an entire extra workout.**
+
+## Should you train core every day?
+
+You can perform very light trunk work frequently.
+
+But there is usually no need for hard direct core training:
+
+**seven days per week.**
+
+Treat it like other strength work.
+
+Give hard sessions enough recovery.
+
+## Can core work be active recovery?
+
+Very easy movement drills might fit a recovery day.
+
+But a demanding session containing:
+
+* hard rollouts
+* weighted carries
+* heavy chops
+
+is:
+
+**training.**
+
+Do not call it recovery simply because it targets the core.
+
+For genuine low-stress options, read [What Counts as Active Recovery? 15 Low-Stress Options for Fighters and Gym Training](/recovery/what-counts-as-active-recovery/).
+
+## FAQ
+
+### What is the best core exercise for fighters?
+
+There is no single best exercise.
+
+A good program combines several trunk functions.
+
+### Are planks good for fighters?
+
+Yes.
+
+They can train trunk endurance and bracing.
+
+They are one tool, not a complete program.
+
+### Are sit-ups bad for fighters?
 
 No.
 
-Heavy compounds already train the core hard:
+They train spinal flexion.
 
-- squats
-- deadlifts
-- presses
-- rows
-- carries
+They simply should not be the only type of trunk exercise you do.
 
-But fighters still benefit from direct core work because it lets you target specific weaknesses:
+### Are crunches useful?
 
-- anti-rotation
-- posture
-- control
-- trunk endurance
-- force transfer
+They can be.
 
-Think of direct core work as support work, not a replacement for real training.
+But they do not cover all the trunk functions relevant to athletic training.
 
-If you want the bigger-picture strength side too, read [Strength Training for Muay Thai: Best Exercises (and What to Skip)](/training/strength-training-for-muay-thai-best-exercises/).
+### Is anti-rotation important?
 
-## How core training fits with Muay Thai and gym work
+It is a useful training category.
 
-If you already do Muay Thai and lifting, keep core work tight and useful.
+But it should not completely replace rotational training.
 
-A good rule:
+### Do fighters need rotational core exercises?
 
-- do not turn it into a whole extra workout
-- keep the exercises purposeful
-- avoid too much fatigue before skill work
-- use it to fill gaps, not create more recovery problems
+They can be useful.
 
-For the bigger weekly structure, read [Muay Thai + Gym: How to Balance Both Without Burning Out](/training/muay-thai-gym-how-to-balance-both-without-burning-out/).
+Cable rotations and medicine-ball throws can complement sport training.
 
-If recovery is already slipping, also read [How Many Rest Days Do You Really Need? (Gym + Muay Thai Recovery)](/recovery/how-many-rest-days-per-week-gym-muay-thai/).
+### Do rotational exercises make punches harder?
 
-On easier recovery days, something like [10-Minute Mobility Routine: Daily Reset for Hips, Ankles, and Upper Back](/recovery/10-minute-mobility-routine/) can fit well too.
+Not automatically.
 
-## Bottom line
+Some combat-sport studies report improved striking outcomes after core training, but sport transfer depends on the complete training program and punching technique.
 
-Core training for fighters should not be random ab punishment.
+### Does a strong core increase punching power?
 
-It should build:
+Core training may contribute to physical qualities involved in striking.
 
-- bracing strength
-- anti-rotation control
-- anti-extension strength
-- controlled rotation
-- better force transfer between the lower and upper body
+But punching power also depends on:
 
-That is what actually carries over.
+* technique
+* lower-body force
+* speed
+* timing
+* coordination.
 
-The best core training is not the flashiest. It is the kind that makes you feel tighter, stronger, more stable, and more efficient when you fight, spar, lift, and move.
+### Does core training improve kicking power?
 
-Train the core like it matters, because it does.
+Some studies in striking combat sports have reported improvements in kicking-related performance.
 
-## Related training guides
+The evidence base is still limited.
 
-- [Strength Training for Muay Thai: Best Exercises (and What to Skip)](/training/strength-training-for-muay-thai-best-exercises/)
-- [Muay Thai + Gym: How to Balance Both Without Burning Out](/training/muay-thai-gym-how-to-balance-both-without-burning-out/)
-- [Progressive Overload Explained: How to Keep Getting Stronger Without Guessing](/training/progressive-overload-explained-how-to-keep-getting-stronger/)
-- [Muay Thai Strength Training Program (2 Days/Week): Full Plan + Exercises](/training/muay-thai-strength-training-program-2-days-week/)
-- [How Many Rest Days Do You Really Need? (Gym + Muay Thai Recovery)](/recovery/how-many-rest-days-per-week-gym-muay-thai/)
+### Do squats and deadlifts train the core?
+
+Yes.
+
+They require trunk stabilization.
+
+Direct core work can still target additional functions.
+
+### Do I need direct core training if I lift?
+
+Not necessarily a large amount.
+
+A small amount of targeted work may be enough.
+
+### How often should fighters train core?
+
+A practical starting point is:
+
+**2–4 short exposures per week.**
+
+This is not a universal optimum.
+
+### How many exercises?
+
+Often:
+
+**2–3 exercises per session**
+
+is enough.
+
+### How many sets?
+
+Usually:
+
+**2–3 sets per exercise**
+
+is a practical starting point.
+
+### Should I train core before Muay Thai?
+
+Usually avoid fatiguing trunk work immediately before important technical or sparring sessions.
+
+### Should I train core after Muay Thai?
+
+You can if:
+
+* the session is short
+* fatigue remains manageable.
+
+### Should I train core after lifting?
+
+Yes.
+
+That is often the easiest place to put it.
+
+### Are medicine-ball throws core training?
+
+They can be part of rotational power training.
+
+They involve more than just the trunk.
+
+### Should medicine-ball throws be high rep?
+
+Usually no if power is the goal.
+
+Use low reps and maintain speed.
+
+### Is the Pallof Press functional?
+
+It trains resistance to rotation.
+
+That can be useful.
+
+It does not need a special label.
+
+### Are unstable surfaces better?
+
+Not necessarily.
+
+They can provide a different stability challenge.
+
+Stable training remains effective and is often easier to progressively load.
+
+### Can I do core training on rest days?
+
+Light work is possible.
+
+Hard core strength sessions still count as training stress.
+
+### Will core training prevent back injuries?
+
+Do not rely on one training category as an injury-prevention guarantee.
+
+### Will core training fix back pain?
+
+Not automatically.
+
+Persistent or significant back pain deserves individual assessment.
+
+### Should I brace all day?
+
+No.
+
+You need the ability to brace when required.
+
+Not permanent trunk tension.
+
+### Do fighters need strong hip flexors too?
+
+Hip flexors participate in many athletic actions.
+
+But they do not need to dominate every core exercise.
+
+Your overall sport and strength program already gives them substantial work.
+
+### What if hanging leg raises hurt my hips or back?
+
+Use another exercise.
+
+Dead bugs, rollouts, Pallof presses, carries, and other options can train the trunk without forcing one particular movement.
+
+## Sources and further reading
+
+The original article structure was retained, while claims about sport transfer were updated against current reviews and combat-sport research.
+
+* Zhang S, Huang W, Soh KG, Luo S, Li L, Wang X. **Effects of Core Strength Training on the Technical Skill Performance of Striking Combat Sport Players: A Systematic Review.** PeerJ. 2025;13:e19615. PMID: 40755806. DOI: 10.7717/peerj.19615.
+
+* Saeterbakken AH, Stien N, Andersen V, et al. **The Effects of Trunk Muscle Training on Physical Fitness and Sport-Specific Performance in Young and Adult Athletes: A Systematic Review and Meta-Analysis.** Sports Medicine. 2022;52(7):1599–1622. PMID: 35061213. DOI: 10.1007/s40279-021-01637-0.
+
+* Dong K, Yu T, Chun B. **Effects of Core Training on Sport-Specific Performance of Athletes: A Meta-Analysis of Randomized Controlled Trials.** Behavioral Sciences. 2023;13(2):148. PMID: 36829378. DOI: 10.3390/bs13020148.
+
+* Prieske O, Muehlbauer T, Granacher U. **The Role of Trunk Muscle Strength for Physical Fitness and Athletic Performance in Trained Individuals: A Systematic Review and Meta-Analysis.** Sports Medicine. 2016;46(3):401–419. PMID: 26589515. DOI: 10.1007/s40279-015-0426-4.
+
+* Lenetsky S, Brughelli M, Nates RJ, Neville JG, Cross MR, Lormier AV. **Defining the Phases of Boxing Punches: A Mixed-Method Approach.** Journal of Strength and Conditioning Research. 2020;34(4):1040–1051. PMID: 30789570. DOI: 10.1519/JSC.0000000000002895.
+
+* Dinu D, Louis J. **Biomechanical Analysis of the Cross, Hook, and Uppercut in Junior vs. Elite Boxers: Implications for Training and Talent Identification.** Frontiers in Sports and Active Living. 2020;2:598861. PMID: 33345181. DOI: 10.3389/fspor.2020.598861.
+
+The evidence supports trunk training as a useful part of athletic preparation.
+
+It does not establish one uniquely optimal:
+
+* core exercise
+* anti-rotation ratio
+* weekly frequency
+* fighter-specific core routine
+
+and it does not prove that improving a gym core exercise will automatically improve a specific strike.
+
+That transfer still depends on:
+
+* the athlete
+* the sport
+* the wider program
+* technical training.
+
+## Final takeaway
+
+Core training for fighters should not be:
+
+**random ab punishment.**
+
+And it does not need to be:
+
+**complicated functional-training theatre.**
+
+A useful program can train:
+
+* anti-extension
+* anti-rotation
+* lateral stability
+* controlled rotation
+* rotational power
+* loaded bracing
+
+with a small number of progressive exercises.
+
+For most fighters:
+
+**two short core blocks each week can already cover a lot.**
+
+Keep the exercises:
+
+* simple
+* measurable
+* progressive
+* low enough in fatigue that they do not interfere with Muay Thai or boxing
+
+and remember the hierarchy:
+
+**core training supports fighting.**
+
+It does not replace:
+
+* technique
+* sparring
+* pads
+* strength training
+* sport-specific practice.
+
+Build a stronger trunk.
+
+Then learn to use the whole body better in the sport.
