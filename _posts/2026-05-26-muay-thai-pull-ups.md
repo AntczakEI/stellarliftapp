@@ -1296,18 +1296,16 @@ That provides plenty of vertical and horizontal pulling work.
 
 ## You do not need weighted plus bodyweight plus assisted pull-ups
 
-The old article's advanced version included:
+It is possible to combine:
 
 * weighted pull-ups
 * bodyweight pull-ups
 * rows
 * additional shoulder work
 
-That can work.
+in the same program.
 
-But it may also be unnecessary.
-
-For many fighters:
+But for many fighters:
 
 **one primary pull + one row**
 
@@ -2329,9 +2327,7 @@ Track progress rather than chasing a deadline.
 
 ## Sources and further reading
 
-The original article's structure — pull-up benefits, clinch discussion, grip variations, assisted/bodyweight/weighted progression, programming, and common mistakes — was retained.
-
-Claims about direct Muay Thai transfer were made more conservative because the available evidence supports pull-ups as a resistance-training exercise, but does not establish them as a specific clinch-performance intervention.
+The recommendations in this guide are informed by research on pull-up muscle activation, resistance-training prescription, combat-sport strength training, and fatigue management.
 
 * Dickie JA, Faulkner JA, Barnes MJ, Lark SD. **Electromyographic Analysis of Muscle Activation During Pull-Up Variations.** Journal of Electromyography and Kinesiology. 2017;32:30–36. PMID: 28011412. DOI: 10.1016/j.jelekin.2016.11.004.
 
