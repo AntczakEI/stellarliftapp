@@ -1366,7 +1366,7 @@ Before adding it, ask:
 
 **What problem am I trying to solve?**
 
-#### I fade late in long sessions
+### I fade late in long sessions
 
 You may need:
 
@@ -1374,11 +1374,11 @@ You may need:
 * better pacing
 * more sport-specific exposure
 
-#### I cannot repeat hard bursts
+### I cannot repeat hard bursts
 
 Intervals may help.
 
-#### I am exhausted after one hard round
+### I am exhausted after one hard round
 
 Possible contributors include:
 
@@ -1393,7 +1393,7 @@ Do not automatically assume:
 
 is the only answer.
 
-#### My Muay Thai classes are already brutal
+### My Muay Thai classes are already brutal
 
 You may need:
 
@@ -1409,31 +1409,31 @@ This matters as much as exercise selection.
 
 Suppose your week is:
 
-#### Monday
+### Monday
 
 Muay Thai
 
-#### Tuesday
+### Tuesday
 
 Strength
 
-#### Wednesday
+### Wednesday
 
 Muay Thai
 
-#### Thursday
+### Thursday
 
 Rest
 
-#### Friday
+### Friday
 
 Strength
 
-#### Saturday
+### Saturday
 
 Hard sparring
 
-#### Sunday
+### Sunday
 
 Rest
 
@@ -1540,11 +1540,11 @@ In some schedules, clustering hard work on the same day gives you clearer recove
 
 For example:
 
-#### Morning
+### Morning
 
 Conditioning
 
-#### Evening
+### Evening
 
 Muay Thai
 
@@ -1570,15 +1570,15 @@ For practical same-day recovery, read [Two Workouts a Day: How to Recover Betwee
 
 Keep this hierarchy in mind.
 
-#### First
+### First
 
 Technical quality.
 
-#### Then
+### Then
 
 Important sparring and sport-specific work.
 
-#### Then
+### Then
 
 Supportive strength and conditioning.
 
@@ -1744,31 +1744,31 @@ Conditioning becomes easier to manage when you record at least one metric.
 
 For example:
 
-#### Bike
+### Bike
 
 * watts
 * calories
 * distance
 
-#### Rower
+### Rower
 
 * pace
 * distance
 * time
 
-#### Sled
+### Sled
 
 * load
 * distance
 * rounds
 
-#### Carry
+### Carry
 
 * load
 * distance
 * rounds
 
-#### Bodyweight circuit
+### Bodyweight circuit
 
 * rounds
 * total time
@@ -1791,15 +1791,15 @@ of easy cycling.
 
 Progress might be:
 
-#### Week 1
+### Week 1
 
 20 minutes
 
-#### Week 2
+### Week 2
 
 25 minutes
 
-#### Week 3
+### Week 3
 
 30 minutes
 
@@ -2179,31 +2179,31 @@ Build from there.
 
 A recreational schedule might include:
 
-#### Monday
+### Monday
 
 Muay Thai
 
-#### Tuesday
+### Tuesday
 
 Strength + short intervals
 
-#### Wednesday
+### Wednesday
 
 Rest
 
-#### Thursday
+### Thursday
 
 Muay Thai
 
-#### Friday
+### Friday
 
 Strength
 
-#### Saturday
+### Saturday
 
 Muay Thai or sparring
 
-#### Sunday
+### Sunday
 
 Rest
 
