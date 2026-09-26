@@ -2,7 +2,7 @@
 layout: post
 title: "10-Minute Mobility Routine: Daily Reset for Hips, Ankles, and Upper Back"
 date: 2026-02-19
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [recovery]
 tags: [recovery, mobility, hips, ankles, thoracic spine, shoulders, warm-up, active recovery, muay thai]
@@ -176,7 +176,7 @@ Nothing should require you to:
 * hold your breath
 * push through sharp pain
 
-## 1. Knee-to-wall ankle rocks — 2 minutes
+### 1. Knee-to-wall ankle rocks — 2 minutes
 
 This movement targets ankle dorsiflexion.
 
@@ -190,7 +190,7 @@ Useful ankle dorsiflexion can help with positions such as:
 * footwork
 * absorbing force
 
-### How to do it
+#### How to do it
 
 Stand facing a wall.
 
@@ -212,7 +212,7 @@ Perform approximately:
 
 You can alternate sides or spend about one minute on each ankle.
 
-## Do not force the knee inward
+#### Do not force the knee inward
 
 Your objective is not simply:
 
@@ -222,7 +222,7 @@ Avoid collapsing the foot or twisting the knee dramatically inward just to manuf
 
 Use a position that resembles how you actually want to control the leg.
 
-## How far from the wall?
+#### How far from the wall?
 
 Start close enough that the heel stays down easily.
 
@@ -241,7 +241,7 @@ You should not feel:
 
 If the movement hurts rather than simply feels restricted, do not force it.
 
-## Why ankle mobility matters for fighters
+#### Why ankle mobility matters for fighters
 
 Muay Thai requires repeated:
 
@@ -262,7 +262,7 @@ It can also matter if you strength train with movements such as:
 * split squats
 * lunges
 
-## 2. 90/90 hip transitions — 2 minutes
+### 2. 90/90 hip transitions — 2 minutes
 
 The 90/90 position is useful because it exposes the hips to both:
 
@@ -271,7 +271,7 @@ The 90/90 position is useful because it exposes the hips to both:
 
 rather than only stretching the hips in one direction.
 
-### How to do it
+#### How to do it
 
 Sit on the floor with both knees bent.
 
@@ -290,7 +290,7 @@ Perform approximately:
 
 There is no need to touch both knees perfectly to the floor.
 
-## Use your hands if necessary
+#### Use your hands if necessary
 
 If you feel unstable:
 
@@ -302,7 +302,7 @@ The exercise is not a flexibility test.
 
 Over time, you can use less hand support if control improves.
 
-## Do not force the end position
+#### Do not force the end position
 
 A common mistake is pushing the knees down aggressively.
 
@@ -318,7 +318,7 @@ The objective is controlled rotation.
 
 Not forcing the hip into an uncomfortable position.
 
-## Why hip rotation matters in Muay Thai
+#### Why hip rotation matters in Muay Thai
 
 Hip rotation contributes to many combat-sport movements.
 
@@ -346,7 +346,7 @@ Mobility is one component.
 
 Not the entire answer.
 
-## 3. Half-kneeling hip-flexor movement — 2 minutes
+### 3. Half-kneeling hip-flexor movement — 2 minutes
 
 This movement targets the front of the hip while also asking you to control:
 
@@ -356,7 +356,7 @@ This movement targets the front of the hip while also asking you to control:
 
 That makes it more useful than simply lunging forward as far as possible.
 
-### How to do it
+#### How to do it
 
 Start in a half-kneeling position.
 
@@ -387,7 +387,7 @@ Spend approximately:
 
 **one minute per side.**
 
-## You do not need a huge lunge
+#### You do not need a huge lunge
 
 More distance is not automatically better.
 
@@ -401,7 +401,7 @@ Think:
 
 **small forward shift**
 
-## Add an overhead reach if comfortable
+#### Add an overhead reach if comfortable
 
 To make the movement more dynamic, you can raise the arm on the kneeling side and reach slightly upward.
 
@@ -415,7 +415,7 @@ Do not aggressively bend sideways.
 
 A small controlled reach is enough.
 
-## Are your hip flexors actually "tight"?
+#### Are your hip flexors actually "tight"?
 
 Maybe.
 
@@ -435,7 +435,7 @@ Treat the movement as a useful drill.
 
 Not a diagnosis.
 
-## 4. Quadruped thoracic rotations — 2 minutes
+### 4. Quadruped thoracic rotations — 2 minutes
 
 Your thoracic spine is the middle and upper portion of the spine.
 
@@ -448,7 +448,7 @@ Rotation through this area contributes to:
 
 A useful drill is a controlled quadruped rotation.
 
-### How to do it
+#### How to do it
 
 Start:
 
@@ -467,7 +467,7 @@ Perform:
 
 **6–10 controlled repetitions per side.**
 
-## Do not turn it into lower-back rotation
+#### Do not turn it into lower-back rotation
 
 Try to keep the movement reasonably controlled through the upper torso.
 
@@ -475,7 +475,7 @@ You do not need to lock the pelvis completely rigid.
 
 But avoid simply shifting the entire body sideways to create the illusion of more thoracic rotation.
 
-## Another option: open books
+#### Another option: open books
 
 If quadruped rotation is uncomfortable, use a side-lying open-book movement.
 
@@ -490,7 +490,7 @@ Move only as far as comfortable.
 
 Either variation is fine.
 
-## Why upper-back rotation matters for punching
+#### Why upper-back rotation matters for punching
 
 Punching is not produced only by the shoulders.
 
@@ -510,7 +510,7 @@ mobility does not replace technique.
 
 If shoulder movement itself is a recurring limitation, use the dedicated guide [Shoulder Mobility for Fighters: Improve Movement, Reduce Stiffness, and Support Better Training](/recovery/shoulder-mobility-for-fighters/).
 
-## 5. Wall slides or scapular push-ups — 2 minutes
+### 5. Wall slides or scapular push-ups — 2 minutes
 
 Finish with controlled movement around:
 
@@ -520,7 +520,7 @@ Finish with controlled movement around:
 
 Choose one option.
 
-## Option A: wall slides
+#### Option A: wall slides
 
 Stand facing or with your back toward a wall, depending on the variation you prefer.
 
@@ -547,7 +547,7 @@ The wall is feedback.
 
 Not a pass/fail test.
 
-## Option B: scapular push-ups
+#### Option B: scapular push-ups
 
 Start in:
 
@@ -569,7 +569,7 @@ Perform:
 
 **10–15 repetitions.**
 
-## This is not a normal push-up
+#### This is not a normal push-up
 
 The elbows remain mostly straight.
 
@@ -577,27 +577,27 @@ You are practising movement of the shoulder blades rather than pressing up and d
 
 Use a small controlled range.
 
-## The entire routine
+### The entire routine
 
 You now have:
 
-### Minutes 0–2
+#### Minutes 0–2
 
 **Knee-to-wall ankle rocks**
 
-### Minutes 2–4
+#### Minutes 2–4
 
 **90/90 hip transitions**
 
-### Minutes 4–6
+#### Minutes 4–6
 
 **Half-kneeling hip movement**
 
-### Minutes 6–8
+#### Minutes 6–8
 
 **Thoracic rotations**
 
-### Minutes 8–10
+#### Minutes 8–10
 
 **Wall slides or scapular push-ups**
 
@@ -629,7 +629,7 @@ You should not need:
 
 Mobility work is not improved by suffering.
 
-## Stretch sensation vs pain
+### Stretch sensation vs pain
 
 A stretch sensation may feel like:
 
@@ -688,7 +688,7 @@ Do not spend ten minutes passively forcing yourself into extreme positions and t
 
 performance.
 
-## Static stretching before training is not automatically bad
+### Static stretching before training is not automatically bad
 
 This gets oversimplified.
 
@@ -717,27 +717,27 @@ So you do not need to fear static stretching.
 
 Just use it appropriately.
 
-## A better pre-training version
+### A better pre-training version
 
 If you have only ten minutes before training:
 
-### 2 minutes
+#### 2 minutes
 
 Ankle rocks + controlled calf raises
 
-### 2 minutes
+#### 2 minutes
 
 90/90 transitions + bodyweight lateral movement
 
-### 2 minutes
+#### 2 minutes
 
 Half-kneeling hip movements + reverse lunges
 
-### 2 minutes
+#### 2 minutes
 
 Thoracic rotations
 
-### 2 minutes
+#### 2 minutes
 
 Wall slides + easy sport-specific movement
 
@@ -776,7 +776,7 @@ It may help you:
 
 That is enough reason to do it.
 
-## Should you stretch when you have DOMS?
+### Should you stretch when you have DOMS?
 
 Usually, gentle movement is fine when soreness is mild.
 
@@ -832,7 +832,7 @@ it is no longer particularly low stress.
 
 For more examples, read [What Counts as Active Recovery? 15 Low-Stress Options for Fighters and Gym Training](/recovery/what-counts-as-active-recovery/).
 
-## Rest day and recovery day are not identical
+### Rest day and recovery day are not identical
 
 Sometimes you benefit from:
 
@@ -886,7 +886,7 @@ Research on long-term stretching shows that repeated stretching can improve join
 
 But more is not always necessary.
 
-## Do you need to do it every day?
+### Do you need to do it every day?
 
 No.
 
@@ -901,7 +901,7 @@ But there is no rule saying:
 
 Consistency across weeks matters more than perfection across individual days.
 
-## How long until mobility improves?
+### How long until mobility improves?
 
 There is no reliable:
 
@@ -976,7 +976,7 @@ Mobility supports technique.
 
 It does not replace it.
 
-## High kicks are not only about hip mobility
+### High kicks are not only about hip mobility
 
 If your high kick feels limited, possible contributors include:
 
@@ -995,7 +995,7 @@ Do not assume:
 
 A technically better kick can sometimes improve range more than another 20 minutes of passive stretching.
 
-## Strength through range matters
+### Strength through range matters
 
 If you can passively reach a position but cannot actively control it:
 
@@ -1035,7 +1035,7 @@ For example:
 
 performing every lower-body exercise through only a tiny partial range will not expose you to the same movement demands as controlled training through larger ranges.
 
-## Do you need separate stretching if you lift?
+### Do you need separate stretching if you lift?
 
 Maybe.
 
@@ -1073,7 +1073,7 @@ The practical answer is often:
 
 You do not necessarily need to diagnose yourself with structurally shortened muscles.
 
-## A two-minute desk reset
+### A two-minute desk reset
 
 If you sit for long periods, you can use pieces of the routine rather than waiting for one dedicated session.
 
@@ -1133,7 +1133,7 @@ Day-to-day variation can come from:
 
 Evaluate trends across weeks.
 
-## Do not chase numbers you do not need
+### Do not chase numbers you do not need
 
 If your knee reaches:
 
@@ -1174,7 +1174,7 @@ Mobility can be part of preparation.
 
 It is not an insurance policy.
 
-## Do not stretch through an injury
+### Do not stretch through an injury
 
 If you have:
 
@@ -1633,7 +1633,7 @@ Do not chase mobility numbers that have no relevance to what you actually do.
 
 ## Sources and further reading
 
-The principles in this guide were checked against research on stretching, range of motion, resistance training and warm-up performance.
+The principles in this guide are informed by research on stretching, range of motion, resistance training and warm-up performance.
 
 * Behm DG et al. **Acute Effects of Muscle Stretching on Physical Performance, Range of Motion, and Injury Incidence in Healthy Active Individuals: A Systematic Review.** Applied Physiology, Nutrition, and Metabolism. 2016;41(1):1–11. PMID: 26642915.  
   https://pubmed.ncbi.nlm.nih.gov/26642915/
