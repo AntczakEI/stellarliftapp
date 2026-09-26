@@ -2,7 +2,7 @@
 layout: post
 title: "Strength and Conditioning for Muay Thai: What to Build in the Gym Without Slowing Yourself Down"
 date: 2026-04-07
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [training]
 tags: [training, muay thai, strength and conditioning, strength training, weight training, gym, fighters, power, conditioning]
@@ -153,7 +153,7 @@ A stronger fighter who is recovered is not the same thing as a stronger fighter 
 
 A useful Muay Thai strength and conditioning programme normally focuses on several broad qualities.
 
-## 1. Strength
+### 1. Strength
 
 Basic strength gives you a larger physical foundation.
 
@@ -184,7 +184,7 @@ Useful movement categories include:
 
 For detailed exercise selection, read [Strength Training for Muay Thai: Best Exercises and What to Skip](/training/strength-training-for-muay-thai-best-exercises/).
 
-## 2. Power
+### 2. Power
 
 Strength is your ability to produce force.
 
@@ -218,7 +218,7 @@ If your jump height is collapsing or a medicine-ball throw becomes visibly slowe
 
 Power training should not quietly turn into conditioning.
 
-## 3. Work capacity
+### 3. Work capacity
 
 Muay Thai already provides a lot of conditioning.
 
@@ -250,7 +250,7 @@ If you cannot answer those questions, you probably do not need another random fi
 
 For more detail, read [Muay Thai Conditioning Exercises](/training/muay-thai-conditioning-exercises/).
 
-## 4. Single-leg strength and control
+### 4. Single-leg strength and control
 
 Muay Thai involves repeated time spent supported primarily on one leg.
 
@@ -290,7 +290,7 @@ For example:
 
 Then progress if recovery remains good.
 
-## 5. Trunk strength
+### 5. Trunk strength
 
 The trunk helps transfer and control force between the lower and upper body.
 
@@ -317,7 +317,7 @@ You do not need hundreds of sit-ups.
 
 For more detail, read [Core Training for Fighters](/training/core-training-for-fighters/).
 
-## 6. Upper-body strength
+### 6. Upper-body strength
 
 Muay Thai creates plenty of repeated upper-body activity.
 
@@ -350,7 +350,7 @@ Make sure pulling and upper-back work have a meaningful place.
 
 For the detailed guide, read [Best Upper Body Exercises for Muay Thai](/training/best-upper-body-exercises-for-muay-thai/).
 
-## 7. Movement quality
+### 7. Movement quality
 
 You do not need to chase extreme mobility.
 
@@ -420,7 +420,7 @@ For a ready two-day structure, use [Muay Thai Strength Training Program: 2 Days 
 
 One reason strength programmes become messy is that people combine every training goal in the same session.
 
-## Strength work
+### Strength work
 
 Strength-oriented sets often use relatively lower repetition ranges.
 
@@ -434,7 +434,7 @@ You can become stronger with higher repetitions too.
 
 The point is that you do not need to perform huge amounts of work to create a useful strength stimulus.
 
-## Power work
+### Power work
 
 Power work usually benefits from low repetition numbers because movement speed matters.
 
@@ -444,7 +444,7 @@ For example:
 
 Stop when quality drops.
 
-## Muscle-support work
+### Muscle-support work
 
 Moderate repetition ranges are useful for accessory movements and additional tissue development.
 
@@ -454,7 +454,7 @@ For example:
 
 or sometimes somewhat higher.
 
-## Accessory work
+### Accessory work
 
 Exercises such as:
 
@@ -469,7 +469,7 @@ might use:
 
 The exact number matters less than whether the exercise solves a useful problem and fits your recovery budget.
 
-## Conditioning
+### Conditioning
 
 Conditioning does not need to be attached automatically to every strength session.
 
@@ -493,7 +493,7 @@ You can occasionally train closer to failure where appropriate.
 
 But repeatedly grinding every squat, press, row and hinge is difficult to justify when you also need to perform well in combat-sport training.
 
-## You do not need to max out
+### You do not need to max out
 
 Testing strength and building strength are different things.
 
@@ -575,59 +575,59 @@ It is not the only correct plan.
 
 It simply shows how little you actually need.
 
-## Day 1 — Strength emphasis
+### Day 1 — Strength emphasis
 
-### 1. Jump
+#### 1. Jump
 
 3 × 3
 
 Keep every repetition explosive.
 
-### 2. Squat variation
+#### 2. Squat variation
 
 3 × 4–6
 
-### 3. Romanian deadlift
+#### 3. Romanian deadlift
 
 2–3 × 6–8
 
-### 4. Pull-up or pulldown
+#### 4. Pull-up or pulldown
 
 3 × 5–10
 
-### 5. Dumbbell press
+#### 5. Dumbbell press
 
 3 × 6–8
 
-### 6. Pallof press
+#### 6. Pallof press
 
 2–3 sets per side
 
 That is enough.
 
-## Day 2 — Strength + power support
+### Day 2 — Strength + power support
 
-### 1. Medicine-ball rotational throw
+#### 1. Medicine-ball rotational throw
 
 3–4 × 3 per side
 
-### 2. Trap bar deadlift or another hinge
+#### 2. Trap bar deadlift or another hinge
 
 3 × 3–5
 
-### 3. Split squat
+#### 3. Split squat
 
 2 × 6–10 per side
 
-### 4. Row
+#### 4. Row
 
 3 × 6–12
 
-### 5. Landmine or incline press
+#### 5. Landmine or incline press
 
 2–3 × 5–8
 
-### 6. Farmer or suitcase carry
+#### 6. Farmer or suitcase carry
 
 3 controlled carries
 
@@ -1186,7 +1186,7 @@ It does not care whether fatigue came from squats, pads, sparring, running or ci
 
 ## Sources and further reading
 
-The broad training principles in this guide were checked against research on strength training in combat sports and concurrent strength-endurance training.
+The broad training principles in this guide are informed by research on strength training in combat sports and concurrent strength-endurance training.
 
 * Cid-Calfucura I et al. **Effects of Strength Training on Physical Fitness of Olympic Combat Sports Athletes: A Systematic Review.** International Journal of Environmental Research and Public Health. 2023;20(4):3516. PMID: 36834211.
 * Huiberts RO, Wüst RCI, van der Zwaard S. **Concurrent Strength and Endurance Training: A Systematic Review and Meta-Analysis on the Impact of Sex and Training Status.** Sports Medicine. 2024;54:485–503. DOI: 10.1007/s40279-023-01943-9.
