@@ -2,7 +2,7 @@
 layout: post
 title: "How to Tell If You’re Actually Dehydrated"
 date: 2026-03-21
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [hydration]
 tags: [hydration, dehydration, hypohydration, workout performance, urine color, thirst, sweat rate, muay thai, recovery]
@@ -1236,7 +1236,7 @@ Severe or worsening symptoms, confusion, collapse, loss of consciousness, seizur
 
 ## Sources and further reading
 
-The recommendations in this guide were checked against research and consensus guidance on hydration assessment, urine colour, body-mass change and exercise fluid replacement.
+The recommendations in this guide are informed by research and consensus guidance on hydration assessment, urine colour, body-mass change and exercise fluid replacement.
 
 * Barley OR, Chapman DW, Abbiss CR. **Reviewing the Current Methods of Assessing Hydration in Athletes.** Journal of the International Society of Sports Nutrition. 2020;17:52. PMID: 33126891.  
   https://pubmed.ncbi.nlm.nih.gov/33126891/
