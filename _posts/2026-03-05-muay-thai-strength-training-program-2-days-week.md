@@ -2,7 +2,7 @@
 layout: post
 title: "Best 2-Day Full Body Gym Workout for Muay Thai Fighters"
 date: 2026-03-05
-last_modified_at: 2026-09-24
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 featured_training: true
 categories: [training]
@@ -261,7 +261,7 @@ RIR is not perfectly precise.
 
 It is simply a useful way to control effort.
 
-## 1. Main lower-body lift
+### 1. Main lower-body lift
 
 Choose one:
 
@@ -285,7 +285,7 @@ Rest:
 
 between hard working sets.
 
-## Why only one main lower-body lift?
+#### Why only one main lower-body lift?
 
 Because you still have Muay Thai.
 
@@ -302,7 +302,7 @@ One properly loaded main movement can provide a strong training stimulus.
 
 You will add another lower-body pattern later in the week.
 
-## Front squat
+#### Front squat
 
 A front squat can work well if you:
 
@@ -318,7 +318,7 @@ for Muay Thai than every other squat.
 
 It is simply a good option.
 
-## Trap-bar deadlift
+#### Trap-bar deadlift
 
 The trap bar can be useful if:
 
@@ -332,7 +332,7 @@ there is no requirement for Muay Thai athletes to trap-bar deadlift.
 
 Use it if it suits you.
 
-## Goblet squat
+#### Goblet squat
 
 A goblet squat is particularly useful for:
 
@@ -347,7 +347,7 @@ At that point:
 
 use another squat variation.
 
-## 2. Horizontal push
+### 2. Horizontal push
 
 Choose one:
 
@@ -370,7 +370,7 @@ Rest:
 
 if the sets are demanding.
 
-## Do fighters need bench press?
+#### Do fighters need bench press?
 
 No.
 
@@ -385,7 +385,7 @@ You can use dumbbells or push-ups instead.
 
 Strength training does not need to imitate punching mechanically to be useful.
 
-## Gym exercises do not need to look exactly like Muay Thai
+#### Gym exercises do not need to look exactly like Muay Thai
 
 This is an important principle.
 
@@ -401,7 +401,7 @@ The gym builds general physical qualities.
 
 Let each form of training do its own job.
 
-## 3. Horizontal pull
+### 3. Horizontal pull
 
 Choose one:
 
@@ -424,7 +424,7 @@ Rest:
 
 depending on difficulty.
 
-## Why pulling belongs here
+#### Why pulling belongs here
 
 Pulling strengthens areas including:
 
@@ -444,7 +444,7 @@ But there is no evidence-based rule saying fighters must perform:
 
 Use sensible overall programming rather than arbitrary ratios.
 
-## 4. Single-leg movement
+### 4. Single-leg movement
 
 Choose one:
 
@@ -467,7 +467,7 @@ Rest:
 
 between sides or sets as needed.
 
-## Why only two sets?
+#### Why only two sets?
 
 Single-leg exercises can create considerable soreness when:
 
@@ -485,7 +485,7 @@ you can eventually add a third set.
 
 Do not begin with maximum volume.
 
-## If split squats destroy your legs
+#### If split squats destroy your legs
 
 Do not conclude:
 
@@ -501,7 +501,7 @@ Try:
 
 For the full leg-training discussion, read [Should You Train Legs If You Do Muay Thai? Strength, Soreness, and Smart Programming](/training/should-you-train-legs-with-muay-thai/).
 
-## 5. Trunk exercise
+### 5. Trunk exercise
 
 Choose one:
 
@@ -518,21 +518,21 @@ using controlled repetitions.
 
 Examples:
 
-### Pallof Press
+#### Pallof Press
 
 **8–12 reps per side**
 
-### Dead Bug
+#### Dead Bug
 
 **6–10 reps per side**
 
-### Ab Wheel
+#### Ab Wheel
 
 **5–10 reps**
 
 provided you can control the range.
 
-## Core training is not just sit-ups
+#### Core training is not just sit-ups
 
 Muay Thai involves:
 
@@ -551,7 +551,7 @@ You can train both across your wider program.
 
 For a dedicated guide, read [Core Training for Fighters: Strength, Rotation, and Trunk Control](/training/core-training-for-fighters/).
 
-## 6. Optional carry
+### 6. Optional carry
 
 If recovery is good:
 
@@ -580,7 +580,7 @@ If you have hard Muay Thai later or tomorrow:
 
 skip it.
 
-## Day A should not destroy you
+### Day A should not destroy you
 
 The session should feel like:
 
@@ -612,7 +612,7 @@ You do not need to crawl out of the gym.
 | Trunk/carry | 2–3 | Variable | Controlled |
 | Optional shoulder support | 1–2 | 10–20 | Easy |
 
-## 1. Power movement
+### 1. Power movement
 
 Do this:
 
@@ -620,29 +620,29 @@ Do this:
 
 Choose one:
 
-### Box Jump
+#### Box Jump
 
 **3–4 sets × 2–3 reps**
 
-### Countermovement Jump
+#### Countermovement Jump
 
 **3–4 sets × 3 reps**
 
-### Rotational Medicine-Ball Throw
+#### Rotational Medicine-Ball Throw
 
 **3–4 sets × 3–5 reps per side**
 
-### Medicine-Ball Slam
+#### Medicine-Ball Slam
 
 **3–4 sets × 4–6 reps**
 
-### Kettlebell Swing
+#### Kettlebell Swing
 
 **3 sets × 6–10 reps**
 
 if you already know the technique.
 
-## Power training should not feel like conditioning
+#### Power training should not feel like conditioning
 
 The goal is:
 
@@ -666,7 +666,7 @@ The moment power work becomes:
 
 you are training something else.
 
-## Why power work comes first
+#### Why power work comes first
 
 Explosive movements depend on producing force quickly.
 
@@ -684,7 +684,7 @@ Do not put jumps after:
 
 and then wonder why they look slow.
 
-## Power work is optional
+#### Power work is optional
 
 You can still run a very good two-day strength program without:
 
@@ -704,7 +704,7 @@ Strength itself can contribute to the physical base for power.
 
 You can add dedicated power work later.
 
-## 2. Hinge movement
+### 2. Hinge movement
 
 Choose one:
 
@@ -725,7 +725,7 @@ For hip thrusts you can also use:
 
 **6–10 reps.**
 
-## Romanian deadlift
+#### Romanian deadlift
 
 A Romanian deadlift can provide useful loading for:
 
@@ -741,15 +741,15 @@ But it can create substantial soreness if:
 
 Start conservatively.
 
-## Day A and Day B should complement each other
+### Day A and Day B should complement each other
 
 For example:
 
-### If Day A uses a squat
+#### If Day A uses a squat
 
 Day B can use an RDL.
 
-### If Day A uses a trap-bar deadlift
+#### If Day A uses a trap-bar deadlift
 
 Day B could use:
 
@@ -760,7 +760,7 @@ The sessions should not simply repeat:
 
 **two maximal lower-body days.**
 
-## 3. Vertical pull
+### 3. Vertical pull
 
 Choose one:
 
@@ -790,7 +790,7 @@ use:
 
 There is no prize for ugly repetitions.
 
-## 4. Angled or vertical press
+### 4. Angled or vertical press
 
 Choose one:
 
@@ -807,7 +807,7 @@ at:
 
 **2–3 RIR**
 
-## Landmine press is an option, not a corrective exercise
+#### Landmine press is an option, not a corrective exercise
 
 Some fighters find the angled pressing path comfortable.
 
@@ -821,7 +821,7 @@ Do not claim it:
 
 Choose the press you tolerate and can progress.
 
-## If shoulders are already fatigued
+#### If shoulders are already fatigued
 
 After:
 
@@ -839,23 +839,23 @@ Or choose a comfortable variation.
 
 For mobility-specific work, read [Shoulder Mobility for Fighters: A Practical Routine for Boxing and Muay Thai](/recovery/shoulder-mobility-for-fighters/).
 
-## 5. Hamstring or adductor support
+### 5. Hamstring or adductor support
 
 Choose one:
 
-### Leg Curl
+#### Leg Curl
 
 **2 sets × 8–12 reps**
 
-### Short-Lever Copenhagen Plank
+#### Short-Lever Copenhagen Plank
 
 **2 sets × 15–25 seconds per side**
 
-### Adductor Machine
+#### Adductor Machine
 
 **2 sets × 8–15 reps**
 
-## Start adductor training conservatively
+#### Start adductor training conservatively
 
 Kicking and clinching already expose the:
 
@@ -875,7 +875,7 @@ and then complain that walking hurts.
 
 Start easy.
 
-## 6. Trunk or carry
+### 6. Trunk or carry
 
 Choose one:
 
@@ -886,11 +886,11 @@ Choose one:
 
 Examples:
 
-### Side Plank
+#### Side Plank
 
 **2 sets × 20–40 seconds per side**
 
-### Suitcase Carry
+#### Suitcase Carry
 
 **2–3 rounds × 20–30 metres per side**
 
@@ -900,7 +900,7 @@ Do not turn carries into:
 
 **conditioning races.**
 
-## 7. Optional shoulder support
+### 7. Optional shoulder support
 
 Choose one if you want it:
 
@@ -1004,7 +1004,7 @@ for the first main lift.
 
 Those ramp-up sets are part of your warm-up.
 
-## Example squat warm-up
+### Example squat warm-up
 
 If your working sets are:
 
@@ -1029,7 +1029,7 @@ The aim is to arrive at the working load prepared.
 
 Not tired.
 
-## You do not need to stretch everything before lifting
+### You do not need to stretch everything before lifting
 
 If a specific mobility drill helps you:
 
@@ -1067,7 +1067,7 @@ This gives you room to:
 * avoid unnecessary grinders
 * control fatigue
 
-## Why not train everything to failure?
+### Why not train everything to failure?
 
 Because failure is not required for strength development.
 
@@ -1085,7 +1085,7 @@ You still need to:
 
 afterwards.
 
-## Does that mean failure is forbidden?
+### Does that mean failure is forbidden?
 
 No.
 
@@ -1108,7 +1108,7 @@ and:
 
 * maximizing fatigue.
 
-## RIR does not need to be perfectly accurate
+### RIR does not need to be perfectly accurate
 
 You may think:
 
@@ -1184,7 +1184,7 @@ Then you may return to:
 
 and build again.
 
-## Do not force progression every session
+### Do not force progression every session
 
 Muay Thai changes week to week.
 
@@ -1202,23 +1202,23 @@ Your gym progression will not always be perfectly linear.
 
 That is normal.
 
-## Three ways to progress
+### Three ways to progress
 
 You can progress by increasing:
 
-### Repetitions
+#### Repetitions
 
 Example:
 
 6 → 7 → 8.
 
-### Load
+#### Load
 
 Example:
 
 60 kg → 62.5 kg.
 
-### Quality
+#### Quality
 
 Same load and reps but:
 
@@ -1231,7 +1231,7 @@ All of these can be useful signs of progress.
 
 For the full explanation, read [Progressive Overload Explained: How to Keep Getting Stronger Without Guessing](/training/progressive-overload-explained-how-to-keep-getting-stronger/).
 
-## Do not increase everything simultaneously
+### Do not increase everything simultaneously
 
 If you add:
 
@@ -1253,65 +1253,65 @@ There is no one correct week.
 
 Protect your hardest or most important Muay Thai sessions.
 
-## Option A — Muay Thai twice per week
+### Option A — Muay Thai twice per week
 
-### Monday
+#### Monday
 
 Gym A
 
-### Tuesday
+#### Tuesday
 
 Muay Thai
 
-### Wednesday
+#### Wednesday
 
 Rest or easy recovery
 
-### Thursday
+#### Thursday
 
 Gym B
 
-### Friday
+#### Friday
 
 Muay Thai
 
-### Saturday
+#### Saturday
 
 Easy activity or rest
 
-### Sunday
+#### Sunday
 
 Rest
 
 This gives plenty of recovery space.
 
-## Option B — Muay Thai three times per week
+### Option B — Muay Thai three times per week
 
-### Monday
+#### Monday
 
 Muay Thai
 
-### Tuesday
+#### Tuesday
 
 Gym A
 
-### Wednesday
+#### Wednesday
 
 Muay Thai
 
-### Thursday
+#### Thursday
 
 Rest or active recovery
 
-### Friday
+#### Friday
 
 Gym B
 
-### Saturday
+#### Saturday
 
 Muay Thai
 
-### Sunday
+#### Sunday
 
 Rest
 
@@ -1329,33 +1329,33 @@ For example:
 
 The template is not sacred.
 
-## Option C — Muay Thai four times per week
+### Option C — Muay Thai four times per week
 
-### Monday
+#### Monday
 
 Muay Thai
 
-### Tuesday
+#### Tuesday
 
 Gym A
 
-### Wednesday
+#### Wednesday
 
 Muay Thai
 
-### Thursday
+#### Thursday
 
 Gym B
 
-### Friday
+#### Friday
 
 Muay Thai
 
-### Saturday
+#### Saturday
 
 Muay Thai
 
-### Sunday
+#### Sunday
 
 Rest
 
@@ -1369,33 +1369,33 @@ If Saturday is your main sparring session:
 
 do not blindly keep Thursday's full lower-body workload just because the spreadsheet says so.
 
-## A better schedule if Saturday sparring matters most
+### A better schedule if Saturday sparring matters most
 
-### Monday
+#### Monday
 
 Muay Thai
 
-### Tuesday
+#### Tuesday
 
 Gym A
 
-### Wednesday
+#### Wednesday
 
 Muay Thai
 
-### Thursday
+#### Thursday
 
 Gym B — reduced lower-body volume
 
-### Friday
+#### Friday
 
 Rest or technical/easy work
 
-### Saturday
+#### Saturday
 
 Sparring
 
-### Sunday
+#### Sunday
 
 Rest
 
@@ -1403,7 +1403,7 @@ Now Friday protects Saturday.
 
 The exact answer depends on your class schedule.
 
-## Avoid hard lower-body work directly before key sparring
+### Avoid hard lower-body work directly before key sparring
 
 There is no universal rule saying:
 
@@ -1426,13 +1426,13 @@ then the schedule is telling you something.
 
 Move or reduce the leg work.
 
-## Same-day gym + Muay Thai
+### Same-day gym + Muay Thai
 
 Sometimes two sessions on one day actually make weekly scheduling easier.
 
 Example:
 
-### Tuesday
+#### Tuesday
 
 Gym
 
@@ -1440,7 +1440,7 @@ then several hours later:
 
 Muay Thai
 
-### Wednesday
+#### Wednesday
 
 Rest
 
@@ -1453,7 +1453,7 @@ This can work.
 
 But manage the dose.
 
-## Which session should come first?
+### Which session should come first?
 
 Prioritize what matters most.
 
@@ -1483,7 +1483,7 @@ Do not automatically remove strength training completely.
 
 A lower-volume version may maintain the habit and much of the stimulus.
 
-## Day A — Reduced version
+### Day A — Reduced version
 
 1. Main lower-body lift — **2 × 4–6**
 2. Horizontal push — **2 × 5–8**
@@ -1492,7 +1492,7 @@ A lower-volume version may maintain the habit and much of the stimulus.
 
 Done.
 
-## Day B — Reduced version
+### Day B — Reduced version
 
 1. Optional power movement — **2–3 short sets**
 2. Hinge — **2 × 5–8**
@@ -1535,7 +1535,7 @@ For the recovery decision, read [How Many Rest Days Do You Really Need? Gym + Mu
 
 For accumulated fatigue, read [Deload Week for Muay Thai + Gym: When to Do It and How to Do It](/recovery/deload-week-muay-thai-gym/).
 
-## What to remove first when fatigue rises
+### What to remove first when fatigue rises
 
 Do not immediately delete:
 
@@ -1545,29 +1545,29 @@ Remove the lowest-priority fatigue first.
 
 A practical order is:
 
-### 1. Finishers
+#### 1. Finishers
 
 Easy decision.
 
-### 2. Optional accessory work
+#### 2. Optional accessory work
 
 Shoulder extras, carries, extra isolation work.
 
-### 3. Third sets on secondary exercises
+#### 3. Third sets on secondary exercises
 
 Move:
 
 **3 → 2 sets.**
 
-### 4. Single-leg volume
+#### 4. Single-leg volume
 
 Especially if it creates large DOMS.
 
-### 5. Power work
+#### 5. Power work
 
 If movement is no longer fast.
 
-### 6. Main-lift volume
+#### 6. Main-lift volume
 
 Keep a few good sets rather than a full normal session.
 
@@ -1603,7 +1603,7 @@ Skip power training until:
 
 are established.
 
-## Beginners do not need more complexity
+### Beginners do not need more complexity
 
 The first goal is:
 
@@ -1780,7 +1780,7 @@ The gym plan is primarily:
 
 **strength and power support.**
 
-## Zone 2 after lifting?
+### Zone 2 after lifting?
 
 A short easy session may fit if:
 
