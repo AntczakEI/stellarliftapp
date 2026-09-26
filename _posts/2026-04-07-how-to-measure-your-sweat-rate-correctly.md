@@ -2,7 +2,7 @@
 layout: post
 title: "How to Measure Your Sweat Rate Correctly"
 date: 2026-04-07
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [hydration]
 tags: [hydration, sweat rate, sweat loss, workout hydration, dehydration, sodium, exercise, muay thai, running, hot weather]
@@ -1865,7 +1865,7 @@ Use representative measurements to understand your typical range.
 
 ## Sources and further reading
 
-The measurement method and limitations in this guide were checked against published research and sports-hydration guidance.
+The measurement method and limitations in this guide are informed by published research and sports-hydration guidance.
 
 * Baker LB. **Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability.** Sports Medicine. 2017;47(Suppl 1):111–128. PMID: 28332116.  
   https://pubmed.ncbi.nlm.nih.gov/28332116/
