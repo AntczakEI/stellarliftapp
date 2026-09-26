@@ -2,7 +2,7 @@
 layout: post
 title: "DOMS vs Strain: How to Tell Muscle Soreness From a Possible Injury"
 date: 2026-05-16
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [recovery]
 tags: [recovery, doms, muscle strain, soreness, injury, training recovery, rest day, muay thai]
@@ -719,7 +719,7 @@ Modify the activity and seek professional assessment when appropriate.
 
 ## Sources and further reading
 
-The medical and exercise-recovery information in this guide was checked against established clinical and scientific sources:
+The medical and exercise-recovery information in this guide is informed by established clinical and scientific sources:
 
 * [Mayo Clinic — Muscle strains: Symptoms and causes](https://www.mayoclinic.org/diseases-conditions/muscle-strains/symptoms-causes/syc-20450507)
 * [NHS — Sprains and strains](https://www.nhs.uk/conditions/sprains-and-strains/)
