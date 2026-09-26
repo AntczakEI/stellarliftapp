@@ -2,7 +2,7 @@
 layout: post
 title: "Best Upper Body Exercises for Muay Thai: What Helps and What Wastes Time"
 date: 2026-04-23
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [training]
 tags: [training, muay thai, upper body, strength training, exercises, fighters, combat sports, gym, shoulders]
@@ -87,7 +87,7 @@ The best choices are usually movements that:
 
 Here are the main options.
 
-## 1. Pull-ups and chin-ups
+### 1. Pull-ups and chin-ups
 
 Pull-ups and chin-ups are excellent compound pulling exercises when you can perform them comfortably.
 
@@ -125,7 +125,7 @@ Adjust according to your level.
 
 For a more detailed progression, read [Pull-Ups for Muay Thai](/training/muay-thai-pull-ups/).
 
-## 2. Rows
+### 2. Rows
 
 Rows should have a place in most fighter strength programmes.
 
@@ -148,7 +148,7 @@ A practical rep range is:
 
 Choose a variation that lets you train the target muscles cleanly and consistently.
 
-## 3. Push-ups
+### 3. Push-ups
 
 Push-ups are easy to underestimate because they look basic.
 
@@ -176,7 +176,7 @@ You could use:
 
 Push-ups are particularly useful because they are easy to programme without turning the entire gym session into a pressing event.
 
-## 4. Dumbbell bench press
+### 4. Dumbbell bench press
 
 Dumbbell bench pressing is a practical horizontal pressing option.
 
@@ -196,7 +196,7 @@ A sensible range might be:
 
 There is little reason for a recreational Muay Thai athlete to turn every pressing session into a maximal bench-press test.
 
-## 5. Landmine press
+### 5. Landmine press
 
 The landmine press is another useful pressing variation.
 
@@ -217,7 +217,7 @@ That makes the movement useful without pretending it is a direct simulation of a
 
 It is still a gym exercise.
 
-## 6. Overhead press
+### 6. Overhead press
 
 Overhead pressing is not automatically bad for fighters.
 
@@ -246,7 +246,7 @@ Use enough to produce adaptation.
 
 Not every available pressing pattern needs to be trained heavily in the same week.
 
-## 7. Face pulls and rear-delt work
+### 7. Face pulls and rear-delt work
 
 Face pulls, reverse flyes and similar exercises are accessory work.
 
@@ -272,7 +272,7 @@ You do not need to turn them into maximal strength exercises.
 
 For more specific shoulder mobility work, see [Shoulder Mobility for Fighters](/recovery/shoulder-mobility-for-fighters/).
 
-## 8. Farmer carries and suitcase carries
+### 8. Farmer carries and suitcase carries
 
 Carries are simple and useful.
 
@@ -286,17 +286,17 @@ They can train:
 
 Useful options include:
 
-### Farmer carry
+#### Farmer carry
 
 Load in both hands.
 
-### Suitcase carry
+#### Suitcase carry
 
 Load in one hand.
 
 The unilateral version gives the trunk a greater anti-lateral-flexion challenge.
 
-### Front-rack carry
+#### Front-rack carry
 
 Load held higher in front of the body.
 
@@ -308,7 +308,7 @@ For example:
 
 **2–4 carries of roughly 20–40 metres**
 
-## 9. Medicine-ball throws
+### 9. Medicine-ball throws
 
 Medicine-ball throws are more about **power** than maximal strength.
 
@@ -335,7 +335,7 @@ They are general power exercises.
 
 Your coach, pads, bag and sparring teach you how to apply force through Muay Thai technique.
 
-## 10. Explosive push-ups
+### 10. Explosive push-ups
 
 Explosive push-ups can be another simple upper-body power option.
 
@@ -355,7 +355,7 @@ Once the speed clearly drops, the exercise is no longer doing the same job.
 
 Do not turn power work into conditioning.
 
-## 11. Dips
+### 11. Dips
 
 Dips can work well for some people.
 
@@ -373,7 +373,7 @@ Skip or modify them if they repeatedly cause pain.
 
 You have plenty of other pressing choices.
 
-## 12. Direct arm work
+### 12. Direct arm work
 
 Curls and triceps work are allowed.
 
@@ -440,7 +440,7 @@ The bigger problem is usually **how they are programmed**.
 
 Here are the situations that most often create poor return for a Muay Thai athlete.
 
-## 1. Excessive pressing volume
+### 1. Excessive pressing volume
 
 A session might include:
 
@@ -462,7 +462,7 @@ Choose one or two main pressing movements.
 
 You do not need all of them.
 
-## 2. Turning bench press into the main sport
+### 2. Turning bench press into the main sport
 
 Barbell bench press is a useful strength exercise.
 
@@ -479,7 +479,7 @@ Use bench press if it serves the programme.
 
 Do not build the programme around it just because it is easy to measure.
 
-## 3. Too much bodybuilding volume
+### 3. Too much bodybuilding volume
 
 Hypertrophy is not bad.
 
@@ -489,19 +489,19 @@ The problem is importing a high-volume bodybuilding split into an already demand
 
 For example:
 
-### Monday
+#### Monday
 
 Chest
 
-### Tuesday
+#### Tuesday
 
 Back
 
-### Wednesday
+#### Wednesday
 
 Shoulders
 
-### Thursday
+#### Thursday
 
 Arms
 
@@ -513,7 +513,7 @@ A fighter programme usually benefits from combining movements into compact full-
 
 For weekly structure, use [Muay Thai Workout Plan: How to Build a Weekly Gym Program Without Ruining Your Fight Training](/training/muay-thai-workout-plan-weekly-gym-program/).
 
-## 4. Training every set to failure
+### 4. Training every set to failure
 
 You do not need to reach muscular failure constantly to gain strength.
 
@@ -534,7 +534,7 @@ A useful default might be:
 
 That is a programming guideline, not a law.
 
-## 5. Performing power work when exhausted
+### 5. Performing power work when exhausted
 
 Medicine-ball throws and explosive push-ups should look explosive.
 
@@ -548,7 +548,7 @@ then movement speed may already be poor.
 
 Power work generally makes more sense earlier in the session while you are still able to produce fast, high-quality reps.
 
-## 6. Using unstable exercises because they look athletic
+### 6. Using unstable exercises because they look athletic
 
 A normal strength movement does not become more useful just because you perform it on:
 
@@ -564,7 +564,7 @@ There can be reasons to use instability during rehabilitation or specific balanc
 
 That is different from making every press and row unnecessarily unstable.
 
-## 7. Copying a punch with resistance
+### 7. Copying a punch with resistance
 
 Exercises such as heavily resisted band punches can look very sport-specific.
 
@@ -583,7 +583,7 @@ Use the gym for general physical qualities.
 
 Use actual Muay Thai for actual punching.
 
-## 8. Training through shoulder pain
+### 8. Training through shoulder pain
 
 An exercise is not mandatory because somebody online called it essential.
 
@@ -973,7 +973,7 @@ and check whether Muay Thai quality improves.
 
 ## Sources and further reading
 
-The general strength-training recommendations in this guide were checked against research on combat-sport athletes and resistance-training fatigue.
+The general strength-training recommendations in this guide are informed by research on combat-sport athletes and resistance-training fatigue.
 
 * Cid-Calfucura I et al. **Effects of Strength Training on Physical Fitness of Olympic Combat Sports Athletes: A Systematic Review.** International Journal of Environmental Research and Public Health. 2023;20(4):3516. PMID: 36834211.  
   https://pubmed.ncbi.nlm.nih.gov/36834211/
