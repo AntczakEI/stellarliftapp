@@ -2,7 +2,7 @@
 layout: post
 title: "What to Drink During Long Training Sessions: Water, Electrolytes, or Sports Drink?"
 date: 2026-05-18
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [hydration]
 tags: [hydration, electrolytes, water, sports drink, carbohydrates, sodium, sweat rate, long workouts, muay thai, endurance]
@@ -159,7 +159,7 @@ The body does not know what your stopwatch says.
 
 When choosing what to drink, separate the components.
 
-## 1. Fluid
+### 1. Fluid
 
 This replaces some of the water being lost through sweat.
 
@@ -171,7 +171,7 @@ Sources include:
 * diluted juice
 * other suitable beverages
 
-## 2. Sodium
+### 2. Sodium
 
 Sodium is the major electrolyte lost in sweat.
 
@@ -182,7 +182,7 @@ It can come from:
 * sports drinks
 * food
 
-## 3. Carbohydrate
+### 3. Carbohydrate
 
 Carbohydrate helps provide fuel during prolonged or demanding exercise.
 
@@ -228,7 +228,7 @@ You also do not need carbohydrate during every long session.
 
 Context matters.
 
-## When water alone makes sense
+### When water alone makes sense
 
 Examples include:
 
@@ -241,7 +241,7 @@ Examples include:
 
 If you start well hydrated and the workout does not create a large deficit, plain water may be all you need.
 
-## When water starts becoming less complete
+### When water starts becoming less complete
 
 Plain water may become less useful as the only strategy when:
 
@@ -285,7 +285,7 @@ This option can make sense when:
 * you deliberately do not need carbohydrate in the drink
 * another session follows soon
 
-## Electrolytes are not automatically fuel
+### Electrolytes are not automatically fuel
 
 This is one of the most common misunderstandings.
 
@@ -341,7 +341,7 @@ Examples include:
 * prolonged conditioning
 * long combat-sport sessions with limited breaks for food
 
-## Carbohydrate becomes increasingly relevant during prolonged exercise
+### Carbohydrate becomes increasingly relevant during prolonged exercise
 
 For longer-duration exercise, carbohydrate intake can support performance by supplying an external fuel source.
 
@@ -367,7 +367,7 @@ That does not mean everybody should immediately consume:
 
 **90 g/hour.**
 
-## 90 g/hour is not a beginner target
+### 90 g/hour is not a beginner target
 
 High carbohydrate intake should be practised.
 
@@ -393,7 +393,7 @@ Start with what the session actually requires.
 
 Then practise the strategy during training before using it in competition.
 
-## A drink can provide some or all of the carbohydrate
+### A drink can provide some or all of the carbohydrate
 
 Suppose you want:
 
@@ -423,7 +423,7 @@ you do not automatically need additional gels on top.
 
 Count the total.
 
-## How concentrated should a sports drink be?
+### How concentrated should a sports drink be?
 
 Many sports beverages use a carbohydrate concentration around:
 
@@ -435,7 +435,7 @@ which means approximately:
 
 For example:
 
-### 5% drink
+#### 5% drink
 
 **5 g per 100 mL**
 
@@ -443,7 +443,7 @@ or:
 
 **50 g per litre**
 
-### 6% drink
+#### 6% drink
 
 **6 g per 100 mL**
 
@@ -451,7 +451,7 @@ or:
 
 **60 g per litre**
 
-### 8% drink
+#### 8% drink
 
 **8 g per 100 mL**
 
@@ -467,7 +467,7 @@ Very concentrated drinks may become harder to tolerate, particularly when:
 * fluid needs are high
 * the environment is hot
 
-## Example: 6% carbohydrate drink
+#### Example: 6% carbohydrate drink
 
 A:
 
@@ -499,7 +499,7 @@ matches your fluid needs.
 
 Do not set fluid intake only from the amount of carbohydrate you want.
 
-## This is why fluid and fuel can conflict
+### This is why fluid and fuel can conflict
 
 Suppose you need:
 
@@ -534,7 +534,7 @@ from:
 
 **fluid requirement.**
 
-## The opposite situation can also happen
+### The opposite situation can also happen
 
 You may have a very high sweat rate.
 
@@ -564,7 +564,7 @@ A weaker drink or:
 
 may work better.
 
-## There is no single perfect sports-drink concentration
+### There is no single perfect sports-drink concentration
 
 The right concentration depends partly on what else you consume.
 
@@ -624,7 +624,7 @@ That is why there is no universal electrolyte dose for every athlete.
 
 Read [Sweat Rate vs Sodium Loss: What to Measure After Hard Training](/hydration/sweat-rate-vs-sodium-loss-after-training/) for the full explanation.
 
-## How much sodium should a drink contain?
+### How much sodium should a drink contain?
 
 There is no one concentration that perfectly replaces every athlete's sweat.
 
@@ -652,7 +652,7 @@ It is not a universal prescription saying every bottle must contain exactly:
 
 **625 mg/L.**
 
-## A drink does not need to replace every milligram as you lose it
+### A drink does not need to replace every milligram as you lose it
 
 Suppose you estimate sodium loss at:
 
@@ -679,7 +679,7 @@ The appropriate strategy depends on:
 
 For sodium-loss calculations, read [Sodium Loss Calculator for Exercise](/hydration/sodium-loss-calculator-exercise/).
 
-## Salt marks are not a sodium measurement
+### Salt marks are not a sodium measurement
 
 White marks on:
 
@@ -705,7 +705,7 @@ Use them as clues.
 
 Not calculator inputs.
 
-## What about potassium?
+### What about potassium?
 
 Potassium is also present in sweat.
 
@@ -725,7 +725,7 @@ If sweat replacement is your goal, check the actual:
 
 **sodium content.**
 
-## Magnesium is not the main sweat-loss problem
+### Magnesium is not the main sweat-loss problem
 
 Magnesium is frequently marketed heavily in electrolyte products.
 
@@ -735,7 +735,7 @@ The major electrolyte lost in sweat is sodium.
 
 Do not judge an exercise drink by the length of its mineral list.
 
-## Read the label
+### Read the label
 
 When comparing drinks, look at:
 
@@ -753,9 +753,9 @@ That gives you much more useful information than:
 
 **“contains five electrolytes.”**
 
-## Example drink comparison
+### Example drink comparison
 
-### Drink A
+#### Drink A
 
 Per 500 mL:
 
@@ -766,7 +766,7 @@ This is essentially an:
 
 **electrolyte hydration drink**
 
-### Drink B
+#### Drink B
 
 Per 500 mL:
 
@@ -777,7 +777,7 @@ This is closer to a:
 
 **carbohydrate-electrolyte sports drink**
 
-### Drink C
+#### Drink C
 
 Per 500 mL:
 
@@ -838,7 +838,7 @@ does not automatically equal:
 
 **90 minutes of continuous endurance exercise.**
 
-## Technical Muay Thai session
+### Technical Muay Thai session
 
 If the session is:
 
@@ -852,7 +852,7 @@ You probably do not need a high-carbohydrate drink simply because the class last
 
 **90 minutes.**
 
-## Hard Muay Thai session
+### Hard Muay Thai session
 
 Now imagine:
 
@@ -872,7 +872,7 @@ Fluid and sodium become more relevant.
 
 If you also trained earlier or have not eaten for several hours, carbohydrate may be useful too.
 
-## Do fighters need carbohydrate during class?
+### Do fighters need carbohydrate during class?
 
 Not always.
 
@@ -896,7 +896,7 @@ Again:
 
 **match the fuel to the workload.**
 
-## Two-a-day Muay Thai
+### Two-a-day Muay Thai
 
 This is where drinks can become particularly useful.
 
@@ -958,7 +958,7 @@ all three variables become important:
 * sodium
 * carbohydrate
 
-## Example: 45-minute run
+### Example: 45-minute run
 
 Cool weather.
 
@@ -972,7 +972,7 @@ You may need:
 
 There is no requirement to carry a sports drink simply because you are exercising.
 
-## Example: 90-minute run
+### Example: 90-minute run
 
 Moderate intensity.
 
@@ -985,7 +985,7 @@ You may benefit from:
 
 If you are sweating heavily, sodium may also be relevant.
 
-## Example: three-hour run
+### Example: three-hour run
 
 Now you are dealing with:
 
@@ -1041,7 +1041,7 @@ If sweat loss is modest and you ate normally beforehand:
 
 Duration alone does not determine nutritional need.
 
-## Long conditioning sessions are different
+### Long conditioning sessions are different
 
 Two hours of:
 
@@ -1095,7 +1095,7 @@ Your bottle strategy should probably change.
 
 For the complete guide, read [Hydration in Hot Weather: How to Train in Heat Without Crashing](/hydration/hydration-in-hot-weather-training/).
 
-## Humidity matters too
+### Humidity matters too
 
 High humidity makes sweat evaporation less effective.
 
@@ -1199,7 +1199,7 @@ Adding sodium does not give you permission to drink unlimited fluid.
 
 Read [Can You Drink Too Much Water During Exercise? Hyponatremia Explained](/hydration/can-you-drink-too-much-water-hyponatremia/).
 
-## Why sports drink can still cause hyponatremia
+### Why sports drink can still cause hyponatremia
 
 A typical sports drink contains far less sodium than blood.
 
@@ -1233,7 +1233,7 @@ The plan should not force fluid regardless of what the body and conditions are t
 
 And it should not aim to create weight gain from drinking.
 
-## What if you are not thirsty during a long session?
+### What if you are not thirsty during a long session?
 
 Consider the full context.
 
@@ -1253,7 +1253,7 @@ and you routinely forget to drink for several hours, relying solely on awareness
 
 This is where knowing your own sweat rate becomes useful.
 
-## What if you are extremely thirsty?
+### What if you are extremely thirsty?
 
 Drink.
 
@@ -1279,7 +1279,7 @@ Gradual intake is generally easier to tolerate.
 
 Both systems can work.
 
-## One-bottle strategy
+### One-bottle strategy
 
 A single carbohydrate-electrolyte drink.
 
@@ -1293,7 +1293,7 @@ Disadvantages:
 
 * harder to independently adjust carbohydrate and fluid
 
-## Two-bottle strategy
+### Two-bottle strategy
 
 One bottle:
 
@@ -1461,7 +1461,7 @@ That is different from drinking a sugary beverage while sitting at a desk.
 
 Context matters.
 
-## But more sugar is not always better
+### But more sugar is not always better
 
 An extremely concentrated drink can be difficult to tolerate.
 
@@ -1653,7 +1653,7 @@ No single sign proves the strategy is perfect.
 
 Look for patterns across repeated sessions.
 
-## Weigh yourself occasionally
+### Weigh yourself occasionally
 
 Pre- and post-session body weight can help you understand what is happening.
 
@@ -2032,7 +2032,7 @@ Any important competition hydration or fuelling strategy should be tested during
 
 ## Sources and further reading
 
-The recommendations in this guide were checked against sports-hydration and carbohydrate-fuelling research.
+The recommendations in this guide are informed by sports-hydration and carbohydrate-fuelling research.
 
 * Sawka MN et al. **American College of Sports Medicine Position Stand: Exercise and Fluid Replacement.** Medicine & Science in Sports & Exercise. 2007;39(2):377–390. PMID: 17277604. DOI: 10.1249/mss.0b013e31802ca597.  
   https://pubmed.ncbi.nlm.nih.gov/17277604/
