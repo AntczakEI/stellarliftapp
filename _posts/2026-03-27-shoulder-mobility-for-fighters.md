@@ -2,7 +2,7 @@
 layout: post
 title: "Shoulder Mobility for Fighters: A Practical Routine for Boxing and Muay Thai"
 date: 2026-03-27
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [recovery]
 tags: [recovery, shoulder mobility, fighters, muay thai, boxing, scapular control, warm-up, upper body, mobility]
@@ -630,7 +630,7 @@ It should take:
 
 **5–8 minutes.**
 
-## 1. Quadruped thoracic rotation
+### 1. Quadruped thoracic rotation
 
 Start on:
 
@@ -654,7 +654,7 @@ Move slowly.
 
 Do not force the final position.
 
-## What should move?
+#### What should move?
 
 The objective is primarily upper-body rotation.
 
@@ -666,7 +666,7 @@ Just avoid shifting the entire body sideways and calling that:
 
 **thoracic rotation.**
 
-## Alternative: open books
+#### Alternative: open books
 
 Lie on your side with:
 
@@ -682,7 +682,7 @@ Use:
 
 Choose whichever version feels better.
 
-## Why start here?
+#### Why start here?
 
 The upper back provides the base from which the shoulder complex moves.
 
@@ -700,7 +700,7 @@ That does not mean your thoracic spine was:
 
 You are simply moving it.
 
-## 2. Scapular push-ups
+### 2. Scapular push-ups
 
 Start in:
 
@@ -726,7 +726,7 @@ Perform:
 
 **8–12 repetitions.**
 
-## Keep the range controlled
+#### Keep the range controlled
 
 You do not need a huge movement.
 
@@ -741,7 +741,7 @@ Do not turn it into:
 * a normal push-up
 * an aggressive lower-back arch
 
-## Why scapular push-ups make sense for fighters
+#### Why scapular push-ups make sense for fighters
 
 Punching involves scapular movement around the rib cage.
 
@@ -756,7 +756,7 @@ It is not teaching the punching technique itself.
 
 It is simply giving the shoulder blade some controlled movement before you start punching hard.
 
-## Do not force the shoulders down
+#### Do not force the shoulders down
 
 When you push away:
 
@@ -768,7 +768,7 @@ Do not simultaneously try to pull them:
 
 That defeats the point of the drill.
 
-## 3. Wall slides
+### 3. Wall slides
 
 Stand facing a wall.
 
@@ -791,7 +791,7 @@ Perform:
 
 **8–10 repetitions.**
 
-## You do not need perfect wall contact
+#### You do not need perfect wall contact
 
 Some people turn wall slides into a test:
 
@@ -809,7 +809,7 @@ Do not force:
 
 into an uncomfortable position to make the drill look perfect.
 
-## Avoid excessive rib flare
+#### Avoid excessive rib flare
 
 If the arms only move overhead because you create a huge lower-back arch:
 
@@ -823,7 +823,7 @@ rather than:
 
 **lean backward.**
 
-## What should you feel?
+#### What should you feel?
 
 Ideally:
 
@@ -841,7 +841,7 @@ If you repeatedly get painful pinching:
 
 stop forcing the movement.
 
-## 4. Band external rotation
+### 4. Band external rotation
 
 Attach or hold a light resistance band.
 
@@ -867,7 +867,7 @@ This is warm-up work.
 
 Not a strength test.
 
-## Keep the elbow relatively still
+#### Keep the elbow relatively still
 
 Avoid turning the entire torso to move the band.
 
@@ -884,7 +884,7 @@ can help some people maintain position.
 
 It is optional.
 
-## Should you feel a burn?
+#### Should you feel a burn?
 
 A small amount of local muscular effort is fine.
 
@@ -896,7 +896,7 @@ The objective before training is to prepare the shoulder.
 
 Not fatigue the rotator cuff before hundreds of punches.
 
-## 5. Controlled shoulder circles
+### 5. Controlled shoulder circles
 
 Stand comfortably.
 
@@ -917,7 +917,7 @@ and:
 
 on each side.
 
-## This is not a competition for range
+#### This is not a competition for range
 
 A smaller smooth circle is better than a huge painful one.
 
@@ -931,7 +931,7 @@ You are practising:
 
 not trying to break through a restriction in one warm-up.
 
-## Finish with the actual sport
+### Finish with the actual sport
 
 After the drills:
 
@@ -941,19 +941,19 @@ Start easy.
 
 For example:
 
-### 30 seconds
+#### 30 seconds
 
 Relaxed jab-cross.
 
-### 30 seconds
+#### 30 seconds
 
 Add hooks.
 
-### 30 seconds
+#### 30 seconds
 
 Add defence and footwork.
 
-### 30 seconds
+#### 30 seconds
 
 Gradually increase speed.
 
@@ -2313,7 +2313,7 @@ Injury rehabilitation should be based on the actual condition and individual pre
 
 ## Sources and further reading
 
-The principles in this guide were checked against research on scapular function, shoulder range of motion, thoracic posture, boxing adaptations, stretching, and resistance training.
+The principles in this guide are informed by research on scapular function, shoulder range of motion, thoracic posture, boxing adaptations, stretching, and resistance training.
 
 * Kibler WB, Ludewig PM, McClure PW, Michener LA, Bak K, Sciascia AD. **Clinical Implications of Scapular Dyskinesis in Shoulder Injury: The 2013 Consensus Statement from the 'Scapular Summit'.** British Journal of Sports Medicine. 2013;47(14):877–885. PMID: 23580420. DOI: 10.1136/bjsports-2013-092425.
 
