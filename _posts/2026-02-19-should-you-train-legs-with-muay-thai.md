@@ -2,7 +2,7 @@
 layout: post
 title: "Should You Train Legs If You Do Muay Thai? Strength, Soreness, and Smart Programming"
 date: 2026-02-19
-last_modified_at: 2026-09-24
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [training]
 tags: [training, muay thai, leg training, strength training, soreness, recovery, fighters, lower body]
@@ -321,7 +321,7 @@ A simple structure might include:
 
 That is enough to build a very effective session.
 
-## 1. Squat pattern
+### 1. Squat pattern
 
 Options include:
 
@@ -340,7 +340,7 @@ Choose one that:
 * fits your equipment
 * does not create excessive fatigue for your week
 
-## Do fighters need to back squat?
+#### Do fighters need to back squat?
 
 No.
 
@@ -361,7 +361,7 @@ The exercise is a tool.
 
 Do not organise your entire sport around keeping one gym lift.
 
-## 2. Hip hinge
+### 2. Hip hinge
 
 Useful options include:
 
@@ -382,7 +382,7 @@ You do not need several heavy hinge exercises in the same session.
 
 Pick one main option.
 
-## Does every fighter need conventional deadlifts?
+#### Does every fighter need conventional deadlifts?
 
 No.
 
@@ -404,7 +404,7 @@ The sport does not care whether your posterior-chain strength came from:
 
 provided the training does its job.
 
-## 3. Single-leg work
+### 3. Single-leg work
 
 Muay Thai repeatedly puts you in:
 
@@ -432,7 +432,7 @@ But single-leg work can create substantial soreness when volume is suddenly incr
 
 Start conservatively.
 
-## Split squats are useful — but not magical
+#### Split squats are useful — but not magical
 
 Split squats often fit fighter programmes well.
 
@@ -451,7 +451,7 @@ Choose exercises based on:
 
 not internet rankings.
 
-## 4. Lower-leg work
+### 4. Lower-leg work
 
 Muay Thai places repeated demand on:
 
@@ -483,7 +483,7 @@ Do not claim they guarantee:
 
 They are simply useful strength work that may complement the sport.
 
-## 5. Hamstring accessories
+### 5. Hamstring accessories
 
 You may also include:
 
