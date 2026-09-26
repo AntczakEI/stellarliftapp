@@ -2,7 +2,7 @@
 layout: post
 title: "How Many Rest Days Do You Really Need? Gym + Muay Thai Recovery"
 date: 2026-02-26
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [recovery]
 tags: [recovery, rest days, active recovery, muay thai, gym, fatigue, training load, sleep]
@@ -2336,7 +2336,7 @@ Additional fatigue with no meaningful adaptation is not automatically productive
 
 ## Sources and further reading
 
-The principles in this guide were checked against consensus statements and research on athlete recovery, training load, overtraining and concurrent training.
+The principles in this guide are informed by consensus statements and research on athlete recovery, training load, overtraining and concurrent training.
 
 * Kellmann M et al. **Recovery and Performance in Sport: Consensus Statement.** International Journal of Sports Physiology and Performance. 2018;13(2):240–245. PMID: 29345524. DOI: 10.1123/ijspp.2017-0759.  
   https://pubmed.ncbi.nlm.nih.gov/29345524/
