@@ -2,7 +2,7 @@
 layout: post
 title: "How Much Sodium Do You Lose in Sweat? What Actually Affects Sodium Loss During Exercise"
 date: 2026-04-05
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [hydration]
 tags: [hydration, sodium, sweat, electrolytes, workout hydration, exercise, sweat rate, sweat sodium, muay thai, hot weather]
@@ -1557,7 +1557,7 @@ It becomes more useful when total sweat losses are large and precise planning ge
 
 ## Sources and further reading
 
-The ranges and principles in this guide were checked against research on whole-body sweat rate, sweat sodium concentration and exercise sodium loss.
+The ranges and principles in this guide are informed by research on whole-body sweat rate, sweat sodium concentration and exercise sodium loss.
 
 * Baker LB. **Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability.** Sports Medicine. 2017;47(Suppl 1):111–128. PMID: 28332116.  
   https://pubmed.ncbi.nlm.nih.gov/28332116/
