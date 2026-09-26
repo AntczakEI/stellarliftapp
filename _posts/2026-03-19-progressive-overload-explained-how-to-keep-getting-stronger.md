@@ -2,7 +2,7 @@
 layout: post
 title: "Progressive Overload Explained: How to Keep Getting Stronger Without Guessing"
 date: 2026-03-19
-last_modified_at: 2026-09-24
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [training]
 tags: [training, progressive overload, strength training, hypertrophy, gym, reps in reserve, recovery]
@@ -185,7 +185,7 @@ That makes progression easier to measure.
 
 ---
 
-## 1. Add repetitions
+### 1. Add repetitions
 
 For many people, this is the simplest place to start.
 
@@ -195,31 +195,31 @@ Suppose your target is:
 
 Your progression might look like:
 
-### Session 1
+#### Session 1
 
 40 kg:
 
 **8 / 7 / 6**
 
-### Session 2
+#### Session 2
 
 40 kg:
 
 **8 / 8 / 7**
 
-### Session 3
+#### Session 3
 
 40 kg:
 
 **9 / 8 / 8**
 
-### Session 4
+#### Session 4
 
 40 kg:
 
 **10 / 9 / 8**
 
-### Session 5
+#### Session 5
 
 40 kg:
 
@@ -233,7 +233,7 @@ This is the basis of:
 
 **double progression.**
 
-## Why adding reps works so well
+#### Why adding reps works so well
 
 It solves a practical problem.
 
@@ -255,7 +255,7 @@ For an upper-body exercise, that may be substantial.
 
 Adding repetitions before taking that jump lets you build capacity at the current load first.
 
-## Rep progression does not need to happen on every set
+#### Rep progression does not need to happen on every set
 
 Imagine your target is:
 
@@ -281,7 +281,7 @@ Progress does not need to be dramatic to count.
 
 ---
 
-## 2. Add load
+### 2. Add load
 
 Once you can perform the top of your target range with the intended effort and technique:
 
@@ -289,7 +289,7 @@ increase resistance.
 
 Example:
 
-### Current load
+#### Current load
 
 20 kg Dumbbell Bench Press
 
@@ -299,7 +299,7 @@ with approximately:
 
 **2 reps in reserve**
 
-### Next session
+#### Next session
 
 22 kg
 
@@ -313,19 +313,19 @@ You have increased the load.
 
 Now build the repetitions again.
 
-## Use the smallest useful increase
+#### Use the smallest useful increase
 
 Large jumps often create unnecessary problems.
 
 For example:
 
-### Bench press
+##### Bench press
 
 70 kg → 72.5 kg
 
 may be manageable.
 
-### Dumbbell lateral raise
+##### Dumbbell lateral raise
 
 10 kg → 12 kg
 
@@ -339,11 +339,11 @@ When equipment jumps are large:
 
 use repetitions to bridge the gap.
 
-## Typical loading increments
+#### Typical loading increments
 
 These are practical examples rather than universal rules.
 
-### Upper body
+##### Upper body
 
 Often:
 
@@ -351,7 +351,7 @@ Often:
 
 when smaller plates are available.
 
-### Lower body
+##### Lower body
 
 Often:
 
@@ -359,11 +359,11 @@ Often:
 
 may be practical.
 
-### Dumbbells
+##### Dumbbells
 
 Use the smallest available jump.
 
-### Machines
+##### Machines
 
 Use the next stack increment when you can still perform the target range appropriately.
 
@@ -377,13 +377,13 @@ or:
 
 ---
 
-## 3. Add sets
+### 3. Add sets
 
 Another way to increase training demand is to perform more productive working sets.
 
 For example:
 
-### Initially
+#### Initially
 
 Row:
 
@@ -410,7 +410,7 @@ More training also creates more:
 * time requirements
 * recovery demand
 
-## Do not add sets automatically
+#### Do not add sets automatically
 
 If you add a set, watch your recovery and performance over the next:
 
@@ -429,7 +429,7 @@ A bad reason is:
 
 **more must always be better.**
 
-## Add volume selectively
+#### Add volume selectively
 
 Instead of turning:
 
@@ -442,13 +442,13 @@ choose one area.
 
 For example:
 
-### Current
+##### Current
 
 Chest-Supported Row:
 
 **2 sets**
 
-### New
+##### New
 
 Chest-Supported Row:
 
@@ -458,7 +458,7 @@ Keep everything else stable.
 
 Now you can see whether the extra volume actually helps.
 
-## Volume has diminishing returns
+#### Volume has diminishing returns
 
 Training volume generally shows a dose-response relationship:
 
@@ -481,19 +481,19 @@ It is:
 
 ---
 
-## 4. Increase controlled range of motion
+### 4. Increase controlled range of motion
 
 Range of motion can meaningfully change an exercise.
 
 Compare:
 
-### Squat A
+#### Squat A
 
 60 kg through a short partial range
 
 with:
 
-### Squat B
+#### Squat B
 
 60 kg through a deeper, controlled range
 
@@ -509,7 +509,7 @@ It is:
 
 **keep range of motion reasonably consistent when tracking progress.**
 
-## More range can represent progression
+#### More range can represent progression
 
 If you previously performed:
 
@@ -533,7 +533,7 @@ But only if the new range is:
 
 Do not force range simply to create a progression metric.
 
-## Standardize your reps
+#### Standardize your reps
 
 Progress is difficult to measure when:
 
@@ -557,13 +557,13 @@ Then the training log actually means something.
 
 ---
 
-## 5. Progress the exercise when needed
+### 5. Progress the exercise when needed
 
 Sometimes the current variation becomes difficult to progress because the exercise itself is limited.
 
 For example:
 
-### Push-up
+#### Push-up
 
 You can perform:
 
@@ -582,7 +582,7 @@ you might progress to:
 
 Likewise:
 
-### Assisted pull-up
+#### Assisted pull-up
 
 can progress through:
 
@@ -590,7 +590,7 @@ can progress through:
 * bodyweight pull-up
 * eventually weighted pull-up
 
-## Exercise progression is especially useful with limited equipment
+#### Exercise progression is especially useful with limited equipment
 
 At home you may not have:
 
@@ -609,7 +609,7 @@ But there is an important rule:
 
 Difficulty should serve the training goal.
 
-## Harder does not automatically mean better
+#### Harder does not automatically mean better
 
 For example:
 
@@ -652,19 +652,19 @@ That is:
 
 Not necessarily increased physiological training demand.
 
-## Technique helps make overload measurable
+### Technique helps make overload measurable
 
 The biggest value of consistent technique is that it lets you compare performances.
 
 If:
 
-### Week 1
+#### Week 1
 
 80 kg × 8
 
 and:
 
-### Week 6
+#### Week 6
 
 90 kg × 8
 
@@ -713,7 +713,7 @@ Do not assume:
 
 **slower = more muscle.**
 
-## Keep tempo reasonably consistent when tracking progress
+### Keep tempo reasonably consistent when tracking progress
 
 If one week you squat:
 
@@ -762,7 +762,7 @@ use adequate rest and progress:
 
 more directly.
 
-## Rest is there to support performance
+### Rest is there to support performance
 
 For demanding compound exercises:
 
@@ -923,7 +923,7 @@ Momentary muscular failure.
 
 You cannot complete another repetition with the required technique.
 
-## RIR is not perfectly precise
+### RIR is not perfectly precise
 
 Especially for beginners.
 
@@ -960,13 +960,13 @@ So there is no universal rule saying:
 
 **every working set must stop at exactly 2 RIR.**
 
-## For strength
+### For strength
 
 You can make strength gains without routinely reaching failure.
 
 This is particularly useful because heavy compound sets taken to failure can create substantial fatigue.
 
-## For muscle growth
+### For muscle growth
 
 Training reasonably close to failure appears useful.
 
@@ -979,7 +979,7 @@ A practical approach is:
 * compound lifts: often around **1–3 RIR**
 * safer accessory exercises: sometimes closer to failure if desired
 
-## Failure creates more acute fatigue
+### Failure creates more acute fatigue
 
 A 2022 systematic review and meta-analysis found greater acute fatigue after resistance training performed to failure compared with non-failure training.
 
@@ -996,7 +996,7 @@ So failure is not:
 
 It comes with a recovery cost.
 
-## Failure is a tool, not a requirement
+### Failure is a tool, not a requirement
 
 Occasional failure can be perfectly reasonable.
 
@@ -1153,21 +1153,21 @@ Progress can come from:
 
 That means progression can sometimes happen quickly.
 
-## A beginner may add reps almost every workout
+### A beginner may add reps almost every workout
 
 For example:
 
-### Week 1
+#### Week 1
 
 Goblet Squat:
 
 18 kg × 8
 
-### Week 2
+#### Week 2
 
 18 kg × 10
 
-### Week 3
+#### Week 3
 
 20 kg × 8
 
@@ -1507,7 +1507,7 @@ For the full guide, read [Deload Week for Muay Thai + Gym: When to Do It and How
 
 ---
 
-## Do you need to deload every four weeks?
+### Do you need to deload every four weeks?
 
 No.
 
@@ -1594,17 +1594,17 @@ So you may progress more slowly in the gym than someone whose only sport is lift
 
 That is not necessarily a problem.
 
-## Fighter progression should account for sport performance
+### Fighter progression should account for sport performance
 
 Imagine:
 
-### Gym
+#### Gym
 
 Squat increases every week.
 
 But:
 
-### Muay Thai
+#### Muay Thai
 
 * kicks feel heavy
 * sparring quality falls
@@ -1626,7 +1626,7 @@ For overall weekly structure, use [Muay Thai Workout Plan: How to Build a Weekly
 
 ---
 
-## Progress more slowly when total training load is high
+### Progress more slowly when total training load is high
 
 A Muay Thai athlete may use:
 
@@ -1682,7 +1682,7 @@ You may have trained your chest each week.
 
 But you have very little comparable performance data.
 
-## How long should exercises stay in the program?
+### How long should exercises stay in the program?
 
 There is no mandatory:
 
@@ -1744,7 +1744,7 @@ That is enough information to make a useful decision next time.
 
 ---
 
-## Do you need an app?
+### Do you need an app?
 
 No.
 
