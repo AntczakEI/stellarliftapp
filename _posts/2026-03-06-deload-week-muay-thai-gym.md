@@ -2,7 +2,7 @@
 layout: post
 title: "Deload Week for Muay Thai + Gym: When to Do It and How to Do It"
 date: 2026-03-06
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [recovery]
 tags: [recovery, deload, deload week, muay thai, gym, fighters, fatigue management, training load, strength training]
@@ -230,7 +230,7 @@ The most useful are:
 
 You do not necessarily need to reduce all four.
 
-## Reduce volume
+### Reduce volume
 
 Volume is the amount of work you perform.
 
@@ -269,7 +269,7 @@ Same movements.
 
 Much less total work.
 
-## Reduce intensity
+### Reduce intensity
 
 Intensity can mean several different things depending on the activity.
 
@@ -292,7 +292,7 @@ Keep the work clean and comfortably short of failure.
 
 A deload set should not look like a normal hard working set with a different label.
 
-## Reduce frequency when necessary
+### Reduce frequency when necessary
 
 You may be able to keep your normal number of sessions and simply make them easier.
 
@@ -328,11 +328,11 @@ You should leave the gym feeling as though you could have done more.
 
 That is intentional.
 
-## Example: normal gym session vs deload
+### Example: normal gym session vs deload
 
 Imagine your normal session looks like this:
 
-### Normal session
+#### Normal session
 
 Trap bar deadlift:
 
@@ -354,7 +354,7 @@ Core:
 
 * 3 sets
 
-### Deload version
+#### Deload version
 
 Trap bar deadlift:
 
@@ -384,7 +384,7 @@ Nothing needs to become a performance test.
 
 If you use the [Muay Thai Strength Training Program: 2 Days per Week](/training/muay-thai-strength-training-program-2-days-week/), keep the main structure but reduce the dose.
 
-## Should you keep heavy weights?
+### Should you keep heavy weights?
 
 This depends on why you are deloading.
 
@@ -441,7 +441,7 @@ The session can still feel like Muay Thai.
 
 It just should not feel like fight camp.
 
-## Deloading sparring
+### Deloading sparring
 
 Hard sparring can carry a large recovery cost.
 
@@ -463,9 +463,9 @@ These are examples, not rules.
 
 Adjust them to your actual schedule.
 
-## Template 1: Muay Thai 2x + gym 2x
+### Template 1: Muay Thai 2x + gym 2x
 
-### Monday
+#### Monday
 
 Gym deload session A.
 
@@ -473,23 +473,23 @@ Reduced sets.
 
 No grinders.
 
-### Tuesday
+#### Tuesday
 
 Muay Thai.
 
 Technique and controlled pads.
 
-### Wednesday
+#### Wednesday
 
 Rest or an easy walk.
 
-### Thursday
+#### Thursday
 
 Gym deload session B.
 
 Short and controlled.
 
-### Friday
+#### Friday
 
 Muay Thai.
 
@@ -497,41 +497,41 @@ Technique-focused.
 
 No hard conditioning finisher.
 
-### Saturday
+#### Saturday
 
 Easy activity if you want it.
 
-### Sunday
+#### Sunday
 
 Rest.
 
-## Template 2: Muay Thai 3x + gym 2x
+### Template 2: Muay Thai 3x + gym 2x
 
-### Monday
+#### Monday
 
 Muay Thai.
 
 Low-to-moderate intensity.
 
-### Tuesday
+#### Tuesday
 
 Gym deload session A.
 
-### Wednesday
+#### Wednesday
 
 Muay Thai.
 
 Technique and relaxed pads.
 
-### Thursday
+#### Thursday
 
 Rest or light mobility.
 
-### Friday
+#### Friday
 
 Gym deload session B.
 
-### Saturday
+#### Saturday
 
 Muay Thai.
 
@@ -539,41 +539,41 @@ Controlled rounds.
 
 No hard sparring.
 
-### Sunday
+#### Sunday
 
 Rest.
 
-## Template 3: Muay Thai 4x + gym 2x
+### Template 3: Muay Thai 4x + gym 2x
 
 If you genuinely want to keep all six sessions, the intensity has to come down clearly.
 
-### Monday
+#### Monday
 
 Light Muay Thai technique.
 
-### Tuesday
+#### Tuesday
 
 Short gym deload session A.
 
-### Wednesday
+#### Wednesday
 
 Light Muay Thai.
 
-### Thursday
+#### Thursday
 
 Short gym deload session B.
 
-### Friday
+#### Friday
 
 Shorter Muay Thai session.
 
-### Saturday
+#### Saturday
 
 Muay Thai with controlled intensity.
 
 No hard sparring.
 
-### Sunday
+#### Sunday
 
 Rest.
 
@@ -735,13 +735,13 @@ A planned easier week can still be part of a programme, but you should understan
 
 ## What not to do during a deload
 
-## 1. Test maxes
+### 1. Test maxes
 
 A deload is not a testing week.
 
 Do not reduce training for three days and then decide it is the perfect time to see your one-rep max.
 
-## 2. Replace gym volume with random conditioning
+### 2. Replace gym volume with random conditioning
 
 You cut ten gym sets.
 
@@ -756,11 +756,11 @@ You did not reduce total stress.
 
 You moved it.
 
-## 3. Train to failure
+### 3. Train to failure
 
 There is little reason to grind through failure during a week whose purpose is to reduce fatigue.
 
-## 4. Keep hard sparring unchanged
+### 4. Keep hard sparring unchanged
 
 This is a classic fighter mistake.
 
@@ -770,7 +770,7 @@ Everything else stays brutal.
 
 The body experiences total training stress, not your spreadsheet categories.
 
-## 5. Turn deload week into complete inactivity without a reason
+### 5. Turn deload week into complete inactivity without a reason
 
 You normally do not need to become completely sedentary.
 
@@ -778,7 +778,7 @@ Easy movement and technical work can remain.
 
 If you need complete rest because of illness, injury or severe fatigue, that is a different decision.
 
-## 6. Aggressively cut food
+### 6. Aggressively cut food
 
 Training volume may fall during a deload, but recovery still requires energy and nutrients.
 
@@ -791,7 +791,7 @@ This is usually a poor time to suddenly combine:
 
 Eat according to your overall goals, but do not undermine the purpose of the easier week.
 
-## 7. Try to "make up" the work afterwards
+### 7. Try to "make up" the work afterwards
 
 You do not need to repay missed sets.
 
@@ -803,7 +803,7 @@ That was the plan.
 
 The week works best when you actually allow recovery to happen.
 
-## Sleep
+### Sleep
 
 Give sleep a chance to improve.
 
@@ -811,7 +811,7 @@ If your normal training week constantly pushes bedtime later, use the easier wee
 
 Read [Sleep After Training: How to Recover Faster and Perform Better](/recovery/sleep-after-training-how-to-recover-faster-and-perform-better/).
 
-## Food
+### Food
 
 Keep normal meals.
 
@@ -821,7 +821,7 @@ Do not eliminate carbohydrates just because training volume is lower.
 
 You may need slightly less total energy when activity falls, but there is no reason to turn the deload into an aggressive diet phase.
 
-## Hydration
+### Hydration
 
 Stay normally hydrated.
 
@@ -829,7 +829,7 @@ If you continue sweating heavily during Muay Thai, normal hydration principles s
 
 Start with [Hydration Basics: What Actually Matters](/hydration/hydration-basics-what-actually-matters/).
 
-## Easy movement
+### Easy movement
 
 Walking and light mobility are fine.
 
@@ -837,7 +837,7 @@ Do not turn them into another challenge.
 
 For a short option, use [10-Minute Mobility Routine](/recovery/10-minute-mobility-routine/).
 
-## Sauna
+### Sauna
 
 Sauna is optional.
 
@@ -1056,7 +1056,7 @@ Hard sparring can undermine the purpose of the week if fatigue reduction is the 
 
 ## Sources and further reading
 
-The training-load principles in this guide were checked against research on tapering, training cessation and athlete performance.
+The training-load principles in this guide are informed by research on tapering, training cessation and athlete performance.
 
 * Bosquet L, Montpetit J, Arvisais D, Mujika I. **Effects of tapering on performance: a meta-analysis.** Medicine & Science in Sports & Exercise. 2007;39(8):1358–1365. PMID: 17762369.
 * Mujika I. **Intense training: the key to optimal performance before and during the taper.** Scandinavian Journal of Medicine & Science in Sports. 2010. PMID: 20840559.
