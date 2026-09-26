@@ -2,7 +2,7 @@
 layout: post
 title: "Sleep After Training: How to Recover Better Without Fancy Gadgets"
 date: 2026-02-19
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [recovery]
 tags: [recovery, sleep, training recovery, muay thai, gym, caffeine, evening training, performance]
@@ -1641,7 +1641,7 @@ You do not need perfect numbers.
 
 After a week, patterns often appear.
 
-## Example pattern 1: caffeine problem
+### Example pattern 1: caffeine problem
 
 Monday:
 
@@ -1669,7 +1669,7 @@ sleep improves.
 
 That is useful data.
 
-## Example pattern 2: training timing is not the problem
+### Example pattern 2: training timing is not the problem
 
 You finish Muay Thai at:
 
@@ -1684,7 +1684,7 @@ but:
 
 Then there is no reason to move training simply because it is evening.
 
-## Example pattern 3: lifestyle is the problem
+### Example pattern 3: lifestyle is the problem
 
 You finish training at:
 
@@ -1702,7 +1702,7 @@ The limiting factor is probably not the workout.
 
 You are simply not allowing enough sleep opportunity.
 
-## Example pattern 4: workload may be the problem
+### Example pattern 4: workload may be the problem
 
 You sleep:
 
@@ -2226,7 +2226,7 @@ If fatigue is persistent or significant, seek appropriate medical advice.
 
 ## Sources and further reading
 
-The recommendations in this guide were checked against sleep-medicine consensus statements and research relevant to athletes, exercise timing, caffeine, naps and alcohol.
+The recommendations in this guide are informed by sleep-medicine consensus statements and research relevant to athletes, exercise timing, caffeine, naps and alcohol.
 
 * Watson NF et al. **Recommended Amount of Sleep for a Healthy Adult: A Joint Consensus Statement of the American Academy of Sleep Medicine and Sleep Research Society.** Sleep. 2015;38(6):843–844. PMID: 26039963. DOI: 10.5665/sleep.4716.
 
