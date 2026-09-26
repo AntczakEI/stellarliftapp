@@ -2,7 +2,7 @@
 layout: post
 title: "Strength Training for Muay Thai: Best Exercises and What to Skip"
 date: 2026-02-19
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [training]
 tags: [training, muay thai, strength training, fighters, gym, power, plyometrics, recovery]
@@ -598,7 +598,7 @@ The better question is:
 
 Several common problems show up repeatedly.
 
-## 1. Huge high-volume leg days
+### 1. Huge high-volume leg days
 
 Muay Thai already places a large demand on the lower body.
 
@@ -620,7 +620,7 @@ If your leg session leaves your kicks and footwork poor for three days, reduce t
 
 The gym is supposed to support Muay Thai.
 
-## 2. Repeated training to failure
+### 2. Repeated training to failure
 
 You do not need every working set to end in failure.
 
@@ -634,7 +634,7 @@ That is not a law.
 
 It is simply a practical way to get productive work without turning every set into a maximal effort.
 
-## 3. Excessive bodybuilding isolation
+### 3. Excessive bodybuilding isolation
 
 Isolation exercises are not automatically useless.
 
@@ -654,7 +654,7 @@ A fighter can do curls.
 
 Curls just do not need to become the centre of the programme.
 
-## 4. Weekly max attempts
+### 4. Weekly max attempts
 
 Testing strength and building strength are different things.
 
@@ -666,7 +666,7 @@ Use repeatable training loads.
 
 Progress them over time.
 
-## 5. Fancy instability exercises
+### 5. Fancy instability exercises
 
 Standing on unstable surfaces while pressing, squatting or throwing weights may look athletic.
 
@@ -678,7 +678,7 @@ Strength exercises generally work better when you have enough stability to actua
 
 Do not mistake complexity for specificity.
 
-## 6. Exercises that hurt
+### 6. Exercises that hurt
 
 Do not keep an exercise because somebody online called it essential.
 
@@ -1105,7 +1105,7 @@ Use principles, not random clips.
 
 ## Sources and further reading
 
-The strength and power recommendations in this guide were checked against research on strength and plyometric training in combat-sport athletes.
+The strength and power recommendations in this guide are informed by research on strength and plyometric training in combat-sport athletes.
 
 * Cid-Calfucura I et al. **Effects of Strength Training on Physical Fitness of Olympic Combat Sports Athletes: A Systematic Review.** International Journal of Environmental Research and Public Health. 2023;20(4):3516. PMID: 36834211. DOI: 10.3390/ijerph20043516.
 * Ojeda-Aravena A et al. **A Systematic Review with Meta-Analysis on the Effects of Plyometric-Jump Training on the Physical Fitness of Combat Sport Athletes.** Sports. 2023;11(2):33. PMID: 36828318. DOI: 10.3390/sports11020033.
