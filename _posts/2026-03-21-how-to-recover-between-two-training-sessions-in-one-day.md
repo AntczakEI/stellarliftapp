@@ -2,7 +2,7 @@
 layout: post
 title: "Two Workouts a Day: Simple Hydration and Recovery Plan"
 date: 2026-03-21
-last_modified_at: 2026-09-24
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 featured_recovery: true
 categories: [recovery]
@@ -172,7 +172,7 @@ That usually means:
 
 The second session starts being prepared as soon as the first one ends.
 
-## Step 1: Cool down without dragging it out
+### Step 1: Cool down without dragging it out
 
 You do not need a long cooldown.
 
@@ -192,7 +192,7 @@ The point is to bring your body down gradually.
 
 If you tend to feel stiff between sessions, [10-Minute Mobility Routine](/recovery/10-minute-mobility-routine/) can be useful.
 
-## Step 2: Start drinking early
+### Step 2: Start drinking early
 
 Do not wait until you feel badly thirsty.
 
@@ -304,7 +304,7 @@ Carbs and fluids usually do the most for the second session.
 
 Protein still matters, but it is more about supporting recovery across the day.
 
-## If you have 3 to 5 hours between workouts
+### If you have 3 to 5 hours between workouts
 
 You usually have time for a proper meal.
 
@@ -323,7 +323,7 @@ You are not trying to win a food challenge.
 
 You are trying to prepare for the second session.
 
-## If you have 1 to 3 hours between workouts
+### If you have 1 to 3 hours between workouts
 
 Now digestion matters more.
 
@@ -341,7 +341,7 @@ Good options include:
 
 You want fuel without feeling full and sluggish.
 
-## If you have less than 1 hour
+### If you have less than 1 hour
 
 Now you are in damage-control mode.
 
