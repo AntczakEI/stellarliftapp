@@ -2,7 +2,7 @@
 layout: post
 title: "How Much Water to Drink Before a Workout if You Use Pre-Workout"
 date: 2026-04-23
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [hydration]
 tags: [hydration, pre-workout, caffeine, water intake, before workout, gym hydration, exercise, supplements]
@@ -1381,7 +1381,7 @@ Measure your sweat rate during representative sessions and combine it with thirs
 
 ## Sources and further reading
 
-The hydration and caffeine guidance in this article was checked against sports-medicine position statements, caffeine research and European food-safety guidance.
+The hydration and caffeine guidance in this article is informed by sports-medicine position statements, caffeine research and European food-safety guidance.
 
 * Sawka MN et al. **American College of Sports Medicine Position Stand: Exercise and Fluid Replacement.** Medicine & Science in Sports & Exercise. 2007;39(2):377–390. PMID: 17277604.  
   https://pubmed.ncbi.nlm.nih.gov/17277604/
