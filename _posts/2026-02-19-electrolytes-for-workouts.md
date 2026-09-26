@@ -2,7 +2,7 @@
 layout: post
 title: "Electrolytes for Workouts: When You Need Them (and When You Don’t)"
 date: 2026-02-19
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [hydration]
 tags: [hydration, electrolytes, sodium, workouts, muay thai, recovery, sweating, sweat rate, hot weather]
@@ -891,7 +891,7 @@ Consider the entire training and hydration context.
 
 ## Sources and further reading
 
-The recommendations in this guide were checked against sports-hydration position statements and research on sweat sodium, fluid replacement and exercise-associated muscle cramps.
+The recommendations in this guide are informed by sports-hydration position statements and research on sweat sodium, fluid replacement and exercise-associated muscle cramps.
 
 * McDermott BP et al. **National Athletic Trainers' Association Position Statement: Fluid Replacement for the Physically Active.** Journal of Athletic Training. 2017;52(9):877–895. PMID: 28985128.  
   https://pubmed.ncbi.nlm.nih.gov/28985128/
