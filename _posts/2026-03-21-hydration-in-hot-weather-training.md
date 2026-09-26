@@ -2,7 +2,7 @@
 layout: post
 title: "Hydration in Hot Weather: How to Train in Heat Without Crashing"
 date: 2026-03-21
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [hydration]
 tags: [hydration, hot weather, heat training, electrolytes, sodium, sweat rate, muay thai, heat acclimatization, cooling]
@@ -1147,7 +1147,7 @@ It should not be treated as automatically beneficial or risk-free.
 
 ## Sources and further reading
 
-The recommendations in this guide were checked against sports-medicine consensus statements, hydration guidelines and current public-health guidance on heat illness.
+The recommendations in this guide are informed by sports-medicine consensus statements, hydration guidelines and current public-health guidance on heat illness.
 
 * Racinais S et al. **IOC Consensus Statement on Recommendations and Regulations for Sport Events in the Heat.** British Journal of Sports Medicine. 2023;57:8–25. DOI: 10.1136/bjsports-2022-105942.
 
