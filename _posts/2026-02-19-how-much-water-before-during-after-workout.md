@@ -2,7 +2,7 @@
 layout: post
 title: "How Much Water to Drink Before, During and After a Workout"
 date: 2026-02-19
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [hydration]
 tags: [hydration, water intake, workout hydration, muay thai, electrolytes, sweat rate, recovery, exercise hydration]
@@ -1129,7 +1129,7 @@ Concentrated urine can be one clue that you may need more fluid, but urine colou
 
 ## Sources and further reading
 
-The recommendations in this guide were checked against established sports-hydration position statements and current reviews.
+The recommendations in this guide are informed by established sports-hydration position statements and current reviews.
 
 * McDermott BP et al. **National Athletic Trainers' Association Position Statement: Fluid Replacement for the Physically Active.** Journal of Athletic Training. 2017;52(9):877–895. PMID: 28985128.  
   https://pubmed.ncbi.nlm.nih.gov/28985128/
