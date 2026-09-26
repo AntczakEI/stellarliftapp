@@ -2,8 +2,9 @@
 layout: post
 title: "Sauna After Training: Does It Help Recovery or Just Feel Good?"
 date: 2026-02-19
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
+featured_recovery: true
 categories: [recovery]
 tags: [recovery, sauna, hydration, workout recovery, muay thai, gym, heat, electrolytes]
 permalink: /recovery/sauna-after-training/
@@ -213,8 +214,6 @@ You do not get extra recovery points for suffering.
 
 ## What to do immediately after sauna
 
-The article we are merging into this one originally focused entirely on this question, and it is important enough to keep.
-
 Your sauna session is not the end of recovery.
 
 If you trained first, you have now combined exercise stress with heat stress.
@@ -227,7 +226,7 @@ The first things to think about afterwards are:
 4. eat normally after hard training
 5. avoid immediately stacking another unnecessary stressor
 
-## Step 1: cool down gradually
+### Step 1: cool down gradually
 
 When you leave the sauna, give yourself a few minutes to settle.
 
@@ -250,7 +249,7 @@ Do not go back into another round just because you planned to do two rounds.
 
 Your response matters more than the plan.
 
-## Step 2: start drinking
+### Step 2: start drinking
 
 Sauna causes sweating.
 
@@ -273,7 +272,7 @@ If you are trying to estimate how much fluid you typically lose during exercise,
 
 For a broader guide, see [How Much Water Should You Drink After Exercise?](/hydration/how-much-water-to-drink-after-exercise/).
 
-## Step 3: think about sodium after heavy sweating
+### Step 3: think about sodium after heavy sweating
 
 Sweat contains sodium.
 
@@ -302,7 +301,7 @@ For more detail, read:
 * [How Much Sodium Do You Lose in Sweat?](/hydration/how-much-sodium-do-you-lose-in-sweat/)
 * [Sweat Rate vs Sodium Loss After Training](/hydration/sweat-rate-vs-sodium-loss-after-training/)
 
-## Step 4: eat normally after hard training
+### Step 4: eat normally after hard training
 
 Sauna does not replace post-training nutrition.
 
@@ -333,7 +332,7 @@ Examples could include:
 
 The important thing is not to treat sauna as if it somehow replaces food.
 
-## Step 5: stop stacking stress
+### Step 5: stop stacking stress
 
 After a hard workout plus sauna, you do not necessarily need another recovery intervention.
 
@@ -671,7 +670,7 @@ Read [Sauna on Rest Days: Does It Help Recovery or Just Add More Stress?](/recov
 
 ## Sources and further reading
 
-The recovery and safety information in this article was checked against current research and medically reviewed guidance:
+The recovery and safety information in this article is informed by current research and medically reviewed guidance:
 
 * Ahokas EK et al. **Effects of Post-Exercise Heat Exposure on Acute Recovery and Training-Induced Performance Adaptations: A Systematic Review.** Sports Medicine - Open, 2025. DOI: 10.1186/s40798-025-00910-0.
 * **The effect of post-exercise heat exposure (passive heat acclimation) on endurance exercise performance: a systematic review and meta-analysis.** 2024/2025. PubMed PMID: 39762944.
