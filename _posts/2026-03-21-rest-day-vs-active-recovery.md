@@ -2,7 +2,7 @@
 layout: post
 title: "Active Recovery vs Rest Day: Which One Helps More After Hard Training?"
 date: 2026-03-21
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [recovery]
 tags: [recovery, rest day, active recovery, muay thai, fighters, gym, soreness, fatigue, training recovery]
@@ -831,7 +831,7 @@ Mild soreness with otherwise good energy may be more suited to light activity.
 
 ## Sources and further reading
 
-The recovery claims in this guide were checked against reviews and athlete-sleep guidance including:
+The recovery claims in this guide are informed by reviews and athlete-sleep guidance including:
 
 * Dupuy O, Douzi W, Theurot D, Bosquet L, Dugué B. **An Evidence-Based Approach for Choosing Post-exercise Recovery Techniques to Reduce Markers of Muscle Damage, Soreness, Fatigue, and Inflammation: A Systematic Review With Meta-Analysis.** Frontiers in Physiology. 2018. PMID: 29755363.
 * Jin et al. **Physical recovery modalities in competitive and elite endurance athletes: a systematic review and network meta-analysis finding limited evidence of benefit over passive recovery.** 2026. PMID: 42683395.
