@@ -2,7 +2,7 @@
 layout: post
 title: "Signs of Dehydration During Exercise: What to Notice Before Performance Drops"
 date: 2026-04-13
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [hydration]
 tags: [hydration, dehydration, exercise, workout performance, sweat, electrolytes, heat illness, muay thai, running]
@@ -178,7 +178,7 @@ None is diagnostic.
 
 But several appearing together during a sweaty session deserve attention.
 
-## 1. Increasing thirst
+### 1. Increasing thirst
 
 Thirst is one of the most useful immediate signals available to you.
 
@@ -198,7 +198,7 @@ That does not mean you need to empty a bottle immediately.
 
 It means the signal is worth responding to rather than deliberately ignoring it.
 
-## Strong thirst vs ordinary thirst
+#### Strong thirst vs ordinary thirst
 
 There is a difference between:
 
@@ -217,7 +217,7 @@ Strong, escalating thirst during prolonged sweating is more meaningful, particul
 
 Again, combine clues.
 
-## 2. Dry or sticky mouth
+### 2. Dry or sticky mouth
 
 A dry mouth can occur as fluid availability falls.
 
@@ -239,7 +239,7 @@ is more informative than:
 
 **dry mouth by itself.**
 
-## 3. Exercise feels harder than it should
+### 3. Exercise feels harder than it should
 
 One of the most practical signs is an unexpected increase in perceived effort.
 
@@ -266,7 +266,7 @@ Ask:
 
 The answer may involve more than hydration.
 
-## 4. Heart rate is higher at the same workload
+### 4. Heart rate is higher at the same workload
 
 Fluid loss can reduce plasma volume and contribute to cardiovascular strain.
 
@@ -294,7 +294,7 @@ It also changes with:
 
 Use it as one data point.
 
-## 5. Recovery between rounds becomes worse
+### 5. Recovery between rounds becomes worse
 
 This can be especially noticeable in:
 
@@ -317,7 +317,7 @@ But so can simply training too hard.
 
 Look at the entire pattern.
 
-## 6. Your body feels increasingly hot
+### 6. Your body feels increasingly hot
 
 Feeling hot during exercise is obviously normal.
 
@@ -337,7 +337,7 @@ It may be heat illness.
 
 For hot-weather training specifically, read [Hydration in Hot Weather: How to Train in Heat Without Crashing](/hydration/hydration-in-hot-weather-training/).
 
-## 7. Headache
+### 7. Headache
 
 Headache can occur when you are dehydrated.
 
@@ -365,7 +365,7 @@ A headache becomes more suggestive of fluid loss when it occurs after:
 
 But do not automatically respond to every exercise headache by drinking litres of water.
 
-## 8. Dizziness or light-headedness
+### 8. Dizziness or light-headedness
 
 This deserves more caution.
 
@@ -392,7 +392,7 @@ Do not keep sparring, running or lifting while hoping the feeling disappears.
 
 Persistent or severe dizziness deserves medical assessment.
 
-## 9. Weakness or an unusually flat feeling
+### 9. Weakness or an unusually flat feeling
 
 A growing fluid deficit can contribute to:
 
@@ -416,7 +416,7 @@ Treat it as information.
 
 Not a diagnosis.
 
-## 10. Reduced concentration
+### 10. Reduced concentration
 
 Hard exercise already challenges concentration.
 
@@ -438,7 +438,7 @@ Mild mental fatigue is one thing.
 
 **Confusion or altered behaviour is something else entirely.**
 
-## Confusion is not a normal dehydration sign to train through
+### Confusion is not a normal dehydration sign to train through
 
 If someone exercising in heat becomes:
 
@@ -458,7 +458,7 @@ Central nervous system dysfunction during significant heat exposure is a major w
 
 That is a medical emergency.
 
-## You can still sweat during exertional heat stroke
+### You can still sweat during exertional heat stroke
 
 A dangerous myth is:
 
@@ -477,7 +477,7 @@ as possible presentations.
 
 So do not use sweating as proof that someone is safe.
 
-## What to do if heat stroke is suspected
+### What to do if heat stroke is suspected
 
 If someone exercising in heat develops:
 
@@ -497,7 +497,7 @@ Do not wait for the person to "hydrate and see how they feel."
 
 This is not an ordinary dehydration situation.
 
-## Heat exhaustion can look like dehydration
+### Heat exhaustion can look like dehydration
 
 Heat exhaustion can include symptoms such as:
 
@@ -519,9 +519,9 @@ If symptoms appear during significant heat exposure:
 
 **heat illness must remain part of the assessment.**
 
-## A useful practical distinction
+### A useful practical distinction
 
-### Possible mild fluid deficit
+#### Possible mild fluid deficit
 
 You are:
 
@@ -532,7 +532,7 @@ You are:
 * able to move normally
 * feeling better after slowing down, cooling and drinking appropriately
 
-### Potentially serious heat illness
+#### Potentially serious heat illness
 
 You are:
 
@@ -545,7 +545,7 @@ You are:
 
 That second group is not a "drink some water and continue" situation.
 
-## 11. Nausea
+### 11. Nausea
 
 Nausea during exercise can occur because of:
 
@@ -567,7 +567,7 @@ you can make the wrong problem worse.
 
 Look at the situation.
 
-## 12. Vomiting
+### 12. Vomiting
 
 Vomiting deserves more caution because it:
 
@@ -587,7 +587,7 @@ If symptoms are substantial, persistent or associated with neurological signs, o
 
 Several popular "signs" are much less useful than social media makes them appear.
 
-## Sweat amount alone
+### Sweat amount alone
 
 Sweating heavily does not mean you are currently dehydrated.
 
@@ -595,7 +595,7 @@ It means you are losing fluid quickly.
 
 You may still be maintaining a reasonable fluid balance.
 
-## Not sweating much
+### Not sweating much
 
 Low visible sweating does not automatically mean you are hydrated.
 
@@ -607,7 +607,7 @@ Sweat can:
 
 And in severe heat illness, sweating behaviour is not a safe diagnostic test.
 
-## Cramps
+### Cramps
 
 Exercise-associated muscle cramps are multifactorial.
 
@@ -619,7 +619,7 @@ A cramp does not prove:
 
 Do not turn one cramp into a biochemical diagnosis.
 
-## Salt marks on clothing
+### Salt marks on clothing
 
 White salt residue suggests that salts were left behind as sweat evaporated.
 
@@ -633,7 +633,7 @@ It does not tell you:
 
 For sodium loss specifically, read [How Much Sodium Do You Lose in Sweat?](/hydration/how-much-sodium-do-you-lose-in-sweat/).
 
-## Clear urine during the workout
+### Clear urine during the workout
 
 Urine colour reflects recent kidney handling of water.
 
@@ -683,7 +683,7 @@ That gives you far more information than:
 
 For the complete method, read [How to Measure Your Sweat Rate Correctly](/hydration/how-to-measure-your-sweat-rate-correctly/).
 
-## Percentage body-mass loss
+### Percentage body-mass loss
 
 You can also calculate the relative change.
 
@@ -718,7 +718,7 @@ Fluid-deficit effects occur on a continuum and vary with:
 
 But increasing body-mass loss provides useful evidence that a fluid deficit is accumulating.
 
-## Why the 2% rule gets oversimplified
+### Why the 2% rule gets oversimplified
 
 You may have heard:
 
@@ -738,7 +738,7 @@ Others may tolerate a similar deficit differently.
 
 Use the percentage to understand the size of the loss, not as an absolute pass/fail line.
 
-## Sweat rate makes symptoms easier to interpret
+### Sweat rate makes symptoms easier to interpret
 
 Suppose you know from previous measurements that during hard summer Muay Thai you lose approximately:
 
@@ -798,7 +798,7 @@ Look at:
 
 together.
 
-## Why concentration matters in combat sports
+### Why concentration matters in combat sports
 
 When dehydration, heat or fatigue affects focus, the consequences are not merely a slower time on a stopwatch.
 
@@ -938,7 +938,7 @@ can be dangerous reasoning.
 
 Read [Can You Drink Too Much Water During Exercise? Hyponatremia Explained](/hydration/can-you-drink-too-much-water-hyponatremia/).
 
-## A clue for possible overdrinking
+### A clue for possible overdrinking
 
 During prolonged exercise, finishing significantly **heavier** than you started can indicate that fluid intake exceeded losses.
 
@@ -1049,7 +1049,7 @@ And if neurological symptoms such as confusion or loss of consciousness appear:
 
 **treat the situation as a medical emergency.**
 
-## Do not try to "push through" confusion
+### Do not try to "push through" confusion
 
 Confusion is not normal training fatigue.
 
@@ -1094,7 +1094,7 @@ For a short workout with modest sweat loss:
 
 Read [Electrolytes for Workouts: When You Need Them](/hydration/electrolytes-for-workouts/).
 
-## Electrolytes are not an emergency cure
+### Electrolytes are not an emergency cure
 
 If someone is:
 
@@ -1455,7 +1455,7 @@ Confusion, seizure or loss of consciousness requires emergency action.
 
 ## Sources and further reading
 
-The guidance in this article was checked against sports-medicine position statements and public-health guidance on exercise hydration, heat illness and exercise-associated hyponatremia.
+The guidance in this article is informed by sports-medicine position statements and public-health guidance on exercise hydration, heat illness and exercise-associated hyponatremia.
 
 * McDermott BP et al. **National Athletic Trainers' Association Position Statement: Fluid Replacement for the Physically Active.** Journal of Athletic Training. 2017;52(9):877–895. PMID: 28985128.  
   https://pubmed.ncbi.nlm.nih.gov/28985128/
