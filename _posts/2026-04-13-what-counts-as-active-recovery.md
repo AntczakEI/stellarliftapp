@@ -2,7 +2,7 @@
 layout: post
 title: "What Counts as Active Recovery? 15 Low-Stress Options for Fighters and Gym Training"
 date: 2026-04-13
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [recovery]
 tags: [recovery, active recovery, rest day, fighters, gym, mobility, walking, muay thai]
@@ -142,7 +142,7 @@ If that happens:
 
 you probably trained.
 
-## The simplest test
+### The simplest test
 
 Ask:
 
@@ -191,7 +191,7 @@ And faster blood-lactate clearance does not automatically mean:
 
 Reviews of active recovery specifically warn against using lactate clearance as proof that the athlete has recovered better.
 
-## Lactate is not why you are sore tomorrow
+### Lactate is not why you are sore tomorrow
 
 Delayed-onset muscle soreness commonly develops after:
 
@@ -305,7 +305,7 @@ So the name of the activity matters less than:
 
 **how you perform it.**
 
-## 1. Easy walking
+### 1. Easy walking
 
 Walking is probably the simplest active-recovery option.
 
@@ -331,7 +331,7 @@ That is not a mandatory duration.
 
 A ten-minute walk can also be enough.
 
-## What makes walking recovery?
+#### What makes walking recovery?
 
 The pace.
 
@@ -352,7 +352,7 @@ Just call it:
 
 rather than recovery.
 
-## 2. Light stationary bike
+### 2. Light stationary bike
 
 Easy cycling can work well because it is:
 
@@ -379,7 +379,7 @@ If your quads are burning:
 
 you have probably gone too far.
 
-## A bike is especially easy to overdo
+#### A bike is especially easy to overdo
 
 Exercise bikes display:
 
@@ -394,7 +394,7 @@ Ignore the scoreboard.
 
 A recovery ride does not need a personal best.
 
-## 3. Easy mobility flow
+### 3. Easy mobility flow
 
 Mobility can fit active recovery very well.
 
@@ -422,7 +422,7 @@ not:
 
 For a ready-made option, use [10-Minute Mobility Routine: Daily Reset for Hips, Ankles, and Upper Back](/recovery/10-minute-mobility-routine/).
 
-## Mobility should not become another workout
+#### Mobility should not become another workout
 
 If your routine contains:
 
@@ -437,7 +437,7 @@ But that does not make it active recovery.
 
 The same exercise can have different purposes depending on dose.
 
-## 4. Gentle stretching
+### 4. Gentle stretching
 
 Gentle stretching can fit a recovery day if you enjoy it.
 
@@ -461,7 +461,7 @@ So use stretching because:
 
 Not because you believe it is repairing sore muscles faster.
 
-## Recovery stretching should be comfortable
+#### Recovery stretching should be comfortable
 
 Avoid turning it into:
 
@@ -478,7 +478,7 @@ Stop if you get:
 * numbness
 * unusual symptoms
 
-## 5. Easy shadowboxing
+### 5. Easy shadowboxing
 
 For a fighter, light shadowboxing can work well.
 
@@ -496,7 +496,7 @@ Think:
 
 A few minutes can be enough.
 
-## What easy shadowboxing looks like
+#### What easy shadowboxing looks like
 
 For example:
 
@@ -513,7 +513,7 @@ You could finish the session and comfortably continue talking.
 
 That can fit recovery.
 
-## What it should not become
+#### What it should not become
 
 Not:
 
@@ -529,7 +529,7 @@ Once you start thinking:
 
 the recovery session is disappearing.
 
-## 6. Very light technical footwork
+### 6. Very light technical footwork
 
 You can practise simple:
 
@@ -556,7 +556,7 @@ No endless agility-ladder conditioning.
 
 No maximal explosive footwork.
 
-## 7. Light bag movement with almost no power
+### 7. Light bag movement with almost no power
 
 This one requires discipline.
 
@@ -583,7 +583,7 @@ If the bag starts swinging violently:
 
 you probably left the recovery zone.
 
-## Do not use the bag to secretly train hard
+#### Do not use the bag to secretly train hard
 
 The classic progression is:
 
@@ -609,7 +609,7 @@ That is fine if you wanted a bag session.
 
 But be honest about the load.
 
-## 8. Easy swimming
+### 8. Easy swimming
 
 Relaxed swimming can work well if you are technically comfortable in the water.
 
@@ -627,7 +627,7 @@ If you are an inefficient swimmer and every length feels difficult:
 
 it is not low stress.
 
-## Do not prescribe swimming automatically
+#### Do not prescribe swimming automatically
 
 For a strong swimmer:
 
@@ -639,7 +639,7 @@ five minutes may feel like conditioning.
 
 The activity has to be judged relative to the person.
 
-## 9. Easy rowing
+### 9. Easy rowing
 
 A rowing machine can also work.
 
@@ -664,7 +664,7 @@ are working hard:
 
 that is not particularly restorative.
 
-## Rower vs walking
+#### Rower vs walking
 
 If you are already sore from:
 
@@ -676,7 +676,7 @@ walking may simply be the lower-stress choice.
 
 Active recovery does not need to involve the whole body.
 
-## 10. Mobility plus relaxed breathing
+### 10. Mobility plus relaxed breathing
 
 This is particularly useful when recovery needs are:
 
@@ -699,7 +699,7 @@ Simply:
 * slow down
 * stop treating recovery like another task to win
 
-## Active recovery can also be mental recovery
+#### Active recovery can also be mental recovery
 
 Training fatigue is not purely muscular.
 
@@ -714,7 +714,7 @@ A low-pressure recovery activity can be useful partly because it:
 
 **breaks that cycle.**
 
-## 11. Gentle yoga-style movement
+### 11. Gentle yoga-style movement
 
 Some yoga can fit active recovery.
 
@@ -745,7 +745,7 @@ does not automatically mean:
 
 **recovery.**
 
-## 12. Relaxed outdoor movement
+### 12. Relaxed outdoor movement
 
 A gentle walk through:
 
@@ -769,7 +769,7 @@ A two-hour steep mountain hike is not the same activity as:
 
 **20 minutes walking through a park.**
 
-## 13. Foam rolling or self-massage plus movement
+### 13. Foam rolling or self-massage plus movement
 
 Foam rolling is not active exercise in itself.
 
@@ -799,7 +799,7 @@ Use it because:
 
 Not because you need to smash every sore muscle.
 
-## Keep soft-tissue work gentle
+#### Keep soft-tissue work gentle
 
 If foam rolling becomes:
 
@@ -811,7 +811,7 @@ you have probably moved away from the purpose of recovery.
 
 More pain does not prove greater effectiveness.
 
-## 14. Very easy bodyweight movement circuit
+### 14. Very easy bodyweight movement circuit
 
 A simple movement circuit can work if loads remain trivial.
 
@@ -829,7 +829,7 @@ Repeat:
 
 That can be a movement session.
 
-## The danger of recovery circuits
+#### The danger of recovery circuits
 
 The words:
 
@@ -858,7 +858,7 @@ That is not active recovery anymore.
 
 Keep it deliberately boring.
 
-## 15. Easy walk + short mobility
+### 15. Easy walk + short mobility
 
 This may be the most practical option of all.
 
@@ -937,7 +937,7 @@ The important variable is:
 
 **fatigue cost.**
 
-## Longer is not better
+### Longer is not better
 
 The session does not become more restorative because you extend it.
 
@@ -1037,7 +1037,7 @@ These may all be useful training.
 
 They are just not recovery.
 
-## Moderate training is still training
+### Moderate training is still training
 
 This distinction matters.
 
@@ -1061,7 +1061,7 @@ Active recovery should normally be much closer to:
 
 **easy.**
 
-## Sweat is not the goal
+### Sweat is not the goal
 
 You do not need to:
 
@@ -1079,7 +1079,7 @@ without providing a special recovery advantage.
 
 A recovery session can be useful even if you barely sweat.
 
-## Calories are not the goal
+### Calories are not the goal
 
 A rest or recovery day is not a chance to:
 
@@ -1207,7 +1207,7 @@ is:
 
 Not a better recovery exercise.
 
-## Full rest is not a failure
+### Full rest is not a failure
 
 Athletes sometimes feel guilty if they:
 
@@ -2000,7 +2000,7 @@ Read [Active Recovery vs Rest Day](/recovery/rest-day-vs-active-recovery/) for t
 
 ## Sources and further reading
 
-The claims in this guide were checked against reviews of active recovery, active cool-down strategies and post-exercise recovery methods.
+The claims in this guide are informed by reviews of active recovery, active cool-down strategies and post-exercise recovery methods.
 
 * Ortiz RO Jr, Sinclair Elder AJ, Elder CL, Dawes JJ. **A Systematic Review on the Effectiveness of Active Recovery Interventions on Athletic Performance of Professional-, Collegiate-, and Competitive-Level Adult Athletes.** Journal of Strength and Conditioning Research. 2019;33(8):2275–2287. PMID: 29742750. DOI: 10.1519/JSC.0000000000002589.
 
