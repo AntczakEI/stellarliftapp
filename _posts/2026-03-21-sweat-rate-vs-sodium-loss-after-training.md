@@ -2,7 +2,7 @@
 layout: post
 title: "Sweat Rate vs Sodium Loss: What to Measure After Hard Training"
 date: 2026-03-21
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [hydration]
 tags: [hydration, sweat rate, sodium loss, sweat sodium, electrolytes, muay thai, hot weather, recovery]
@@ -1221,7 +1221,7 @@ For most people:
 
 ## Sources and further reading
 
-The recommendations in this guide were checked against research on whole-body sweat rate, sweat sodium testing and exercise fluid replacement.
+The recommendations in this guide are informed by research on whole-body sweat rate, sweat sodium testing and exercise fluid replacement.
 
 * Baker LB. **Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability.** Sports Medicine. 2017;47(Suppl 1):111–128. PMID: 28332116.  
   https://pubmed.ncbi.nlm.nih.gov/28332116/
