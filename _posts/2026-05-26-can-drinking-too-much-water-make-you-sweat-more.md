@@ -2,7 +2,7 @@
 layout: post
 title: "Can Drinking Too Much Water Make You Sweat More During Exercise?"
 date: 2026-05-26
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [hydration]
 tags: [hydration, sweat, sweating, exercise hydration, overhydration, hyperhydration, hyponatremia, workout hydration]
@@ -1798,7 +1798,7 @@ Persistent unexplained excessive sweating outside exercise deserves separate med
 
 ## Sources and further reading
 
-The physiology and safety points in this guide were checked against research on thermoregulation, sweat rate, hyperhydration and exercise-associated hyponatremia.
+The physiology and safety points in this guide are informed by research on thermoregulation, sweat rate, hyperhydration and exercise-associated hyponatremia.
 
 * Périard JD, Eijsvogels TMH, Daanen HAM. **Exercise under heat stress: thermoregulation, hydration, performance implications, and mitigation strategies.** Physiological Reviews. 2021;101(4):1873–1979. DOI: 10.1152/physrev.00038.2020.
 
