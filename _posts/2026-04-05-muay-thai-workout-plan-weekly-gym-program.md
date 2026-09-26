@@ -2,7 +2,7 @@
 layout: post
 title: "Muay Thai Workout Plan: How to Build a Weekly Gym Program Without Ruining Your Fight Training"
 date: 2026-04-05
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [training]
 tags: [training, muay thai, workout plan, strength training, gym, conditioning, recovery, fighters]
@@ -271,7 +271,7 @@ A fighter does not need dozens of exercises.
 
 A useful gym plan can be built from a few movement categories.
 
-## 1. Lower-body strength
+### 1. Lower-body strength
 
 Good options include:
 
@@ -284,7 +284,7 @@ Good options include:
 
 You do not need all of them in one workout.
 
-## 2. Upper-body pushing
+### 2. Upper-body pushing
 
 Examples:
 
@@ -294,7 +294,7 @@ Examples:
 * overhead press
 * push-up variations
 
-## 3. Upper-body pulling
+### 3. Upper-body pulling
 
 Examples:
 
@@ -304,7 +304,7 @@ Examples:
 * chest-supported rows
 * cable rows
 
-## 4. Single-leg work
+### 4. Single-leg work
 
 Useful options include:
 
@@ -316,7 +316,7 @@ Single-leg work can be useful, but it can also create a lot of soreness if you s
 
 Dose it sensibly.
 
-## 5. Trunk work
+### 5. Trunk work
 
 Examples:
 
@@ -326,7 +326,7 @@ Examples:
 * anti-rotation work
 * hanging knee raises
 
-## 6. Low-volume power work
+### 6. Low-volume power work
 
 Examples include:
 
@@ -1012,7 +1012,7 @@ Make the plan more complicated only when you have a reason.
 
 ## Sources and further reading
 
-The concurrent-training principles in this guide were checked against current reviews of combined strength and endurance training.
+The concurrent-training principles in this guide are informed by current reviews of combined strength and endurance training.
 
 * Huiberts RC, Wüst RCI, van der Zwaard S. **Concurrent Strength and Endurance Training: A Systematic Review and Meta-Analysis on the Impact of Sex and Training Status.** Sports Medicine. PMID: 37847373. PMCID: PMC10933151.
 * **Optimizing concurrent training programs: A review on factors that enhance muscle strength.** PMID: 39969307. PMCID: PMC11688070.
