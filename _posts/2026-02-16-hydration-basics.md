@@ -2,7 +2,7 @@
 layout: post
 title: "Hydration Basics: What Actually Matters"
 date: 2026-02-16
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [hydration]
 tags: [hydration, water intake, electrolytes, urine color, recovery, training, sweat rate, exercise hydration]
@@ -791,7 +791,7 @@ Overdrinking during prolonged exercise can contribute to exercise-associated hyp
 
 ## Sources and further reading
 
-The recommendations in this guide were checked against established hydration reference values, sports-medicine position statements and reviews.
+The recommendations in this guide are informed by established hydration reference values, sports-medicine position statements and reviews.
 
 * EFSA Panel on Dietetic Products, Nutrition, and Allergies. **Scientific Opinion on Dietary Reference Values for Water.** EFSA Journal. 2010;8(3):1459. DOI: 10.2903/j.efsa.2010.1459.
 * Institute of Medicine. **Dietary Reference Intakes for Water, Potassium, Sodium, Chloride, and Sulfate.** National Academies Press. 2005.
