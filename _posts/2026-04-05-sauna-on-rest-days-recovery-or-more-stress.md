@@ -2,7 +2,7 @@
 layout: post
 title: "Sauna on Rest Days: Does It Help Recovery or Add More Stress?"
 date: 2026-04-05
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [recovery]
 tags: [recovery, sauna, rest day, passive heat, training recovery, fatigue, hydration, muay thai]
@@ -2124,7 +2124,7 @@ Recovery does not require a special intervention.
 
 ## Sources and further reading
 
-The evidence in this guide was checked against recent reviews and research on passive heat exposure, cardiovascular responses, sauna bathing and athletic recovery.
+The evidence in this guide is informed by recent reviews and research on passive heat exposure, cardiovascular responses, sauna bathing and athletic recovery.
 
 * Ahokas EK, Hennessy RS, Hanstock HG, Kyröläinen H, Ihalainen JK. **Effects of Post-Exercise Heat Exposure on Acute Recovery and Training-Induced Performance Adaptations: A Systematic Review.** Sports Medicine - Open. 2025;11:106. PMID: 41032138. DOI: 10.1186/s40798-025-00910-0.
 
