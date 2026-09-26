@@ -2,7 +2,7 @@
 layout: post
 title: "Sodium Loss Calculator for Exercise: How to Estimate Your Sweat Sodium Loss"
 date: 2026-05-06
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-26
 author: "Tomasz Antczak"
 categories: [hydration]
 tags: [hydration, sodium, sweat rate, sweat sodium, electrolytes, exercise, recovery, sodium loss calculator]
@@ -1419,7 +1419,7 @@ People with medical conditions or prescribed sodium restrictions should follow i
 
 ## Sources and further reading
 
-The formulas, ranges and limitations in this guide were checked against published research on whole-body sweat rate, sweat sodium concentration and sports hydration.
+The formulas, ranges and limitations in this guide are informed by published research on whole-body sweat rate, sweat sodium concentration and sports hydration.
 
 * Baker LB. **Sweating Rate and Sweat Sodium Concentration in Athletes: A Review of Methodology and Intra/Interindividual Variability.** Sports Medicine. 2017;47(Suppl 1):111–128. PMID: 28332116. DOI: 10.1007/s40279-017-0691-5.
 
