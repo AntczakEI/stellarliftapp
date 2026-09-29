@@ -1,82 +1,61 @@
 ---
 layout: default
-title: Recovery
-description: Sleep, soreness, mobility, and recovery guides from Stellar Lift Blog.
+title: Recovery for Training
+description: Practical recovery guides for training, including rest days, sleep, mobility, soreness, training load, and sauna.
 permalink: /recovery/
 ---
 
+{% assign rest_titles = "Sleep After Training: How to Recover Better Without Fancy Gadgets||How Many Rest Days Do You Really Need? Gym + Muay Thai Recovery||Active Recovery vs Rest Day: Which One Helps More After Hard Training?||What Counts as Active Recovery? 15 Low-Stress Options for Fighters and Gym Training" | split: "||" %}
+
+{% assign training_load_titles = "Deload Week for Muay Thai + Gym: When to Do It and How to Do It||Two Workouts a Day: Simple Hydration and Recovery Plan||DOMS vs Strain: How to Tell Muscle Soreness From a Possible Injury" | split: "||" %}
+
+{% assign mobility_titles = "10-Minute Mobility Routine: Daily Reset for Hips, Ankles, and Upper Back||Shoulder Mobility for Fighters: A Practical Routine for Boxing and Muay Thai" | split: "||" %}
+
+{% assign sauna_titles = "Sauna After Training: Does It Help Recovery or Just Feel Good?||Sauna on Rest Days: Does It Help Recovery or Add More Stress?" | split: "||" %}
+
+
 <section class="hero">
-  <p class="eyebrow">Recovery</p>
+  <p class="eyebrow">Recovery for Training</p>
+
   <h1>Recovery guides</h1>
+
   <p class="subhead">
-    Practical recovery content covering soreness, mobility, fatigue management, rest, and habits that support better long-term consistency.
+    Practical guidance on rest, sleep, soreness, mobility, training load,
+    and recovery between sessions. Recover well enough to keep training
+    consistently without turning recovery into another complicated system.
   </p>
 
   <div class="hero-cta">
-    <a class="btn btn-ghost" href="{{ '/blog/' | relative_url }}">Browse All Articles</a>
-    <a class="btn btn-ghost" href="{{ '/' | relative_url }}">Back to Home</a>
+    <a class="btn" href="{{ '/training/' | relative_url }}">
+      Explore Training Guides
+    </a>
+
+    <a class="btn btn-ghost" href="{{ '/blog/' | relative_url }}">
+      Browse All Articles
+    </a>
+
+    <a class="btn btn-ghost" href="{{ '/' | relative_url }}">
+      Back to Home
+    </a>
   </div>
 </section>
 
-<section class="section">
-  <h2>What this section covers</h2>
-  <p class="section-intro">
-    The recovery section focuses on the practical side of staying ready to train again: soreness, mobility, fatigue, rest days,
-    and the habits that make training more sustainable over time.
-  </p>
-  <p>
-    The goal is not to treat recovery like a luxury extra. It is to show why recovery matters, how it affects consistency,
-    and which simple habits can help people train better without turning recovery into another overcomplicated system.
-  </p>
-</section>
 
 <section class="section">
-  <h2>Who these guides are for</h2>
-  <p class="section-intro">
-    These articles are written for people who want useful recovery guidance they can actually apply.
-  </p>
-  <ul>
-    <li>People dealing with soreness, stiffness, or fatigue from regular training.</li>
-    <li>People trying to recover better between workouts without overthinking it.</li>
-    <li>People who want practical guidance on mobility, recovery habits, and basic recovery decisions.</li>
-    <li>Readers who want to stay more consistent by training hard without ignoring recovery completely.</li>
-  </ul>
-</section>
+  <h2>Rest and recovery</h2>
 
-<section class="section">
-  <h2>Why recovery content matters here</h2>
   <p class="section-intro">
-    Recovery is one of the core content pillars of the Stellar Lift ecosystem, not just an extra category added for volume.
-  </p>
-  <p>
-    Hydration, training, and recovery naturally connect. A useful site in this space should not stop at logging or product pages.
-    It should also help users understand how to stay consistent, manage fatigue, and support better performance over time.
-    That is why recovery content is part of the actual value of the site.
-  </p>
-</section>
-
-{% assign featured_count = 0 %}
-{% for post in site.posts %}
-  {% if post.categories contains 'recovery' %}
-    {% if post.featured_recovery %}
-      {% assign featured_count = featured_count | plus: 1 %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
-
-{% if featured_count > 0 %}
-<section class="section">
-  <h2>Recently updated</h2>
-  <p class="section-intro">
-    Recently improved recovery guides with updated structure, clearer examples, and more practical advice.
+    Start with the basics: sleep, rest days, and what active recovery actually
+    means. These guides help you decide when to rest completely and when some
+    light movement may help you feel ready for the next session.
   </p>
 
   <div class="grid">
-    {% for post in site.posts %}
-      {% if post.categories contains 'recovery' %}
-        {% if post.featured_recovery %}
+    {% for wanted_title in rest_titles %}
+      {% for post in site.posts %}
+        {% if post.title == wanted_title and post.categories contains 'recovery' %}
           <article class="card">
-            <div class="card-meta">Updated Recovery Guide</div>
+            <div class="card-meta">Rest &amp; Recovery</div>
 
             <h3 class="card-title">
               <a href="{{ post.url | relative_url }}">
@@ -87,79 +66,213 @@ permalink: /recovery/
             {% if post.description %}
               <p class="card-desc">{{ post.description }}</p>
             {% else %}
-              <p class="card-desc">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+              <p class="card-desc">
+                {{ post.excerpt | strip_html | truncate: 140 }}
+              </p>
             {% endif %}
-
-            <p style="margin-top:10px;color:rgba(255,255,255,.55);font-size:13px;">
-              {% if post.last_modified_at %}
-                Updated {{ post.last_modified_at | date: "%Y-%m-%d" }}
-              {% else %}
-                Published {{ post.date | date: "%Y-%m-%d" }}
-              {% endif %}
-            </p>
           </article>
         {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</section>
+
+
+<section class="section">
+  <h2>Training load and soreness</h2>
+
+  <p class="section-intro">
+    Hard training creates fatigue, but not every difficult week means you need
+    to stop. These guides cover deloads, double-session days, and the difference
+    between normal muscle soreness and something that may need more attention.
+  </p>
+
+  <div class="grid">
+    {% for wanted_title in training_load_titles %}
+      {% for post in site.posts %}
+        {% if post.title == wanted_title and post.categories contains 'recovery' %}
+          <article class="card">
+            <div class="card-meta">Training Load</div>
+
+            <h3 class="card-title">
+              <a href="{{ post.url | relative_url }}">
+                {{ post.title }}
+              </a>
+            </h3>
+
+            {% if post.description %}
+              <p class="card-desc">{{ post.description }}</p>
+            {% else %}
+              <p class="card-desc">
+                {{ post.excerpt | strip_html | truncate: 140 }}
+              </p>
+            {% endif %}
+          </article>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</section>
+
+
+<section class="section">
+  <h2>Mobility</h2>
+
+  <p class="section-intro">
+    Use mobility work to support movement and training rather than as a separate
+    workout you have to overthink. These routines focus on common areas that can
+    become stiff or restricted with regular gym and combat-sports training.
+  </p>
+
+  <div class="grid">
+    {% for wanted_title in mobility_titles %}
+      {% for post in site.posts %}
+        {% if post.title == wanted_title and post.categories contains 'recovery' %}
+          <article class="card">
+            <div class="card-meta">Mobility</div>
+
+            <h3 class="card-title">
+              <a href="{{ post.url | relative_url }}">
+                {{ post.title }}
+              </a>
+            </h3>
+
+            {% if post.description %}
+              <p class="card-desc">{{ post.description }}</p>
+            {% else %}
+              <p class="card-desc">
+                {{ post.excerpt | strip_html | truncate: 140 }}
+              </p>
+            {% endif %}
+          </article>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</section>
+
+
+<section class="section">
+  <h2>Sauna and recovery</h2>
+
+  <p class="section-intro">
+    Sauna can feel good after training, but timing and total stress still matter.
+    These guides look at where sauna may fit after sessions and on rest days
+    without treating it as a shortcut for recovery.
+  </p>
+
+  <div class="grid">
+    {% for wanted_title in sauna_titles %}
+      {% for post in site.posts %}
+        {% if post.title == wanted_title and post.categories contains 'recovery' %}
+          <article class="card">
+            <div class="card-meta">Sauna &amp; Recovery</div>
+
+            <h3 class="card-title">
+              <a href="{{ post.url | relative_url }}">
+                {{ post.title }}
+              </a>
+            </h3>
+
+            {% if post.description %}
+              <p class="card-desc">{{ post.description }}</p>
+            {% else %}
+              <p class="card-desc">
+                {{ post.excerpt | strip_html | truncate: 140 }}
+              </p>
+            {% endif %}
+          </article>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</section>
+
+
+{% assign other_recovery_count = 0 %}
+
+{% for post in site.posts %}
+  {% if post.categories contains 'recovery' %}
+    {% unless rest_titles contains post.title %}
+      {% unless training_load_titles contains post.title %}
+        {% unless mobility_titles contains post.title %}
+          {% unless sauna_titles contains post.title %}
+            {% assign other_recovery_count = other_recovery_count | plus: 1 %}
+          {% endunless %}
+        {% endunless %}
+      {% endunless %}
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+
+
+{% if other_recovery_count > 0 %}
+<section class="section">
+  <h2>More recovery guides</h2>
+
+  <p class="section-intro">
+    More practical recovery guidance for people who train.
+  </p>
+
+  <div class="grid">
+    {% for post in site.posts %}
+      {% if post.categories contains 'recovery' %}
+
+        {% unless rest_titles contains post.title %}
+          {% unless training_load_titles contains post.title %}
+            {% unless mobility_titles contains post.title %}
+              {% unless sauna_titles contains post.title %}
+
+                <article class="card">
+                  <div class="card-meta">Recovery</div>
+
+                  <h3 class="card-title">
+                    <a href="{{ post.url | relative_url }}">
+                      {{ post.title }}
+                    </a>
+                  </h3>
+
+                  {% if post.description %}
+                    <p class="card-desc">{{ post.description }}</p>
+                  {% else %}
+                    <p class="card-desc">
+                      {{ post.excerpt | strip_html | truncate: 140 }}
+                    </p>
+                  {% endif %}
+                </article>
+
+              {% endunless %}
+            {% endunless %}
+          {% endunless %}
+        {% endunless %}
+
       {% endif %}
     {% endfor %}
   </div>
 </section>
 {% endif %}
 
+
 <section class="section">
-  <h2>All Recovery articles</h2>
-  <p class="section-intro">
-    Browse all recovery content published on Stellar Lift Blog, including soreness management, mobility, recovery routines, sleep-related basics, and practical ways to recover better between training sessions.
-  </p>
+  <h2>Back to training</h2>
 
-  {% assign normal_count = 0 %}
-  {% for post in site.posts %}
-    {% if post.categories contains 'recovery' %}
-      {% unless post.featured_recovery %}
-        {% assign normal_count = normal_count | plus: 1 %}
-      {% endunless %}
-    {% endif %}
-  {% endfor %}
+  <div class="card">
+    <div class="card-meta">Stellar Lift Training</div>
 
-  {% if normal_count > 0 %}
-    <div class="grid">
-      {% for post in site.posts %}
-        {% if post.categories contains 'recovery' %}
-          {% unless post.featured_recovery %}
-            <article class="card">
-              <div class="card-meta">Recovery</div>
+    <h3 class="card-title">
+      Recover so you can keep training
+    </h3>
 
-              <h3 class="card-title">
-                <a href="{{ post.url | relative_url }}">
-                  {{ post.title }}
-                </a>
-              </h3>
+    <p class="card-desc">
+      Recovery supports the work you do in training. Explore strength,
+      conditioning, workout programming, and exercise guides to plan the sessions
+      you are recovering for.
+    </p>
 
-              {% if post.description %}
-                <p class="card-desc">{{ post.description }}</p>
-              {% else %}
-                <p class="card-desc">{{ post.excerpt | strip_html | truncate: 140 }}</p>
-              {% endif %}
-
-              <p style="margin-top:10px;color:rgba(255,255,255,.55);font-size:13px;">
-                {% if post.last_modified_at %}
-                  Updated {{ post.last_modified_at | date: "%Y-%m-%d" }}
-                {% else %}
-                  {{ post.date | date: "%Y-%m-%d" }}
-                {% endif %}
-              </p>
-            </article>
-          {% endunless %}
-        {% endif %}
-      {% endfor %}
-    </div>
-  {% else %}
-    <div class="card">
-      <div class="card-meta">Recovery</div>
-      <h3 class="card-title">No recovery posts yet</h3>
-      <p class="card-desc">Add a post with <code>categories: [recovery]</code> and it will show up here automatically.</p>
-      <p style="margin-top:10px;">
-        <a class="btn btn-ghost" href="{{ '/blog/' | relative_url }}">Go to Blog</a>
-      </p>
-    </div>
-  {% endif %}
+    <p style="margin-top:16px;">
+      <a class="btn" href="{{ '/training/' | relative_url }}">
+        Explore Training Guides
+      </a>
+    </p>
+  </div>
 </section>
