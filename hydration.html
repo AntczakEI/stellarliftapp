@@ -1,80 +1,61 @@
 ---
 layout: default
-title: Hydration
-description: Hydration guides and practical tips from Stellar Lift Blog.
+title: Hydration for Training
+description: Practical hydration guides for training, including water intake, electrolytes, sweat rate, sodium loss, and exercising in the heat.
 permalink: /hydration/
 ---
 
+{% assign basics_titles = "Hydration Basics: What Actually Matters||How Much Water to Drink Before, During and After a Workout||How to Tell If You’re Actually Dehydrated||Signs of Dehydration During Exercise: What to Notice Before Performance Drops" | split: "||" %}
+
+{% assign training_hydration_titles = "Electrolytes for Workouts: When You Need Them (and When You Don’t)||How Much Water to Drink Before a Workout if You Use Pre-Workout||What to Drink During Long Training Sessions: Water, Electrolytes, or Sports Drink?||How Much Water Should You Drink After Exercise? Simple Hydration Guide" | split: "||" %}
+
+{% assign heat_safety_titles = "Hydration in Hot Weather: How to Train in Heat Without Crashing||Can You Drink Too Much Water During Exercise? Hyponatremia Explained||Can Drinking Too Much Water Make You Sweat More During Exercise?" | split: "||" %}
+
+{% assign sweat_sodium_titles = "How to Measure Your Sweat Rate Correctly||Sweat Rate Calculator: Your Workout Hydration Plan||Sweat Rate vs Sodium Loss: What to Measure After Hard Training||How Much Sodium Do You Lose in Sweat? What Actually Affects Sodium Loss During Exercise||Sodium Loss Calculator for Exercise: How to Estimate Your Sweat Sodium Loss" | split: "||" %}
+
+
 <section class="hero">
-  <p class="eyebrow">Hydration</p>
+  <p class="eyebrow">Hydration for Training</p>
+
   <h1>Hydration guides</h1>
+
   <p class="subhead">
-    Practical hydration content for everyday life, training, and better consistency.
+    Practical guidance on water, electrolytes, sweat loss, sodium, and hydration
+    around training. Understand what matters, measure your own needs, and make
+    better hydration decisions before, during, and after hard sessions.
   </p>
+
   <div class="hero-cta">
-    <a class="btn" href="https://play.google.com/store/apps/details?id=com.stellarlift.watertracker" target="_blank" rel="noopener">Get Water Tracker</a>
-    <a class="btn btn-ghost" href="{{ '/blog/' | relative_url }}">Browse All Articles</a>
-    <a class="btn btn-ghost" href="{{ '/' | relative_url }}">Back to Home</a>
+    <a class="btn" href="{{ '/training/' | relative_url }}">
+      Explore Training Guides
+    </a>
+
+    <a class="btn btn-ghost" href="{{ '/blog/' | relative_url }}">
+      Browse All Articles
+    </a>
+
+    <a class="btn btn-ghost" href="{{ '/' | relative_url }}">
+      Back to Home
+    </a>
   </div>
 </section>
 
-<section class="section">
-  <h2>What this section covers</h2>
-  <p class="section-intro">
-    The hydration section focuses on practical decisions people actually make: how much to drink, when hydration matters more,
-    how workouts change fluid needs, when electrolytes help, and how to build better day-to-day hydration habits.
-  </p>
-  <p>
-    The goal is not to make hydration look complicated. It is to make it clearer and easier to manage with practical guidance that fits normal life and training.
-  </p>
-</section>
 
 <section class="section">
-  <h2>Who these guides are for</h2>
-  <p class="section-intro">
-    These articles are written for people who want useful hydration guidance without fluff.
-  </p>
-  <ul>
-    <li>People trying to stay more consistent with daily water intake.</li>
-    <li>People who train and want to understand hydration before, during, or after workouts.</li>
-    <li>People who want simple explanations around electrolytes, sweat loss, and hydration habits.</li>
-    <li>Users of Water Tracker who want more context behind the habit they are building.</li>
-  </ul>
-</section>
+  <h2>Hydration basics</h2>
 
-<section class="section">
-  <h2>Why hydration content matters here</h2>
   <p class="section-intro">
-    Hydration is one of the core parts of the Stellar Lift ecosystem, not just a random blog topic.
-  </p>
-  <p>
-    Water Tracker exists to make hydration logging and reminders easier, and these articles support that by giving readers practical context.
-    That makes this section part of the actual value of the site, not filler around an app page.
-  </p>
-</section>
-
-{% assign featured_count = 0 %}
-{% for post in site.posts %}
-  {% if post.categories contains 'hydration' %}
-    {% if post.featured_hydration %}
-      {% assign featured_count = featured_count | plus: 1 %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
-
-{% if featured_count > 0 %}
-<section class="section">
-  <h2>Recently updated</h2>
-  <p class="section-intro">
-    Recently improved hydration guides with updated structure, clearer examples, and more practical advice.
+    Start with the fundamentals. These guides explain how hydration works around
+    exercise, how much water you may need, and how to recognise when fluid intake
+    is not keeping up with training.
   </p>
 
   <div class="grid">
-    {% for post in site.posts %}
-      {% if post.categories contains 'hydration' %}
-        {% if post.featured_hydration %}
+    {% for wanted_title in basics_titles %}
+      {% for post in site.posts %}
+        {% if post.title == wanted_title and post.categories contains 'hydration' %}
           <article class="card">
-            <div class="card-meta">Updated Hydration Guide</div>
+            <div class="card-meta">Hydration Basics</div>
 
             <h3 class="card-title">
               <a href="{{ post.url | relative_url }}">
@@ -85,79 +66,243 @@ permalink: /hydration/
             {% if post.description %}
               <p class="card-desc">{{ post.description }}</p>
             {% else %}
-              <p class="card-desc">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+              <p class="card-desc">
+                {{ post.excerpt | strip_html | truncate: 140 }}
+              </p>
             {% endif %}
-
-            <p style="margin-top:10px;color:rgba(255,255,255,.55);font-size:13px;">
-              {% if post.last_modified_at %}
-                Updated {{ post.last_modified_at | date: "%Y-%m-%d" }}
-              {% else %}
-                Published {{ post.date | date: "%Y-%m-%d" }}
-              {% endif %}
-            </p>
           </article>
         {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</section>
+
+
+<section class="section">
+  <h2>Before, during and after training</h2>
+
+  <p class="section-intro">
+    Hydration needs change with session length, intensity, environment, and what
+    you drink before training. These guides focus on practical choices around
+    workouts rather than one-size-fits-all rules.
+  </p>
+
+  <div class="grid">
+    {% for wanted_title in training_hydration_titles %}
+      {% for post in site.posts %}
+        {% if post.title == wanted_title and post.categories contains 'hydration' %}
+          <article class="card">
+            <div class="card-meta">Training Hydration</div>
+
+            <h3 class="card-title">
+              <a href="{{ post.url | relative_url }}">
+                {{ post.title }}
+              </a>
+            </h3>
+
+            {% if post.description %}
+              <p class="card-desc">{{ post.description }}</p>
+            {% else %}
+              <p class="card-desc">
+                {{ post.excerpt | strip_html | truncate: 140 }}
+              </p>
+            {% endif %}
+          </article>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</section>
+
+
+<section class="section">
+  <h2>Heat and hydration safety</h2>
+
+  <p class="section-intro">
+    Hot conditions and long sessions can increase fluid needs, but more water is
+    not always better. These guides cover training in heat, excessive fluid intake,
+    and situations where hydration needs a little more thought.
+  </p>
+
+  <div class="grid">
+    {% for wanted_title in heat_safety_titles %}
+      {% for post in site.posts %}
+        {% if post.title == wanted_title and post.categories contains 'hydration' %}
+          <article class="card">
+            <div class="card-meta">Heat &amp; Hydration</div>
+
+            <h3 class="card-title">
+              <a href="{{ post.url | relative_url }}">
+                {{ post.title }}
+              </a>
+            </h3>
+
+            {% if post.description %}
+              <p class="card-desc">{{ post.description }}</p>
+            {% else %}
+              <p class="card-desc">
+                {{ post.excerpt | strip_html | truncate: 140 }}
+              </p>
+            {% endif %}
+          </article>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</section>
+
+
+<section class="section">
+  <h2>Sweat rate and sodium</h2>
+
+  <p class="section-intro">
+    Move beyond generic hydration advice by measuring what happens during your
+    own training. Start with sweat rate, understand the difference between fluid
+    and sodium loss, then use the calculators to estimate your individual needs.
+  </p>
+
+  <div class="grid">
+    {% for wanted_title in sweat_sodium_titles %}
+      {% for post in site.posts %}
+        {% if post.title == wanted_title and post.categories contains 'hydration' %}
+          <article class="card">
+            <div class="card-meta">Sweat &amp; Sodium</div>
+
+            <h3 class="card-title">
+              <a href="{{ post.url | relative_url }}">
+                {{ post.title }}
+              </a>
+            </h3>
+
+            {% if post.description %}
+              <p class="card-desc">{{ post.description }}</p>
+            {% else %}
+              <p class="card-desc">
+                {{ post.excerpt | strip_html | truncate: 140 }}
+              </p>
+            {% endif %}
+          </article>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</section>
+
+
+{% assign other_hydration_count = 0 %}
+
+{% for post in site.posts %}
+  {% if post.categories contains 'hydration' %}
+    {% unless basics_titles contains post.title %}
+      {% unless training_hydration_titles contains post.title %}
+        {% unless heat_safety_titles contains post.title %}
+          {% unless sweat_sodium_titles contains post.title %}
+            {% assign other_hydration_count = other_hydration_count | plus: 1 %}
+          {% endunless %}
+        {% endunless %}
+      {% endunless %}
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+
+
+{% if other_hydration_count > 0 %}
+<section class="section">
+  <h2>More hydration guides</h2>
+
+  <p class="section-intro">
+    More practical hydration articles for people who train.
+  </p>
+
+  <div class="grid">
+    {% for post in site.posts %}
+      {% if post.categories contains 'hydration' %}
+
+        {% unless basics_titles contains post.title %}
+          {% unless training_hydration_titles contains post.title %}
+            {% unless heat_safety_titles contains post.title %}
+              {% unless sweat_sodium_titles contains post.title %}
+
+                <article class="card">
+                  <div class="card-meta">Hydration</div>
+
+                  <h3 class="card-title">
+                    <a href="{{ post.url | relative_url }}">
+                      {{ post.title }}
+                    </a>
+                  </h3>
+
+                  {% if post.description %}
+                    <p class="card-desc">{{ post.description }}</p>
+                  {% else %}
+                    <p class="card-desc">
+                      {{ post.excerpt | strip_html | truncate: 140 }}
+                    </p>
+                  {% endif %}
+                </article>
+
+              {% endunless %}
+            {% endunless %}
+          {% endunless %}
+        {% endunless %}
+
       {% endif %}
     {% endfor %}
   </div>
 </section>
 {% endif %}
 
+
 <section class="section">
-  <h2>All Hydration articles</h2>
-  <p class="section-intro">
-    Browse all hydration content published on Stellar Lift Blog, including water intake, electrolytes, sweat loss, hydration habits, and practical strategies for daily life and training.
-  </p>
+  <h2>Keep hydration simple</h2>
 
-  {% assign normal_count = 0 %}
-  {% for post in site.posts %}
-    {% if post.categories contains 'hydration' %}
-      {% unless post.featured_hydration %}
-        {% assign normal_count = normal_count | plus: 1 %}
-      {% endunless %}
-    {% endif %}
-  {% endfor %}
+  <div class="card">
+    <div class="card-meta">Optional Tool</div>
 
-  {% if normal_count > 0 %}
-    <div class="grid">
-      {% for post in site.posts %}
-        {% if post.categories contains 'hydration' %}
-          {% unless post.featured_hydration %}
-            <article class="card">
-              <div class="card-meta">Hydration</div>
+    <h3 class="card-title">
+      Track your water intake
+    </h3>
 
-              <h3 class="card-title">
-                <a href="{{ post.url | relative_url }}">
-                  {{ post.title }}
-                </a>
-              </h3>
+    <p class="card-desc">
+      If tracking your daily water intake helps you stay consistent, Stellar Lift
+      Water Tracker provides a simple way to log drinks and keep an eye on your intake.
+      It is an optional tool — the goal is still to support your training, not turn
+      hydration into another complicated task.
+    </p>
 
-              {% if post.description %}
-                <p class="card-desc">{{ post.description }}</p>
-              {% else %}
-                <p class="card-desc">{{ post.excerpt | strip_html | truncate: 140 }}</p>
-              {% endif %}
+    <p style="margin-top:16px;">
+      <a
+        class="btn btn-ghost"
+        href="https://play.google.com/store/apps/details?id=com.stellarlift.watertracker"
+        target="_blank"
+        rel="noopener"
+      >
+        View Water Tracker
+      </a>
+    </p>
+  </div>
+</section>
 
-              <p style="margin-top:10px;color:rgba(255,255,255,.55);font-size:13px;">
-                {% if post.last_modified_at %}
-                  Updated {{ post.last_modified_at | date: "%Y-%m-%d" }}
-                {% else %}
-                  {{ post.date | date: "%Y-%m-%d" }}
-                {% endif %}
-              </p>
-            </article>
-          {% endunless %}
-        {% endif %}
-      {% endfor %}
-    </div>
-  {% else %}
-    <div class="card">
-      <div class="card-meta">Hydration</div>
-      <h3 class="card-title">No hydration posts yet</h3>
-      <p class="card-desc">Add a post with <code>categories: [hydration]</code> and it will show up here automatically.</p>
-      <p style="margin-top:10px;">
-        <a class="btn btn-ghost" href="{{ '/blog/' | relative_url }}">Go to Blog</a>
-      </p>
-    </div>
-  {% endif %}
+
+<section class="section">
+  <h2>Back to training</h2>
+
+  <div class="card">
+    <div class="card-meta">Stellar Lift Training</div>
+
+    <h3 class="card-title">
+      Hydration supports the work — training is the focus
+    </h3>
+
+    <p class="card-desc">
+      Explore strength, conditioning, workout programming, and exercise guides,
+      then use what you learn here to support those sessions.
+    </p>
+
+    <p style="margin-top:16px;">
+      <a class="btn" href="{{ '/training/' | relative_url }}">
+        Explore Training Guides
+      </a>
+    </p>
+  </div>
 </section>
