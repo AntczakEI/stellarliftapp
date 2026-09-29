@@ -4,11 +4,11 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
-  <title>Stellar Lift — Training, Hydration & Recovery</title>
+  <title>Stellar Lift — Training for Muay Thai, Strength & Conditioning</title>
 
   <meta
     name="description"
-    content="Practical guides for training, hydration and recovery, supported by two focused tracking apps: Training Tracker and Water Tracker."
+    content="Practical training guides for Muay Thai, strength and conditioning, supported by hydration and recovery guidance and the Stellar Lift Training Tracker."
   />
 
   <meta name="robots" content="index,follow" />
@@ -46,12 +46,12 @@
 
   <meta
     property="og:title"
-    content="Stellar Lift — Training, Hydration & Recovery"
+    content="Stellar Lift — Training for Muay Thai, Strength & Conditioning"
   />
 
   <meta
     property="og:description"
-    content="Practical guides for training, hydration and recovery, supported by two focused tracking apps."
+    content="Practical training guidance for Muay Thai, strength and conditioning, with hydration and recovery support."
   />
 
   <meta
@@ -71,12 +71,12 @@
 
   <meta
     name="twitter:title"
-    content="Stellar Lift — Training, Hydration & Recovery"
+    content="Stellar Lift — Training for Muay Thai, Strength & Conditioning"
   />
 
   <meta
     name="twitter:description"
-    content="Practical guides for training, hydration and recovery, supported by two focused tracking apps."
+    content="Practical training guidance for Muay Thai, strength and conditioning, with hydration and recovery support."
   />
 
   <meta
@@ -181,7 +181,6 @@
     :root {
       --bg:#0b0f14;
       --bg-deep:#070a0f;
-
       --panel:#10161f;
 
       --text:#e7edf6;
@@ -193,14 +192,12 @@
 
       --accent:#ffb000;
       --accent-2:#ff6a00;
-
       --blue:#69b9ff;
 
       --shadow:
         0 24px 70px rgba(0,0,0,.42);
 
       --radius:20px;
-
       --max:1160px;
     }
 
@@ -218,7 +215,6 @@
 
     body {
       margin:0;
-
       min-height:100vh;
 
       font-family:
@@ -234,14 +230,12 @@
 
       background:
         radial-gradient(
-          820px 520px
-          at 11% -8%,
+          820px 520px at 11% -8%,
           rgba(255,176,0,.15),
           transparent 62%
         ),
         radial-gradient(
-          720px 500px
-          at 92% 12%,
+          720px 500px at 92% 12%,
           rgba(55,132,255,.08),
           transparent 64%
         ),
@@ -269,33 +263,28 @@
 
     img {
       display:block;
-
       max-width:100%;
       height:auto;
     }
 
 
     .shell {
-      width:
-        min(
-          calc(100% - 36px),
-          var(--max)
-        );
+      width:min(
+        calc(100% - 36px),
+        var(--max)
+      );
 
       margin:0 auto;
     }
 
 
 
-    /* =========================
-       HEADER
-       ========================= */
+    /* HEADER */
 
 
     .site-header {
       position:sticky;
       top:0;
-
       z-index:50;
 
       border-bottom:
@@ -313,7 +302,6 @@
       min-height:76px;
 
       display:flex;
-
       align-items:center;
       justify-content:space-between;
 
@@ -323,11 +311,9 @@
 
     .brand {
       display:flex;
-
       align-items:center;
 
       gap:11px;
-
       min-width:205px;
     }
 
@@ -337,7 +323,6 @@
       height:44px;
 
       border-radius:13px;
-
       object-fit:cover;
 
       border:
@@ -350,18 +335,14 @@
 
     .brand-copy {
       display:flex;
-
       flex-direction:column;
-
       line-height:1.12;
     }
 
 
     .brand-name {
       font-size:17px;
-
       font-weight:700;
-
       letter-spacing:.2px;
     }
 
@@ -370,32 +351,26 @@
       margin-top:4px;
 
       font-size:12px;
-
       color:var(--muted);
-
       font-weight:500;
     }
 
 
     .nav {
       display:flex;
-
       align-items:center;
       justify-content:flex-end;
 
       gap:7px;
-
       flex-wrap:wrap;
     }
 
 
     .nav-link {
       display:inline-flex;
-
       align-items:center;
 
       min-height:38px;
-
       padding:8px 12px;
 
       border-radius:999px;
@@ -407,7 +382,6 @@
         rgba(231,237,246,.78);
 
       font-size:13px;
-
       font-weight:600;
 
       transition:.16s ease;
@@ -460,21 +434,16 @@
 
 
 
-    /* =========================
-       MAIN
-       ========================= */
+    /* MAIN */
 
 
     main {
-      padding:
-        26px 0 54px;
+      padding:26px 0 54px;
     }
 
 
 
-    /* =========================
-       HERO
-       ========================= */
+    /* HERO */
 
 
     .hero {
@@ -483,7 +452,6 @@
       min-height:480px;
 
       display:flex;
-
       align-items:center;
 
       overflow:hidden;
@@ -506,7 +474,6 @@
       content:"";
 
       position:absolute;
-
       inset:0;
 
       z-index:-2;
@@ -529,7 +496,6 @@
       content:"";
 
       position:absolute;
-
       inset:0;
 
       z-index:-1;
@@ -547,15 +513,12 @@
 
     .hero-content {
       width:min(525px,56%);
-
-      padding:
-        46px 48px;
+      padding:46px 48px;
     }
 
 
     .eyebrow {
       display:inline-flex;
-
       align-items:center;
 
       gap:9px;
@@ -566,11 +529,9 @@
         rgba(255,194,71,.94);
 
       font-size:10px;
-
       font-weight:700;
 
       letter-spacing:.15em;
-
       text-transform:uppercase;
     }
 
@@ -601,7 +562,6 @@
 
     .hero h1 {
       max-width:500px;
-
       margin-bottom:15px;
 
       font-size:
@@ -612,23 +572,19 @@
         );
 
       line-height:1.12;
-
       letter-spacing:-.015em;
-
       font-weight:700;
     }
 
 
     .hero-copy {
       max-width:510px;
-
       margin-bottom:0;
 
       color:
         rgba(231,237,246,.74);
 
       font-size:14px;
-
       line-height:1.75;
     }
 
@@ -637,9 +593,7 @@
       margin-top:22px;
 
       display:flex;
-
       gap:10px;
-
       flex-wrap:wrap;
     }
 
@@ -652,8 +606,7 @@
 
       min-height:42px;
 
-      padding:
-        9px 14px;
+      padding:9px 14px;
 
       border-radius:12px;
 
@@ -667,7 +620,6 @@
         rgba(231,237,246,.92);
 
       font-size:12px;
-
       font-weight:700;
 
       transition:.16s ease;
@@ -721,20 +673,16 @@
         rgba(231,237,246,.48);
 
       font-size:11px;
-
       font-weight:500;
     }
 
 
 
-    /* =========================
-       GENERIC SECTIONS
-       ========================= */
+    /* SECTIONS */
 
 
     .section {
       margin-top:22px;
-
       padding:26px;
 
       border:
@@ -759,7 +707,6 @@
       display:flex;
 
       justify-content:space-between;
-
       align-items:flex-end;
 
       gap:22px;
@@ -780,11 +727,9 @@
         rgba(255,176,0,.88);
 
       font-size:10px;
-
       font-weight:700;
 
       letter-spacing:.14em;
-
       text-transform:uppercase;
     }
 
@@ -800,7 +745,6 @@
         );
 
       line-height:1.22;
-
       font-weight:700;
 
       letter-spacing:-.01em;
@@ -813,7 +757,6 @@
       color:var(--muted);
 
       font-size:13px;
-
       line-height:1.7;
     }
 
@@ -825,7 +768,6 @@
         rgba(255,205,109,.90);
 
       font-size:12px;
-
       font-weight:700;
     }
 
@@ -836,9 +778,7 @@
 
 
 
-    /* =========================
-       LATEST BLOG
-       ========================= */
+    /* LATEST BLOG */
 
 
     .latest-grid {
@@ -862,7 +802,6 @@
       padding:18px;
 
       display:flex;
-
       flex-direction:column;
 
       border:
@@ -872,8 +811,7 @@
 
       background:
         radial-gradient(
-          260px 150px
-          at 100% 0%,
+          260px 150px at 100% 0%,
           rgba(255,176,0,.08),
           transparent 70%
         ),
@@ -892,8 +830,7 @@
 
       background:
         radial-gradient(
-          280px 170px
-          at 100% 0%,
+          280px 170px at 100% 0%,
           rgba(255,176,0,.12),
           transparent 70%
         ),
@@ -908,11 +845,9 @@
         rgba(255,176,0,.80);
 
       font-size:9px;
-
       font-weight:700;
 
       letter-spacing:.12em;
-
       text-transform:uppercase;
     }
 
@@ -921,7 +856,6 @@
       margin-bottom:9px;
 
       font-size:16px;
-
       line-height:1.32;
 
       font-weight:700;
@@ -940,7 +874,6 @@
         rgba(231,237,246,.64);
 
       font-size:12px;
-
       line-height:1.65;
     }
 
@@ -952,40 +885,12 @@
         rgba(255,205,109,.92);
 
       font-size:11px;
-
       font-weight:700;
     }
 
 
 
-    /* =========================
-       THREE PILLARS
-       ========================= */
-
-
-    .pillars-visual {
-      overflow:hidden;
-
-      border-radius:18px;
-
-      border:
-        1px solid rgba(255,255,255,.09);
-
-      background:#050b12;
-
-      aspect-ratio:2 / 1;
-    }
-
-
-    .pillars-visual img {
-      width:100%;
-      height:100%;
-
-      object-fit:cover;
-
-      object-position:
-        center 53%;
-    }
+    /* CONTENT AREAS */
 
 
     .pillar-links {
@@ -995,14 +900,11 @@
         repeat(3,1fr);
 
       gap:12px;
-
-      margin-top:14px;
     }
 
 
     .pillar-link {
-      padding:
-        13px 14px;
+      padding:16px;
 
       display:flex;
 
@@ -1023,6 +925,20 @@
     }
 
 
+    .pillar-link.training-main {
+      border-color:
+        rgba(255,176,0,.30);
+
+      background:
+        radial-gradient(
+          260px 150px at 100% 0%,
+          rgba(255,176,0,.10),
+          transparent 70%
+        ),
+        rgba(0,0,0,.22);
+    }
+
+
     .pillar-link:hover {
       transform:
         translateY(-1px);
@@ -1038,10 +954,9 @@
     .pillar-label strong {
       display:block;
 
-      margin-bottom:2px;
+      margin-bottom:3px;
 
       font-size:13px;
-
       font-weight:700;
     }
 
@@ -1065,19 +980,14 @@
 
 
 
-    /* =========================
-       APPS
-       ========================= */
+    /* TOOLS */
 
 
     .apps-grid {
       display:grid;
 
       grid-template-columns:
-        repeat(
-          2,
-          minmax(0,1fr)
-        );
+        1.35fr .65fr;
 
       gap:14px;
     }
@@ -1087,7 +997,6 @@
       padding:19px;
 
       display:flex;
-
       flex-direction:column;
 
       border:
@@ -1097,14 +1006,19 @@
 
       background:
         radial-gradient(
-          300px 190px
-          at 100% 0%,
+          300px 190px at 100% 0%,
           rgba(255,176,0,.085),
           transparent 68%
         ),
         rgba(4,9,15,.38);
 
       transition:.16s ease;
+    }
+
+
+    .app-card.main-app {
+      border-color:
+        rgba(255,176,0,.28);
     }
 
 
@@ -1150,7 +1064,6 @@
     .app-icon img {
       width:100%;
       height:100%;
-
       object-fit:cover;
     }
 
@@ -1159,9 +1072,7 @@
       margin-bottom:5px;
 
       font-size:16px;
-
       line-height:1.3;
-
       font-weight:700;
     }
 
@@ -1172,7 +1083,6 @@
       color:var(--muted);
 
       font-size:12px;
-
       line-height:1.65;
     }
 
@@ -1181,7 +1091,6 @@
       margin-top:14px;
 
       display:flex;
-
       flex-wrap:wrap;
 
       gap:7px;
@@ -1203,7 +1112,6 @@
         rgba(231,237,246,.60);
 
       font-size:9px;
-
       font-weight:600;
     }
 
@@ -1214,14 +1122,12 @@
       display:flex;
 
       gap:9px;
-
       flex-wrap:wrap;
     }
 
 
     .compact {
       min-height:38px;
-
       padding:8px 12px;
 
       font-size:11px;
@@ -1229,9 +1135,7 @@
 
 
 
-    /* =========================
-       CONSISTENCY
-       ========================= */
+    /* APPROACH */
 
 
     .consistency-grid {
@@ -1264,7 +1168,6 @@
         rgba(255,176,0,.82);
 
       font-size:10px;
-
       font-weight:700;
 
       letter-spacing:.14em;
@@ -1275,7 +1178,6 @@
       margin-bottom:6px;
 
       font-size:15px;
-
       font-weight:700;
     }
 
@@ -1286,7 +1188,6 @@
       color:var(--muted);
 
       font-size:12px;
-
       line-height:1.68;
     }
 
@@ -1297,20 +1198,16 @@
 
 
 
-    /* =========================
-       FOOTER
-       ========================= */
+    /* FOOTER */
 
 
     .site-footer {
-      padding:
-        0 0 30px;
+      padding:0 0 30px;
     }
 
 
     .footer-box {
-      padding:
-        20px 22px;
+      padding:20px 22px;
 
       display:flex;
 
@@ -1340,14 +1237,12 @@
         rgba(231,237,246,.82);
 
       font-size:12px;
-
       font-weight:700;
     }
 
 
     .footer-links {
       display:flex;
-
       flex-wrap:wrap;
 
       justify-content:flex-end;
@@ -1362,9 +1257,7 @@
 
 
 
-    /* =========================
-       TABLET
-       ========================= */
+    /* TABLET */
 
 
     @media(max-width:900px) {
@@ -1372,8 +1265,7 @@
       .header-inner {
         align-items:flex-start;
 
-        padding:
-          14px 0;
+        padding:14px 0;
 
         flex-direction:column;
 
@@ -1393,15 +1285,12 @@
 
       .hero-content {
         width:64%;
-
-        padding:
-          40px 34px;
+        padding:40px 34px;
       }
 
 
       .latest-grid {
-        grid-template-columns:
-          1fr 1fr;
+        grid-template-columns:1fr 1fr;
       }
 
 
@@ -1419,19 +1308,16 @@
 
 
 
-    /* =========================
-       MOBILE
-       ========================= */
+    /* MOBILE */
 
 
     @media(max-width:680px) {
 
       .shell {
-        width:
-          min(
-            calc(100% - 24px),
-            var(--max)
-          );
+        width:min(
+          calc(100% - 24px),
+          var(--max)
+        );
       }
 
 
@@ -1453,8 +1339,7 @@
       .nav-link {
         min-height:34px;
 
-        padding:
-          7px 9px;
+        padding:7px 9px;
 
         font-size:11px;
       }
@@ -1462,7 +1347,6 @@
 
       .hero {
         min-height:465px;
-
         align-items:flex-end;
       }
 
@@ -1483,15 +1367,12 @@
 
       .hero-content {
         width:100%;
-
-        padding:
-          27px 21px;
+        padding:27px 21px;
       }
 
 
       .hero h1 {
         max-width:470px;
-
         font-size:28px;
       }
 
@@ -1503,7 +1384,6 @@
 
       .section {
         margin-top:14px;
-
         padding:19px;
       }
 
@@ -1543,20 +1423,8 @@
       }
 
 
-      .pillars-visual {
-        aspect-ratio:1.65 / 1;
-      }
-
-
-      .pillars-visual img {
-        object-position:
-          center center;
-      }
-
-
       .footer-box {
-        padding:
-          18px 4px 0;
+        padding:18px 4px 0;
       }
 
 
@@ -1658,6 +1526,13 @@
 
         <a
           class="nav-link primary"
+          href="/training/"
+        >
+          Training
+        </a>
+
+        <a
+          class="nav-link"
           href="/blog/"
         >
           Blog
@@ -1672,13 +1547,6 @@
 
         <a
           class="nav-link"
-          href="/training/"
-        >
-          Training
-        </a>
-
-        <a
-          class="nav-link"
           href="/recovery/"
         >
           Recovery
@@ -1686,9 +1554,9 @@
 
         <a
           class="nav-link"
-          href="#apps"
+          href="/training-tracker/"
         >
-          Apps
+          Training Tracker
         </a>
 
         <a
@@ -1732,24 +1600,25 @@
 
 
           <div class="eyebrow">
-            Training · Hydration · Recovery
+            Training · Strength · Conditioning
           </div>
 
 
           <h1>
-            Practical guidance for training,
-            hydration and recovery.
+            Train with more structure.
+            Track what matters.
           </h1>
 
 
           <p class="hero-copy">
 
-            Stellar Lift focuses on useful content
-            you can actually apply — from Muay Thai
-            and training habits to hydration and recovery.
+            Stellar Lift is built around practical training:
+            Muay Thai, strength, conditioning, programming
+            and consistent progress.
 
-            Two focused tracking apps support the same
-            simple approach without unnecessary clutter.
+            Hydration and recovery content support the work,
+            while Training Tracker keeps your sessions organised
+            without turning training into admin.
 
           </p>
 
@@ -1758,27 +1627,26 @@
 
             <a
               class="button primary"
-              href="/blog/"
+              href="/training/"
             >
-              Explore the blog
+              Explore training guides
             </a>
 
 
             <a
               class="button"
-              href="#apps"
+              href="https://play.google.com/store/apps/details?id=com.stellarlift.trainingtracker"
+              target="_blank"
+              rel="noopener"
             >
-              See the apps
+              Get Training Tracker
             </a>
 
           </div>
 
 
           <div class="hero-note">
-
-            Practical content first.
-            Simple tools where they help.
-
+            Training first. Hydration and recovery where they support performance.
           </div>
 
 
@@ -1809,17 +1677,15 @@
 
 
             <h2>
-              Fresh practical reads
+              Latest training and performance reads
             </h2>
 
 
             <p class="section-intro">
 
-              New articles on training,
-              hydration and recovery,
-              with an increasing focus on
-              combat-sport training and
-              real-world consistency.
+              New practical articles with training at the centre,
+              plus hydration and recovery guidance where it directly
+              supports performance, consistency and better sessions.
 
             </p>
 
@@ -1846,7 +1712,7 @@
           <article class="article-card">
 
             <div class="article-meta">
-              Blog
+              Stellar Lift Blog
             </div>
 
 
@@ -1870,12 +1736,12 @@
 
 
 
-      <!-- THREE PILLARS -->
+      <!-- TRAINING AND SUPPORTING CONTENT -->
 
 
       <section
         class="section"
-        aria-label="Explore Stellar Lift topics"
+        aria-label="Explore Stellar Lift training content"
       >
 
 
@@ -1886,22 +1752,20 @@
 
 
             <div class="section-kicker">
-              Three areas
+              Explore Stellar Lift
             </div>
 
 
             <h2>
-              Hydration. Training. Recovery.
+              Training first. Support where it matters.
             </h2>
 
 
             <p class="section-intro">
 
-              Three connected areas,
-              one practical approach:
-              train with purpose,
-              stay consistent and recover
-              well enough to do it again.
+              Start with training.
+              Use hydration and recovery guidance to support
+              performance, consistency and the work you do in your sessions.
 
             </p>
 
@@ -1913,34 +1777,22 @@
 
 
 
-        <div class="pillars-visual">
-
-          <img
-            src="/assets/images/stellar-lift-pillars.png"
-            alt="Stellar Lift hydration, training and recovery"
-            loading="lazy"
-          />
-
-        </div>
-
-
-
         <div class="pillar-links">
 
 
           <a
-            class="pillar-link"
-            href="/hydration/"
+            class="pillar-link training-main"
+            href="/training/"
           >
 
             <span class="pillar-label">
 
               <strong>
-                Hydration
+                Training
               </strong>
 
               <span>
-                Daily habits, training and fluids
+                Muay Thai, strength, conditioning and programming
               </span>
 
             </span>
@@ -1955,17 +1807,17 @@
 
           <a
             class="pillar-link"
-            href="/training/"
+            href="/hydration/"
           >
 
             <span class="pillar-label">
 
               <strong>
-                Training
+                Hydration for training
               </strong>
 
               <span>
-                Muay Thai, strength and consistency
+                Water, electrolytes, sweat rate and sodium
               </span>
 
             </span>
@@ -1986,11 +1838,11 @@
             <span class="pillar-label">
 
               <strong>
-                Recovery
+                Recovery for training
               </strong>
 
               <span>
-                Fatigue, mobility and readiness
+                Rest, mobility, soreness and training load
               </span>
 
             </span>
@@ -2009,13 +1861,13 @@
 
 
 
-      <!-- APPS -->
+      <!-- TOOLS -->
 
 
       <section
         class="section"
-        id="apps"
-        aria-label="Stellar Lift apps"
+        id="tools"
+        aria-label="Stellar Lift training tools"
       >
 
 
@@ -2026,20 +1878,20 @@
 
 
             <div class="section-kicker">
-              Focused tools
+              Training tools
             </div>
 
 
             <h2>
-              Two apps. Kept deliberately simple.
+              Training Tracker at the centre
             </h2>
 
 
             <p class="section-intro">
 
-              Training Tracker and Water Tracker
-              are designed for quick everyday logging
-              rather than feature overload.
+              Training Tracker is the main Stellar Lift app:
+              a focused way to organise workouts and record your training.
+              Water Tracker remains available as a simple optional hydration tool.
 
             </p>
 
@@ -2058,7 +1910,7 @@
           <!-- TRAINING TRACKER -->
 
 
-          <article class="app-card">
+          <article class="app-card main-app">
 
 
             <div class="app-top">
@@ -2084,11 +1936,10 @@
 
                 <p>
 
-                  Log workouts,
-                  keep routines organised
-                  and follow your training
-                  without turning the process
-                  into admin.
+                  Log workouts, organise routines,
+                  track exercises, sets and reps,
+                  and keep your training history useful
+                  without turning every session into paperwork.
 
                 </p>
 
@@ -2107,11 +1958,15 @@
               </span>
 
               <span class="tag">
-                Routine support
+                Exercises &amp; sets
               </span>
 
               <span class="tag">
-                Fast workflow
+                Training history
+              </span>
+
+              <span class="tag">
+                Simple workflow
               </span>
 
             </div>
@@ -2127,7 +1982,7 @@
                 target="_blank"
                 rel="noopener"
               >
-                Google Play
+                Get Training Tracker
               </a>
 
 
@@ -2169,17 +2024,15 @@
 
 
                 <h3>
-                  Water Tracker — Drink Reminder
+                  Water Tracker
                 </h3>
 
 
                 <p>
 
-                  Keep hydration visible
-                  with quick logging,
-                  daily goals and reminders
-                  designed around normal
-                  everyday use.
+                  A simple optional tool for people
+                  who find daily water logging and
+                  reminders useful alongside their training.
 
                 </p>
 
@@ -2194,15 +2047,15 @@
             <div class="app-tags">
 
               <span class="tag">
-                Drink reminders
+                Optional tool
               </span>
 
               <span class="tag">
-                Daily goals
+                Water logging
               </span>
 
               <span class="tag">
-                Quick logging
+                Reminders
               </span>
 
             </div>
@@ -2213,20 +2066,10 @@
 
 
               <a
-                class="button primary compact"
-                href="https://play.google.com/store/apps/details?id=com.stellarlift.watertracker"
-                target="_blank"
-                rel="noopener"
-              >
-                Google Play
-              </a>
-
-
-              <a
                 class="button compact"
                 href="/water-tracker/"
               >
-                Learn more
+                View Water Tracker
               </a>
 
 
@@ -2243,7 +2086,7 @@
 
 
 
-      <!-- BUILT FOR CONSISTENCY -->
+      <!-- APPROACH -->
 
 
       <section
@@ -2264,16 +2107,16 @@
 
 
             <h2>
-              Built for consistency
+              Built around real training
             </h2>
 
 
             <p class="section-intro">
 
-              Stellar Lift is built around a simple idea:
-              useful information and focused tools
-              should make good habits easier,
-              not turn them into another job.
+              Stellar Lift focuses on practical information
+              and simple tools that help you train with more direction,
+              stay consistent and understand the factors that affect
+              your performance.
 
             </p>
 
@@ -2297,16 +2140,15 @@
 
 
             <h3>
-              Practical first
+              Training comes first
             </h3>
 
 
             <p>
 
-              Articles focus on things
-              you can actually use in training,
-              hydration and recovery,
-              without padding or generic wellness fluff.
+              The core content covers Muay Thai,
+              strength, conditioning, programming
+              and practical exercise choices.
 
             </p>
 
@@ -2324,16 +2166,15 @@
 
 
             <h3>
-              Less friction
+              Support the work
             </h3>
 
 
             <p>
 
-              The apps are deliberately focused.
-              Logging should be quick,
-              clear and easy enough
-              to stay part of your routine.
+              Hydration and recovery are covered
+              where they help you train,
+              perform and return ready for another session.
 
             </p>
 
@@ -2351,17 +2192,15 @@
 
 
             <h3>
-              Built around real training
+              Track without friction
             </h3>
 
 
             <p>
 
-              Training content increasingly reflects
-              real combat-sport practice,
-              including Muay Thai,
-              alongside strength,
-              conditioning and recovery.
+              Training Tracker is designed to keep
+              workout logging useful and fast,
+              rather than becoming another job.
 
             </p>
 
@@ -2430,6 +2269,11 @@
       >
 
 
+        <a href="/training/">
+          Training
+        </a>
+
+
         <a href="/blog/">
           Blog
         </a>
@@ -2467,7 +2311,7 @@
           aria-hidden="true"
           onclick="return openPrivacySettings(event);"
         >
-          Privacy & cookie settings
+          Privacy &amp; cookie settings
         </a>
 
 
