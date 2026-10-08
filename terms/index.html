@@ -1,38 +1,70 @@
+
 <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
+
   <title>Stellar Lift Terms | Website Use, Content, and Linked Services</title>
-  <meta name="description" content="Read the terms for using the Stellar Lift website, its public content, app-related pages, and links to third-party services such as Google Play." />
+
+  <meta
+    name="description"
+    content="Read the terms for using the Stellar Lift website, its training content, app-related pages, and links to third-party services such as Google Play."
+  />
+
   <meta name="robots" content="index,follow" />
+  <meta name="theme-color" content="#0b0f14" />
   <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin" />
-  <link rel="canonical" href="https://stellarliftapp.com/terms/" />
+
+  <link
+    rel="canonical"
+    href="https://stellarliftapp.com/terms/"
+  />
 
   <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Stellar Lift" />
   <meta property="og:title" content="Stellar Lift Terms" />
-  <meta property="og:description" content="Read the terms for using the Stellar Lift website, its public content, and linked services." />
-  <meta property="og:url" content="https://stellarliftapp.com/terms/" />
 
-  <meta name="twitter:card" content="summary_large_image" />
+  <meta
+    property="og:description"
+    content="Terms for using the Stellar Lift website, training resources, app information, and linked services."
+  />
+
+  <meta
+    property="og:url"
+    content="https://stellarliftapp.com/terms/"
+  />
+
+  <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="Stellar Lift Terms" />
-  <meta name="twitter:description" content="Read the terms for using the Stellar Lift website, its public content, and linked services." />
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <meta
+    name="twitter:description"
+    content="Terms for using the Stellar Lift website, training resources, and linked services."
+  />
 
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700;800;900&display=swap"
+    rel="stylesheet"
+  />
+
+  <!-- Google Privacy and Consent -->
   <script>
     window.googlefc = window.googlefc || {};
     window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
 
     window.openPrivacySettings = function(event) {
-      if (event) event.preventDefault();
+      if (event) {
+        event.preventDefault();
+      }
 
       if (
         window.googlefc &&
-        typeof window.googlefc.showRevocationMessage === 'function'
+        typeof window.googlefc.showRevocationMessage === "function"
       ) {
         window.googlefc.showRevocationMessage();
       }
@@ -41,17 +73,19 @@
     };
 
     window.googlefc.callbackQueue.push({
-      CONSENT_API_READY: function () {
-        document.querySelectorAll('[data-privacy-settings-link]').forEach(function (link) {
-          link.hidden = false;
-          link.setAttribute('aria-hidden', 'false');
-        });
+      CONSENT_API_READY: function() {
+        document
+          .querySelectorAll("[data-privacy-settings-link]")
+          .forEach(function(link) {
+            link.hidden = false;
+            link.setAttribute("aria-hidden", "false");
+          });
       }
     });
   </script>
 
   <style>
-    :root{
+    :root {
       --bg:#0b0f14;
       --text:#e7eef7;
       --muted:#9ab0c7;
@@ -63,36 +97,78 @@
       --max:1040px;
     }
 
-    *{box-sizing:border-box}
-    html,body{height:100%}
-    html{background:var(--bg)}
+    * {
+      box-sizing:border-box;
+    }
 
-    body{
+    html,
+    body {
+      height:100%;
+    }
+
+    html {
+      background:var(--bg);
+    }
+
+    body {
       margin:0;
-      font-family:"Exo 2", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      font-family:
+        "Exo 2",
+        system-ui,
+        -apple-system,
+        "Segoe UI",
+        Roboto,
+        Arial,
+        sans-serif;
       color:var(--text);
       line-height:1.6;
       background:transparent;
       position:relative;
     }
 
-    body::before{
+    body::before {
       content:"";
       position:fixed;
       inset:0;
       pointer-events:none;
       z-index:-1;
       background:
-        radial-gradient(1100px 700px at 18% -10%, rgba(255,176,0,.22), transparent 62%),
-        linear-gradient(180deg, #07101a 0%, #0b0f14 100%);
+        radial-gradient(
+          1100px 700px at 18% -10%,
+          rgba(255,176,0,.22),
+          transparent 62%
+        ),
+        linear-gradient(
+          180deg,
+          #07101a 0%,
+          #0b0f14 100%
+        );
     }
 
-    a{color:inherit;text-decoration:none}
-    a:hover{text-decoration:underline}
+    a {
+      color:inherit;
+      text-decoration:none;
+    }
 
-    .wrap{max-width:var(--max);margin:0 auto;padding:24px 18px 54px}
+    a:hover {
+      text-decoration:underline;
+    }
 
-    header{
+    img {
+      max-width:100%;
+      height:auto;
+      display:block;
+    }
+
+    .wrap {
+      max-width:var(--max);
+      margin:0 auto;
+      padding:24px 18px 54px;
+    }
+
+    /* HEADER */
+
+    header {
       display:flex;
       align-items:center;
       justify-content:space-between;
@@ -101,14 +177,14 @@
       flex-wrap:wrap;
     }
 
-    .brand{
+    .brand {
       display:flex;
       align-items:center;
       gap:12px;
       min-width:240px;
     }
 
-    .brandLogo{
+    .brandLogo {
       width:44px;
       height:44px;
       border-radius:14px;
@@ -119,27 +195,26 @@
       flex:0 0 auto;
     }
 
-    .brandLogo img{
+    .brandLogo img {
       width:100%;
       height:100%;
       object-fit:cover;
-      display:block;
     }
 
-    .brandName{
+    .brandName {
       font-size:18px;
       margin:0;
       letter-spacing:.2px;
       font-weight:800;
     }
 
-    .brand p{
+    .brand p {
       margin:2px 0 0;
       font-size:13px;
       color:var(--muted);
     }
 
-    nav{
+    nav {
       display:flex;
       gap:10px;
       flex-wrap:wrap;
@@ -147,7 +222,7 @@
       align-items:center;
     }
 
-    .btn{
+    .btn {
       display:inline-flex;
       align-items:center;
       gap:10px;
@@ -156,77 +231,91 @@
       border-radius:999px;
       background:rgba(255,255,255,.04);
       backdrop-filter:blur(8px);
-      transition:transform .12s ease,border-color .12s ease,background .12s ease;
+      transition:
+        transform .12s ease,
+        border-color .12s ease,
+        background .12s ease;
       font-weight:800;
       font-size:13px;
       white-space:nowrap;
     }
 
-    .btn:hover{
+    .btn:hover {
       transform:translateY(-1px);
       border-color:rgba(255,255,255,.16);
       background:rgba(255,255,255,.06);
+      text-decoration:none;
     }
 
-    .btn.primary{
+    .btn.primary {
       border-color:rgba(255,176,0,.35);
       background:rgba(255,176,0,.12);
     }
 
-    .section{
+    /* SECTIONS */
+
+    .section {
       margin-top:14px;
       border:1px solid var(--line);
       border-radius:var(--radius);
-      background:linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.015));
+      background:linear-gradient(
+        180deg,
+        rgba(255,255,255,.03),
+        rgba(255,255,255,.015)
+      );
       box-shadow:0 18px 50px rgba(0,0,0,.30);
       overflow:hidden;
     }
 
-    .sectionHead{padding:18px 18px 0}
+    .sectionHead {
+      padding:18px 18px 0;
+    }
 
     .sectionHead h2,
-    .sectionHead h3{
+    .sectionHead h3 {
       margin:0 0 8px;
     }
 
-    .sectionHead p{
+    .sectionHead p {
       margin:0 0 14px;
       color:var(--muted);
       font-size:14px;
       max-width:92ch;
     }
 
-    .sectionBody{padding:0 18px 18px}
+    .sectionBody {
+      padding:0 18px 18px;
+    }
 
-    .lead{
+    .lead {
       font-size:15px;
       color:var(--text);
       margin:0;
     }
 
-    .heroTitle{
+    .heroTitle {
       margin:0 0 10px;
-      font-size:clamp(26px, 3.2vw, 40px);
+      font-size:clamp(26px,3.2vw,40px);
       line-height:1.12;
       font-weight:900;
       letter-spacing:.2px;
     }
 
-    .subLead{
+    .subLead {
       margin:0;
       color:var(--muted);
       font-size:15px;
       max-width:92ch;
     }
 
-    .heroActions{
+    .heroActions {
       margin-top:16px;
       display:flex;
       gap:10px;
       flex-wrap:wrap;
     }
 
-    .pill{
+    .pill {
       display:inline-flex;
       align-items:center;
       justify-content:center;
@@ -236,21 +325,25 @@
       background:rgba(255,255,255,.06);
       font-weight:900;
       font-size:13px;
-      transition:transform .12s ease, background .12s ease, border-color .12s ease;
+      transition:
+        transform .12s ease,
+        background .12s ease,
+        border-color .12s ease;
     }
 
-    .pill:hover{
+    .pill:hover {
       transform:translateY(-1px);
       background:rgba(255,255,255,.08);
       border-color:rgba(255,255,255,.18);
+      text-decoration:none;
     }
 
-    .pill.primary{
+    .pill.primary {
       border-color:rgba(255,176,0,.38);
       background:rgba(255,176,0,.14);
     }
 
-    .card{
+    .card {
       border:1px solid rgba(255,255,255,.10);
       border-radius:16px;
       background:rgba(0,0,0,.16);
@@ -258,19 +351,19 @@
       margin-top:12px;
     }
 
-    .card h4{
+    .card h4 {
       margin:0 0 8px;
       font-size:15px;
     }
 
-    .card p{
+    .card p {
       margin:0;
       color:var(--muted);
       font-size:14px;
       line-height:1.6;
     }
 
-    .list{
+    .list {
       margin:0;
       padding-left:18px;
       color:var(--muted);
@@ -278,14 +371,18 @@
       line-height:1.7;
     }
 
-    .list li{margin:8px 0}
+    .list li {
+      margin:8px 0;
+    }
 
-    .link{
+    .link {
       color:var(--link);
       font-weight:900;
     }
 
-    footer{
+    /* FOOTER */
+
+    footer {
       margin-top:14px;
       border:1px solid var(--line);
       border-radius:var(--radius);
@@ -301,7 +398,7 @@
       font-size:13px;
     }
 
-    .tiny{
+    .tiny {
       color:var(--muted);
       font-weight:800;
       font-size:13px;
@@ -309,40 +406,72 @@
     }
   </style>
 </head>
+
 <body>
   <div class="wrap">
+
+    <!-- HEADER -->
+
     <header>
-      <a class="brand" href="/" aria-label="Stellar Lift home">
-        <div class="brandLogo" aria-hidden="true">
-          <img src="/assets/images/Main%20black%20logo.jpg" alt="Stellar Lift logo">
+      <a
+        class="brand"
+        href="/"
+        aria-label="Stellar Lift home"
+      >
+        <div class="brandLogo">
+          <img
+            src="/assets/images/Main%20black%20logo.jpg"
+            alt="Stellar Lift logo"
+          />
         </div>
+
         <div>
           <div class="brandName">Stellar Lift</div>
           <p>Track. Improve. Repeat.</p>
         </div>
       </a>
 
-      <nav aria-label="Navigation">
+      <nav aria-label="Main navigation">
         <a class="btn" href="/">Home</a>
+        <a class="btn" href="/training/">Training</a>
         <a class="btn" href="/about/">About</a>
         <a class="btn" href="/support/">Support</a>
-        <a class="btn primary" href="/terms/">Terms</a>
+        <a
+          class="btn primary"
+          href="/terms/"
+          aria-current="page"
+        >
+          Terms
+        </a>
       </nav>
     </header>
+
+
+    <!-- TERMS -->
 
     <section class="section">
       <div class="sectionHead">
         <h1 class="heroTitle">Stellar Lift Terms</h1>
+
         <p class="subLead">
-          These terms explain the basic conditions for using the Stellar Lift website, its public content, and links to related app pages and third-party services.
+          These terms explain the basic conditions for using
+          the Stellar Lift website, its public content,
+          and links to related app pages and third-party services.
         </p>
       </div>
+
       <div class="sectionBody">
         <p class="lead">
-          By using this website, you agree to use it lawfully and responsibly. These terms apply to the public Stellar Lift website, including informational pages, product pages, guide pages, and links to related services such as app store listings.
+          By using this website, you agree to use it lawfully and responsibly.
+          These terms apply to the public Stellar Lift website,
+          including informational pages, product pages, guide pages,
+          and links to related services such as app store listings.
         </p>
+
         <p class="lead" style="margin-top:14px;">
-          The goal of this page is to make the general rules of website use clear, while also pointing users to other important pages such as support and privacy information where relevant.
+          The goal of this page is to make the general rules of website
+          use clear, while also pointing users to other important pages
+          such as support and privacy information where relevant.
         </p>
 
         <div class="heroActions">
@@ -351,89 +480,189 @@
           <a class="pill" href="mailto:office@antczak.co.uk">Contact</a>
         </div>
 
+
         <div class="card">
           <h4>Website use</h4>
+
           <p>
-            This website is provided for general information about Stellar Lift, its apps, its guides, and related public-facing pages. You may browse and use the site for lawful, personal, and non-abusive purposes.
+            This website is provided for general information about
+            Stellar Lift, its apps, its guides, and related public-facing
+            pages. You may browse and use the site for lawful,
+            personal, and non-abusive purposes.
           </p>
         </div>
+
 
         <div class="card">
           <h4>Content and information</h4>
+
           <p>
-            We aim to keep website information accurate and reasonably up to date, but we do not guarantee that all information will always be complete, current, uninterrupted, or error-free.
+            We aim to keep website information accurate and reasonably
+            up to date, but we do not guarantee that all information
+            will always be complete, current, uninterrupted, or error-free.
           </p>
         </div>
+
 
         <div class="card">
           <h4>Third-party links and services</h4>
+
           <p>
-            This site may include links to third-party platforms and services, including Google Play and other external websites. Those third-party services operate under their own terms and privacy policies, and we are not responsible for their content, availability, or handling of data.
+            This site may include links to third-party platforms and
+            services, including Google Play and other external websites.
+            Those third-party services operate under their own terms
+            and privacy policies, and we are not responsible for their
+            content, availability, or handling of data.
           </p>
         </div>
+
 
         <div class="card">
           <h4>Public content and practical information</h4>
+
           <p>
-            The website may include articles and practical informational content related to hydration, training, recovery, product usage, or general ecosystem topics. That content is provided for general informational purposes and should not be treated as a substitute for professional advice where such advice is required.
+            The website may include articles and practical informational
+            content related to training, strength and conditioning,
+            hydration, recovery, and product usage.
+            That content is provided for general informational purposes
+            and should not be treated as a substitute for professional
+            advice where such advice is required.
           </p>
         </div>
+
 
         <div class="card">
           <h4>No warranties</h4>
+
           <p>
-            The website is provided on an “as is” and “as available” basis. To the extent permitted by law, we make no warranties regarding uninterrupted availability, fitness for a particular purpose, or complete accuracy of all publicly available content.
+            The website is provided on an “as is” and “as available”
+            basis. To the extent permitted by law, we make no warranties
+            regarding uninterrupted availability, fitness for a particular
+            purpose, or complete accuracy of all publicly available content.
           </p>
         </div>
+
 
         <div class="card">
           <h4>Limitation of liability</h4>
+
           <p>
-            To the extent permitted by law, we are not liable for indirect, incidental, or consequential loss arising from use of this website, linked services, or reliance on publicly available site content.
+            To the extent permitted by law, we are not liable for
+            indirect, incidental, or consequential loss arising
+            from use of this website, linked services, or reliance
+            on publicly available site content.
           </p>
         </div>
+
 
         <div class="card">
           <h4>Changes to the website and terms</h4>
+
           <p>
-            We may update the website, its public pages, or these terms from time to time. Continued use of the site after updated terms are published means you accept the then-current version.
+            We may update the website, its public pages, or these terms
+            from time to time. Continued use of the site after updated
+            terms are published means you accept the then-current version.
           </p>
         </div>
 
+
         <div class="card">
           <h4>Contact</h4>
+
           <p>
             For questions related to this website or these terms, contact:
-            <a class="link" href="mailto:office@antczak.co.uk">office@antczak.co.uk</a>
+            <a
+              class="link"
+              href="mailto:office@antczak.co.uk"
+            >
+              office@antczak.co.uk
+            </a>
           </p>
         </div>
+
       </div>
     </section>
+
+
+    <!-- RELATED PAGES -->
 
     <section class="section">
       <div class="sectionHead">
         <h2>Related pages</h2>
-        <p>Other important pages on the Stellar Lift website.</p>
+
+        <p>
+          Other important pages on the Stellar Lift website.
+        </p>
       </div>
+
       <div class="sectionBody">
         <ul class="list">
-          <li><a class="link" href="/support/">Support</a></li>
-          <li><a class="link" href="/about/">About</a></li>
-          <li><a class="link" href="/privacy/">Privacy Policy</a></li>
+          <li>
+            <a class="link" href="/training/">
+              Training Guides
+            </a>
+          </li>
+
+          <li>
+            <a class="link" href="/support/">
+              Support
+            </a>
+          </li>
+
+          <li>
+            <a class="link" href="/about/">
+              About Stellar Lift
+            </a>
+          </li>
+
+          <li>
+            <a class="link" href="/privacy/">
+              Privacy Policy
+            </a>
+          </li>
         </ul>
       </div>
     </section>
 
+
+    <!-- FOOTER -->
+
     <footer>
-      <div>© <span id="y"></span> Stellar Lift — stellarliftapp.com</div>
+      <div>
+        © <span id="y"></span> Stellar Lift — stellarliftapp.com
+      </div>
+
       <div class="tiny">
         <a class="link" href="/">Home</a>
-        · <a class="link" href="/about/">About</a>
-        · <a class="link" href="/support/">Support</a>
-        · <a class="link" href="#" data-privacy-settings-link hidden aria-hidden="true" onclick="return openPrivacySettings(event);">Privacy and cookie settings</a>
-        · Parent company: <a class="link" href="https://www.antczak.co.uk" target="_blank" rel="noopener">antczak.co.uk</a>
+        ·
+        <a class="link" href="/training/">Training</a>
+        ·
+        <a class="link" href="/about/">About</a>
+        ·
+        <a class="link" href="/support/">Support</a>
+        ·
+        <a
+          class="link"
+          href="#"
+          data-privacy-settings-link
+          hidden
+          aria-hidden="true"
+          onclick="return openPrivacySettings(event);"
+        >
+          Privacy and cookie settings
+        </a>
+        · Parent company:
+        <a
+          class="link"
+          href="https://www.antczak.co.uk"
+          target="_blank"
+          rel="noopener"
+        >
+          antczak.co.uk
+        </a>
       </div>
     </footer>
+
   </div>
 
   <script>
