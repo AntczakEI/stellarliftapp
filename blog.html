@@ -1,184 +1,394 @@
+
 ---
 layout: default
 title: Blog
-description: Practical articles from Stellar Lift Blog covering hydration, training, and recovery.
+description: Practical training guides for Muay Thai, strength, conditioning and workout programming, with hydration and recovery advice to support performance.
 permalink: /blog/
 ---
 
 <section class="hero">
-  <p class="eyebrow">Blog</p>
-  <h1>Stellar Lift Blog</h1>
-  <p class="subhead">Practical articles on hydration, training, and recovery — written to be useful, clear, and easy to apply.</p>
-</section>
+  <p class="eyebrow">Stellar Lift Blog</p>
 
-<section class="section">
-  <h2>What this blog is for</h2>
-  <p>
-    The Stellar Lift Blog exists to support the wider Stellar Lift ecosystem with practical content, not filler.
-    The goal is simple: give readers clear, useful guidance they can actually apply in real life.
+  <h1>Training guides and practical advice</h1>
+
+  <p class="subhead">
+    Practical guidance for Muay Thai, strength, conditioning,
+    workout programming, and consistent progress.
+    Explore hydration and recovery advice where it helps
+    support better training and performance.
   </p>
-  <p>
-    The content focuses on three connected areas:
-    <strong>hydration</strong>, <strong>training</strong>, and <strong>recovery</strong>.
-    These topics match the core direction of the Stellar Lift apps and are meant to help people make better day-to-day decisions, build stronger habits, and stay consistent.
-  </p>
-  <p>
-    Instead of chasing generic “wellness” fluff, the blog aims to stay practical, direct, and relevant to people who actually train, track habits, or want simple guidance without overcomplication.
-  </p>
-</section>
 
-<section class="section">
-  <h2>What you will find here</h2>
-  <div class="grid">
-    <article class="card">
-      <div class="card-meta">Hydration</div>
-      <h3 class="card-title"><a href="{{ '/hydration/' | relative_url }}" style="text-decoration:none;">Hydration guides</a></h3>
-      <p class="card-desc">
-        Articles about daily hydration, workout hydration, electrolyte questions, and practical decisions around drinking habits and consistency.
-      </p>
-    </article>
+  <div class="hero-cta">
+    <a class="btn" href="{{ '/training/' | relative_url }}">
+      Explore Training Guides
+    </a>
 
-    <article class="card">
-      <div class="card-meta">Training</div>
-      <h3 class="card-title"><a href="{{ '/training/' | relative_url }}" style="text-decoration:none;">Training guides</a></h3>
-      <p class="card-desc">
-        Practical training content covering workout structure, consistency, exercise choices, and ways to train more effectively without unnecessary complexity.
-      </p>
-    </article>
+    <a class="btn btn-ghost" href="#all-articles">
+      Browse All Articles
+    </a>
 
-    <article class="card">
-      <div class="card-meta">Recovery</div>
-      <h3 class="card-title"><a href="{{ '/recovery/' | relative_url }}" style="text-decoration:none;">Recovery guides</a></h3>
-      <p class="card-desc">
-        Useful content around soreness, mobility, recovery habits, fatigue management, and the things that help people stay ready to train again.
-      </p>
-    </article>
+    <a class="btn btn-ghost" href="{{ '/about-blog/' | relative_url }}">
+      About This Blog
+    </a>
   </div>
 </section>
 
-<section class="section">
-  <h2>Why these articles matter</h2>
-  <p>
-    This blog is not here just to sit next to product pages. It is part of the value of the site.
-    Good tracking tools become more useful when they are supported by practical explanations, examples, and educational content that help users understand what they are doing and why it matters.
-  </p>
-  <p>
-    That is why the blog sits alongside the apps, support pages, and privacy resources as part of one ecosystem.
-    It helps turn Stellar Lift into a more complete, useful site rather than a simple app landing page.
-  </p>
-</section>
 
 <section class="section">
-  <h2>Browse by category</h2>
-  <p>
-    You can explore the blog by topic using the main category pages below.
-  </p>
-  <p>
-    <a href="{{ '/hydration/' | relative_url }}">Hydration</a> ·
-    <a href="{{ '/training/' | relative_url }}">Training</a> ·
-    <a href="{{ '/recovery/' | relative_url }}">Recovery</a>
-  </p>
-</section>
+  <h2>Explore by topic</h2>
 
-{% assign featured_count = 0 %}
-{% for post in site.posts %}
-  {% if post.featured_training or post.featured_hydration or post.featured_recovery %}
-    {% assign featured_count = featured_count | plus: 1 %}
-  {% endif %}
-{% endfor %}
-
-{% if featured_count > 0 %}
-<section class="section">
-  <h2>Recently updated</h2>
   <p class="section-intro">
-    Recently improved guides with updated structure, clearer examples, and more practical advice.
+    Training is the main focus of Stellar Lift. Start with strength,
+    conditioning, workout structure, and exercise selection.
+    Hydration and recovery provide practical guidance to help
+    support your sessions and stay consistent.
   </p>
 
   <div class="grid">
+
+    <article class="card">
+      <div class="card-meta">Main Focus</div>
+
+      <h3 class="card-title">
+        <a href="{{ '/training/' | relative_url }}">
+          Training guides
+        </a>
+      </h3>
+
+      <p class="card-desc">
+        Muay Thai, strength, conditioning, workout programs,
+        exercise choices, progressive overload, and practical
+        strategies for building more structured training.
+      </p>
+
+      <p style="margin-top:16px;">
+        <a class="btn" href="{{ '/training/' | relative_url }}">
+          Explore Training
+        </a>
+      </p>
+    </article>
+
+
+    <article class="card">
+      <div class="card-meta">Training Support</div>
+
+      <h3 class="card-title">
+        <a href="{{ '/hydration/' | relative_url }}">
+          Hydration for training
+        </a>
+      </h3>
+
+      <p class="card-desc">
+        Water intake, electrolytes, sweat rate, sodium loss,
+        hydration in hot weather, and practical strategies
+        before, during, and after workouts.
+      </p>
+
+      <p style="margin-top:16px;">
+        <a class="btn btn-ghost" href="{{ '/hydration/' | relative_url }}">
+          Explore Hydration
+        </a>
+      </p>
+    </article>
+
+
+    <article class="card">
+      <div class="card-meta">Training Support</div>
+
+      <h3 class="card-title">
+        <a href="{{ '/recovery/' | relative_url }}">
+          Recovery for training
+        </a>
+      </h3>
+
+      <p class="card-desc">
+        Rest days, sleep, soreness, mobility, training load,
+        deloads, and recovery strategies that help you
+        prepare for your next session.
+      </p>
+
+      <p style="margin-top:16px;">
+        <a class="btn btn-ghost" href="{{ '/recovery/' | relative_url }}">
+          Explore Recovery
+        </a>
+      </p>
+    </article>
+
+  </div>
+</section>
+
+
+<section class="section">
+  <h2>Learn, train, track</h2>
+
+  <p>
+    Good training starts with understanding what you are doing
+    and why. Stellar Lift articles explain practical decisions
+    around exercises, programming, conditioning, and progression
+    so you can apply them in your own sessions.
+  </p>
+
+  <p>
+    Training Tracker provides a focused way to record that work.
+    Log your exercises, sets, reps, and sessions, keep your training
+    organised, and maintain a useful history of your progress.
+  </p>
+
+  <div class="hero-cta">
+    <a class="btn" href="{{ '/training-tracker/' | relative_url }}">
+      Explore Training Tracker
+    </a>
+
+    <a
+      class="btn btn-ghost"
+      href="https://play.google.com/store/apps/details?id=com.stellarlift.trainingtracker"
+      target="_blank"
+      rel="noopener"
+    >
+      Get Training Tracker
+    </a>
+  </div>
+</section>
+
+
+<section class="section" id="all-articles">
+  <h2>Training articles</h2>
+
+  <p class="section-intro">
+    Browse all training articles, including Muay Thai strength
+    and conditioning, workout programs, exercise guides,
+    progression, and practical training decisions.
+    Articles are listed from newest to oldest.
+  </p>
+
+  <div class="grid">
+
     {% for post in site.posts %}
-      {% if post.featured_training or post.featured_hydration or post.featured_recovery %}
+      {% if post.categories contains 'training' %}
+
         <article class="card">
-          {% if post.categories and post.categories.size > 0 %}
-            <div class="card-meta">Updated {{ post.categories[0] | capitalize }} Guide</div>
-          {% else %}
-            <div class="card-meta">Updated Article</div>
-          {% endif %}
+          <div class="card-meta">
+            Training
+          </div>
 
           <h3 class="card-title">
-            <a href="{{ post.url | relative_url }}" style="text-decoration:none;">
-              {{ post.title }}
+            <a href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
             </a>
           </h3>
 
           {% if post.description %}
-            <p class="card-desc">{{ post.description }}</p>
+            <p class="card-desc">
+              {{ post.description | escape }}
+            </p>
           {% else %}
-            <p class="card-desc">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+            <p class="card-desc">
+              {{ post.excerpt | strip_html | truncate: 140 | escape }}
+            </p>
           {% endif %}
 
-          <p style="margin-top:10px;color:rgba(255,255,255,.55);font-size:13px;">
-            {% if post.last_modified_at %}
-              Updated {{ post.last_modified_at | date: "%Y-%m-%d" }}
-            {% else %}
-              Published {{ post.date | date: "%Y-%m-%d" }}
-            {% endif %}
-          </p>
         </article>
+
       {% endif %}
     {% endfor %}
+
   </div>
 </section>
-{% endif %}
 
-<section class="section">
-  <h2>All articles</h2>
 
-  {% assign regular_count = 0 %}
-  {% for post in site.posts %}
-    {% unless post.featured_training or post.featured_hydration or post.featured_recovery %}
-      {% assign regular_count = regular_count | plus: 1 %}
-    {% endunless %}
-  {% endfor %}
+<section class="section" id="hydration-articles">
+  <h2>Hydration for training articles</h2>
 
-  {% if regular_count > 0 %}
-    <div class="grid">
-      {% for post in site.posts %}
-        {% unless post.featured_training or post.featured_hydration or post.featured_recovery %}
+  <p class="section-intro">
+    Practical hydration guidance for people who train.
+    Explore water intake, electrolytes, sweat rate,
+    sodium loss, training in heat, and hydration
+    before, during, and after exercise.
+  </p>
+
+  <div class="grid">
+
+    {% for post in site.posts %}
+      {% if post.categories contains 'hydration' %}
+        {% unless post.categories contains 'training' %}
+
           <article class="card">
-            {% if post.categories and post.categories.size > 0 %}
-              <div class="card-meta">{{ post.categories[0] }}</div>
-            {% else %}
-              <div class="card-meta">Article</div>
-            {% endif %}
+            <div class="card-meta">
+              Training Hydration
+            </div>
 
             <h3 class="card-title">
-              <a href="{{ post.url | relative_url }}" style="text-decoration:none;">
-                {{ post.title }}
+              <a href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
               </a>
             </h3>
 
             {% if post.description %}
-              <p class="card-desc">{{ post.description }}</p>
+              <p class="card-desc">
+                {{ post.description | escape }}
+              </p>
             {% else %}
-              <p class="card-desc">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+              <p class="card-desc">
+                {{ post.excerpt | strip_html | truncate: 140 | escape }}
+              </p>
             {% endif %}
 
-            <p style="margin-top:10px;color:rgba(255,255,255,.55);font-size:13px;">
-              {% if post.last_modified_at %}
-                Updated {{ post.last_modified_at | date: "%Y-%m-%d" }}
-              {% else %}
-                {{ post.date | date: "%Y-%m-%d" }}
-              {% endif %}
-            </p>
           </article>
+
         {% endunless %}
-      {% endfor %}
-    </div>
-  {% else %}
-    <div class="card">
-      <div class="card-meta">Info</div>
-      <h3 class="card-title">No posts yet</h3>
-      <p class="card-desc">Add your first post to the <code>_posts</code> folder and it will show up here automatically.</p>
-    </div>
-  {% endif %}
+      {% endif %}
+    {% endfor %}
+
+  </div>
+
+  <p style="margin-top:20px;">
+    <a class="btn btn-ghost" href="{{ '/hydration/' | relative_url }}">
+      Explore the Hydration Hub
+    </a>
+  </p>
+</section>
+
+
+<section class="section" id="recovery-articles">
+  <h2>Recovery for training articles</h2>
+
+  <p class="section-intro">
+    Explore rest days, sleep, active recovery,
+    mobility, training load, soreness, deloads,
+    and ways to manage recovery around regular training.
+  </p>
+
+  <div class="grid">
+
+    {% for post in site.posts %}
+      {% if post.categories contains 'recovery' %}
+        {% unless post.categories contains 'training' %}
+          {% unless post.categories contains 'hydration' %}
+
+            <article class="card">
+              <div class="card-meta">
+                Training Recovery
+              </div>
+
+              <h3 class="card-title">
+                <a href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </h3>
+
+              {% if post.description %}
+                <p class="card-desc">
+                  {{ post.description | escape }}
+                </p>
+              {% else %}
+                <p class="card-desc">
+                  {{ post.excerpt | strip_html | truncate: 140 | escape }}
+                </p>
+              {% endif %}
+
+            </article>
+
+          {% endunless %}
+        {% endunless %}
+      {% endif %}
+    {% endfor %}
+
+  </div>
+
+  <p style="margin-top:20px;">
+    <a class="btn btn-ghost" href="{{ '/recovery/' | relative_url }}">
+      Explore the Recovery Hub
+    </a>
+  </p>
+</section>
+
+
+{% assign other_articles_count = 0 %}
+
+{% for post in site.posts %}
+  {% unless post.categories contains 'training' %}
+    {% unless post.categories contains 'hydration' %}
+      {% unless post.categories contains 'recovery' %}
+        {% assign other_articles_count = other_articles_count | plus: 1 %}
+      {% endunless %}
+    {% endunless %}
+  {% endunless %}
+{% endfor %}
+
+
+{% if other_articles_count > 0 %}
+
+<section class="section">
+  <h2>More articles</h2>
+
+  <p class="section-intro">
+    Additional practical guides and articles from Stellar Lift.
+  </p>
+
+  <div class="grid">
+
+    {% for post in site.posts %}
+      {% unless post.categories contains 'training' %}
+        {% unless post.categories contains 'hydration' %}
+          {% unless post.categories contains 'recovery' %}
+
+            <article class="card">
+              <div class="card-meta">
+                Stellar Lift Guide
+              </div>
+
+              <h3 class="card-title">
+                <a href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </h3>
+
+              {% if post.description %}
+                <p class="card-desc">
+                  {{ post.description | escape }}
+                </p>
+              {% else %}
+                <p class="card-desc">
+                  {{ post.excerpt | strip_html | truncate: 140 | escape }}
+                </p>
+              {% endif %}
+
+            </article>
+
+          {% endunless %}
+        {% endunless %}
+      {% endunless %}
+    {% endfor %}
+
+  </div>
+</section>
+
+{% endif %}
+
+
+<section class="section">
+  <h2>Where to go next</h2>
+
+  <p class="section-intro">
+    Use the training hub to find guides organised by
+    foundations, programs, and exercises.
+    Explore hydration and recovery when you need
+    supporting guidance around your training.
+  </p>
+
+  <div class="hero-cta">
+
+    <a class="btn" href="{{ '/training/' | relative_url }}">
+      Start with Training
+    </a>
+
+    <a class="btn btn-ghost" href="{{ '/about-blog/' | relative_url }}">
+      About Stellar Lift Blog
+    </a>
+
+    <a class="btn btn-ghost" href="{{ '/' | relative_url }}">
+      Back to Home
+    </a>
+
+  </div>
 </section>
