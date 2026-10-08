@@ -1,3 +1,18 @@
+
+{% assign hub_name = "Blog" %}
+{% assign hub_path = "/blog/" %}
+
+{% if page.categories contains "training" %}
+  {% assign hub_name = "Training" %}
+  {% assign hub_path = "/training/" %}
+{% elsif page.categories contains "hydration" %}
+  {% assign hub_name = "Hydration" %}
+  {% assign hub_path = "/hydration/" %}
+{% elsif page.categories contains "recovery" %}
+  {% assign hub_name = "Recovery" %}
+  {% assign hub_path = "/recovery/" %}
+{% endif %}
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -15,21 +30,28 @@
   {% endif %}
 
   <link rel="canonical" href="{{ page.url | absolute_url }}" />
+
   <meta name="theme-color" content="#0b0f14" />
   <meta name="robots" content="index,follow" />
   <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin" />
-  <meta name="google-adsense-account" content="ca-pub-3802348795219382">
+  <meta name="google-adsense-account" content="ca-pub-3802348795219382" />
 
+  <!-- Google Privacy and Consent -->
   <script>
     window.googlefc = window.googlefc || {};
     window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
 
     window.openPrivacySettings = function(event) {
       if (event) event.preventDefault();
-      if (window.googlefc && typeof window.googlefc.showRevocationMessage === 'function') {
+
+      if (
+        window.googlefc &&
+        typeof window.googlefc.showRevocationMessage === 'function'
+      ) {
         window.googlefc.showRevocationMessage();
       }
+
       return false;
     };
 
@@ -43,58 +65,141 @@
     });
   </script>
 
-  <script async
+  <!-- Google AdSense -->
+  <script
+    async
     src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3802348795219382"
-    crossorigin="anonymous"></script>
+    crossorigin="anonymous"
+  ></script>
 
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FDVLQ1QYLZ"></script>
+  <!-- Google Analytics -->
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-FDVLQ1QYLZ"
+  ></script>
+
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
     gtag('js', new Date());
     gtag('config', 'G-FDVLQ1QYLZ');
   </script>
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v=2" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700;800;900&display=swap"
+    rel="stylesheet"
+  />
 
+  <!-- CSS -->
+  <link
+    rel="stylesheet"
+    href="{{ '/assets/css/main.css' | relative_url }}?v=2"
+  />
+
+  <!-- Open Graph -->
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="{{ site.title | escape }}" />
-  <meta property="og:title" content="{{ page.title | escape }}" />
-  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+
+  <meta
+    property="og:title"
+    content="{{ page.title | escape }}"
+  />
+
+  <meta
+    property="og:url"
+    content="{{ page.url | absolute_url }}"
+  />
 
   {% if page.date %}
-  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
+  <meta
+    property="article:published_time"
+    content="{{ page.date | date_to_xmlschema }}"
+  />
   {% endif %}
 
   {% if page.last_modified_at %}
-  <meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}" />
+  <meta
+    property="article:modified_time"
+    content="{{ page.last_modified_at | date_to_xmlschema }}"
+  />
   {% endif %}
 
-  <meta property="article:author" content="{{ page.author | default: 'Tomasz Antczak' | escape }}" />
+  <meta
+    property="article:author"
+    content="{{ page.author | default: 'Tomasz Antczak' | escape }}"
+  />
+
+  <meta
+    property="article:section"
+    content="{{ hub_name | escape }}"
+  />
 
   {% if page.description %}
-  <meta property="og:description" content="{{ page.description | escape }}" />
+  <meta
+    property="og:description"
+    content="{{ page.description | escape }}"
+  />
   {% elsif page.excerpt %}
-  <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}" />
+  <meta
+    property="og:description"
+    content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}"
+  />
   {% elsif site.description %}
-  <meta property="og:description" content="{{ site.description | escape }}" />
+  <meta
+    property="og:description"
+    content="{{ site.description | escape }}"
+  />
   {% endif %}
 
+  <meta
+    property="og:image"
+    content="{{ '/assets/images/stellar-lift-hero.png' | absolute_url }}"
+  />
+
+  <meta
+    property="og:image:alt"
+    content="Stellar Lift training and performance"
+  />
+
+  <!-- Twitter / X -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="{{ page.title | escape }}" />
+
+  <meta
+    name="twitter:title"
+    content="{{ page.title | escape }}"
+  />
 
   {% if page.description %}
-  <meta name="twitter:description" content="{{ page.description | escape }}" />
+  <meta
+    name="twitter:description"
+    content="{{ page.description | escape }}"
+  />
   {% elsif page.excerpt %}
-  <meta name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}" />
+  <meta
+    name="twitter:description"
+    content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}"
+  />
   {% elsif site.description %}
-  <meta name="twitter:description" content="{{ site.description | escape }}" />
+  <meta
+    name="twitter:description"
+    content="{{ site.description | escape }}"
+  />
   {% endif %}
 
+  <meta
+    name="twitter:image"
+    content="{{ '/assets/images/stellar-lift-hero.png' | absolute_url }}"
+  />
+
+  <!-- Article Structured Data -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -111,11 +216,40 @@
     },
     "publisher": {
       "@type": "Organization",
-      "name": {{ site.title | jsonify }}
-    }{% if page.date %},
+      "name": "Stellar Lift"
+    },
+    "image": {{ '/assets/images/stellar-lift-hero.png' | absolute_url | jsonify }}{% if page.date %},
     "datePublished": {{ page.date | date_to_xmlschema | jsonify }}{% endif %}{% if page.last_modified_at %},
     "dateModified": {{ page.last_modified_at | date_to_xmlschema | jsonify }}{% elsif page.date %},
     "dateModified": {{ page.date | date_to_xmlschema | jsonify }}{% endif %}
+  }
+  </script>
+
+  <!-- Breadcrumb Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": {{ '/' | absolute_url | jsonify }}
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": {{ hub_name | jsonify }},
+        "item": {{ hub_path | absolute_url | jsonify }}
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": {{ page.title | jsonify }},
+        "item": {{ page.url | absolute_url | jsonify }}
+      }
+    ]
   }
   </script>
 </head>
@@ -124,95 +258,198 @@
   <div class="bg-fixed" aria-hidden="true"></div>
 
   <div class="page-shell">
+
+    <!-- HEADER -->
     <header class="site-header">
       <div class="site-header-inner site-header-inner--brand">
-        <a class="site-brand" href="https://stellarliftapp.com/" aria-label="Stellar Lift home">
-          <img class="site-brand-logo" src="https://stellarliftapp.com/assets/images/Main%20black%20logo.jpg" alt="Stellar Lift logo" />
+
+        <a
+          class="site-brand"
+          href="{{ '/' | relative_url }}"
+          aria-label="Stellar Lift home"
+        >
+          <img
+            class="site-brand-logo"
+            src="{{ '/assets/images/Main%20black%20logo.jpg' | relative_url }}"
+            alt="Stellar Lift logo"
+          />
+
           <span class="site-brand-copy">
             <span class="site-brand-title">Stellar Lift</span>
             <span class="site-brand-subtitle">Track. Improve. Repeat.</span>
           </span>
         </a>
 
+        <!-- MAIN NAVIGATION -->
         <nav class="site-top-nav" aria-label="Main navigation">
-          <a class="site-top-link" href="https://stellarliftapp.com/">Home</a>
-          <a class="site-top-link" href="{{ '/blog/' | relative_url }}">Blog</a>
-          <a class="site-top-link" href="{{ '/hydration/' | relative_url }}">Hydration</a>
-          <a class="site-top-link" href="{{ '/training/' | relative_url }}">Training</a>
-          <a class="site-top-link" href="{{ '/recovery/' | relative_url }}">Recovery</a>
-          <a class="site-top-link" href="{{ '/about-blog/' | relative_url }}">About</a>
-          <a class="site-top-link" href="{{ '/contact-blog/' | relative_url }}">Contact</a>
-          <a class="site-top-link" href="{{ '/privacy-blog/' | relative_url }}">Privacy</a>
+
+          <a class="site-top-link" href="{{ '/' | relative_url }}">
+            Home
+          </a>
+
+          <a class="site-top-link" href="{{ '/training/' | relative_url }}">
+            Training
+          </a>
+
+          <a class="site-top-link" href="{{ '/blog/' | relative_url }}">
+            Blog
+          </a>
+
+          <a class="site-top-link" href="{{ '/hydration/' | relative_url }}">
+            Hydration
+          </a>
+
+          <a class="site-top-link" href="{{ '/recovery/' | relative_url }}">
+            Recovery
+          </a>
+
+          <a
+            class="site-top-link"
+            href="https://shop.antczak.co.uk/collection/fighter-performance"
+          >
+            Shop
+          </a>
+
+          <a class="site-top-link" href="{{ '/about-blog/' | relative_url }}">
+            About
+          </a>
+
+          <a class="site-top-link" href="{{ '/contact-blog/' | relative_url }}">
+            Contact
+          </a>
+
+          <a class="site-top-link" href="{{ '/privacy-blog/' | relative_url }}">
+            Privacy
+          </a>
+
         </nav>
       </div>
     </header>
 
+
+    <!-- MAIN CONTENT -->
     <main class="site-main" id="content">
       <div class="content-wrap">
 
+        <!-- Category -->
         {% if page.categories and page.categories.size > 0 %}
-          <p class="eyebrow">{{ page.categories[0] }}</p>
+          <p class="eyebrow">
+            <a href="{{ hub_path | relative_url }}">
+              {{ hub_name }}
+            </a>
+          </p>
         {% endif %}
 
+        <!-- Article -->
         <article class="section">
 
-          <div style="padding: 22px 22px 10px;">
+          <div style="padding:22px 22px 10px;">
 
-            <h1>{{ page.title }}</h1>
+            <h1>{{ page.title | escape }}</h1>
 
-            <p style="color: rgba(231,237,246,.55); font-size: 14px; margin-top: -4px; line-height: 1.6;">
-              <span>Written by {{ page.author | default: "Tomasz Antczak" }}</span>
+            <p style="color:rgba(231,237,246,.55);font-size:14px;margin-top:-4px;line-height:1.6;">
+
+              <span>
+                Written by {{ page.author | default: "Tomasz Antczak" | escape }}
+              </span>
 
               {% if page.date %}
-                <span> · Published {{ page.date | date: "%B %-d, %Y" }}</span>
+                <span>
+                  · Published {{ page.date | date: "%B %-d, %Y" }}
+                </span>
               {% endif %}
 
               {% if page.last_modified_at %}
-                <span> · Updated {{ page.last_modified_at | date: "%B %-d, %Y" }}</span>
+                <span>
+                  · Updated {{ page.last_modified_at | date: "%B %-d, %Y" }}
+                </span>
               {% endif %}
+
             </p>
 
             {% if page.description %}
-              <p class="section-intro">{{ page.description }}</p>
+              <p class="section-intro">
+                {{ page.description | escape }}
+              </p>
             {% endif %}
 
           </div>
 
-          <div style="padding: 0 22px 22px;">
+          <div style="padding:0 22px 22px;">
             {{ content }}
           </div>
 
         </article>
 
-        <div class="hero-cta" style="margin-top: 18px;">
 
-          <a class="btn btn-ghost" href="{{ '/blog/' | relative_url }}">
+        <!-- ARTICLE NAVIGATION -->
+        <div class="hero-cta" style="margin-top:18px;">
+
+          <a
+            class="btn btn-ghost"
+            href="{{ '/blog/' | relative_url }}"
+          >
             Back to Blog
           </a>
 
-          {% if page.categories contains "hydration" %}
-            <a class="btn btn-ghost" href="{{ '/hydration/' | relative_url }}">
-              More Hydration
-            </a>
-          {% endif %}
-
           {% if page.categories contains "training" %}
-            <a class="btn btn-ghost" href="{{ '/training/' | relative_url }}">
+
+            <a
+              class="btn btn-ghost"
+              href="{{ '/training/' | relative_url }}"
+            >
               More Training
             </a>
+
+            <a
+              class="btn btn-ghost"
+              href="{{ '/training-tracker/' | relative_url }}"
+            >
+              Training Tracker
+            </a>
+
+          {% endif %}
+
+          {% if page.categories contains "hydration" %}
+
+            <a
+              class="btn btn-ghost"
+              href="{{ '/hydration/' | relative_url }}"
+            >
+              More Hydration
+            </a>
+
           {% endif %}
 
           {% if page.categories contains "recovery" %}
-            <a class="btn btn-ghost" href="{{ '/recovery/' | relative_url }}">
+
+            <a
+              class="btn btn-ghost"
+              href="{{ '/recovery/' | relative_url }}"
+            >
               More Recovery
             </a>
+
           {% endif %}
+
+          {% unless page.categories contains "training" %}
+
+            <a
+              class="btn btn-ghost"
+              href="{{ '/training/' | relative_url }}"
+            >
+              Explore Training
+            </a>
+
+          {% endunless %}
 
         </div>
 
       </div>
     </main>
 
+
+    <!-- FOOTER -->
     <footer class="site-footer">
       <div class="site-footer-inner">
 
@@ -220,26 +457,61 @@
 
           <div class="footer-brand">
             <strong>Stellar Lift Blog</strong>
-            <span>Practical guides for hydration, training, and recovery.</span>
+
+            <span>
+              Practical training guides for Muay Thai, strength
+              and conditioning, with hydration and recovery
+              support for better performance.
+            </span>
           </div>
 
           <nav class="footer-nav" aria-label="Footer navigation">
-            <a href="https://stellarliftapp.com/">Main site</a>
-            <a href="{{ '/about-blog/' | relative_url }}">About</a>
-            <a href="{{ '/contact-blog/' | relative_url }}">Contact</a>
-            <a href="{{ '/privacy-blog/' | relative_url }}">Privacy</a>
-            <a href="{{ '/cookies-blog/' | relative_url }}">Cookies</a>
-            <a href="{{ '/blog/' | relative_url }}">All Articles</a>
+
+            <a href="{{ '/' | relative_url }}">
+              Main Site
+            </a>
+
+            <a href="{{ '/training/' | relative_url }}">
+              Training
+            </a>
+
+            <a
+              href="https://shop.antczak.co.uk/collection/fighter-performance"
+            >
+              Shop
+            </a>
+
+            <a href="{{ '/about-blog/' | relative_url }}">
+              About
+            </a>
+
+            <a href="{{ '/contact-blog/' | relative_url }}">
+              Contact
+            </a>
+
+            <a href="{{ '/privacy-blog/' | relative_url }}">
+              Privacy
+            </a>
+
+            <a href="{{ '/cookies-blog/' | relative_url }}">
+              Cookies
+            </a>
+
+            <a href="{{ '/blog/' | relative_url }}">
+              All Articles
+            </a>
+
             <a
               href="#"
               data-privacy-settings-link
               hidden
               aria-hidden="true"
-              onclick="return openPrivacySettings(event);">
+              onclick="return openPrivacySettings(event);"
+            >
               Privacy and cookie settings
             </a>
-          </nav>
 
+          </nav>
         </div>
 
         <div class="footer-bottom">
