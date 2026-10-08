@@ -1,38 +1,80 @@
+
 <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Stellar Lift Support | Contact, Privacy, and Account Help</title>
-  <meta name="description" content="Get support for Stellar Lift apps and website-related questions, including contact details, privacy links, account deletion information, and useful help pages." />
+
+  <title>Stellar Lift Support | App, Account and Privacy Help</title>
+
+  <meta
+    name="description"
+    content="Get support for Stellar Lift Training Tracker and Water Tracker, including app questions, account deletion, privacy requests, and website help."
+  />
+
   <meta name="robots" content="index,follow" />
+  <meta name="theme-color" content="#0b0f14" />
   <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin" />
-  <link rel="canonical" href="https://stellarliftapp.com/support/" />
+
+  <link
+    rel="canonical"
+    href="https://stellarliftapp.com/support/"
+  />
 
   <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Stellar Lift" />
   <meta property="og:title" content="Stellar Lift Support" />
-  <meta property="og:description" content="Get support for Stellar Lift apps, privacy questions, account requests, and general website help." />
-  <meta property="og:url" content="https://stellarliftapp.com/support/" />
+
+  <meta
+    property="og:description"
+    content="Support for Stellar Lift apps, account deletion, privacy questions, and website-related requests."
+  />
+
+  <meta
+    property="og:url"
+    content="https://stellarliftapp.com/support/"
+  />
+
+  <meta
+    property="og:image"
+    content="https://stellarliftapp.com/assets/images/stellar-lift-hero.png"
+  />
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Stellar Lift Support" />
-  <meta name="twitter:description" content="Get support for Stellar Lift apps, privacy questions, account requests, and general website help." />
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <meta
+    name="twitter:description"
+    content="Find help for Stellar Lift apps, privacy requests, account deletion, and website questions."
+  />
 
+  <meta
+    name="twitter:image"
+    content="https://stellarliftapp.com/assets/images/stellar-lift-hero.png"
+  />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700;800;900&display=swap"
+    rel="stylesheet"
+  />
+
+  <!-- Google Privacy and Consent -->
   <script>
     window.googlefc = window.googlefc || {};
     window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
 
     window.openPrivacySettings = function(event) {
-      if (event) event.preventDefault();
+      if (event) {
+        event.preventDefault();
+      }
 
       if (
         window.googlefc &&
-        typeof window.googlefc.showRevocationMessage === 'function'
+        typeof window.googlefc.showRevocationMessage === "function"
       ) {
         window.googlefc.showRevocationMessage();
       }
@@ -41,17 +83,19 @@
     };
 
     window.googlefc.callbackQueue.push({
-      CONSENT_API_READY: function () {
-        document.querySelectorAll('[data-privacy-settings-link]').forEach(function (link) {
-          link.hidden = false;
-          link.setAttribute('aria-hidden', 'false');
-        });
+      CONSENT_API_READY: function() {
+        document
+          .querySelectorAll("[data-privacy-settings-link]")
+          .forEach(function(link) {
+            link.hidden = false;
+            link.setAttribute("aria-hidden", "false");
+          });
       }
     });
   </script>
 
   <style>
-    :root{
+    :root {
       --bg:#0b0f14;
       --text:#e7eef7;
       --muted:#9ab0c7;
@@ -64,36 +108,78 @@
       --max:1040px;
     }
 
-    *{box-sizing:border-box}
-    html,body{height:100%}
-    html{background:var(--bg)}
+    * {
+      box-sizing:border-box;
+    }
 
-    body{
+    html,
+    body {
+      height:100%;
+    }
+
+    html {
+      background:var(--bg);
+    }
+
+    body {
       margin:0;
-      font-family:"Exo 2", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      font-family:
+        "Exo 2",
+        system-ui,
+        -apple-system,
+        "Segoe UI",
+        Roboto,
+        Arial,
+        sans-serif;
       color:var(--text);
       line-height:1.6;
       background:transparent;
       position:relative;
     }
 
-    body::before{
+    body::before {
       content:"";
       position:fixed;
       inset:0;
       pointer-events:none;
       z-index:-1;
       background:
-        radial-gradient(1100px 700px at 18% -10%, rgba(255,176,0,.22), transparent 62%),
-        linear-gradient(180deg, #07101a 0%, #0b0f14 100%);
+        radial-gradient(
+          1100px 700px at 18% -10%,
+          rgba(255,176,0,.22),
+          transparent 62%
+        ),
+        linear-gradient(
+          180deg,
+          #07101a 0%,
+          #0b0f14 100%
+        );
     }
 
-    a{color:inherit;text-decoration:none}
-    a:hover{text-decoration:underline}
+    a {
+      color:inherit;
+      text-decoration:none;
+    }
 
-    .wrap{max-width:var(--max);margin:0 auto;padding:24px 18px 54px}
+    a:hover {
+      text-decoration:underline;
+    }
 
-    header{
+    img {
+      max-width:100%;
+      height:auto;
+      display:block;
+    }
+
+    .wrap {
+      max-width:var(--max);
+      margin:0 auto;
+      padding:24px 18px 54px;
+    }
+
+    /* HEADER */
+
+    header {
       display:flex;
       align-items:center;
       justify-content:space-between;
@@ -102,45 +188,44 @@
       flex-wrap:wrap;
     }
 
-    .brand{
+    .brand {
       display:flex;
       align-items:center;
       gap:12px;
       min-width:240px;
     }
 
-    .brandLogo{
+    .brandLogo {
       width:44px;
       height:44px;
       border-radius:14px;
-      border:1px solid rgba(255,255,255,.14);
+      border:1px solid var(--line-strong);
       background:rgba(255,255,255,.04);
       overflow:hidden;
       box-shadow:0 10px 30px rgba(0,0,0,.35);
       flex:0 0 auto;
     }
 
-    .brandLogo img{
+    .brandLogo img {
       width:100%;
       height:100%;
       object-fit:cover;
-      display:block;
     }
 
-    .brandName{
+    .brandName {
       font-size:18px;
       margin:0;
       letter-spacing:.2px;
       font-weight:800;
     }
 
-    .brand p{
+    .brand p {
       margin:2px 0 0;
       font-size:13px;
       color:var(--muted);
     }
 
-    nav{
+    nav {
       display:flex;
       gap:10px;
       flex-wrap:wrap;
@@ -148,7 +233,7 @@
       align-items:center;
     }
 
-    .btn{
+    .btn {
       display:inline-flex;
       align-items:center;
       gap:10px;
@@ -157,101 +242,135 @@
       border-radius:999px;
       background:rgba(255,255,255,.04);
       backdrop-filter:blur(8px);
-      transition:transform .12s ease,border-color .12s ease,background .12s ease;
+      transition:
+        transform .12s ease,
+        border-color .12s ease,
+        background .12s ease;
       font-weight:800;
       font-size:13px;
       white-space:nowrap;
     }
 
-    .btn:hover{
+    .btn:hover {
       transform:translateY(-1px);
       border-color:rgba(255,255,255,.16);
       background:rgba(255,255,255,.06);
+      text-decoration:none;
     }
 
-    .btn.primary{
+    .btn.primary {
       border-color:rgba(255,176,0,.35);
       background:rgba(255,176,0,.12);
     }
 
-    .section{
+    /* SECTIONS */
+
+    .section {
       margin-top:14px;
       border:1px solid var(--line);
       border-radius:var(--radius);
-      background:linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.015));
+      background:linear-gradient(
+        180deg,
+        rgba(255,255,255,.03),
+        rgba(255,255,255,.015)
+      );
       box-shadow:0 18px 50px rgba(0,0,0,.30);
       overflow:hidden;
     }
 
-    .sectionHead{padding:18px 18px 0}
+    .sectionHead {
+      padding:18px 18px 0;
+    }
 
     .sectionHead h2,
-    .sectionHead h3{
+    .sectionHead h3 {
       margin:0 0 8px;
     }
 
-    .sectionHead p{
+    .sectionHead p {
       margin:0 0 14px;
       color:var(--muted);
       font-size:14px;
       max-width:92ch;
     }
 
-    .sectionBody{padding:0 18px 18px}
+    .sectionBody {
+      padding:0 18px 18px;
+    }
 
-    .lead{
+    .lead {
       font-size:15px;
       color:var(--text);
       margin:0;
     }
 
-    .heroTitle{
+    .heroTitle {
       margin:0 0 10px;
-      font-size:clamp(26px, 3.2vw, 40px);
+      font-size:clamp(26px,3.2vw,40px);
       line-height:1.12;
       font-weight:900;
       letter-spacing:.2px;
     }
 
-    .subLead{
+    .eyebrow {
+      margin-bottom:8px;
+      color:var(--accent);
+      font-size:11px;
+      font-weight:900;
+      letter-spacing:.14em;
+      text-transform:uppercase;
+    }
+
+    .subLead {
       margin:0;
       color:var(--muted);
       font-size:15px;
       max-width:92ch;
     }
 
-    .grid{
+    .grid {
       display:grid;
       grid-template-columns:1fr 1fr;
       gap:14px;
     }
 
-    .three{
+    .three {
       display:grid;
       grid-template-columns:repeat(3,1fr);
       gap:14px;
     }
 
-    .card{
+    .card {
       border:1px solid rgba(255,255,255,.10);
       border-radius:16px;
       background:rgba(0,0,0,.16);
       padding:16px;
     }
 
-    .card h4{
+    .card.primaryCard {
+      border-color:rgba(255,176,0,.28);
+      background:
+        radial-gradient(
+          320px 180px at 100% 0%,
+          rgba(255,176,0,.08),
+          transparent 70%
+        ),
+        rgba(0,0,0,.16);
+    }
+
+    .card h4 {
       margin:0 0 8px;
       font-size:15px;
     }
 
-    .card p{
+    .card p {
       margin:0;
       color:var(--muted);
       font-size:14px;
       line-height:1.6;
     }
 
-    .list{
+    .list {
       margin:0;
       padding-left:18px;
       color:var(--muted);
@@ -259,21 +378,23 @@
       line-height:1.7;
     }
 
-    .list li{margin:8px 0}
+    .list li {
+      margin:8px 0;
+    }
 
-    .link{
+    .link {
       color:var(--link);
       font-weight:900;
     }
 
-    .heroActions{
+    .heroActions {
       margin-top:16px;
       display:flex;
       gap:10px;
       flex-wrap:wrap;
     }
 
-    .pill{
+    .pill {
       display:inline-flex;
       align-items:center;
       justify-content:center;
@@ -283,21 +404,27 @@
       background:rgba(255,255,255,.06);
       font-weight:900;
       font-size:13px;
-      transition:transform .12s ease, background .12s ease, border-color .12s ease;
+      transition:
+        transform .12s ease,
+        background .12s ease,
+        border-color .12s ease;
     }
 
-    .pill:hover{
+    .pill:hover {
       transform:translateY(-1px);
       background:rgba(255,255,255,.08);
       border-color:rgba(255,255,255,.18);
+      text-decoration:none;
     }
 
-    .pill.primary{
+    .pill.primary {
       border-color:rgba(255,176,0,.38);
       background:rgba(255,176,0,.14);
     }
 
-    footer{
+    /* FOOTER */
+
+    footer {
       margin-top:14px;
       border:1px solid var(--line);
       border-radius:var(--radius);
@@ -313,210 +440,526 @@
       font-size:13px;
     }
 
-    .tiny{
+    .tiny {
       color:var(--muted);
       font-weight:800;
       font-size:13px;
       line-height:1.6;
     }
 
-    @media (max-width: 900px){
-      .grid{grid-template-columns:1fr}
-      .three{grid-template-columns:1fr}
+    @media(max-width:900px) {
+      .grid {
+        grid-template-columns:1fr;
+      }
+
+      .three {
+        grid-template-columns:1fr;
+      }
     }
   </style>
 </head>
+
 <body>
   <div class="wrap">
+
+    <!-- HEADER -->
+
     <header>
-      <a class="brand" href="/" aria-label="Stellar Lift home">
-        <div class="brandLogo" aria-hidden="true">
-          <img src="/assets/images/Main%20black%20logo.jpg" alt="Stellar Lift logo">
+      <a
+        class="brand"
+        href="/"
+        aria-label="Stellar Lift home"
+      >
+        <div class="brandLogo">
+          <img
+            src="/assets/images/Main%20black%20logo.jpg"
+            alt="Stellar Lift logo"
+          />
         </div>
+
         <div>
           <div class="brandName">Stellar Lift</div>
           <p>Track. Improve. Repeat.</p>
         </div>
       </a>
 
-      <nav aria-label="Navigation">
+      <nav aria-label="Main navigation">
         <a class="btn" href="/">Home</a>
+        <a class="btn" href="/training/">Training</a>
         <a class="btn" href="/blog/">Blog</a>
         <a class="btn" href="/about/">About</a>
-        <a class="btn primary" href="/support/">Support</a>
+        <a
+          class="btn primary"
+          href="/support/"
+          aria-current="page"
+        >
+          Support
+        </a>
         <a class="btn" href="/privacy/">Privacy</a>
         <a class="btn" href="/terms/">Terms</a>
       </nav>
     </header>
 
+
+    <!-- INTRODUCTION -->
+
     <section class="section">
       <div class="sectionHead">
-        <h1 class="heroTitle">Stellar Lift Support</h1>
+        <div class="eyebrow">Help and Support</div>
+
+        <h1 class="heroTitle">
+          Stellar Lift Support
+        </h1>
+
         <p class="subLead">
-          This page brings together the main support routes for Stellar Lift, including contact details, privacy links, account-related pages, and help resources for current apps and site users.
+          Find support for Stellar Lift Training Tracker,
+          Water Tracker, account-related requests, privacy
+          questions, and the Stellar Lift website.
         </p>
       </div>
+
       <div class="sectionBody">
         <p class="lead">
-          If you need help with a Stellar Lift app, have a privacy-related question, want to request account deletion, or need general information about the website and ecosystem, start here.
-          The goal of this page is to keep the main support routes in one place so users do not have to hunt through multiple pages to find basic help information.
+          Whether you have a question about recording workouts,
+          tracking water intake, managing your account, or finding
+          the right privacy information, this page will help you
+          reach the appropriate support resources.
+        </p>
+
+        <p class="lead" style="margin-top:14px;">
+          Stellar Lift focuses on practical training content
+          and Training Tracker, with hydration and recovery
+          resources that support training. Support remains
+          available for both Training Tracker and Water Tracker.
         </p>
 
         <div class="heroActions">
-          <a class="pill primary" href="mailto:office@antczak.co.uk">Email support</a>
-          <a class="pill" href="/privacy/">Privacy Policy</a>
-          <a class="pill" href="/account-deletion/">Account deletion</a>
+          <a
+            class="pill primary"
+            href="mailto:office@antczak.co.uk"
+          >
+            Email Support
+          </a>
+
+          <a class="pill" href="/privacy/">
+            Privacy Policy
+          </a>
+
+          <a class="pill" href="/account-deletion/">
+            Account Deletion
+          </a>
         </div>
       </div>
     </section>
 
-    <section class="section">
+
+    <!-- CONTACT -->
+
+    <section class="section" id="contact">
       <div class="sectionHead">
-        <h2>Contact options</h2>
-        <p>The main contact point for app support, privacy requests, and general questions about Stellar Lift.</p>
+        <h2>Contact support</h2>
+
+        <p>
+          One contact point for questions about either app,
+          your account, privacy, or the website.
+        </p>
       </div>
+
       <div class="sectionBody">
         <div class="grid">
-          <div class="card">
+
+          <div class="card primaryCard">
             <h4>Email support</h4>
+
             <p>
-              For app-related questions, privacy issues, or general support, contact:
-              <a class="link" href="mailto:office@antczak.co.uk">office@antczak.co.uk</a>
+              For app-related questions, troubleshooting,
+              account assistance, or privacy enquiries,
+              contact our support team.
+            </p>
+
+            <p style="margin-top:12px;">
+              <a
+                class="link"
+                href="mailto:office@antczak.co.uk"
+              >
+                office@antczak.co.uk
+              </a>
             </p>
           </div>
+
           <div class="card">
-            <h4>What to include in your message</h4>
+            <h4>What to include</h4>
+
             <p>
-              To make support faster, include the app name, device type if relevant, a short description of the issue, and any details that help explain what happened.
+              Tell us which app or website feature you are
+              contacting us about, your device type where
+              relevant, and a short description of the issue.
+              You can include the steps that led to the problem
+              or any error message you received.
+            </p>
+
+            <p style="margin-top:12px;">
+              Please do not include passwords or payment
+              card details in your initial message.
             </p>
           </div>
+
         </div>
       </div>
     </section>
 
+
+    <!-- PRIVACY AND ACCOUNT HELP -->
+
     <section class="section">
       <div class="sectionHead">
-        <h2>Important account and privacy pages</h2>
-        <p>Useful pages for privacy information, account requests, and site policies.</p>
+        <h2>Account and privacy help</h2>
+
+        <p>
+          Find information about privacy, account deletion,
+          and the terms governing use of the website and apps.
+        </p>
       </div>
+
       <div class="sectionBody">
         <div class="grid">
+
           <div class="card">
             <h4>Privacy Policy</h4>
+
             <p>
-              Read how data, cookies, and related information are handled on the site and across the ecosystem:
-              <a class="link" href="/privacy/">Privacy Policy</a>
+              Find information about personal data,
+              privacy practices, and how information
+              is handled in connection with Stellar Lift.
+            </p>
+
+            <p style="margin-top:12px;">
+              <a class="link" href="/privacy/">
+                Read the Privacy Policy
+              </a>
             </p>
           </div>
+
           <div class="card">
             <h4>Account deletion</h4>
+
             <p>
-              Use the dedicated page for account deletion requests and related instructions:
-              <a class="link" href="/account-deletion/">Account deletion</a>
+              If you want to request deletion of an
+              account or related data, use the dedicated
+              account deletion page for instructions.
+            </p>
+
+            <p style="margin-top:12px;">
+              <a class="link" href="/account-deletion/">
+                Account Deletion Instructions
+              </a>
             </p>
           </div>
+
           <div class="card">
-            <h4>Terms</h4>
+            <h4>Terms of Use</h4>
+
             <p>
-              Read the website terms and general usage information here:
-              <a class="link" href="/terms/">Terms</a>
+              Read the terms and general usage
+              information for Stellar Lift services
+              and the website.
+            </p>
+
+            <p style="margin-top:12px;">
+              <a class="link" href="/terms/">
+                Read the Terms
+              </a>
             </p>
           </div>
+
           <div class="card">
             <h4>About Stellar Lift</h4>
+
             <p>
-              Learn more about the ecosystem, product direction, and brand philosophy:
-              <a class="link" href="/about/">About</a>
+              Learn more about Stellar Lift's focus
+              on training, practical guidance,
+              and simple workout tracking tools.
+            </p>
+
+            <p style="margin-top:12px;">
+              <a class="link" href="/about/">
+                About Stellar Lift
+              </a>
             </p>
           </div>
+
         </div>
       </div>
     </section>
 
+
+    <!-- APP SUPPORT -->
+
     <section class="section">
       <div class="sectionHead">
-        <h2>Current apps</h2>
-        <p>The currently live apps in the Stellar Lift ecosystem and where users can find them.</p>
+        <h2>Support for Stellar Lift apps</h2>
+
+        <p>
+          Find help and product information for the
+          currently available Stellar Lift applications.
+        </p>
       </div>
+
       <div class="sectionBody">
         <div class="three">
-          <div class="card">
+
+          <div class="card primaryCard">
             <h4>Training Tracker</h4>
+
             <p>
-              A workout logging app focused on simple tracking, routine support, and better consistency.
+              The main Stellar Lift training app,
+              designed for recording workouts,
+              organising routines, and tracking
+              exercises, sets, reps, and training history.
             </p>
+
             <p style="margin-top:12px;">
-              <a class="link" href="/training-tracker/">Training Tracker page</a><br>
-              <a class="link" href="https://play.google.com/store/apps/details?id=com.stellarlift.trainingtracker" target="_blank" rel="noopener">Google Play listing</a>
+              <a class="link" href="/training-tracker/">
+                Training Tracker Information
+              </a>
+            </p>
+
+            <p style="margin-top:8px;">
+              <a
+                class="link"
+                href="https://play.google.com/store/apps/details?id=com.stellarlift.trainingtracker"
+                target="_blank"
+                rel="noopener"
+              >
+                View on Google Play
+              </a>
             </p>
           </div>
+
           <div class="card">
             <h4>Water Tracker — Drink Reminder</h4>
+
             <p>
-              A hydration app built around quick logging, reminders, and simple daily goal tracking.
+              A focused hydration tracking app
+              for logging water intake, keeping
+              daily goals visible, and using
+              reminders when helpful.
             </p>
+
             <p style="margin-top:12px;">
-              <a class="link" href="/water-tracker/">Water Tracker page</a><br>
-              <a class="link" href="https://play.google.com/store/apps/details?id=com.stellarlift.watertracker" target="_blank" rel="noopener">Google Play listing</a>
+              <a class="link" href="/water-tracker/">
+                Water Tracker Information
+              </a>
+            </p>
+
+            <p style="margin-top:8px;">
+              <a
+                class="link"
+                href="https://play.google.com/store/apps/details?id=com.stellarlift.watertracker"
+                target="_blank"
+                rel="noopener"
+              >
+                View on Google Play
+              </a>
             </p>
           </div>
+
           <div class="card">
-            <h4>Support scope</h4>
+            <h4>General website support</h4>
+
             <p>
-              This support page covers the current public site and live apps. Related privacy and policy pages are linked here so users can reach the right destination faster.
+              Need help finding an article,
+              navigating training resources,
+              understanding where to find
+              account information, or reporting
+              a website problem?
+            </p>
+
+            <p style="margin-top:12px;">
+              <a
+                class="link"
+                href="mailto:office@antczak.co.uk"
+              >
+                Contact Support
+              </a>
             </p>
           </div>
+
         </div>
       </div>
     </section>
 
+
+    <!-- COMMON SUPPORT REQUESTS -->
+
     <section class="section">
       <div class="sectionHead">
-        <h2>Common reasons people may need help</h2>
-        <p>Typical support topics users may want to resolve through this page.</p>
+        <h2>What can we help with?</h2>
+
+        <p>
+          Common reasons to contact Stellar Lift support.
+        </p>
       </div>
+
       <div class="sectionBody">
         <ul class="list">
-          <li>Questions about app availability and supported platforms.</li>
-          <li>Basic usage questions related to current live Stellar Lift apps.</li>
-          <li>Privacy-related requests or data handling questions.</li>
-          <li>Account deletion requests and where to submit them.</li>
-          <li>Requests for the correct support or policy page on the site.</li>
+
+          <li>
+            Questions about using Training Tracker
+            or Water Tracker.
+          </li>
+
+          <li>
+            Problems with workout or hydration logging.
+          </li>
+
+          <li>
+            App availability and supported devices.
+          </li>
+
+          <li>
+            Questions about account access
+            or account deletion.
+          </li>
+
+          <li>
+            Privacy-related questions or data requests.
+          </li>
+
+          <li>
+            Website navigation, broken links,
+            or technical issues.
+          </li>
+
+          <li>
+            Suggestions or feedback about
+            current Stellar Lift products.
+          </li>
+
         </ul>
       </div>
     </section>
 
+
+    <!-- TRAINING RESOURCES -->
+
     <section class="section">
       <div class="sectionHead">
-        <h2>Related pages</h2>
-        <p>Other useful pages on the main Stellar Lift site.</p>
+        <h2>Explore Stellar Lift resources</h2>
+
+        <p>
+          Looking for training information rather than
+          technical support? Start with our training guides.
+        </p>
       </div>
+
       <div class="sectionBody">
-        <ul class="list">
-          <li><a class="link" href="/about/">About Stellar Lift</a></li>
-          <li><a class="link" href="/training-tracker/">Training Tracker</a></li>
-          <li><a class="link" href="/water-tracker/">Water Tracker — Drink Reminder</a></li>
-          <li><a class="link" href="/how-the-stellar-lift-ecosystem-works/">How the Stellar Lift Ecosystem Works</a></li>
-          <li><a class="link" href="/blog/">Stellar Lift Blog</a></li>
-        </ul>
+        <div class="three">
+
+          <div class="card primaryCard">
+            <h4>Training guides</h4>
+
+            <p>
+              Muay Thai, strength, conditioning,
+              workout programming, exercise
+              selection, and progression.
+            </p>
+
+            <p style="margin-top:12px;">
+              <a class="link" href="/training/">
+                Explore Training
+              </a>
+            </p>
+          </div>
+
+          <div class="card">
+            <h4>Hydration for training</h4>
+
+            <p>
+              Practical guidance on water,
+              electrolytes, sweat rate, sodium
+              loss, and hydration around exercise.
+            </p>
+
+            <p style="margin-top:12px;">
+              <a class="link" href="/hydration/">
+                Explore Hydration
+              </a>
+            </p>
+          </div>
+
+          <div class="card">
+            <h4>Recovery for training</h4>
+
+            <p>
+              Rest, sleep, soreness, mobility,
+              training load, and recovery
+              between sessions.
+            </p>
+
+            <p style="margin-top:12px;">
+              <a class="link" href="/recovery/">
+                Explore Recovery
+              </a>
+            </p>
+          </div>
+
+        </div>
       </div>
     </section>
+
+
+    <!-- FOOTER -->
 
     <footer>
-      <div>© <span id="y"></span> Stellar Lift — stellarliftapp.com</div>
+      <div>
+        © <span id="y"></span>
+        Stellar Lift — stellarliftapp.com
+      </div>
+
       <div class="tiny">
         <a class="link" href="/">Home</a>
-        · <a class="link" href="/about/">About</a>
-        · <a class="link" href="/blog/">Blog</a>
-        · <a class="link" href="/terms/">Terms</a>
-        · <a class="link" href="#" data-privacy-settings-link hidden aria-hidden="true" onclick="return openPrivacySettings(event);">Privacy and cookie settings</a>
-        · Parent company: <a class="link" href="https://www.antczak.co.uk" target="_blank" rel="noopener">antczak.co.uk</a>
+        ·
+        <a class="link" href="/training/">Training</a>
+        ·
+        <a class="link" href="/about/">About</a>
+        ·
+        <a class="link" href="/blog/">Blog</a>
+        ·
+        <a class="link" href="/privacy/">Privacy</a>
+        ·
+        <a class="link" href="/terms/">Terms</a>
+        ·
+        <a class="link" href="/account-deletion/">Account Deletion</a>
+        ·
+        <a
+          class="link"
+          href="#"
+          data-privacy-settings-link
+          hidden
+          aria-hidden="true"
+          onclick="return openPrivacySettings(event);"
+        >
+          Privacy and cookie settings
+        </a>
+        · Parent company:
+        <a
+          class="link"
+          href="https://www.antczak.co.uk"
+          target="_blank"
+          rel="noopener"
+        >
+          antczak.co.uk
+        </a>
       </div>
     </footer>
+
   </div>
 
   <script>
-    document.getElementById("y").textContent = new Date().getFullYear();
+    document
+      .getElementById("y")
+      .textContent = new Date().getFullYear();
   </script>
 </body>
 </html>
