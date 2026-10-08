@@ -1,28 +1,68 @@
+
 <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
+
   <title>How to Track Workouts Effectively | A Practical Guide by Stellar Lift</title>
-  <meta name="description" content="Learn how to track workouts in a practical way that supports progress, consistency, and better training decisions without turning logging into a second job." />
+
+  <meta
+    name="description"
+    content="Learn how to track workouts in a practical way that supports progress, consistency, and better training decisions without turning logging into a second job."
+  />
+
   <meta name="robots" content="index,follow" />
+  <meta name="theme-color" content="#0b0f14" />
   <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin" />
-  <link rel="canonical" href="https://stellarliftapp.com/how-to-track-workouts/" />
+
+  <link
+    rel="canonical"
+    href="https://stellarliftapp.com/how-to-track-workouts/"
+  />
 
   <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Stellar Lift" />
   <meta property="og:title" content="How to Track Workouts Effectively" />
-  <meta property="og:description" content="A practical guide to tracking workouts in a way that supports progress and consistency without overcomplicating the process." />
-  <meta property="og:url" content="https://stellarliftapp.com/how-to-track-workouts/" />
+
+  <meta
+    property="og:description"
+    content="A practical guide to tracking workouts in a way that supports progress and consistency without overcomplicating the process."
+  />
+
+  <meta
+    property="og:url"
+    content="https://stellarliftapp.com/how-to-track-workouts/"
+  />
+
+  <meta
+    property="og:image"
+    content="https://stellarliftapp.com/assets/images/stellar-lift-hero.png"
+  />
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="How to Track Workouts Effectively" />
-  <meta name="twitter:description" content="A practical guide to tracking workouts in a way that supports progress and consistency without overcomplicating the process." />
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <meta
+    name="twitter:description"
+    content="A practical guide to tracking workouts in a way that supports progress and consistency without overcomplicating the process."
+  />
 
+  <meta
+    name="twitter:image"
+    content="https://stellarliftapp.com/assets/images/stellar-lift-hero.png"
+  />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700;800;900&display=swap"
+    rel="stylesheet"
+  />
+
+  <!-- Google Privacy and Consent -->
   <script>
     window.googlefc = window.googlefc || {};
     window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
@@ -41,8 +81,8 @@
     };
 
     window.googlefc.callbackQueue.push({
-      CONSENT_API_READY: function () {
-        document.querySelectorAll('[data-privacy-settings-link]').forEach(function (link) {
+      CONSENT_API_READY: function() {
+        document.querySelectorAll('[data-privacy-settings-link]').forEach(function(link) {
           link.hidden = false;
           link.setAttribute('aria-hidden', 'false');
         });
@@ -51,7 +91,7 @@
   </script>
 
   <style>
-    :root{
+    :root {
       --bg:#0b0f14;
       --text:#e7eef7;
       --muted:#9ab0c7;
@@ -64,36 +104,78 @@
       --max:980px;
     }
 
-    *{box-sizing:border-box}
-    html,body{height:100%}
-    html{background:var(--bg)}
+    * {
+      box-sizing:border-box;
+    }
 
-    body{
+    html,
+    body {
+      height:100%;
+    }
+
+    html {
+      background:var(--bg);
+    }
+
+    body {
       margin:0;
-      font-family:"Exo 2", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      font-family:
+        "Exo 2",
+        system-ui,
+        -apple-system,
+        "Segoe UI",
+        Roboto,
+        Arial,
+        sans-serif;
       color:var(--text);
       line-height:1.72;
       background:transparent;
       position:relative;
     }
 
-    body::before{
+    body::before {
       content:"";
       position:fixed;
       inset:0;
       pointer-events:none;
       z-index:-1;
       background:
-        radial-gradient(1100px 700px at 18% -10%, rgba(255,176,0,.22), transparent 62%),
-        linear-gradient(180deg, #07101a 0%, #0b0f14 100%);
+        radial-gradient(
+          1100px 700px at 18% -10%,
+          rgba(255,176,0,.22),
+          transparent 62%
+        ),
+        linear-gradient(
+          180deg,
+          #07101a 0%,
+          #0b0f14 100%
+        );
     }
 
-    a{color:inherit;text-decoration:none}
-    a:hover{text-decoration:underline}
+    a {
+      color:inherit;
+      text-decoration:none;
+    }
 
-    .wrap{max-width:var(--max);margin:0 auto;padding:24px 18px 54px}
+    a:hover {
+      text-decoration:underline;
+    }
 
-    header{
+    img {
+      max-width:100%;
+      height:auto;
+      display:block;
+    }
+
+    .wrap {
+      max-width:var(--max);
+      margin:0 auto;
+      padding:24px 18px 54px;
+    }
+
+    /* HEADER */
+
+    header {
       display:flex;
       align-items:center;
       justify-content:space-between;
@@ -102,14 +184,14 @@
       flex-wrap:wrap;
     }
 
-    .brand{
+    .brand {
       display:flex;
       align-items:center;
       gap:12px;
       min-width:240px;
     }
 
-    .brandLogo{
+    .brandLogo {
       width:44px;
       height:44px;
       border-radius:14px;
@@ -120,27 +202,26 @@
       flex:0 0 auto;
     }
 
-    .brandLogo img{
+    .brandLogo img {
       width:100%;
       height:100%;
       object-fit:cover;
-      display:block;
     }
 
-    .brandName{
+    .brandName {
       font-size:18px;
       margin:0;
       letter-spacing:.2px;
       font-weight:800;
     }
 
-    .brand p{
+    .brand p {
       margin:2px 0 0;
       font-size:13px;
       color:var(--muted);
     }
 
-    nav{
+    nav {
       display:flex;
       gap:10px;
       flex-wrap:wrap;
@@ -148,7 +229,7 @@
       align-items:center;
     }
 
-    .btn{
+    .btn {
       display:inline-flex;
       align-items:center;
       gap:10px;
@@ -157,74 +238,84 @@
       border-radius:999px;
       background:rgba(255,255,255,.04);
       backdrop-filter:blur(8px);
-      transition:transform .12s ease,border-color .12s ease,background .12s ease;
+      transition:
+        transform .12s ease,
+        border-color .12s ease,
+        background .12s ease;
       font-weight:800;
       font-size:13px;
       white-space:nowrap;
     }
 
-    .btn:hover{
+    .btn:hover {
       transform:translateY(-1px);
       border-color:rgba(255,255,255,.16);
       background:rgba(255,255,255,.06);
+      text-decoration:none;
     }
 
-    .btn.primary{
+    .btn.primary {
       border-color:rgba(255,176,0,.35);
       background:rgba(255,176,0,.12);
     }
 
-    .section{
+    /* SECTIONS */
+
+    .section {
       margin-top:14px;
       border:1px solid var(--line);
       border-radius:var(--radius);
-      background:linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.015));
+      background:linear-gradient(
+        180deg,
+        rgba(255,255,255,.03),
+        rgba(255,255,255,.015)
+      );
       box-shadow:0 18px 50px rgba(0,0,0,.30);
       overflow:hidden;
     }
 
-    .sectionHead{
+    .sectionHead {
       padding:18px 18px 0;
     }
 
     .sectionHead h2,
-    .sectionHead h3{
+    .sectionHead h3 {
       margin:0 0 8px;
     }
 
-    .sectionHead p{
+    .sectionHead p {
       margin:0 0 14px;
       color:var(--muted);
       font-size:14px;
       max-width:90ch;
     }
 
-    .sectionBody{
+    .sectionBody {
       padding:0 18px 18px;
     }
 
-    .heroTitle{
+    .heroTitle {
       margin:0 0 10px;
-      font-size:clamp(28px, 3.3vw, 42px);
+      font-size:clamp(28px,3.3vw,42px);
       line-height:1.12;
       font-weight:900;
       letter-spacing:.2px;
     }
 
-    .subLead{
+    .subLead {
       margin:0;
       color:var(--muted);
       font-size:15px;
       max-width:92ch;
     }
 
-    .lead{
+    .lead {
       font-size:15px;
       color:var(--text);
       margin:0;
     }
 
-    .list{
+    .list {
       margin:0;
       padding-left:20px;
       color:var(--muted);
@@ -232,9 +323,11 @@
       line-height:1.8;
     }
 
-    .list li{margin:8px 0}
+    .list li {
+      margin:8px 0;
+    }
 
-    .card{
+    .card {
       border:1px solid rgba(255,255,255,.10);
       border-radius:16px;
       background:rgba(0,0,0,.16);
@@ -242,32 +335,32 @@
       margin-top:12px;
     }
 
-    .card h4{
+    .card h4 {
       margin:0 0 8px;
       font-size:16px;
     }
 
-    .card p{
+    .card p {
       margin:0;
       color:var(--muted);
       font-size:15px;
       line-height:1.72;
     }
 
-    .twoCol{
+    .twoCol {
       display:grid;
       grid-template-columns:1fr 1fr;
       gap:14px;
     }
 
-    .ctaRow{
+    .ctaRow {
       display:flex;
       gap:10px;
       flex-wrap:wrap;
       margin-top:16px;
     }
 
-    .cta{
+    .cta {
       display:inline-flex;
       align-items:center;
       justify-content:center;
@@ -277,26 +370,30 @@
       background:rgba(255,255,255,.05);
       font-weight:900;
       font-size:13px;
-      transition:transform .12s ease, background .12s ease, border-color .12s ease;
+      transition:
+        transform .12s ease,
+        background .12s ease,
+        border-color .12s ease;
     }
 
-    .cta:hover{
+    .cta:hover {
       transform:translateY(-1px);
       background:rgba(255,255,255,.07);
       border-color:rgba(255,255,255,.18);
+      text-decoration:none;
     }
 
-    .cta.primary{
+    .cta.primary {
       border-color:rgba(255,176,0,.38);
       background:rgba(255,176,0,.12);
     }
 
-    .link{
+    .link {
       color:var(--link);
       font-weight:900;
     }
 
-    .note{
+    .note {
       margin-top:12px;
       padding:14px 16px;
       border-left:3px solid rgba(255,176,0,.75);
@@ -306,7 +403,9 @@
       font-size:14px;
     }
 
-    footer{
+    /* FOOTER */
+
+    footer {
       margin-top:14px;
       border:1px solid var(--line);
       border-radius:var(--radius);
@@ -322,191 +421,341 @@
       font-size:13px;
     }
 
-    .tiny{
+    .tiny {
       color:var(--muted);
       font-weight:800;
       font-size:13px;
       line-height:1.6;
     }
 
-    @media (max-width: 820px){
-      .twoCol{grid-template-columns:1fr}
+    @media(max-width:820px) {
+      .twoCol {
+        grid-template-columns:1fr;
+      }
     }
   </style>
 </head>
+
 <body>
   <div class="wrap">
+
+    <!-- HEADER -->
+
     <header>
-      <a class="brand" href="/" aria-label="Stellar Lift home">
-        <div class="brandLogo" aria-hidden="true">
-          <img src="/assets/images/Main%20black%20logo.jpg" alt="Stellar Lift logo">
+      <a
+        class="brand"
+        href="/"
+        aria-label="Stellar Lift home"
+      >
+        <div class="brandLogo">
+          <img
+            src="/assets/images/Main%20black%20logo.jpg"
+            alt="Stellar Lift logo"
+          />
         </div>
+
         <div>
           <div class="brandName">Stellar Lift</div>
           <p>Track. Improve. Repeat.</p>
         </div>
       </a>
 
-      <nav aria-label="Navigation">
+      <nav aria-label="Main navigation">
         <a class="btn" href="/">Home</a>
+        <a class="btn" href="/training/">Training</a>
         <a class="btn" href="/training-tracker/">Training Tracker</a>
+        <a class="btn" href="/blog/">Blog</a>
         <a class="btn" href="/about/">About</a>
         <a class="btn" href="/support/">Support</a>
-        <a class="btn" href="/terms/">Terms</a>
-        <a class="btn primary" href="/how-to-track-workouts/">Guide</a>
+        <a
+          class="btn primary"
+          href="/how-to-track-workouts/"
+          aria-current="page"
+        >
+          Guide
+        </a>
       </nav>
     </header>
 
+
+    <!-- INTRODUCTION -->
+
     <section class="section">
       <div class="sectionHead">
-        <h1 class="heroTitle">How to track workouts effectively without overcomplicating the process</h1>
+        <h1 class="heroTitle">
+          How to track workouts effectively without overcomplicating the process
+        </h1>
+
         <p class="subLead">
-          The best workout tracking system is not the one with the most data. It is the one you can actually use consistently, understand easily, and refer back to when it matters.
+          The best workout tracking system is not the one with the most data.
+          It is the one you can actually use consistently, understand easily,
+          and refer back to when it matters.
         </p>
       </div>
+
       <div class="sectionBody">
         <p class="lead">
-          A lot of people either do not track their workouts at all or make the opposite mistake and try to track everything. Both approaches usually fail for the same reason:
-          they do not create a system that is practical enough to survive real life.
+          A lot of people either do not track their workouts at all or make
+          the opposite mistake and try to track everything. Both approaches
+          usually fail for the same reason: they do not create a system
+          that is practical enough to survive real life.
         </p>
+
         <p class="lead" style="margin-top:14px;">
-          If you never track, you end up relying on memory, guessing what you did last session, and repeating the same weights and reps without any clear idea of whether you are progressing.
-          If you track too much, the process turns into admin work, and the habit dies because it feels heavier than the training itself.
+          If you never track, you end up relying on memory, guessing what
+          you did last session, and repeating the same weights and reps
+          without any clear idea of whether you are progressing.
+          If you track too much, the process turns into admin work,
+          and the habit dies because it feels heavier than the training itself.
         </p>
+
         <p class="lead" style="margin-top:14px;">
-          Good workout tracking sits in the middle. It gives you enough information to make better training decisions while staying simple enough that you keep doing it week after week.
+          Good workout tracking sits in the middle. It gives you enough
+          information to make better training decisions while staying
+          simple enough that you keep doing it week after week.
         </p>
 
         <div class="ctaRow">
-          <a class="cta primary" href="/training-tracker/">Learn about Training Tracker</a>
-          <a class="cta" href="https://play.google.com/store/apps/details?id=com.stellarlift.trainingtracker" target="_blank" rel="noopener">Open in Google Play</a>
-          <a class="cta" href="/blog/">Visit the blog</a>
+          <a class="cta primary" href="/training-tracker/">
+            Learn about Training Tracker
+          </a>
+
+          <a
+            class="cta"
+            href="https://play.google.com/store/apps/details?id=com.stellarlift.trainingtracker"
+            target="_blank"
+            rel="noopener"
+          >
+            Open in Google Play
+          </a>
+
+          <a class="cta" href="/training/">
+            Explore Training Guides
+          </a>
         </div>
       </div>
     </section>
+
+
+    <!-- WHY TRACK WORKOUTS -->
 
     <section class="section">
       <div class="sectionHead">
         <h2>Why workout tracking actually matters</h2>
-        <p>A basic training log creates clarity that motivation and memory usually do not.</p>
+
+        <p>
+          A basic training log creates clarity that motivation
+          and memory usually do not.
+        </p>
       </div>
+
       <div class="sectionBody">
         <p class="lead">
-          Training progress is rarely built on one perfect session. It usually comes from many ordinary sessions done consistently, with small improvements stacked over time.
-          That only works well if you know what you are repeating and what you are trying to improve.
+          Training progress is rarely built on one perfect session.
+          It usually comes from many ordinary sessions done consistently,
+          with small improvements stacked over time.
+          That only works well if you know what you are repeating
+          and what you are trying to improve.
         </p>
+
         <div class="twoCol" style="margin-top:14px;">
+
           <div class="card">
             <h4>Tracking reduces guesswork</h4>
+
             <p>
-              You can see what you actually did last time instead of trying to remember whether you used 60 kg or 65 kg, whether you did 8 reps or 10, or whether you already hit that exercise twice that week.
+              You can see what you actually did last time instead of
+              trying to remember whether you used 60 kg or 65 kg,
+              whether you did 8 reps or 10, or whether you already
+              hit that exercise twice that week.
             </p>
           </div>
+
           <div class="card">
             <h4>Tracking supports progression</h4>
+
             <p>
-              Once your previous session is visible, progression becomes easier to spot. You can add a rep, add a small amount of load, improve exercise quality, or repeat the same performance more intentionally.
+              Once your previous session is visible, progression becomes
+              easier to spot. You can add a rep, add a small amount of load,
+              improve exercise quality, or repeat the same performance
+              more intentionally.
             </p>
           </div>
+
           <div class="card">
             <h4>Tracking improves consistency</h4>
+
             <p>
-              A visible record gives training more structure. It is easier to keep going when your previous work is clear and your next step is obvious.
+              A visible record gives training more structure.
+              It is easier to keep going when your previous work
+              is clear and your next step is obvious.
             </p>
           </div>
+
           <div class="card">
             <h4>Tracking helps decision-making</h4>
+
             <p>
-              Over time, your log starts showing patterns. You notice what is moving forward, what is stalling, which exercises are sticking, and where changes may be needed.
+              Over time, your log starts showing patterns.
+              You notice what is moving forward, what is stalling,
+              which exercises are sticking, and where changes may be needed.
             </p>
           </div>
+
         </div>
       </div>
     </section>
 
+
+    <!-- WHAT TO TRACK -->
+
     <section class="section">
       <div class="sectionHead">
         <h2>What you should track in most workouts</h2>
-        <p>You do not need everything. You need the information that actually helps you repeat and improve the session.</p>
+
+        <p>
+          You do not need everything. You need the information
+          that actually helps you repeat and improve the session.
+        </p>
       </div>
+
       <div class="sectionBody">
         <p class="lead">
-          For most people, the useful core of workout tracking is simple. If you cover the basics well, you already have a solid training log.
+          For most people, the useful core of workout tracking is simple.
+          If you cover the basics well, you already have a solid training log.
         </p>
 
         <div class="card">
           <h4>The essentials</h4>
+
           <ul class="list">
-            <li><strong>Exercise name</strong> so you know exactly what movement you performed.</li>
-            <li><strong>Sets</strong> so total work is clear.</li>
-            <li><strong>Reps</strong> so performance is measurable.</li>
-            <li><strong>Load or resistance used</strong> so progression has context.</li>
-            <li><strong>A short note when needed</strong> if something important affected the session.</li>
+            <li>
+              <strong>Exercise name</strong>
+              so you know exactly what movement you performed.
+            </li>
+
+            <li>
+              <strong>Sets</strong>
+              so total work is clear.
+            </li>
+
+            <li>
+              <strong>Reps</strong>
+              so performance is measurable.
+            </li>
+
+            <li>
+              <strong>Load or resistance used</strong>
+              so progression has context.
+            </li>
+
+            <li>
+              <strong>A short note when needed</strong>
+              if something important affected the session.
+            </li>
           </ul>
         </div>
 
         <div class="card">
           <h4>Useful optional extras</h4>
+
           <p>
-            Rest times, rate of effort, tempo, exercise substitutions, bodyweight, or a short note about how the session felt can all be useful, but only if they stay practical.
-            If you never review that information, it probably does not deserve a permanent place in your main logging flow.
+            Rest times, rate of effort, tempo, exercise substitutions,
+            bodyweight, or a short note about how the session felt
+            can all be useful, but only if they stay practical.
+            If you never review that information, it probably
+            does not deserve a permanent place in your main logging flow.
           </p>
         </div>
 
         <div class="note">
-          More data is not automatically better. Better data is the data you actually use.
+          More data is not automatically better.
+          Better data is the data you actually use.
         </div>
       </div>
     </section>
 
+
+    <!-- COMMON MISTAKES -->
+
     <section class="section">
       <div class="sectionHead">
         <h2>What people often get wrong when tracking workouts</h2>
-        <p>The most common mistakes usually have nothing to do with effort. They come from making the system too heavy.</p>
+
+        <p>
+          The most common mistakes usually have nothing to do with effort.
+          They come from making the system too heavy.
+        </p>
       </div>
+
       <div class="sectionBody">
+
         <div class="card">
           <h4>Mistake 1: trying to track everything from day one</h4>
+
           <p>
-            This is where a lot of people kill the habit. They create a system with too many fields, too many metrics, and too many decisions. It looks organised for a week, then becomes annoying and gets abandoned.
+            This is where a lot of people kill the habit.
+            They create a system with too many fields, too many metrics,
+            and too many decisions. It looks organised for a week,
+            then becomes annoying and gets abandoned.
           </p>
         </div>
 
         <div class="card">
           <h4>Mistake 2: relying only on memory</h4>
+
           <p>
-            Memory is terrible for details. You may remember the session generally, but not the exact numbers that actually matter for progression.
+            Memory is terrible for details.
+            You may remember the session generally, but not the exact
+            numbers that actually matter for progression.
           </p>
         </div>
 
         <div class="card">
           <h4>Mistake 3: logging without reviewing</h4>
+
           <p>
-            Tracking only helps if it informs the next session. A log is not just a diary. It is a reference point for better decisions.
+            Tracking only helps if it informs the next session.
+            A log is not just a diary.
+            It is a reference point for better decisions.
           </p>
         </div>
 
         <div class="card">
           <h4>Mistake 4: confusing more data with better training</h4>
+
           <p>
-            You do not become more advanced just because you collect more metrics. If the system creates friction and adds no useful decisions, it is not helping.
+            You do not become more advanced just because you collect
+            more metrics. If the system creates friction and adds
+            no useful decisions, it is not helping.
           </p>
         </div>
 
         <div class="card">
           <h4>Mistake 5: waiting for a perfect system</h4>
+
           <p>
-            A simple imperfect system used consistently is much better than an ideal system that never gets started.
+            A simple imperfect system used consistently is much better
+            than an ideal system that never gets started.
           </p>
         </div>
+
       </div>
     </section>
+
+
+    <!-- BEGINNER METHOD -->
 
     <section class="section">
       <div class="sectionHead">
         <h2>A simple method that works for most beginners</h2>
-        <p>The easiest way to start is to make the process repeatable and light enough that it survives real training.</p>
+
+        <p>
+          The easiest way to start is to make the process repeatable
+          and light enough that it survives real training.
+        </p>
       </div>
+
       <div class="sectionBody">
         <ul class="list">
           <li>Log the exercise name.</li>
@@ -518,122 +767,253 @@
         </ul>
 
         <p class="lead" style="margin-top:14px;">
-          That is enough for a surprisingly large number of people. It gives you structure, historical reference, and a clear path to progression without creating a second job after every workout.
+          That is enough for a surprisingly large number of people.
+          It gives you structure, historical reference, and a clear
+          path to progression without creating a second job after every workout.
         </p>
       </div>
     </section>
 
+
+    <!-- USE YOUR LOG -->
+
     <section class="section">
       <div class="sectionHead">
         <h2>How to use your log to progress, not just record</h2>
-        <p>Tracking becomes powerful when it shapes what you do next.</p>
+
+        <p>
+          Tracking becomes powerful when it shapes what you do next.
+        </p>
       </div>
+
       <div class="sectionBody">
         <p class="lead">
-          The point of a workout log is not just to prove that you trained. It is to make the next session smarter.
+          The point of a workout log is not just to prove that you trained.
+          It is to make the next session smarter.
         </p>
 
         <div class="card">
           <h4>Look for small wins</h4>
+
           <p>
-            Progress does not always mean adding a lot of weight. Sometimes it means adding one rep, tightening exercise execution, using the same weight with better control, or repeating the same performance with less struggle.
+            Progress does not always mean adding a lot of weight.
+            Sometimes it means adding one rep, tightening exercise
+            execution, using the same weight with better control,
+            or repeating the same performance with less struggle.
           </p>
         </div>
 
         <div class="card">
           <h4>Spot stalls early</h4>
+
           <p>
-            If the same exercise keeps stalling for weeks, your log makes that visible. That may suggest the need for a programming change, an exercise swap, better recovery, or more patience.
+            If the same exercise keeps stalling for weeks,
+            your log makes that visible. That may suggest the need
+            for a programming change, an exercise swap,
+            better recovery, or more patience.
           </p>
         </div>
 
         <div class="card">
           <h4>See patterns, not just sessions</h4>
+
           <p>
-            The longer you track, the more useful the log becomes. You start seeing repeated good weeks, poor weeks, exercise trends, and where your effort is actually going.
+            The longer you track, the more useful the log becomes.
+            You start seeing repeated good weeks, poor weeks,
+            exercise trends, and where your effort is actually going.
           </p>
         </div>
       </div>
     </section>
 
+
+    <!-- LEVEL OF DETAIL -->
+
     <section class="section">
       <div class="sectionHead">
         <h2>How detailed should workout tracking be?</h2>
-        <p>The right level of detail is the minimum amount that still helps you train better.</p>
+
+        <p>
+          The right level of detail is the minimum amount
+          that still helps you train better.
+        </p>
       </div>
+
       <div class="sectionBody">
         <p class="lead">
-          If you are a beginner or intermediate lifter, you probably do not need a hyper-detailed system. What you need is a system you can keep using consistently.
+          If you are a beginner or intermediate lifter,
+          you probably do not need a hyper-detailed system.
+          What you need is a system you can keep using consistently.
         </p>
+
         <p class="lead" style="margin-top:14px;">
-          More detail only makes sense when it leads to better decisions. If it only slows you down, it is probably the wrong level of detail for your current needs.
+          More detail only makes sense when it leads to better decisions.
+          If it only slows you down, it is probably the wrong
+          level of detail for your current needs.
         </p>
+
         <div class="note">
           Good workout tracking should feel supportive, not exhausting.
         </div>
       </div>
     </section>
 
+
+    <!-- LONG-TERM CONSISTENCY -->
+
     <section class="section">
       <div class="sectionHead">
         <h2>A practical rule for long-term consistency</h2>
-        <p>If the system feels too heavy to maintain for months, it is too heavy.</p>
+
+        <p>
+          If the system feels too heavy to maintain for months,
+          it is too heavy.
+        </p>
       </div>
+
       <div class="sectionBody">
         <p class="lead">
-          This is the rule most people should follow. Your tracking system needs to work on ordinary days, busy days, low-motivation days, and imperfect weeks.
-          If it only works when you are highly motivated and have lots of time, it is not a strong system.
+          This is the rule most people should follow.
+          Your tracking system needs to work on ordinary days,
+          busy days, low-motivation days, and imperfect weeks.
+          If it only works when you are highly motivated and have
+          lots of time, it is not a strong system.
         </p>
+
         <p class="lead" style="margin-top:14px;">
-          Simplicity is not laziness here. Simplicity is what makes consistency realistic.
+          Simplicity is not laziness here.
+          Simplicity is what makes consistency realistic.
         </p>
       </div>
     </section>
+
+
+    <!-- TRAINING TRACKER CONNECTION -->
 
     <section class="section">
       <div class="sectionHead">
         <h2>Where Training Tracker fits in</h2>
-        <p>This guide reflects the same idea behind the app: faster logging, less clutter, more consistency.</p>
+
+        <p>
+          This guide reflects the same idea behind the app:
+          faster logging, less clutter, more consistency.
+        </p>
       </div>
+
       <div class="sectionBody">
         <p class="lead">
-          Training Tracker is built around the same practical approach described on this page. The app is meant to make workout logging easier, not heavier.
-          It is designed for users who want a cleaner record of their sessions without getting trapped in bloated workflows or unnecessary setup.
+          Training Tracker is built around the same practical approach
+          described on this page. The app is meant to make workout
+          logging easier, not heavier. It is designed for users
+          who want a cleaner record of their sessions without
+          getting trapped in bloated workflows or unnecessary setup.
         </p>
 
         <div class="ctaRow">
-          <a class="cta primary" href="/training-tracker/">Learn about Training Tracker</a>
-          <a class="cta" href="https://play.google.com/store/apps/details?id=com.stellarlift.trainingtracker" target="_blank" rel="noopener">Open in Google Play</a>
+          <a class="cta primary" href="/training-tracker/">
+            Learn about Training Tracker
+          </a>
+
+          <a
+            class="cta"
+            href="https://play.google.com/store/apps/details?id=com.stellarlift.trainingtracker"
+            target="_blank"
+            rel="noopener"
+          >
+            Open in Google Play
+          </a>
+
+          <a class="cta" href="/training/">
+            Explore Training Guides
+          </a>
         </div>
       </div>
     </section>
 
+
+    <!-- RELATED READING -->
+
     <section class="section">
       <div class="sectionHead">
         <h2>Related reading</h2>
-        <p>More pages connected to training and the wider Stellar Lift ecosystem.</p>
+
+        <p>
+          Continue with practical training guides,
+          recovery advice, and more about Stellar Lift.
+        </p>
       </div>
+
       <div class="sectionBody">
         <ul class="list">
-          <li><a class="link" href="/training-tracker/">Training Tracker</a></li>
-          <li><a class="link" href="/training/">Training hub</a></li>
-          <li><a class="link" href="/recovery/">Recovery hub</a></li>
-          <li><a class="link" href="/blog/">Browse the blog</a></li>
-          <li><a class="link" href="/how-the-stellar-lift-ecosystem-works/">How the Stellar Lift Ecosystem Works</a></li>
+
+          <li>
+            <a class="link" href="/training-tracker/">
+              Training Tracker
+            </a>
+          </li>
+
+          <li>
+            <a class="link" href="/training/">
+              Training Guides
+            </a>
+          </li>
+
+          <li>
+            <a class="link" href="/recovery/">
+              Recovery for Training
+            </a>
+          </li>
+
+          <li>
+            <a class="link" href="/blog/">
+              Browse the Blog
+            </a>
+          </li>
+
+          <li>
+            <a class="link" href="/about/">
+              About Stellar Lift
+            </a>
+          </li>
+
         </ul>
       </div>
     </section>
 
+
+    <!-- FOOTER -->
+
     <footer>
-      <div>© <span id="y"></span> Stellar Lift — stellarliftapp.com</div>
+      <div>
+        © <span id="y"></span> Stellar Lift — stellarliftapp.com
+      </div>
+
       <div class="tiny">
+        <a class="link" href="/training/">Training</a>
+        ·
+        <a class="link" href="/training-tracker/">Training Tracker</a>
+        ·
         <a class="link" href="/blog/">Blog</a>
-        · <a class="link" href="/about/">About</a>
-        · <a class="link" href="/support/">Support</a>
-        · <a class="link" href="/terms/">Terms</a>
-        · <a class="link" href="#" data-privacy-settings-link hidden aria-hidden="true" onclick="return openPrivacySettings(event);">Privacy and cookie settings</a>
+        ·
+        <a class="link" href="/about/">About</a>
+        ·
+        <a class="link" href="/support/">Support</a>
+        ·
+        <a class="link" href="/terms/">Terms</a>
+        ·
+        <a
+          class="link"
+          href="#"
+          data-privacy-settings-link
+          hidden
+          aria-hidden="true"
+          onclick="return openPrivacySettings(event);"
+        >
+          Privacy and cookie settings
+        </a>
       </div>
     </footer>
+
   </div>
 
   <script>
