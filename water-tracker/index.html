@@ -3,510 +3,1387 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Water Tracker — Drink Reminder | Simple Hydration App by Stellar Lift</title>
-  <meta name="description" content="Water Tracker — Drink Reminder by Stellar Lift is a simple hydration app built for quick logging, reminder support, daily goals, and better consistency." />
+
+  <title>Water Tracker | Simple Hydration Logging & Reminders by Stellar Lift</title>
+
+  <meta
+    name="description"
+    content="Water Tracker by Stellar Lift is a simple hydration app for quick water logging, practical reminders, daily goals, and consistent hydration habits."
+  />
+
   <meta name="robots" content="index,follow" />
-  <meta name="referrer" content="strict-origin-when-cross-origin" />
-  <meta http-equiv="Referrer-Policy" content="strict-origin-when-cross-origin" />
-  <link rel="canonical" href="https://stellarliftapp.com/water-tracker/" />
 
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="Water Tracker — Drink Reminder | Stellar Lift" />
-  <meta property="og:description" content="A simple hydration app built for quick logging, reminder support, daily goals, and better consistency." />
-  <meta property="og:url" content="https://stellarliftapp.com/water-tracker/" />
+  <meta
+    name="referrer"
+    content="strict-origin-when-cross-origin"
+  />
 
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Water Tracker — Drink Reminder | Stellar Lift" />
-  <meta name="twitter:description" content="A simple hydration app built for quick logging, reminder support, daily goals, and better consistency." />
+  <meta
+    http-equiv="Referrer-Policy"
+    content="strict-origin-when-cross-origin"
+  />
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link
+    rel="canonical"
+    href="https://stellarliftapp.com/water-tracker/"
+  />
+
+  <meta
+    property="og:type"
+    content="website"
+  />
+
+  <meta
+    property="og:title"
+    content="Water Tracker | Stellar Lift"
+  />
+
+  <meta
+    property="og:description"
+    content="A simple hydration app for quick logging, reminders, daily goals, and consistent water intake."
+  />
+
+  <meta
+    property="og:url"
+    content="https://stellarliftapp.com/water-tracker/"
+  />
+
+  <meta
+    name="twitter:card"
+    content="summary_large_image"
+  />
+
+  <meta
+    name="twitter:title"
+    content="Water Tracker | Stellar Lift"
+  />
+
+  <meta
+    name="twitter:description"
+    content="Simple hydration logging, reminders, and daily water goals."
+  />
+
+  <link
+    rel="preconnect"
+    href="https://fonts.googleapis.com"
+  />
+
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin
+  />
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;600;700;800;900&display=swap"
+    rel="stylesheet"
+  />
+
 
   <script>
-    window.googlefc = window.googlefc || {};
-    window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
+    window.googlefc =
+      window.googlefc || {};
 
-    window.openPrivacySettings = function(event) {
-      if (event) event.preventDefault();
+    window.googlefc.callbackQueue =
+      window.googlefc.callbackQueue || [];
 
-      if (
-        window.googlefc &&
-        typeof window.googlefc.showRevocationMessage === 'function'
-      ) {
-        window.googlefc.showRevocationMessage();
-      }
+    window.openPrivacySettings =
+      function(event) {
 
-      return false;
-    };
+        if (event) {
+          event.preventDefault();
+        }
+
+        if (
+          window.googlefc &&
+          typeof window.googlefc.showRevocationMessage === "function"
+        ) {
+          window.googlefc.showRevocationMessage();
+        }
+
+        return false;
+      };
 
     window.googlefc.callbackQueue.push({
       CONSENT_API_READY: function () {
-        document.querySelectorAll('[data-privacy-settings-link]').forEach(function (link) {
-          link.hidden = false;
-          link.setAttribute('aria-hidden', 'false');
-        });
+
+        document
+          .querySelectorAll(
+            "[data-privacy-settings-link]"
+          )
+          .forEach(function (link) {
+
+            link.hidden = false;
+
+            link.setAttribute(
+              "aria-hidden",
+              "false"
+            );
+
+          });
       }
     });
   </script>
 
+
   <style>
-    :root{
+
+    :root {
       --bg:#0b0f14;
       --text:#e7eef7;
       --muted:#9ab0c7;
+
       --line:rgba(255,255,255,.08);
       --line-strong:rgba(255,255,255,.14);
+
       --accent:#ffb000;
-      --shadow:0 20px 60px rgba(0,0,0,.45);
+
+      --shadow:
+        0 20px 60px rgba(0,0,0,.45);
+
       --radius:18px;
       --link:#7db4ff;
       --max:1040px;
     }
 
-    *{box-sizing:border-box}
-    html,body{height:100%}
-    html{background:var(--bg)}
 
-    body{
+    * {
+      box-sizing:border-box;
+    }
+
+
+    html,
+    body {
+      height:100%;
+    }
+
+
+    html {
+      background:var(--bg);
+    }
+
+
+    body {
       margin:0;
-      font-family:"Exo 2", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+
+      font-family:
+        "Exo 2",
+        system-ui,
+        -apple-system,
+        "Segoe UI",
+        Roboto,
+        Arial,
+        sans-serif;
+
       color:var(--text);
+
       line-height:1.6;
+
       background:transparent;
+
       position:relative;
     }
 
-    body::before{
+
+    body::before {
       content:"";
+
       position:fixed;
       inset:0;
+
       pointer-events:none;
+
       z-index:-1;
+
       background:
-        radial-gradient(1100px 700px at 18% -10%, rgba(255,176,0,.22), transparent 62%),
-        linear-gradient(180deg, #07101a 0%, #0b0f14 100%);
+        radial-gradient(
+          1100px 700px
+          at 18% -10%,
+          rgba(255,176,0,.22),
+          transparent 62%
+        ),
+        linear-gradient(
+          180deg,
+          #07101a 0%,
+          #0b0f14 100%
+        );
     }
 
-    a{color:inherit;text-decoration:none}
-    a:hover{text-decoration:underline}
-    img{max-width:100%;height:auto;display:block}
 
-    .wrap{max-width:var(--max);margin:0 auto;padding:24px 18px 54px}
-
-    header{
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap:16px;
-      margin-bottom:16px;
-      flex-wrap:wrap;
+    a {
+      color:inherit;
+      text-decoration:none;
     }
 
-    .brand{
-      display:flex;
-      align-items:center;
-      gap:12px;
-      min-width:240px;
+
+    a:hover {
+      text-decoration:underline;
     }
 
-    .brandLogo{
-      width:44px;
-      height:44px;
-      border-radius:14px;
-      border:1px solid rgba(255,255,255,.14);
-      background:rgba(255,255,255,.04);
-      overflow:hidden;
-      box-shadow:0 10px 30px rgba(0,0,0,.35);
-      flex:0 0 auto;
-    }
 
-    .brandLogo img{
-      width:100%;
-      height:100%;
-      object-fit:cover;
+    img {
+      max-width:100%;
+      height:auto;
+
       display:block;
     }
 
-    .brandName{
+
+    .wrap {
+      max-width:var(--max);
+
+      margin:0 auto;
+
+      padding:
+        24px 18px 54px;
+    }
+
+
+
+    /* HEADER */
+
+
+    header {
+      display:flex;
+
+      align-items:center;
+      justify-content:space-between;
+
+      gap:16px;
+
+      margin-bottom:16px;
+
+      flex-wrap:wrap;
+    }
+
+
+    .brand {
+      display:flex;
+
+      align-items:center;
+
+      gap:12px;
+
+      min-width:240px;
+    }
+
+
+    .brandLogo {
+      width:44px;
+      height:44px;
+
+      border-radius:14px;
+
+      border:
+        1px solid rgba(255,255,255,.14);
+
+      background:
+        rgba(255,255,255,.04);
+
+      overflow:hidden;
+
+      box-shadow:
+        0 10px 30px rgba(0,0,0,.35);
+
+      flex:0 0 auto;
+    }
+
+
+    .brandLogo img {
+      width:100%;
+      height:100%;
+
+      object-fit:cover;
+
+      display:block;
+    }
+
+
+    .brandName {
       font-size:18px;
+
       margin:0;
+
       letter-spacing:.2px;
+
       font-weight:800;
     }
 
-    .brand p{
-      margin:2px 0 0;
+
+    .brand p {
+      margin:
+        2px 0 0;
+
       font-size:13px;
+
       color:var(--muted);
     }
 
-    nav{
+
+    nav {
       display:flex;
+
       gap:10px;
+
       flex-wrap:wrap;
+
       justify-content:flex-end;
       align-items:center;
     }
 
-    .btn{
+
+    .btn {
       display:inline-flex;
+
       align-items:center;
+
       gap:10px;
-      padding:10px 14px;
-      border:1px solid var(--line);
+
+      padding:
+        10px 14px;
+
+      border:
+        1px solid var(--line);
+
       border-radius:999px;
-      background:rgba(255,255,255,.04);
-      backdrop-filter:blur(8px);
-      transition:transform .12s ease,border-color .12s ease,background .12s ease;
+
+      background:
+        rgba(255,255,255,.04);
+
+      backdrop-filter:
+        blur(8px);
+
+      transition:
+        transform .12s ease,
+        border-color .12s ease,
+        background .12s ease;
+
       font-weight:800;
+
       font-size:13px;
+
       white-space:nowrap;
     }
 
-    .btn:hover{
-      transform:translateY(-1px);
-      border-color:rgba(255,255,255,.16);
-      background:rgba(255,255,255,.06);
+
+    .btn:hover {
+      transform:
+        translateY(-1px);
+
+      border-color:
+        rgba(255,255,255,.16);
+
+      background:
+        rgba(255,255,255,.06);
+
+      text-decoration:none;
     }
 
-    .btn.primary{
-      border-color:rgba(255,176,0,.35);
-      background:rgba(255,176,0,.12);
+
+    .btn.primary {
+      border-color:
+        rgba(255,176,0,.35);
+
+      background:
+        rgba(255,176,0,.12);
     }
 
-    .section{
+
+
+    /* SECTIONS */
+
+
+    .section {
       margin-top:14px;
-      border:1px solid var(--line);
-      border-radius:var(--radius);
-      background:linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.015));
-      box-shadow:0 18px 50px rgba(0,0,0,.30);
+
+      border:
+        1px solid var(--line);
+
+      border-radius:
+        var(--radius);
+
+      background:
+        linear-gradient(
+          180deg,
+          rgba(255,255,255,.03),
+          rgba(255,255,255,.015)
+        );
+
+      box-shadow:
+        0 18px 50px rgba(0,0,0,.30);
+
       overflow:hidden;
     }
 
-    .sectionHead{
-      padding:18px 18px 0;
+
+    .sectionHead {
+      padding:
+        18px 18px 0;
     }
+
 
     .sectionHead h2,
-    .sectionHead h3{
-      margin:0 0 8px;
+    .sectionHead h3 {
+      margin:
+        0 0 8px;
     }
 
-    .sectionHead p{
-      margin:0 0 14px;
+
+    .sectionHead p {
+      margin:
+        0 0 14px;
+
       color:var(--muted);
+
       font-size:14px;
+
       max-width:92ch;
     }
 
-    .sectionBody{
-      padding:0 18px 18px;
+
+    .sectionBody {
+      padding:
+        0 18px 18px;
     }
 
-    .lead{
+
+    .lead {
       font-size:15px;
+
       color:var(--text);
+
       margin:0;
     }
 
-    .heroTitle{
-      margin:0 0 10px;
-      font-size:clamp(26px, 3.2vw, 40px);
+
+    .heroTitle {
+      margin:
+        0 0 10px;
+
+      font-size:
+        clamp(
+          26px,
+          3.2vw,
+          40px
+        );
+
       line-height:1.12;
+
       font-weight:900;
+
       letter-spacing:.2px;
     }
 
-    .subLead{
+
+    .eyebrow {
+      margin-bottom:8px;
+
+      color:var(--accent);
+
+      font-size:11px;
+
+      font-weight:900;
+
+      letter-spacing:.14em;
+
+      text-transform:uppercase;
+    }
+
+
+    .subLead {
       margin:0;
+
       color:var(--muted);
+
       font-size:15px;
+
       max-width:92ch;
     }
 
-    .grid{
+
+    .grid {
       display:grid;
-      grid-template-columns:1fr 1fr;
+
+      grid-template-columns:
+        1fr 1fr;
+
       gap:14px;
     }
 
-    .three{
+
+    .three {
       display:grid;
-      grid-template-columns:repeat(3,1fr);
+
+      grid-template-columns:
+        repeat(
+          3,
+          1fr
+        );
+
       gap:14px;
     }
 
-    .card{
-      border:1px solid rgba(255,255,255,.10);
+
+    .card {
+      border:
+        1px solid rgba(255,255,255,.10);
+
       border-radius:16px;
-      background:rgba(0,0,0,.16);
+
+      background:
+        rgba(0,0,0,.16);
+
       padding:16px;
     }
 
-    .card h4{
-      margin:0 0 8px;
+
+    .card h4 {
+      margin:
+        0 0 8px;
+
       font-size:15px;
     }
 
-    .card p{
+
+    .card p {
       margin:0;
+
       color:var(--muted);
+
       font-size:14px;
+
       line-height:1.6;
     }
 
-    .list{
+
+    .list {
       margin:0;
+
       padding-left:18px;
+
       color:var(--muted);
+
       font-size:14px;
+
       line-height:1.7;
     }
 
-    .list li{margin:8px 0}
 
-    .ctaRow{
+    .list li {
+      margin:
+        8px 0;
+    }
+
+
+    .ctaRow {
       display:flex;
+
       gap:10px;
+
       flex-wrap:wrap;
+
       margin-top:16px;
     }
 
-    .cta{
+
+    .cta {
       display:inline-flex;
+
       align-items:center;
       justify-content:center;
-      padding:10px 14px;
+
+      padding:
+        10px 14px;
+
       border-radius:12px;
-      border:1px solid rgba(255,255,255,.14);
-      background:rgba(255,255,255,.05);
+
+      border:
+        1px solid rgba(255,255,255,.14);
+
+      background:
+        rgba(255,255,255,.05);
+
       font-weight:900;
+
       font-size:13px;
-      transition:transform .12s ease, background .12s ease, border-color .12s ease;
+
+      transition:
+        transform .12s ease,
+        background .12s ease,
+        border-color .12s ease;
     }
 
-    .cta:hover{
-      transform:translateY(-1px);
-      background:rgba(255,255,255,.07);
-      border-color:rgba(255,255,255,.18);
+
+    .cta:hover {
+      transform:
+        translateY(-1px);
+
+      background:
+        rgba(255,255,255,.07);
+
+      border-color:
+        rgba(255,255,255,.18);
+
+      text-decoration:none;
     }
 
-    .cta.primary{
-      border-color:rgba(255,176,0,.38);
-      background:rgba(255,176,0,.12);
+
+    .cta.primary {
+      border-color:
+        rgba(255,176,0,.38);
+
+      background:
+        rgba(255,176,0,.12);
     }
 
-    .link{
+
+    .link {
       color:var(--link);
+
       font-weight:900;
     }
 
-    footer{
+
+
+    /* FOOTER */
+
+
+    footer {
       margin-top:14px;
-      border:1px solid var(--line);
-      border-radius:var(--radius);
-      background:rgba(255,255,255,.02);
-      box-shadow:0 18px 50px rgba(0,0,0,.25);
-      padding:14px 16px;
+
+      border:
+        1px solid var(--line);
+
+      border-radius:
+        var(--radius);
+
+      background:
+        rgba(255,255,255,.02);
+
+      box-shadow:
+        0 18px 50px rgba(0,0,0,.25);
+
+      padding:
+        14px 16px;
+
       display:flex;
+
       justify-content:space-between;
+
       gap:12px;
+
       flex-wrap:wrap;
-      color:rgba(231,238,247,.86);
+
+      color:
+        rgba(231,238,247,.86);
+
       font-weight:800;
+
       font-size:13px;
     }
 
-    .tiny{
+
+    .tiny {
       color:var(--muted);
+
       font-weight:800;
+
       font-size:13px;
+
       line-height:1.6;
     }
 
-    @media (max-width: 900px){
-      .grid{grid-template-columns:1fr}
-      .three{grid-template-columns:1fr}
+
+
+    @media(max-width:900px) {
+
+      .grid {
+        grid-template-columns:1fr;
+      }
+
+
+      .three {
+        grid-template-columns:1fr;
+      }
+
     }
+
+
   </style>
 </head>
+
+
 <body>
+
   <div class="wrap">
+
+
     <header>
-      <a class="brand" href="/" aria-label="Stellar Lift home">
-        <div class="brandLogo" aria-hidden="true">
-          <img src="/assets/images/Main%20black%20logo.jpg" alt="Stellar Lift logo">
+
+      <a
+        class="brand"
+        href="/"
+        aria-label="Stellar Lift home"
+      >
+
+        <div
+          class="brandLogo"
+          aria-hidden="true"
+        >
+
+          <img
+            src="/assets/images/Main%20black%20logo.jpg"
+            alt="Stellar Lift logo"
+          />
+
         </div>
+
+
         <div>
-          <div class="brandName">Stellar Lift</div>
-          <p>Track. Improve. Repeat.</p>
+
+          <div class="brandName">
+            Stellar Lift
+          </div>
+
+          <p>
+            Track. Improve. Repeat.
+          </p>
+
         </div>
+
       </a>
 
+
       <nav aria-label="Navigation">
-        <a class="btn" href="/">Home</a>
-        <a class="btn" href="/blog/">Blog</a>
-        <a class="btn" href="/about/">About</a>
-        <a class="btn" href="/support/">Support</a>
-        <a class="btn" href="/why-hydration-tracking-matters/">Hydration guide</a>
-        <a class="btn primary" href="/water-tracker/">Water Tracker</a>
+
+        <a
+          class="btn"
+          href="/"
+        >
+          Home
+        </a>
+
+        <a
+          class="btn primary"
+          href="/training/"
+        >
+          Training
+        </a>
+
+        <a
+          class="btn"
+          href="/hydration/"
+        >
+          Hydration
+        </a>
+
+        <a
+          class="btn"
+          href="/blog/"
+        >
+          Blog
+        </a>
+
+        <a
+          class="btn"
+          href="/training-tracker/"
+        >
+          Training Tracker
+        </a>
+
+        <a
+          class="btn"
+          href="/about/"
+        >
+          About
+        </a>
+
+        <a
+          class="btn"
+          href="/support/"
+        >
+          Support
+        </a>
+
       </nav>
+
     </header>
 
+
+
+    <!-- HERO -->
+
+
     <section class="section">
+
       <div class="sectionHead">
-        <h1 class="heroTitle">Water Tracker — Drink Reminder: simple hydration tracking for daily consistency</h1>
+
+        <div class="eyebrow">
+          Optional Hydration Tool
+        </div>
+
+        <h1 class="heroTitle">
+          Water Tracker — Drink Reminder
+        </h1>
+
         <p class="subLead">
-          Water Tracker — Drink Reminder is a hydration app designed for people who want quick logging, practical reminders, visible daily goals, and a cleaner way to stay consistent with water intake.
+          A simple hydration app for people who want quick water logging,
+          practical reminders, visible daily goals, and an easier way to
+          stay aware of their intake.
         </p>
+
       </div>
+
+
       <div class="sectionBody">
+
         <p class="lead">
-          Many hydration apps either feel too basic to be useful or too cluttered to use comfortably every day. Water Tracker is built around a simpler middle ground:
-          make logging fast, keep reminders practical, and make the daily routine easier to repeat.
+          Water Tracker is designed to keep hydration tracking simple.
+          Log drinks quickly, use reminders when they help, and keep
+          your daily water intake visible without turning hydration
+          into another complicated task.
         </p>
-        <p class="lead" style="margin-top:14px;">
-          The point is not to turn hydration into a complicated task. The point is to make it visible, easy, and consistent enough that users can actually stick with it over time.
+
+
+        <p
+          class="lead"
+          style="margin-top:14px;"
+        >
+          Stellar Lift is primarily focused on training.
+          Water Tracker remains available as an optional tool for people
+          who find hydration tracking useful alongside their training
+          or everyday routine.
         </p>
+
+
         <div class="ctaRow">
-          <a class="cta primary" href="https://play.google.com/store/apps/details?id=com.stellarlift.watertracker" target="_blank" rel="noopener">Open in Google Play</a>
-          <a class="cta" href="/why-hydration-tracking-matters/">Read the hydration guide</a>
-          <a class="cta" href="/blog/">Visit the blog</a>
+
+          <a
+            class="cta primary"
+            href="https://play.google.com/store/apps/details?id=com.stellarlift.watertracker"
+            target="_blank"
+            rel="noopener"
+          >
+            Open in Google Play
+          </a>
+
+          <a
+            class="cta"
+            href="/hydration/"
+          >
+            Hydration for Training
+          </a>
+
+          <a
+            class="cta"
+            href="/training/"
+          >
+            Explore Training
+          </a>
+
         </div>
+
       </div>
+
     </section>
 
+
+
+    <!-- PURPOSE -->
+
+
     <section class="section">
+
       <div class="sectionHead">
-        <h2>What Water Tracker is for</h2>
-        <p>Built for users who want a clearer and more practical way to stay on top of hydration.</p>
+
+        <h2>
+          What Water Tracker is for
+        </h2>
+
+        <p>
+          A lightweight way to keep water intake visible without
+          making a simple habit harder than it needs to be.
+        </p>
+
       </div>
+
+
       <div class="sectionBody">
+
         <ul class="list">
-          <li>Logging water intake quickly during the day.</li>
-          <li>Using reminders to support more consistent hydration habits.</li>
-          <li>Keeping daily intake goals visible and easier to follow.</li>
-          <li>Reducing friction around a simple daily health habit.</li>
-          <li>Making hydration tracking light enough to use long term.</li>
+
+          <li>
+            Logging water intake quickly during the day.
+          </li>
+
+          <li>
+            Using reminders when you tend to forget to drink.
+          </li>
+
+          <li>
+            Keeping a daily water goal visible.
+          </li>
+
+          <li>
+            Building a more consistent hydration routine.
+          </li>
+
+          <li>
+            Tracking intake without a feature-heavy wellness platform.
+          </li>
+
         </ul>
+
       </div>
+
     </section>
 
+
+
+    <!-- WHY SIMPLE -->
+
+
     <section class="section">
+
       <div class="sectionHead">
-        <h2>Why the app is different</h2>
-        <p>The focus is usability and consistency instead of unnecessary complexity.</p>
+
+        <h2>
+          Why Water Tracker stays simple
+        </h2>
+
+        <p>
+          Hydration tracking should be quick enough that you can actually
+          keep doing it.
+        </p>
+
       </div>
+
+
       <div class="sectionBody">
+
         <div class="grid">
+
+
           <div class="card">
-            <h4>Quick logging</h4>
+
+            <h4>
+              Quick logging
+            </h4>
+
             <p>
-              The app is built to keep hydration logging fast enough that it fits naturally into the day.
+              The app is designed to keep recording drinks fast enough
+              to fit naturally into your day.
             </p>
+
           </div>
+
+
           <div class="card">
-            <h4>Reminder-based consistency</h4>
+
+            <h4>
+              Practical reminders
+            </h4>
+
             <p>
-              Reminders are there to support habit-building without turning the app into a noisy or overwhelming system.
+              Reminders can help when you genuinely forget to drink,
+              without making hydration feel like a constant task.
             </p>
+
           </div>
+
+
           <div class="card">
-            <h4>Cleaner daily routine</h4>
+
+            <h4>
+              Visible daily goals
+            </h4>
+
             <p>
-              Water intake stays visible and trackable without forcing users through a complicated workflow.
+              Keeping your intake and target visible makes it easier
+              to understand where you are during the day.
             </p>
+
           </div>
+
+
           <div class="card">
-            <h4>Part of the Stellar Lift ecosystem</h4>
+
+            <h4>
+              Less clutter
+            </h4>
+
             <p>
-              The app sits inside a wider ecosystem of focused tools and practical content around hydration, training, and recovery.
+              Water Tracker focuses on hydration rather than trying
+              to become a full health or fitness platform.
             </p>
+
           </div>
+
+
         </div>
+
       </div>
+
     </section>
 
+
+
+    <!-- WHO IT IS FOR -->
+
+
     <section class="section">
+
       <div class="sectionHead">
-        <h2>Who Water Tracker is for</h2>
-        <p>A practical choice for users who want hydration tracking without clutter.</p>
+
+        <h2>
+          Who Water Tracker is for
+        </h2>
+
+        <p>
+          A practical option for people who prefer a focused hydration tool.
+        </p>
+
       </div>
+
+
       <div class="sectionBody">
+
         <div class="three">
+
+
           <div class="card">
-            <h4>People improving daily water intake</h4>
+
+            <h4>
+              People who forget to drink
+            </h4>
+
             <p>
-              Useful for users who want a clearer way to stay aware of how much they are drinking during the day.
+              Useful if your main problem is simply remembering
+              to drink regularly during a busy day.
             </p>
+
           </div>
+
+
           <div class="card">
-            <h4>Users who benefit from reminders</h4>
+
+            <h4>
+              People who like visible goals
+            </h4>
+
             <p>
-              A good fit for people who know they forget to drink regularly and want light reminder support.
+              A simple daily target can make water intake easier
+              to monitor without obsessing over it.
             </p>
+
           </div>
+
+
           <div class="card">
-            <h4>People who prefer focused apps</h4>
+
+            <h4>
+              People who prefer focused apps
+            </h4>
+
             <p>
-              Better suited to users who want a lightweight hydration tool instead of a bloated all-in-one wellness app.
+              A better fit if you want hydration logging without
+              a large all-in-one wellness platform.
             </p>
+
           </div>
+
+
         </div>
+
       </div>
+
     </section>
 
+
+
+    <!-- TRAINING CONNECTION -->
+
+
     <section class="section">
+
       <div class="sectionHead">
-        <h2>How it fits into the wider ecosystem</h2>
-        <p>Water Tracker is one part of the broader Stellar Lift direction.</p>
+
+        <h2>
+          Hydration and training
+        </h2>
+
+        <p>
+          Daily water tracking and training hydration are related,
+          but they are not exactly the same thing.
+        </p>
+
       </div>
+
+
       <div class="sectionBody">
+
         <p class="lead">
-          Stellar Lift is being built as a group of focused tools rather than one oversized platform. Water Tracker covers hydration tracking, while other parts of the ecosystem support workout logging, recovery-related reading, and practical educational content through the blog.
+          Water Tracker can help you keep everyday fluid intake visible.
+          For harder training sessions, hydration decisions may also depend
+          on session duration, sweat rate, heat, electrolytes, and sodium loss.
         </p>
-        <p class="lead" style="margin-top:14px;">
-          That makes this page more than a store link. It sits inside a wider structure of product pages, support pages, practical guides, and connected content built around the same users and habits.
+
+
+        <p
+          class="lead"
+          style="margin-top:14px;"
+        >
+          Stellar Lift covers those topics separately in the Hydration for Training
+          section so you can go beyond a generic daily water target when training
+          demands more specific decisions.
         </p>
-        <p style="margin-top:14px;">
-          <a class="link" href="/why-hydration-tracking-matters/">Why hydration tracking matters</a><br>
-          <a class="link" href="/how-the-stellar-lift-ecosystem-works/">How the Stellar Lift ecosystem works</a><br>
-          <a class="link" href="/blog/">Stellar Lift Blog</a>
-        </p>
+
+
+        <div class="ctaRow">
+
+          <a
+            class="cta primary"
+            href="/hydration/"
+          >
+            Explore Hydration for Training
+          </a>
+
+        </div>
+
       </div>
+
     </section>
 
+
+
+    <!-- PLACE IN STELLAR LIFT -->
+
+
     <section class="section">
+
       <div class="sectionHead">
-        <h2>Related reading</h2>
-        <p>More hydration-related content connected to this part of the ecosystem.</p>
+
+        <h2>
+          Where Water Tracker fits into Stellar Lift
+        </h2>
+
+        <p>
+          Water Tracker is useful, but training remains the main direction
+          of Stellar Lift.
+        </p>
+
       </div>
+
+
       <div class="sectionBody">
-        <ul class="list">
-          <li><a class="link" href="/why-hydration-tracking-matters/">Why Hydration Tracking Matters</a></li>
-          <li><a class="link" href="/hydration/">Hydration hub</a></li>
-          <li><a class="link" href="/training/">Training hub</a></li>
-          <li><a class="link" href="/blog/">Browse all blog posts</a></li>
-        </ul>
+
+        <p class="lead">
+          Stellar Lift is built primarily around training content and
+          Training Tracker. Hydration and recovery are covered where they
+          help people train better, perform consistently, and return ready
+          for another session.
+        </p>
+
+
+        <p
+          class="lead"
+          style="margin-top:14px;"
+        >
+          Water Tracker remains available for users who want a simple way
+          to monitor everyday water intake, but it is an optional supporting
+          tool rather than the centre of the brand.
+        </p>
+
+
+        <div class="ctaRow">
+
+          <a
+            class="cta primary"
+            href="/training/"
+          >
+            Explore Training
+          </a>
+
+          <a
+            class="cta"
+            href="/training-tracker/"
+          >
+            Training Tracker
+          </a>
+
+        </div>
+
       </div>
+
     </section>
+
+
+
+    <!-- RELATED -->
+
+
+    <section class="section">
+
+      <div class="sectionHead">
+
+        <h2>
+          Related resources
+        </h2>
+
+        <p>
+          Continue with practical hydration and training guidance.
+        </p>
+
+      </div>
+
+
+      <div class="sectionBody">
+
+        <ul class="list">
+
+          <li>
+            <a
+              class="link"
+              href="/hydration/"
+            >
+              Hydration for Training
+            </a>
+          </li>
+
+          <li>
+            <a
+              class="link"
+              href="/training/"
+            >
+              Training Guides
+            </a>
+          </li>
+
+          <li>
+            <a
+              class="link"
+              href="/training-tracker/"
+            >
+              Training Tracker
+            </a>
+          </li>
+
+          <li>
+            <a
+              class="link"
+              href="/recovery/"
+            >
+              Recovery for Training
+            </a>
+          </li>
+
+          <li>
+            <a
+              class="link"
+              href="/blog/"
+            >
+              Browse All Articles
+            </a>
+          </li>
+
+        </ul>
+
+      </div>
+
+    </section>
+
+
 
     <footer>
-      <div>© <span id="y"></span> Stellar Lift — stellarliftapp.com</div>
-      <div class="tiny">
-        <a class="link" href="/blog/">Blog</a>
-        · <a class="link" href="/about/">About</a>
-        · <a class="link" href="/support/">Support</a>
-        · <a class="link" href="/terms/">Terms</a>
-        · <a class="link" href="/why-hydration-tracking-matters/">Hydration guide</a>
-        · <a class="link" href="#" data-privacy-settings-link hidden aria-hidden="true" onclick="return openPrivacySettings(event);">Privacy and cookie settings</a>
+
+      <div>
+        © <span id="y"></span>
+        Stellar Lift — stellarliftapp.com
       </div>
+
+
+      <div class="tiny">
+
+        <a
+          class="link"
+          href="/training/"
+        >
+          Training
+        </a>
+
+        ·
+
+        <a
+          class="link"
+          href="/hydration/"
+        >
+          Hydration
+        </a>
+
+        ·
+
+        <a
+          class="link"
+          href="/blog/"
+        >
+          Blog
+        </a>
+
+        ·
+
+        <a
+          class="link"
+          href="/about/"
+        >
+          About
+        </a>
+
+        ·
+
+        <a
+          class="link"
+          href="/support/"
+        >
+          Support
+        </a>
+
+        ·
+
+        <a
+          class="link"
+          href="/terms/"
+        >
+          Terms
+        </a>
+
+        ·
+
+        <a
+          class="link"
+          href="#"
+          data-privacy-settings-link
+          hidden
+          aria-hidden="true"
+          onclick="return openPrivacySettings(event);"
+        >
+          Privacy and cookie settings
+        </a>
+
+      </div>
+
     </footer>
+
+
   </div>
 
+
   <script>
-    document.getElementById("y").textContent = new Date().getFullYear();
+    document
+      .getElementById("y")
+      .textContent =
+        new Date().getFullYear();
   </script>
+
+
 </body>
 </html>
