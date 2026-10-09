@@ -102,6 +102,25 @@
   />
 
 
+  <!-- Consent Mode v2: denied by default where the European CMP applies -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { window.dataLayer.push(arguments); }
+
+    gtag('consent', 'default', {
+      ad_storage: 'denied',
+      analytics_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied',
+      region: ['AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE',
+               'FI', 'FR', 'DE', 'GR', 'HU', 'IS', 'IE', 'IT',
+               'LV', 'LI', 'LT', 'LU', 'MT', 'NL', 'NO', 'PL',
+               'PT', 'RO', 'SK', 'SI', 'ES', 'SE', 'GB', 'CH'],
+      wait_for_update: 500
+    });
+  </script>
+
+  <!-- Google Privacy & Consent -->
   <script>
     window.googlefc =
       window.googlefc || {};
@@ -161,13 +180,6 @@
   ></script>
 
   <script>
-    window.dataLayer =
-      window.dataLayer || [];
-
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-
     gtag("js", new Date());
 
     gtag(
