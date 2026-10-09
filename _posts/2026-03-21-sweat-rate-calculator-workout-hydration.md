@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Sweat Rate Calculator: Your Workout Hydration Plan"
