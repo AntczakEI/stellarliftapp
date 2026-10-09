@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -1708,26 +1709,54 @@
           class="latest-grid"
         >
 
-
+          <!-- Visible even when JavaScript or the feed is unavailable. -->
           <article class="article-card">
-
-            <div class="article-meta">
-              Stellar Lift Blog
-            </div>
-
-
+            <div class="article-meta">26 May 2026</div>
             <h3>
-              Loading latest articles...
+              <a href="/training/muay-thai-pull-ups/">
+                Muay Thai Pull-Ups: Do They Actually Help Fighters?
+              </a>
             </h3>
-
-
             <p>
-              The newest Stellar Lift posts
-              are being loaded automatically.
+              Pull-ups build measurable strength through the back, arms and grip.
+              Learn where they fit in Muay Thai training without overstating their transfer.
             </p>
-
+            <a class="article-read" href="/training/muay-thai-pull-ups/">
+              Read article →
+            </a>
           </article>
 
+          <article class="article-card">
+            <div class="article-meta">26 May 2026</div>
+            <h3>
+              <a href="/hydration/can-drinking-too-much-water-make-you-sweat-more/">
+                Can Drinking Too Much Water Make You Sweat More During Exercise?
+              </a>
+            </h3>
+            <p>
+              Drinking more water does not automatically make you sweat more.
+              Learn what controls sweating and how to avoid overhydration.
+            </p>
+            <a class="article-read" href="/hydration/can-drinking-too-much-water-make-you-sweat-more/">
+              Read article →
+            </a>
+          </article>
+
+          <article class="article-card">
+            <div class="article-meta">18 May 2026</div>
+            <h3>
+              <a href="/training/what-muscles-does-muay-thai-work/">
+                What Muscles Does Muay Thai Work? Full-Body Breakdown for Fighters
+              </a>
+            </h3>
+            <p>
+              See how your legs, hips, trunk, shoulders, back and arms contribute
+              to kicks, punches, knees, clinch and footwork.
+            </p>
+            <a class="article-read" href="/training/what-muscles-does-muay-thai-work/">
+              Read article →
+            </a>
+          </article>
 
         </div>
 
@@ -2745,56 +2774,12 @@
 
       catch(error) {
 
-
         console.error(
           "Latest blog feed error:",
           error
         );
 
-
-        grid.innerHTML = `
-
-          <article class="article-card">
-
-
-            <div class="article-meta">
-              Stellar Lift Blog
-            </div>
-
-
-            <h3>
-
-              <a href="/blog/">
-
-                Browse the latest articles
-
-              </a>
-
-            </h3>
-
-
-            <p>
-
-              The automatic feed could not
-              be loaded right now,
-              but all articles are available
-              in the blog.
-
-            </p>
-
-
-            <a
-              class="article-read"
-              href="/blog/"
-            >
-              Open the blog →
-            </a>
-
-
-          </article>
-
-        `;
-
+        // Keep the three working article links already in the HTML.
 
       }
 
