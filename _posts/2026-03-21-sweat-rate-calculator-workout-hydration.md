@@ -1,8 +1,9 @@
+
 ---
 layout: post
 title: "Sweat Rate Calculator: Your Workout Hydration Plan"
 date: 2026-03-21
-last_modified_at: 2026-09-24
+last_modified_at: 2026-10-09
 author: "Tomasz Antczak"
 categories: [hydration]
 tags: [hydration, sweat rate, sweat loss, electrolytes, sodium, muay thai, workout hydration, water intake]
@@ -51,6 +52,106 @@ You can estimate it during an ordinary training session using:
 This guide shows you how to calculate it and, just as importantly, how **not** to misuse the result.
 
 For the broader hydration principles first, read [Hydration Basics: What Actually Matters](/hydration/hydration-basics-what-actually-matters/).
+
+## Calculate your own sweat rate
+
+<div class="sl-calc" id="sl-sweat-calc">
+  <h3>Interactive sweat rate calculator</h3>
+  <p class="sl-calc__intro">Enter measurements from one workout. The sample values reproduce the worked example below; replace them with your own numbers.</p>
+  <form id="sl-sweat-form" novalidate>
+    <div class="sl-calc__fields">
+      <div class="sl-calc__field">
+        <label for="sl-sweat-before">Body weight before (kg)</label>
+        <input id="sl-sweat-before" type="text" inputmode="decimal" value="80.0" autocomplete="off" required>
+      </div>
+      <div class="sl-calc__field">
+        <label for="sl-sweat-after">Body weight after (kg)</label>
+        <input id="sl-sweat-after" type="text" inputmode="decimal" value="79.3" autocomplete="off" required>
+      </div>
+      <div class="sl-calc__field">
+        <label for="sl-sweat-drink">Fluid consumed (mL)</label>
+        <input id="sl-sweat-drink" type="text" inputmode="decimal" value="500" autocomplete="off" required>
+      </div>
+      <div class="sl-calc__field">
+        <label for="sl-sweat-duration">Session duration (minutes)</label>
+        <input id="sl-sweat-duration" type="text" inputmode="decimal" value="90" autocomplete="off" required>
+      </div>
+      <div class="sl-calc__field">
+        <label for="sl-sweat-urine">Urine produced (mL, if any)</label>
+        <input id="sl-sweat-urine" type="text" inputmode="decimal" value="0" autocomplete="off">
+        <small>Enter 0 if you did not urinate.</small>
+      </div>
+      <div class="sl-calc__field">
+        <label for="sl-sweat-food">Food consumed (g, if any)</label>
+        <input id="sl-sweat-food" type="text" inputmode="decimal" value="0" autocomplete="off">
+        <small>Enter 0 if you did not eat during training.</small>
+      </div>
+    </div>
+    <button type="submit" class="sl-calc__button">Calculate sweat rate</button>
+  </form>
+  <p id="sl-sweat-error" class="sl-calc__error" role="alert" hidden></p>
+  <div id="sl-sweat-results" class="sl-calc__results" role="status" aria-live="polite" hidden>
+    <p>Estimated sweat loss: <strong id="sl-sweat-volume"></strong></p>
+    <p>Estimated sweat rate: <strong id="sl-sweat-rate"></strong></p>
+    <p class="sl-calc__note" id="sl-sweat-extra"></p>
+  </div>
+  <p class="sl-calc__note">Field estimate, not a medical measurement or a drinking prescription. Weigh in similar dry clothing, record all drinks and urine, and compare sessions under similar conditions. The calculation does not measure sweat sodium concentration.</p>
+</div>
+
+<script>
+(function () {
+  'use strict';
+  const form = document.getElementById('sl-sweat-form');
+  if (!form) return;
+  const error = document.getElementById('sl-sweat-error');
+  const results = document.getElementById('sl-sweat-results');
+  const formatter = new Intl.NumberFormat('en-GB', {minimumFractionDigits: 2, maximumFractionDigits: 2});
+
+  function readNumber(id, label, optional) {
+    const raw = document.getElementById(id).value.trim().replace(',', '.');
+    if (optional && raw === '') return 0;
+    if (raw === '') throw new Error('Enter ' + label + '.');
+    const number = Number(raw);
+    if (!Number.isFinite(number) || number < 0) throw new Error('Enter a valid non-negative number for ' + label + '.');
+    return number;
+  }
+
+  form.addEventListener('submit', function (event) {
+    event.preventDefault();
+    error.hidden = true;
+    results.hidden = true;
+    try {
+      const before = readNumber('sl-sweat-before', 'pre-workout weight');
+      const after = readNumber('sl-sweat-after', 'post-workout weight');
+      const drink = readNumber('sl-sweat-drink', 'fluid consumed');
+      const duration = readNumber('sl-sweat-duration', 'session duration');
+      const urine = readNumber('sl-sweat-urine', 'urine produced', true);
+      const food = readNumber('sl-sweat-food', 'food consumed', true);
+      if (before <= 0 || after <= 0 || before > 500 || after > 500) {
+        throw new Error('Body weights must be greater than 0 and at most 500 kg.');
+      }
+      if (duration < 1 || duration > 1440) {
+        throw new Error('Session duration must be between 1 and 1440 minutes.');
+      }
+      const litres = (before - after) + (drink + food - urine) / 1000;
+      if (litres < -0.000001) {
+        throw new Error('The inputs produce a negative sweat loss. Check the weights, drinks, food and urine measurements.');
+      }
+      const sweatLoss = Math.max(0, litres);
+      const rate = sweatLoss / (duration / 60);
+      document.getElementById('sl-sweat-volume').textContent = formatter.format(sweatLoss) + ' L';
+      document.getElementById('sl-sweat-rate').textContent = formatter.format(rate) + ' L/h';
+      document.getElementById('sl-sweat-extra').textContent = rate > 5
+        ? 'This is unusually high. Re-check the measurements before interpreting the result.'
+        : 'Use this to compare sweat losses in similar sessions, not as an instruction to replace every litre during exercise.';
+      results.hidden = false;
+    } catch (exception) {
+      error.textContent = exception.message;
+      error.hidden = false;
+    }
+  });
+}());
+</script>
 
 ## Sweat rate calculator: the quick formula
 
