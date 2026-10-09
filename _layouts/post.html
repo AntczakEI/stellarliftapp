@@ -212,7 +212,8 @@
     },
     "author": {
       "@type": "Person",
-      "name": {{ page.author | default: "Tomasz Antczak" | jsonify }}
+      "name": {{ page.author | default: "Tomasz Antczak" | jsonify }},
+      "url": {{ '/about-blog/' | absolute_url | jsonify }}
     },
     "publisher": {
       "@type": "Organization",
@@ -305,7 +306,7 @@
 
           <a
             class="site-top-link"
-            href="https://shop.antczak.co.uk/collection/fighter-performance"
+            href="https://shop.aei-digital.com/collection/fighter-performance"
           >
             Shop
           </a>
@@ -350,7 +351,7 @@
             <p style="color:rgba(231,237,246,.55);font-size:14px;margin-top:-4px;line-height:1.6;">
 
               <span>
-                Written by {{ page.author | default: "Tomasz Antczak" | escape }}
+                Written by <a href="{{ '/about-blog/' | relative_url }}#about-the-author">{{ page.author | default: "Tomasz Antczak" | escape }}</a>
               </span>
 
               {% if page.date %}
@@ -476,7 +477,7 @@
             </a>
 
             <a
-              href="https://shop.antczak.co.uk/collection/fighter-performance"
+              href="https://shop.aei-digital.com/collection/fighter-performance"
             >
               Shop
             </a>
