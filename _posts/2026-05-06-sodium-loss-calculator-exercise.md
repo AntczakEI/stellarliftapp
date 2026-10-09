@@ -2,7 +2,7 @@
 layout: post
 title: "Sodium Loss Calculator for Exercise: How to Estimate Your Sweat Sodium Loss"
 date: 2026-05-06
-last_modified_at: 2026-09-26
+last_modified_at: 2026-10-09
 author: "Tomasz Antczak"
 categories: [hydration]
 tags: [hydration, sodium, sweat rate, sweat sodium, electrolytes, exercise, recovery, sodium loss calculator]
@@ -55,6 +55,121 @@ So this calculator is most useful in two different ways:
 That is the right way to use it.
 
 For the underlying difference between sweat volume and sweat composition, read [Sweat Rate vs Sodium Loss: What to Measure After Hard Training](/hydration/sweat-rate-vs-sodium-loss-after-training/).
+
+## Calculate sodium lost during your session
+
+<div class="sl-calc" id="sl-sodium-calc">
+  <h3>Interactive sodium loss calculator</h3>
+  <p class="sl-calc__intro">Enter your estimated sweat loss and workout duration. If you have a measured sweat sodium concentration, add it for a personalised estimate. Otherwise leave it blank to compare illustrative scenarios.</p>
+  <form id="sl-sodium-form" novalidate>
+    <div class="sl-calc__fields">
+      <div class="sl-calc__field">
+        <label for="sl-sodium-volume">Total sweat loss (L)</label>
+        <input id="sl-sodium-volume" type="text" inputmode="decimal" value="1.5" autocomplete="off" required>
+        <small>See the sweat rate calculator if you need to estimate this.</small>
+      </div>
+      <div class="sl-calc__field">
+        <label for="sl-sodium-duration">Session duration (minutes)</label>
+        <input id="sl-sodium-duration" type="text" inputmode="decimal" value="90" autocomplete="off" required>
+      </div>
+      <div class="sl-calc__field">
+        <label for="sl-sodium-concentration">Sweat sodium concentration (optional)</label>
+        <input id="sl-sodium-concentration" type="text" inputmode="decimal" placeholder="Leave blank if unknown" autocomplete="off">
+        <small>Enter a tested concentration, not a guess based on salt marks or cramps.</small>
+      </div>
+      <div class="sl-calc__field">
+        <label for="sl-sodium-units">Concentration units</label>
+        <select id="sl-sodium-units">
+          <option value="mg">mg/L</option>
+          <option value="mmol">mmol/L</option>
+        </select>
+      </div>
+    </div>
+    <button type="submit" class="sl-calc__button">Calculate sodium loss</button>
+  </form>
+  <p id="sl-sodium-error" class="sl-calc__error" role="alert" hidden></p>
+  <div id="sl-sodium-known" class="sl-calc__results" role="status" aria-live="polite" hidden>
+    <p>Estimated total sodium lost: <strong id="sl-sodium-total"></strong></p>
+    <p>Estimated sodium lost per hour: <strong id="sl-sodium-per-hour"></strong></p>
+    <p class="sl-calc__note" id="sl-sodium-source"></p>
+  </div>
+  <div id="sl-sodium-scenarios" class="sl-calc__results" role="status" aria-live="polite" hidden>
+    <p><strong>Illustrative scenarios — not your measured sodium loss</strong></p>
+    <div class="sl-calc__table-wrap">
+      <table class="sl-calc__table">
+        <thead><tr><th>Assumed mg/L</th><th>Total loss</th><th>Loss per hour</th></tr></thead>
+        <tbody>
+          <tr><td>400</td><td id="sl-sodium-low-total"></td><td id="sl-sodium-low-hour"></td></tr>
+          <tr><td>800</td><td id="sl-sodium-mid-total"></td><td id="sl-sodium-mid-hour"></td></tr>
+          <tr><td>1,200</td><td id="sl-sodium-high-total"></td><td id="sl-sodium-high-hour"></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="sl-calc__note">These concentrations illustrate how dramatically the answer changes. They do not identify your own sweat sodium concentration.</p>
+  </div>
+  <p class="sl-calc__note">The calculator estimates sodium lost in sweat, not how much sodium to consume. Sweat sodium must be measured to give a person-specific estimate. 1 mmol sodium ≈ 23 mg.</p>
+  <p class="sl-calc__note"><a href="/hydration/sweat-rate-calculator-workout-hydration/">Need to calculate your sweat volume first? Use the sweat rate calculator.</a></p>
+</div>
+
+<script>
+(function () {
+  'use strict';
+  const form = document.getElementById('sl-sodium-form');
+  if (!form) return;
+  const error = document.getElementById('sl-sodium-error');
+  const known = document.getElementById('sl-sodium-known');
+  const scenarios = document.getElementById('sl-sodium-scenarios');
+  const formatter = new Intl.NumberFormat('en-GB', {maximumFractionDigits: 0});
+
+  function readNumber(id, label, optional) {
+    const raw = document.getElementById(id).value.trim().replace(',', '.');
+    if (optional && raw === '') return null;
+    if (raw === '') throw new Error('Enter ' + label + '.');
+    const number = Number(raw);
+    if (!Number.isFinite(number) || number < 0) throw new Error('Enter a valid non-negative number for ' + label + '.');
+    return number;
+  }
+
+  form.addEventListener('submit', function (event) {
+    event.preventDefault();
+    error.hidden = true;
+    known.hidden = true;
+    scenarios.hidden = true;
+    try {
+      const volume = readNumber('sl-sodium-volume', 'sweat volume');
+      const duration = readNumber('sl-sodium-duration', 'session duration');
+      const concentrationInput = readNumber('sl-sodium-concentration', 'sodium concentration', true);
+      if (volume > 30) throw new Error('Sweat volume looks unusually high. Please check the value in litres.');
+      if (duration < 1 || duration > 1440) throw new Error('Session duration must be between 1 and 1440 minutes.');
+      if (concentrationInput !== null && concentrationInput <= 0) {
+        throw new Error('A supplied sodium concentration must be greater than zero.');
+      }
+      const perHour = function (total) { return total / (duration / 60); };
+      if (concentrationInput !== null) {
+        const units = document.getElementById('sl-sodium-units').value;
+        const mgPerLitre = concentrationInput * (units === 'mmol' ? 23 : 1);
+        if (mgPerLitre > 6000) throw new Error('Check the concentration and units: the number is unusually high.');
+        document.getElementById('sl-sodium-total').textContent = formatter.format(volume * mgPerLitre) + ' mg';
+        document.getElementById('sl-sodium-per-hour').textContent = formatter.format(perHour(volume * mgPerLitre)) + ' mg/h';
+        document.getElementById('sl-sodium-source').textContent = units === 'mmol'
+          ? 'Converted from mmol/L to mg/L using approximately 23 mg per mmol.'
+          : 'Based on the concentration you entered in mg/L.';
+        known.hidden = false;
+      } else {
+        for (const scenario of [{key:'low',mg:400}, {key:'mid',mg:800}, {key:'high',mg:1200}]) {
+          const total = volume * scenario.mg;
+          document.getElementById('sl-sodium-' + scenario.key + '-total').textContent = formatter.format(total) + ' mg';
+          document.getElementById('sl-sodium-' + scenario.key + '-hour').textContent = formatter.format(perHour(total)) + ' mg/h';
+        }
+        scenarios.hidden = false;
+      }
+    } catch (exception) {
+      error.textContent = exception.message;
+      error.hidden = false;
+    }
+  });
+}());
+</script>
 
 ## The sodium-loss formula
 
